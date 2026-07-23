@@ -1,5 +1,6 @@
 ---
 import { strings, COUNTRIES, countryName, COUNTRY_FLAG, type Locale } from '../lib/data';
+import { SITE_NAME, NETWORK } from '../lib/site-config';
 interface Alt { locale: string; href: string }
 interface Props { title: string; description?: string; locale: Locale; country: string; alternates?: Alt[]; xDefault?: string; jsonLd?: any; global?: boolean; noindex?: boolean; canonicalHref?: string }
 const { title, description = '', locale, country, alternates = [], xDefault, jsonLd, global = false, noindex = false, canonicalHref } = Astro.props as Props;
@@ -14,6 +15,7 @@ const LANG_ATTR: Record<string, string> = { 'zh-CN': 'zh-Hans', 'zh-Hant': 'zh-H
 const LANG_LABEL: Record<string, string> = { 'zh-CN': '简', 'zh-Hant': '繁', en: 'EN', es: 'ES', pt: 'PT', vi: 'VI', th: 'TH', ms: 'MS', id: 'ID', ja: 'JA', de: 'DE', it: 'IT', nl: 'NL' };
 const LANG_NAME: Record<string, string> = { 'zh-CN': '简体中文', 'zh-Hant': '繁體中文', en: 'English', es: 'Español', pt: 'Português', vi: 'Tiếng Việt', th: 'ไทย', ms: 'Bahasa Melayu', id: 'Bahasa Indonesia', ja: '日本語', de: 'Deutsch', it: 'Italiano', nl: 'Nederlands' };
 const langAttr = LANG_ATTR[locale] || 'en';
+const mapHref = global ? '/job-risk-map/' : `/${country}/en/job-risk-map/`;
 ---
 <!doctype html>
 <html lang={langAttr}>
@@ -26,7 +28,7 @@ const langAttr = LANG_ATTR[locale] || 'en';
     <link rel="canonical" href={canonical} />
     <!-- Open Graph / 社交分享 -->
     <meta property="og:type" content="website" />
-    <meta property="og:site_name" content="AI Career Graph" />
+    <meta property="og:site_name" content={SITE_NAME} />
     <meta property="og:title" content={title} />
     {description && <meta property="og:description" content={description} />}
     <meta property="og:url" content={canonical} />
@@ -43,8 +45,7 @@ const langAttr = LANG_ATTR[locale] || 'en';
       (function () {
         try {
           var s = localStorage.getItem('theme');
-          var sys = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
-          document.documentElement.setAttribute('data-theme', s || sys || 'light');
+          document.documentElement.setAttribute('data-theme', s || 'light');
         } catch (e) { document.documentElement.setAttribute('data-theme', 'light'); }
       })();
     </script>
@@ -55,8 +56,9 @@ const langAttr = LANG_ATTR[locale] || 'en';
       {global ? (
         <nav>
           <a class="navlink" href={`/${locale}/`}>{t.navHome}</a>
-          <a class="navlink" href="/job-risk-map/">{t.navRisk}</a>
+          <a class="navlink" href={mapHref}>{t.navRisk}</a>
           <a class="navlink" href={`/${locale}/rankings/`}>{t.navRank}</a>
+          <a class="navlink" href="/methodology/">Methodology</a>
           <a class="navlink" href={`/${locale}/about/`}>{t.navAbout}</a>
           <span class="nav-sep" aria-hidden="true">|</span>
           <span class="country-switch">
@@ -79,8 +81,9 @@ const langAttr = LANG_ATTR[locale] || 'en';
       ) : (
         <nav>
           <a class="navlink" href={`/${country}/${locale}/`}>{t.navHome}</a>
-          <a class="navlink" href={`/${country}/en/job-risk-map/`}>{t.navRisk}</a>
+          <a class="navlink" href={mapHref}>{t.navRisk}</a>
           <a class="navlink" href="/en/rankings/">{t.navRank}</a>
+          <a class="navlink" href="/methodology/">Methodology</a>
           <a class="navlink" href="/en/about/">{t.navAbout}</a>
           <span class="nav-sep" aria-hidden="true">|</span>
           <span class="country-switch">
@@ -99,7 +102,10 @@ const langAttr = LANG_ATTR[locale] || 'en';
       )}
     </header>
     <main class="wrap"><slot /></main>
-    <footer class="site-foot">{t.tagline} · {t.note}</footer>
+    <footer class="site-foot">
+      <span>{t.tagline} · {t.note}</span>
+      <span class="network-links"><a href="/methodology/">Methodology</a><a href="/data-sources/">Sources</a><a href="/editorial-policy/">Editorial policy</a><a href="/corrections/">Corrections</a><a href={NETWORK.assessment}>Personal test</a><a href={mapHref}>Risk map</a><a href={NETWORK.transitions}>Career transitions</a></span>
+    </footer>
     <script is:inline>
       (function () {
         var btn = document.getElementById('theme-toggle');
@@ -116,13 +122,13 @@ const langAttr = LANG_ATTR[locale] || 'en';
       })();
     </script>
     <style is:global>
-      :root, :root[data-theme="dark"] {
-        --bg: #0b1120; --card: #151c2c; --line: #26304a; --green: #10b981;
-        --amber: #f59e0b; --white: #e6ebf5; --muted: #8b97b0; --hero: #111a2e;
-      }
-      :root[data-theme="light"] {
+      :root, :root[data-theme="light"] {
         --bg: #f6f8fc; --card: #ffffff; --line: #d9e0ee; --green: #059669;
         --amber: #b45309; --white: #1a2236; --muted: #5b6577; --hero: #eef2fb;
+      }
+      :root[data-theme="dark"] {
+        --bg: #0b1120; --card: #151c2c; --line: #26304a; --green: #10b981;
+        --amber: #f59e0b; --white: #e6ebf5; --muted: #8b97b0; --hero: #111a2e;
       }
       * { box-sizing: border-box; }
       body { margin: 0; background: var(--bg); color: var(--white);
@@ -131,7 +137,7 @@ const langAttr = LANG_ATTR[locale] || 'en';
       .wrap { max-width: 980px; margin: 0 auto; padding: 24px 18px 60px; }
       .site-head { display: flex; justify-content: space-between; align-items: center;
         padding: 14px 22px; border-bottom: 1px solid var(--line); }
-      .brand { font-weight: 700; font-size: 19px; }
+      .brand { flex: 0 0 auto; white-space: nowrap; font-weight: 700; font-size: 19px; }
       .site-head nav a { margin-left: 12px; color: var(--muted); font-size: 14px; }
       .site-head nav a:hover { color: var(--white); }
       .site-head nav a.lang.on { color: var(--green); font-weight: 700; }
@@ -144,13 +150,15 @@ const langAttr = LANG_ATTR[locale] || 'en';
       .site-head nav .lang-select { margin-left: 12px; padding: 4px 8px; border-radius: 8px;
         border: 1px solid var(--line); background: var(--card); color: var(--white); font-size: 14px; cursor: pointer; }
       .site-head nav .lang-select:hover { border-color: var(--green); }
-      .site-foot { text-align: center; color: var(--muted); font-size: 13px; padding: 24px; border-top: 1px solid var(--line); }
+      .site-foot { display:flex; justify-content:center; align-items:center; flex-wrap:wrap; gap:12px 24px; text-align: center; color: var(--muted); font-size: 13px; padding: 24px; border-top: 1px solid var(--line); }
+      .network-links { display:inline-flex; flex-wrap:wrap; gap:14px; }
+      .network-links a { color:var(--green); }
       h1 { font-size: 28px; margin: 8px 0; }
       h2 { font-size: 20px; margin: 28px 0 12px; padding-left: 10px; border-left: 4px solid var(--green); }
       table { width: 100%; border-collapse: collapse; margin: 8px 0; }
       th, td { padding: 8px 10px; border-bottom: 1px solid var(--line); text-align: left; font-size: 14px; }
       th { color: var(--muted); font-weight: 600; }
-      .card { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 16px; }
+      .card { background: var(--card); border: 1px solid var(--line); border-radius: 8px; padding: 16px; }
       a.card { display: block; color: inherit; text-decoration: none; }
       .ai-promo:hover { border-color: var(--green); }
       .tag { display: inline-block; font-size: 12px; padding: 2px 8px; border-radius: 999px; border: 1px solid var(--line); color: var(--muted); }
@@ -191,8 +199,8 @@ const langAttr = LANG_ATTR[locale] || 'en';
       .theme-toggle:hover { color: var(--white); }
 
       /* Hero */
-      .hero { background: var(--hero); border: 1px solid var(--line); border-radius: 14px;
-        padding: 28px 24px; margin: 8px 0 18px; }
+      .hero { background: transparent; border: 0; border-bottom: 1px solid var(--line); border-radius: 0;
+        padding: 28px 0; margin: 8px 0 18px; }
       .hero h1 { margin: 0 0 8px; }
       .hero-value { font-size: 17px; color: var(--muted); max-width: 720px; margin: 0 0 16px; }
       .stat-row { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin-bottom: 18px; }

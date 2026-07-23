@@ -27,7 +27,7 @@ for (const o of raw) {
 const stars = (n: number | null) => renderStars(n);
 const related = GLOBAL_RANKING_ORDER.filter((k) => k !== key);
 ---
-<Base title={`${rankName(key, locale)}｜AI Career Graph`} description={rankSub(key, locale)} locale={locale} country="" global={true} alternates={alternates}>
+<Base title={`${rankName(key, locale)} | ${t.siteTitle}`} description={rankSub(key, locale)} locale={locale} country="" global={true} alternates={alternates}>
   <section class="hero" data-section="hero">
     <h1>{rankName(key, locale)}</h1>
     <p class="hero-value">{rankSub(key, locale)}</p>

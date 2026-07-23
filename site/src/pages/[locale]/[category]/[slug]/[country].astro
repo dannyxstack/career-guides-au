@@ -2,13 +2,13 @@
 // 二级区域 URL（多语言前缀）：/{locale}/{category}/{slug}/{country} —— 各语言 × 各国的国家数据页。
 // 仅 JOBS_LOCALES 中非英文语言。独立可抓取，self-canonical + hreflang + x-default。
 import Base from '../../../../layouts/Base.astro';
-import Stub from '../../../../layouts/Stub.astro';
 import JobDetail from '../../../../components/JobDetail.astro';
-import { JOB_SLUGS, JOBS_LOCALES, isFullJobLocale, jobBySlug, jobAlternates, jobHref, strings, tr, name, summary, currencyOf, countryTitleName, catSlug, type Locale } from '../../../../lib/data';
+import { JOB_SLUGS, FULL_JOB_LOCALES, jobBySlug, jobAlternates, jobHref, strings, tr, name, summary, currencyOf, countryTitleName, catSlug, type Locale } from '../../../../lib/data';
+import { DATA_UPDATED, SITE_NAME } from '../../../../lib/site-config';
 
 export function getStaticPaths() {
   const paths: any[] = [];
-  for (const locale of JOBS_LOCALES) {
+  for (const locale of FULL_JOB_LOCALES) {
     if (locale === 'en') continue;
     for (const slug of JOB_SLUGS) {
       const g = jobBySlug(slug)!;
@@ -20,7 +20,6 @@ export function getStaticPaths() {
 }
 const { locale, slug, country } = Astro.params as { locale: Locale; category: string; slug: string; country: string };
 const { o } = Astro.props as any;
-const full = isFullJobLocale(locale);  // 非优先语种只出 noindex 桩页
 const t = strings(locale);
 const dispName = name(o, locale);
 const cName = countryTitleName(country, locale);
@@ -48,14 +47,13 @@ const ld = [{
     { '@type': 'ListItem', position: 2, name: dispName, item: abs(jobHref(locale, slug)) },
     { '@type': 'ListItem', position: 3, name: cName, item: abs(jobHref(locale, slug, country)) },
   ],
+}, {
+  '@context': 'https://schema.org', '@type': 'WebPage', name: title, description,
+  dateModified: DATA_UPDATED, inLanguage: locale, publisher: { '@type': 'Organization', name: SITE_NAME },
+  mainEntity: { '@type': 'Occupation', name: dispName, occupationLocation: { '@type': 'Country', name: cName } },
 }];
 ---
-{full ? (
-  <Base title={title} description={description} locale={locale} country={country}
-    global={true} alternates={jobAlternates(slug, country)} xDefault={jobHref('en', slug, country)} jsonLd={ld}>
-    <JobDetail slug={slug} active={country} locale={locale} />
-  </Base>
-) : (
-  <Stub title={title} name={name(o, locale) || o.name_en} nameEn={o.name_en}
-    enHref={jobHref('en', slug, country)} canonicalHref={jobHref('en', slug, country)} />
-)}
+<Base title={title} description={description} locale={locale} country={country}
+  global={true} alternates={jobAlternates(slug, country)} xDefault={jobHref('en', slug, country)} jsonLd={ld}>
+  <JobDetail slug={slug} active={country} locale={locale} />
+</Base>

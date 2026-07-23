@@ -1,46 +1,48 @@
-# AI Career Graph
+# AI Job Risk
 
-> A data-driven guide to how AI is reshaping work across 8 countries and 4,500+ occupations. For each job we publish an AI automation-risk score, a "human moat" (what stays hard to automate), the AIOE academic exposure index, salary bands, technical-migration pathways, required skills, and future career routes. Content is available in 11 languages.
+> Evidence-led analysis of how artificial intelligence changes occupations. The site separates task exposure from whole-job replacement and publishes a human-moat score, entry-level pressure, AI upside, salary, licensing and local outlook.
 
-Coverage: Australia (AU), New Zealand (NZ), Canada (CA), United States (US), United Kingdom (UK), Germany (DE), France (FR), Spain (ES). Every occupation page combines official classification codes (ANZSCO / NOC / SOC / KldB / ROME / CNO) with AI-impact analysis.
+Data updated: 2026-07-16.
 
-URL pattern: `/{country}/{locale}/{category}/{slug}/` for occupation pages; `/{locale}/` for global pages. English (`en`) is the primary index below; other locales: de, es, id, ja, ms, pt, th, vi, zh-CN, zh-Hant.
+Coverage: 4,861 occupation identities and 6,678 country-specific occupation records across Australia, Canada, Germany, Spain, France, Ireland, Italy, Japan, South Korea, the Netherlands, New Zealand, the United Kingdom and the United States.
 
-## Global entry points
-- [Home](https://aicareergraph.com/en/): overview and occupation search
-- [AI Impact Map](https://aicareergraph.com/en/ai-graph/): visual map of AI exposure across occupations
-- [Rankings](https://aicareergraph.com/en/rankings/): occupations ranked by automation risk, salary and other metrics
-- [About](https://aicareergraph.com/en/about/): methodology, data sources and scoring model
+Complete occupation pages are published in English, Simplified Chinese, Traditional Chinese, Japanese, Spanish and Portuguese. English uses unprefixed occupation URLs. Other complete languages use a locale prefix.
 
-## Browse by country
-- [Australia](https://aicareergraph.com/AU/en/)
-- [New Zealand](https://aicareergraph.com/NZ/en/)
-- [Canada](https://aicareergraph.com/CA/en/)
-- [United States](https://aicareergraph.com/US/en/)
-- [United Kingdom](https://aicareergraph.com/UK/en/)
-- [Germany](https://aicareergraph.com/DE/en/)
-- [France](https://aicareergraph.com/FR/en/)
-- [Spain](https://aicareergraph.com/ES/en/)
+## Primary entry points
+- [Home](https://aijobrisk.com/): search occupations and understand the four risk dimensions
+- [Rankings](https://aijobrisk.com/en/rankings/): compare occupations by AI exposure, human moat and outlook
+- [Methodology](https://aijobrisk.com/methodology/): score definitions, process and limitations
+- [Data sources](https://aijobrisk.com/data-sources/): official labour-market and classification sources
+- [Editorial policy](https://aijobrisk.com/editorial-policy/): sourcing and publication standards
+- [Corrections](https://aijobrisk.com/corrections/): correction process
+- [About](https://aijobrisk.com/en/about/): project scope
 
-## Occupation categories (example: Australia)
-- [Agriculture & Environment](https://aicareergraph.com/AU/en/agriculture-environment/)
-- [Business, Finance & Legal](https://aicareergraph.com/AU/en/business-finance-legal/)
-- [Creative, Media & Personal Services](https://aicareergraph.com/AU/en/creative-media-personal-services/)
-- [Education & Community](https://aicareergraph.com/AU/en/education-community/)
-- [Engineering & Infrastructure](https://aicareergraph.com/AU/en/engineering-infrastructure/)
-- [Government & Public Sector](https://aicareergraph.com/AU/en/government-public-sector/)
-- [Healthcare & Care](https://aicareergraph.com/AU/en/healthcare-care/)
-- [Hospitality, Retail & Tourism](https://aicareergraph.com/AU/en/hospitality-retail-tourism/)
-- [IT & Digital](https://aicareergraph.com/AU/en/it-digital/)
-- [Trades & Construction](https://aicareergraph.com/AU/en/trades-construction/)
-- [Transport, Logistics & Mining](https://aicareergraph.com/AU/en/transport-logistics-mining/)
+## Country indexes
+- [Australia](https://aijobrisk.com/AU/en/)
+- [Canada](https://aijobrisk.com/CA/en/)
+- [Germany](https://aijobrisk.com/DE/en/)
+- [Spain](https://aijobrisk.com/ES/en/)
+- [France](https://aijobrisk.com/FR/en/)
+- [Ireland](https://aijobrisk.com/IE/en/)
+- [Italy](https://aijobrisk.com/IT/en/)
+- [Japan](https://aijobrisk.com/JP/en/)
+- [South Korea](https://aijobrisk.com/KR/en/)
+- [Netherlands](https://aijobrisk.com/NL/en/)
+- [New Zealand](https://aijobrisk.com/NZ/en/)
+- [United Kingdom](https://aijobrisk.com/UK/en/)
+- [United States](https://aijobrisk.com/US/en/)
 
-The same 11 categories exist under every country (swap `AU` for `NZ`, `CA`, `US`, `UK`, `DE`, `FR`, `ES`).
+## Interpretation
+- Task exposure measures how much current work can be automated or compressed.
+- Human moat measures dependence on physical presence, accountability, judgement, trust or care.
+- Entry-level pressure measures compression of traditional junior tasks.
+- AI upside measures augmentation potential for AI-fluent practitioners.
+- Scores are occupation-level estimates, not predictions about a named person.
 
-## Methodology notes
-- AI automation-risk and "human moat" scores are stored on a 10-point scale.
-- The AIOE (AI Occupational Exposure) index is an academic measure crosswalked from occupation classification codes; it is available for AU, NZ, CA, US, UK and DE.
-- Salary bands and migration pathways are country-specific and reflect local classification systems.
+## Related products
+- [Personal job resilience test](https://ismyjobaiproof.com/)
+- [AI Job Risk Map](https://aijobrisk.com/job-risk-map/)
+- [Career transition graph](https://aicareergraph.com/)
 
 ## Complete URL index
-- [Sitemap index](https://aicareergraph.com/sitemap-index.xml): every occupation, category and locale URL
+- [Sitemap index](https://aijobrisk.com/sitemap-index.xml)

@@ -4,12 +4,13 @@
 import { occupations, COUNTRIES, catSlug, jobBySlug, jobHref, COUNTRY_FLAG, countryName, name, strings, LOCALES, JOBS_LOCALES, type Locale } from '../lib/data';
 import { buildTicker } from '../lib/ticker';
 import hotRaw from '../data/hot_occupations.json';
+import { SITE_NAME, NETWORK } from '../lib/site-config';
 
 interface Props { locale: Locale }
 const { locale } = Astro.props as Props;
 const t = strings(locale);
 
-const SITE = 'https://aicareergraph.com';
+const SITE = Astro.site?.origin || 'https://aijobrisk.com';
 const canonicalPath = `/${locale}/`;
 
 // 语言下拉与国家切换的 UI 标签
@@ -63,8 +64,8 @@ const TICKER = buildTicker(locale);
 const title = `${t.siteTitle} — ${t.hLead}`;
 const description = t.hSub;
 const ld = [
-  { '@context': 'https://schema.org', '@type': 'Organization', name: 'AI Career Graph', url: SITE + '/', description },
-  { '@context': 'https://schema.org', '@type': 'WebSite', name: 'AI Career Graph', url: SITE + '/',
+  { '@context': 'https://schema.org', '@type': 'Organization', name: SITE_NAME, url: SITE + '/', description },
+  { '@context': 'https://schema.org', '@type': 'WebSite', name: SITE_NAME, url: SITE + '/',
     potentialAction: { '@type': 'SearchAction', target: SITE + '/AU/en/?q={search_term_string}', 'query-input': 'required name=search_term_string' } },
 ];
 ---
@@ -77,7 +78,7 @@ const ld = [
     <meta name="description" content={description} />
     <link rel="canonical" href={SITE + canonicalPath} />
     <meta property="og:type" content="website" />
-    <meta property="og:site_name" content="AI Career Graph" />
+    <meta property="og:site_name" content={SITE_NAME} />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:url" content={SITE + canonicalPath} />
@@ -90,19 +91,19 @@ const ld = [
       (function () {
         try {
           var s = localStorage.getItem('theme');
-          var sys = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
-          document.documentElement.setAttribute('data-theme', s || sys || 'light');
+          document.documentElement.setAttribute('data-theme', s || 'light');
         } catch (e) { document.documentElement.setAttribute('data-theme', 'light'); }
       })();
     </script>
   </head>
   <body>
     <header class="site-head">
-      <a class="brand" href={`/${locale}/`}>AI Career Graph</a>
+      <a class="brand" href={`/${locale}/`}>{SITE_NAME}</a>
       <nav>
         <a class="navlink" href={`/${locale}/`}>{t.navHome}</a>
         <a class="navlink" href="/job-risk-map/">{t.navRisk}</a>
         <a class="navlink" href={`/${locale}/rankings/`}>{t.navRank}</a>
+        <a class="navlink" href="/methodology/">Methodology</a>
         <a class="navlink" href={`/${locale}/about/`}>{t.navAbout}</a>
         <span class="nav-sep" aria-hidden="true">|</span>
         {countries.map((c) => (
@@ -136,6 +137,16 @@ const ld = [
         )}
       </section>
 
+      <section data-section="risk-dimensions">
+        <h2>{t.riskDimensionsTitle}</h2>
+        <div class="risk-dimensions">
+          <div data-section="risk-task-exposure"><span>01</span><strong>{t.riskDimExposure}</strong><p>{t.riskDimExposureBody}</p></div>
+          <div data-section="risk-human-moat"><span>02</span><strong>{t.riskDimMoat}</strong><p>{t.riskDimMoatBody}</p></div>
+          <div data-section="risk-entry-pressure"><span>03</span><strong>{t.riskDimEntry}</strong><p>{t.riskDimEntryBody}</p></div>
+          <div data-section="risk-ai-upside"><span>04</span><strong>{t.riskDimUpside}</strong><p>{t.riskDimUpsideBody}</p></div>
+        </div>
+      </section>
+
       <!-- 3. Country cards -->
       <section id="countries" data-section="countries">
         <h2>{t.hPickCountry}</h2>
@@ -155,17 +166,17 @@ const ld = [
       <section data-section="capabilities">
         <h2>{t.hCapH}</h2>
         <div class="cards-2">
-          <a class="card cap" data-section="cap-ai-map" href={`/${locale}/ai-graph/`}>
-            <strong>{t.hCap1T}</strong>
-            <p>{t.hCap1B}</p>
+          <a class="card cap" data-section="cap-ai-map" href="/job-risk-map/">
+            <strong>AI Job Risk Map</strong>
+            <p>Explore workforce-weighted AI exposure by occupation and country.</p>
           </a>
           <a class="card cap" data-section="cap-rankings" href={`/${locale}/rankings/`}>
             <strong>{t.hCap2T}</strong>
             <p>{t.hCap2B}</p>
           </a>
-          <a class="card cap" data-section="cap-comparisons" href={`/AU/${locale}/#compare`}>
-            <strong>{t.hCap3T}</strong>
-            <p>{t.hCap3B}</p>
+          <a class="card cap" data-section="cap-assessment" href={NETWORK.assessment}>
+            <strong>Personal resilience test</strong>
+            <p>Adjust the occupation baseline to reflect the way you actually work.</p>
           </a>
           <a class="card cap" data-section="cap-country-guides" href="#countries">
             <strong>{t.hCap4T}</strong>
@@ -178,6 +189,7 @@ const ld = [
       <section data-section="methodology">
         <h2>{t.hMethodH}</h2>
         <p class="muted prose">{t.hMethodB}</p>
+        <p><a class="method-link" href="/methodology/">Read the scoring method</a> · <a class="method-link" href="/data-sources/">Review primary sources</a></p>
       </section>
 
       <!-- 5b. Popular career searches -->
@@ -362,13 +374,13 @@ const ld = [
     </script>
 
     <style is:global>
-      :root, :root[data-theme="dark"] {
-        --bg: #0b1120; --card: #151c2c; --line: #26304a; --green: #10b981;
-        --amber: #f59e0b; --white: #e6ebf5; --muted: #8b97b0; --hero: #111a2e;
-      }
-      :root[data-theme="light"] {
+      :root, :root[data-theme="light"] {
         --bg: #f6f8fc; --card: #ffffff; --line: #d9e0ee; --green: #059669;
         --amber: #b45309; --white: #1a2236; --muted: #5b6577; --hero: #eef2fb;
+      }
+      :root[data-theme="dark"] {
+        --bg: #0b1120; --card: #151c2c; --line: #26304a; --green: #10b981;
+        --amber: #f59e0b; --white: #e6ebf5; --muted: #8b97b0; --hero: #111a2e;
       }
       * { box-sizing: border-box; }
       body { margin: 0; background: var(--bg); color: var(--white);
@@ -377,7 +389,7 @@ const ld = [
       .wrap { max-width: 980px; margin: 0 auto; padding: 24px 18px 60px; }
       .site-head { display: flex; justify-content: space-between; align-items: center;
         padding: 14px 22px; border-bottom: 1px solid var(--line); }
-      .brand { font-weight: 700; font-size: 19px; }
+      .brand { flex: 0 0 auto; white-space: nowrap; font-weight: 700; font-size: 19px; }
       .site-head nav { display: flex; align-items: center; flex-wrap: wrap; }
       .site-head nav a { margin-left: 12px; color: var(--muted); font-size: 14px; }
       .site-head nav a:hover { color: var(--white); }
@@ -393,9 +405,9 @@ const ld = [
         border-radius: 999px; color: var(--muted); cursor: pointer; padding: 2px 8px; font-size: 14px; }
       .theme-toggle:hover { color: var(--white); }
       .site-foot { text-align: center; color: var(--muted); font-size: 13px; padding: 24px; border-top: 1px solid var(--line); }
-      h1 { font-size: 38px; margin: 0 0 6px; letter-spacing: -0.5px; }
+      h1 { font-size: 38px; margin: 0 0 6px; letter-spacing: 0; }
       h2 { font-size: 22px; margin: 36px 0 14px; padding-left: 10px; border-left: 4px solid var(--green); }
-      .card { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 18px; }
+      .card { background: var(--card); border: 1px solid var(--line); border-radius: 8px; padding: 18px; }
       .btn { display: inline-block; padding: 11px 18px; border-radius: 8px; border: 1px solid var(--line);
         color: var(--white); font-weight: 600; cursor: pointer; background: none; font-size: 15px; font-family: inherit; }
       .btn:hover { border-color: var(--green); color: var(--white); }
@@ -403,9 +415,9 @@ const ld = [
       .muted { color: var(--muted); }
 
       /* Hero (single-column, pain-point headline + prominent search) */
-      .hero-single { background: var(--hero); border: 1px solid var(--line); border-radius: 16px;
-        padding: 48px 28px 40px; margin: 12px 0 8px; text-align: center; }
-      .headline { font-size: 40px; line-height: 1.2; letter-spacing: -0.5px; font-weight: 800;
+      .hero-single { background: transparent; border: 0; border-bottom: 1px solid var(--line); border-radius: 0;
+        padding: 48px 0 40px; margin: 12px 0 8px; text-align: center; }
+      .headline { font-size: 40px; line-height: 1.2; letter-spacing: 0; font-weight: 800;
         margin: 0 auto 14px; max-width: 800px; }
       .hero-sub { font-size: 16px; color: var(--muted); max-width: 620px; margin: 0 auto 24px; }
       .sub { font-size: 16px; color: var(--muted); }
@@ -453,6 +465,12 @@ const ld = [
       /* Cards layout */
       .cards-3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; }
       .cards-2 { display: grid; grid-template-columns: repeat(2, 1fr); gap: 14px; }
+      .risk-dimensions { display:grid; grid-template-columns:repeat(4,1fr); border-top:1px solid var(--line); border-bottom:1px solid var(--line); }
+      .risk-dimensions > div { padding:18px 16px; border-right:1px solid var(--line); }
+      .risk-dimensions > div:last-child { border-right:0; }
+      .risk-dimensions span { display:block; color:var(--amber); font-size:12px; font-weight:800; }
+      .risk-dimensions strong { display:block; margin-top:6px; }
+      .risk-dimensions p { margin:6px 0 0; color:var(--muted); font-size:13px; }
       .country-card { display: flex; flex-direction: column; gap: 6px; }
       .country-card:hover { border-color: var(--green); }
       .cc-flag svg { width: 44px; height: 26px; border-radius: 3px; box-shadow: 0 0 0 1px var(--line); margin-bottom: 4px; }
@@ -468,6 +486,7 @@ const ld = [
       .qcard .q-go { color: var(--green); font-weight: 600; font-size: 14px; margin-top: 8px; }
       .qcard:hover { border-color: var(--green); }
       .prose { max-width: 760px; font-size: 15px; }
+      .method-link { color:var(--green); font-weight:700; }
       .who { display: flex; flex-wrap: wrap; gap: 10px; }
       .chip { font-size: 14px; padding: 8px 14px; border-radius: 999px; border: 1px solid var(--line);
         background: var(--card); color: var(--white); }
@@ -476,6 +495,9 @@ const ld = [
 
       @media (max-width: 900px) {
         .cards-3 { grid-template-columns: repeat(2, 1fr); }
+        .risk-dimensions { grid-template-columns:repeat(2,1fr); }
+        .risk-dimensions > div:nth-child(2) { border-right:0; }
+        .risk-dimensions > div:nth-child(-n+2) { border-bottom:1px solid var(--line); }
         .headline { font-size: 34px; }
       }
       @media (max-width: 560px) {
@@ -486,6 +508,8 @@ const ld = [
         .headline { font-size: 26px; }
         #q { font-size: 16px; }
         .cards-3, .cards-2 { grid-template-columns: 1fr; }
+        .risk-dimensions { grid-template-columns:1fr; }
+        .risk-dimensions > div { border-right:0; border-bottom:1px solid var(--line); }
         .bottom-cta .btn { flex: 1 1 auto; text-align: center; }
       }
     </style>

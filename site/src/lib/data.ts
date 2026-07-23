@@ -116,7 +116,21 @@ export interface Occ {
   } | null;
 }
 
-export const occupations = (data as any).occupations as Occ[];
+const rawOccupations = (data as any).occupations as Occ[];
+const occupationQuality = (o: Occ) =>
+  (o.ai ? 20 : 0) + (o.workforce_size ? 8 : 0) + (o.overall_score != null ? 4 : 0)
+  + (o.salaries?.length || 0) + (o.ratings?.length || 0) + (o.education?.length || 0);
+
+// 数据源偶尔会把同一 slug + country 输出多次。URL 只能有一个权威记录，保留字段更完整者。
+export const occupations: Occ[] = (() => {
+  const best = new Map<string, Occ>();
+  for (const o of rawOccupations) {
+    const key = `${o.slug}|${o.country}`;
+    const current = best.get(key);
+    if (!current || occupationQuality(o) > occupationQuality(current)) best.set(key, o);
+  }
+  return [...best.values()];
+})();
 
 // ── 详情懒加载：重字段（visa/faqs/qualifications/suitability/growth_areas/ai 文案）拆到
 //    occ-detail/{cc}.json，按国一次性加载并缓存。详情页/对比页用 occFull(o) 取合并后的完整对象。──
@@ -183,11 +197,9 @@ const _jobGroups: Map<string, Occ[]> = (() => {
   return m;
 })();
 export const JOB_SLUGS: string[] = [..._jobGroups.keys()];
-// 职业页多语言矩阵生成的语言：全 11 语言全覆盖（en 为默认=裸 URL，其余用 /{locale}/ 前缀）。
-export const JOBS_LOCALES: Locale[] = ['en', 'zh-CN', 'zh-Hant', 'es', 'pt', 'vi', 'th', 'ms', 'id', 'ja', 'de', 'it', 'nl'];
-// 全量渲染职业详情页的语言（优先语种）。其余 JOBS_LOCALES 只出 noindex 轻量桩页（canonical→英文），
-// URL 仍有效、hreflang 不断链，但不生成完整重型页面，大幅缩减 dist。
+// 仅为内容完整的语言生成职业页。界面语言可以更多，但不生成 noindex 桩页。
 export const FULL_JOB_LOCALES: Locale[] = ['en', 'zh-CN', 'zh-Hant', 'ja', 'es', 'pt'];
+export const JOBS_LOCALES: Locale[] = FULL_JOB_LOCALES;
 export const isFullJobLocale = (l: Locale) => FULL_JOB_LOCALES.includes(l);
 // 干净分类前缀 URL：en 裸 /{cat}/{slug}[/{cc}]，其余 /{locale}/{cat}/{slug}[/{cc}]。
 // 分类段取该 slug 代表副本（rep=首国）的分类，全站唯一（同 slug 跨国用同一分类段）。
@@ -197,7 +209,7 @@ export function jobHref(locale: Locale, slug: string, country?: string): string 
   const base = country ? `/${cat}/${slug}/${country}` : `/${cat}/${slug}`;
   return locale === 'en' ? base : `/${locale}${base}`;
 }
-// hreflang alternates（含全部 JOBS_LOCALES）；x-default 由页面单独指向英文裸 URL
+// hreflang 只列出实际生成且内容完整的版本。
 export function jobAlternates(slug: string, country?: string): { locale: string; href: string }[] {
   return JOBS_LOCALES.map((l) => ({ locale: l, href: jobHref(l, slug, country) }));
 }
@@ -272,8 +284,13 @@ export const dimDesc = (dim: string, locale: Locale) =>
 // UI 文案（仅 zh-CN/en 为母本；其余语言经 strings() 回退到 en）
 export const UI: Record<string, Record<string, string>> = {
   'zh-CN': {
-    siteTitle: 'AI Career Graph', tagline: 'AI 时代职业图谱与职业规划 · 不卖课只讲数据',
-    homeMetaDesc: 'AI Career Graph 用职业图谱分析 AI 时代的工作风险、薪资、移民路径、入门难度和未来技能，帮助你判断哪些职业会被压缩，哪些会被 AI 放大。',
+    siteTitle: 'AI Job Risk', tagline: 'AI 就业风险、任务暴露与人类护城河 · 基于数据，不制造预言',
+    homeMetaDesc: '查询职业的 AI 替代风险、任务暴露、人类护城河、入门岗位压力和未来前景，并查看各国薪资、资质与就业数据。',
+    riskDimensionsTitle: '我们如何判断 AI 就业风险',
+    riskDimExposure: '任务自动化暴露', riskDimExposureBody: 'AI 能否完成该职业中重复、标准化和数字化的任务。',
+    riskDimMoat: '人类护城河', riskDimMoatBody: '现场操作、责任执照、复杂判断、信任与照护关系。',
+    riskDimEntry: '初级岗位压力', riskDimEntryBody: 'AI 是否正在压缩助理、初稿、录入和基础分析岗位。',
+    riskDimUpside: 'AI 增强空间', riskDimUpsideBody: '熟练使用 AI 后，专业人员能否扩大产出、判断和收入。',
     agMetaDesc: '查看 AI 时代职业图谱：按自动化风险、人类护城河、执照责任、现场依赖和人际信任，把职业分成高替代、AI增强、强执照、强现场等类型。',
     salary: '薪资范围', ratings: '职业评分', overall: '综合评分', education: '教育路径',
     overallTip: '综合评分 = 各评分维度的平均分（10 分制）；负向维度（AI 替代风险、竞争、学习难度等）按反向计入，分数越高代表整体越好。评分为综合公开来源的估算，定期更新，仅供参考。',
@@ -325,16 +342,16 @@ export const UI: Record<string, Record<string, string>> = {
     vCompressed: '被自动化压缩', vAmplified: '被 AI 放大能力', vMixed: '喜忧参半',
     winnerNote: '"更优"按维度极性判断（负向维度如 AI 风险 / 竞争 / 难度越低越好）。',
     // —— 全球首页（/[locale]/） ——
-    hLead: '在 AI 时代规划你的职业。',
+    hLead: '看清 AI 如何改变你的工作。',
     hHeadline: 'AI 正在重塑全球 {n} 职业：你的工作还在安全区吗？',
-    hSub: '探索 AI 如何改变各国的工作：自动化风险、人类护城河、薪资、移民路径、榜单与未来职业路线。',
+    hSub: '逐项查看 AI 会压缩哪些任务、增强哪些工作，以及现场责任、复杂判断和人际信任构成的人类护城河。',
     hCtaSearch: '搜索职业', hCtaCountry: '选择国家', hCtaMap: '探索 AI 职业图谱',
     hSearchPh: '输入职业或国家，查 AI 替代风险',
     hSearchHint: '在 {n} 个职业中全局搜索 —— 结果按国家标注。',
-    hPickCountry: '选择国家', hCountryMeta: '{n} 个职业 · 薪资 · 移民 · AI 风险', hEnter: '进入{name} →',
+    hPickCountry: '选择国家', hCountryMeta: '{n} 个职业 · AI 风险 · 任务 · 前景', hEnter: '进入{name} →',
     hCapH: '你可以做什么',
     hCap1T: 'AI 职业图谱', hCap1B: '看清哪些职业被压缩、被放大、受执照保护或受人际信任保护。',
-    hCap2T: '职业榜单', hCap2B: '找出低 AI 风险、高增长、移民友好、高薪与快速入行的职业。',
+    hCap2T: 'AI 风险榜单', hCap2B: '比较低暴露、AI 增强和初级岗位压力等职业榜单。',
     hCap3T: '职业对比', hCap3B: '从薪资、AI 风险、培训时长、移民路径和未来前景对比两个职业。',
     hCap4T: '各国职业指南', hCap4B: '按国家了解本地薪资、执照、移民与就业市场状况。',
     hMethodH: '我们的方法', hMethodB: '我们综合公开的劳动力市场数据、职业分类、薪资区间、移民路径和 AI 时代任务分析。我们的目标不是完美预测未来，而是帮助人们提出更好的职业问题。',
@@ -354,7 +371,7 @@ export const UI: Record<string, Record<string, string>> = {
     hQ2T: '哪些工作更稳？', hQ2B: '在榜单中浏览低 AI 风险、高增长和移民友好的职业。', hQ2Go: '查看榜单 →',
     hQ3T: 'AI 时代我该学什么？', hQ3B: '搜索你的职业，查看未来技能、AI 时代升级路线和更稳的相邻职业。', hQ3Go: '搜索职业 →',
     hBottomCountry: '选择你的国家', hBottomRank: '探索 AI 职业榜单', hBottomSearch: '搜索你的职业',
-    hFoot: 'AI Career Graph · AI 时代数据驱动的职业指南 · 仅为估算，请始终核对官方来源。',
+    hFoot: 'AI Job Risk · AI 就业风险与任务暴露指南 · 仅为估算，请始终核对官方来源。',
     // —— /jobs 职业聚合页 ——
     jLead: '下方是全球通用的 AI 影响分析；选择一个国家可查看当地薪资、执照与移民数据。',
     jByCountry: '按国家查看本地数据', jWork: '从业人口', jAvail: '可用国家',
@@ -366,10 +383,10 @@ export const UI: Record<string, Record<string, string>> = {
     hSrAiAugmented: 'AI 增强型', hSrAiLowRisk: '低 AI 替代风险', hSrAiHigherExp: '较高 AI 暴露', hSrAiMixed: 'AI 影响不一',
     hSrMigFriendly: '移民友好', hSrMigRestricted: '受限移民',
     // —— 全球「关于」页（/[locale]/about/） ——
-    abTitle: '关于 AI Career Graph',
-    abLead: 'AI Career Graph 是一个面向 AI 时代的职业图谱项目——它不止于描述职业，更帮助你判断哪些职业会被 AI 压缩、哪些会被放大、未来 5 年该补什么，以及可以转向哪些更稳的职业。',
+    abTitle: '关于 AI Job Risk',
+    abLead: 'AI Job Risk 是一个跨国家职业风险研究项目，分析 AI 会改变哪些任务、哪些能力仍需要人类，以及初级岗位和职业需求如何变化。',
     abS1h: '我们是谁',
-    abS1: 'AI Career Graph 是一个面向 AI 时代的职业图谱项目，帮助学生、转行者、移民申请人和在职专业人士理解各国不同职业的风险、机会与转型路径。',
+    abS1: 'AI Job Risk 帮助学生、在职人士和职业决策者理解不同职业的 AI 任务暴露、初级岗位压力、人类护城河和各国就业环境。',
     abS2h: '我们要解决的问题',
     abS2a: '我们不只是问"AI 会不会取代这份工作"——而是拆解职业内部哪些任务会被自动化、哪些会被放大、哪些能力仍然需要人。',
     abS2b: '我们把职业分成 6 类（AI 高暴露 / AI 增强 / 执照型 / 现场型 / 人际信任型 / 受监管型），并逐项标注：AI 会接管的任务、AI 会增强的任务、人类护城河、入门是否变窄、AI 时代升级路线，以及风险高时可转向的相邻职业。',
@@ -394,8 +411,13 @@ export const UI: Record<string, Record<string, string>> = {
     filterCountries: '国家：', colCountry: '国家',
   },
   en: {
-    siteTitle: 'AI Career Graph', tagline: 'AI-era career map & planning · data, not courses',
-    homeMetaDesc: 'AI Career Graph maps careers by automation risk, human moat, salary, migration pathways and future skills, helping you plan work in the AI era.',
+    siteTitle: 'AI Job Risk', tagline: 'AI job risk, task exposure and the human moat · evidence, not prophecy',
+    homeMetaDesc: 'Check how exposed a job is to AI, which tasks are changing, what remains defensible, and how local salary, licensing and outlook affect the risk.',
+    riskDimensionsTitle: 'How we assess AI job risk',
+    riskDimExposure: 'Task exposure', riskDimExposureBody: 'Whether AI can perform repetitive, standardised and digital tasks in the occupation.',
+    riskDimMoat: 'Human moat', riskDimMoatBody: 'On-site work, licensed accountability, complex judgement, trust and care relationships.',
+    riskDimEntry: 'Entry-level pressure', riskDimEntryBody: 'Whether AI is compressing assistant, first-draft, data-entry and basic-analysis roles.',
+    riskDimUpside: 'AI upside', riskDimUpsideBody: 'Whether AI-fluent professionals can expand output, judgement and earning power.',
     agMetaDesc: 'Explore the AI-era career map: occupations grouped by automation risk, human moat, licensing accountability, on-site dependence and human trust — from high-replacement to AI-augmented, licensed and on-site clusters.',
     salary: 'Salary', ratings: 'Ratings', overall: 'Overall', education: 'Education Path',
     overallTip: 'Overall score = the average of all rating dimensions (out of 10); negative dimensions (AI risk, competition, learning difficulty, etc.) are counted inversely, so a higher score means better overall. Scores are estimates aggregated from public sources, updated periodically and indicative only.',
@@ -447,16 +469,16 @@ export const UI: Record<string, Record<string, string>> = {
     vCompressed: 'Compressed by automation', vAmplified: 'Amplified by AI', vMixed: 'Mixed',
     winnerNote: '"Higher" is judged by dimension polarity (for negative dimensions such as AI risk / competition / difficulty, lower is better).',
     // —— Global home (/[locale]/) ——
-    hLead: 'Plan your career in the age of AI.',
+    hLead: 'Understand how AI changes your work.',
     hHeadline: 'AI is reshaping {n} jobs worldwide — is yours still in the safe zone?',
-    hSub: 'Explore how AI changes jobs across countries: automation risk, human moat, salary, migration pathways, rankings and future career routes.',
+    hSub: 'See which tasks AI compresses, which work it augments, and where physical responsibility, complex judgement and human trust still form a moat.',
     hCtaSearch: 'Search a career', hCtaCountry: 'Choose a country', hCtaMap: 'Explore the AI Career Map',
     hSearchPh: 'Type job name and check risk',
     hSearchHint: 'Global search across {n} careers — results are tagged by country.',
-    hPickCountry: 'Choose a country', hCountryMeta: '{n} careers · salary · migration · AI risk', hEnter: 'Enter {name} →',
+    hPickCountry: 'Choose a country', hCountryMeta: '{n} careers · AI risk · tasks · outlook', hEnter: 'Enter {name} →',
     hCapH: 'What you can do',
     hCap1T: 'AI Career Map', hCap1B: 'See which jobs are compressed, amplified, protected by licensing, or protected by human trust.',
-    hCap2T: 'Career Rankings', hCap2B: 'Find low-AI-risk, high-growth, migration-friendly, high-salary and fast-entry careers.',
+    hCap2T: 'AI Risk Rankings', hCap2B: 'Compare lower-exposure, AI-augmented and entry-level pressure rankings.',
     hCap3T: 'Career Comparisons', hCap3B: 'Compare two careers by salary, AI risk, training time, migration pathway and future outlook.',
     hCap4T: 'Country Career Guides', hCap4B: 'Explore local salary, licensing, immigration and job-market conditions by country.',
     hMethodH: 'Our methodology', hMethodB: 'We combine public labour-market data, occupation classifications, salary ranges, migration pathways and AI-era task analysis. Our goal is not to predict the future perfectly, but to help people ask better career questions.',
@@ -476,7 +498,7 @@ export const UI: Record<string, Record<string, string>> = {
     hQ2T: 'Which jobs are safer?', hQ2B: 'Browse low-AI-risk, high-growth and migration-friendly careers in the rankings.', hQ2Go: 'View rankings →',
     hQ3T: 'What should I learn in the AI era?', hQ3B: 'Search your career to see future skills, an AI-era upgrade path and safer adjacent roles.', hQ3Go: 'Search a career →',
     hBottomCountry: 'Choose your country', hBottomRank: 'Explore AI Career Rankings', hBottomSearch: 'Search your career',
-    hFoot: 'AI Career Graph · Data-driven occupation guides for the AI era · Estimates only, always check official sources.',
+    hFoot: 'AI Job Risk · Evidence-led job exposure guides · Estimates only, always check official sources.',
     // —— /jobs occupation aggregate ——
     jLead: 'A global AI analysis is below; pick a country for local salary, licensing and migration data.',
     jByCountry: 'Local data by country', jWork: 'Workforce', jAvail: 'Available countries',
@@ -488,10 +510,10 @@ export const UI: Record<string, Record<string, string>> = {
     hSrAiAugmented: 'AI-augmented', hSrAiLowRisk: 'Low AI replacement risk', hSrAiHigherExp: 'Higher AI exposure', hSrAiMixed: 'Mixed AI impact',
     hSrMigFriendly: 'Migration-friendly', hSrMigRestricted: 'Restricted migration',
     // —— Global About (/[locale]/about/) ——
-    abTitle: 'About AI Career Graph',
-    abLead: 'AI Career Graph is a career-mapping project for the AI era — beyond describing jobs, it helps you judge which roles get compressed by AI, which get amplified, what to build over the next 5 years, and which more durable roles you can pivot to.',
+    abTitle: 'About AI Job Risk',
+    abLead: 'AI Job Risk is a cross-country occupation-risk research project examining which tasks AI changes, which capabilities remain human, and how entry-level work and labour demand may shift.',
     abS1h: 'Who we are',
-    abS1: 'AI Career Graph is a career-mapping project for the AI era, helping students, career changers, migration applicants and working professionals understand the risks, opportunities and transition paths of different occupations across countries.',
+    abS1: 'AI Job Risk helps students, workers and career decision-makers understand task exposure, entry-level pressure, the human moat and local labour-market conditions across occupations and countries.',
     abS2h: 'The problem we solve',
     abS2a: 'We don’t simply ask “will AI replace this job?” — we break down which tasks within a job get automated, which get amplified, and which capabilities still require humans.',
     abS2b: 'We group occupations into 6 clusters (high AI exposure / AI-augmented / licensed / on-site / human-trust / regulated) and annotate each: tasks AI will take over, tasks AI will augment, the human moat, whether entry-level narrows, an AI-era upgrade path, and adjacent careers to pivot to if risk is high.',
@@ -1029,6 +1051,24 @@ const RANK_SCORE: Record<string, { filter: (o: Occ) => boolean; score: (o: Occ) 
   migration_friendly: { filter: (o) => o.is_migration === 1, score: (o) => rstar(o, 'pr_friendliness') * 2 + (12 - rstar(o, 'pr_difficulty')) + (o.shortage_listed ? 4 : 0) },
   cautious_newbie: { filter: (o) => !!o.ai?.cluster, score: (o) => A(o, 'entry_risk') * 2 + rstar(o, 'competition') + A(o, 'automation_exposure') },
 };
+const RANK_SCORE_MAX: Record<string, number> = {
+  low_ai_replacement: 42,
+  ai_augmented_rank: 40,
+  licensed_moat: 26,
+  physical_site: 22,
+  human_trust: 20,
+  high_growth: 20,
+  migration_friendly: 36,
+  cautious_newbie: 40,
+};
+const HIGHER_IS_RISK = new Set(['cautious_newbie']);
+export const rankingHigherIsRisk = (key: string): boolean => HIGHER_IS_RISK.has(key);
+export function rankingScorePct(key: string, o: Occ): number {
+  const def = RANK_SCORE[key];
+  const max = RANK_SCORE_MAX[key];
+  if (!def || !max) return 0;
+  return Math.round(Math.max(0, Math.min(1, def.score(o) / max)) * 100);
+}
 export function rankingList(key: string, country: string, n?: number): Occ[] {
   const def = RANK_SCORE[key]; if (!def) return [];
   const arr = occByCountry(country).filter(def.filter)

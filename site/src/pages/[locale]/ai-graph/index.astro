@@ -21,7 +21,7 @@ const clampX = (v: number) => Math.max(mL + PAD, Math.min(W - mR - PAD, v));
 const clampY = (v: number) => Math.max(mT + PAD, Math.min(H - mB - PAD, v));
 const repName = (o: any) => `${name(o, locale)} · ${o.country}`;
 ---
-<Base title={`${t.agTitle}｜AI Career Graph`} description={t.agMetaDesc} locale={locale} country="" global={true} alternates={alternates}>
+<Base title={`${t.agTitle} | ${t.siteTitle}`} description={t.agMetaDesc} locale={locale} country="" global={true} alternates={alternates}>
   <section class="hero" data-section="hero">
     <h1>{t.agTitle}</h1>
     <p class="hero-value">{t.agSubtitle}</p>

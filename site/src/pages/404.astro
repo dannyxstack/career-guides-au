@@ -3,7 +3,7 @@
 // 用 Base 的 global 模式保留顶部菜单与底部说明；英文母本，提供回首页入口。
 import Base from '../layouts/Base.astro';
 ---
-<Base title="404 · AI Career Graph" description="Page not found" locale="en" country="US" global={true}>
+<Base title="404 · AI Job Risk" description="Page not found" locale="en" country="US" global={true} noindex={true}>
   <section class="nf">
     <div class="nf-code">404</div>
     <h1 class="nf-title">Page not found</h1>
@@ -12,7 +12,7 @@ import Base from '../layouts/Base.astro';
     </p>
     <div class="nf-cta">
       <a class="btn primary" href="/">Back to home</a>
-      <a class="btn" href="/en/ai-graph/">AI Career Graph</a>
+      <a class="btn" href="/en/ai-graph/">Risk model</a>
       <a class="btn" href="/en/rankings/">Rankings</a>
     </div>
   </section>

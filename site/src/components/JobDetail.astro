@@ -10,6 +10,7 @@ import {
   migRestrictedOccOf, migRestrictedNoteOf, nonMigVisaOf, disType, disLevel,
   jobHref, type Locale,
 } from '../lib/data';
+import { DATA_UPDATED, NETWORK } from '../lib/site-config';
 
 interface Props { slug: string; active?: string | null; locale?: Locale }
 const { slug, active = null, locale = 'en' } = Astro.props as Props;
@@ -24,11 +25,42 @@ const countries = await Promise.all(group.countries.map((o) => occFull(o)));  //
 // 激活国：URL 指定则用之，否则默认第一个（bare 页仍以全球 AI 区为重点）
 const activeCc = active && countries.some((o) => o.country === active)
   ? active : countries[0].country;
+const exposure = ai?.automation_exposure ?? rep.ratings.find((x) => x.dimension === 'ai_risk')?.stars ?? null;
+const moat = ai?.human_moat ?? null;
+const entryPressure = ai?.entry_risk ?? null;
+const upside = ai?.ai_upside ?? null;
+const riskBand = exposure == null ? 'Unknown' : exposure >= 7 ? 'High' : exposure >= 4.5 ? 'Moderate' : 'Lower';
+const questionTitle = locale === 'zh-CN' || locale === 'zh-Hant'
+  ? `${dispName} 会被 AI 取代吗？`
+  : `Will AI replace ${dispName}?`;
+const directAnswer = ai ? tr(ai.verdict_zh, locale) : (locale === 'zh-CN' ? '目前没有足够数据形成可靠结论。' : 'There is not enough evidence for a reliable conclusion yet.');
 ---
 <div class="job" data-slug={slug}>
   <a class="muted" href={locale === 'en' ? '/' : `/${locale}/`}>← {t.siteTitle}</a>
-  <h1>{dispName}{dispName !== nm && <span class="muted" style="font-size:18px"> {nm}</span>}</h1>
-  <p class="muted job-lead">{t.jLead}</p>
+  <section class="job-answer" data-section="direct-answer">
+    <div class="answer-copy">
+      <p class="eyebrow">AI JOB RISK · UPDATED {DATA_UPDATED}</p>
+      <h1>{questionTitle}</h1>
+      {dispName !== nm && <p class="muted alt-name">{nm}</p>}
+      <p class="direct-answer"><strong>{riskBand} exposure.</strong> {directAnswer}</p>
+      <p class="muted scope-note">Occupation-level baseline, not a personal prediction. Local salary, licensing and outlook are shown by country below.</p>
+      <div class="answer-actions">
+        <a class="btn primary" href={NETWORK.assessment}>Check my personal resilience</a>
+        <a class="btn" href={`/${activeCc}/en/job-risk-map/`}>Compare on the risk map</a>
+      </div>
+    </div>
+    <div class={`risk-score risk-${riskBand.toLowerCase()}`} aria-label={`AI task exposure ${exposure ?? 'unknown'} out of 10`}>
+      <span>AI task exposure</span>
+      <strong>{exposure != null ? exposure.toFixed(1) : '—'}<small>/10</small></strong>
+      <em>{riskBand}</em>
+    </div>
+  </section>
+  <section class="risk-strip" data-section="risk-summary">
+    <div><span>Task exposure</span><strong>{exposure != null ? `${exposure.toFixed(1)}/10` : '—'}</strong></div>
+    <div><span>Human moat</span><strong>{moat != null ? `${moat.toFixed(1)}/10` : '—'}</strong></div>
+    <div><span>Entry pressure</span><strong>{entryPressure != null ? `${entryPressure.toFixed(1)}/10` : '—'}</strong></div>
+    <div><span>AI upside</span><strong>{upside != null ? `${upside.toFixed(1)}/10` : '—'}</strong></div>
+  </section>
 
   <!-- ========== 上半层：全球通用 AI 区 ========== -->
   {ai && (
@@ -211,7 +243,27 @@ const activeCc = active && countries.some((o) => o.country === active)
 </div>
 
 <style>
-  .job-lead { max-width: 720px; font-size: 15px; margin: 4px 0 18px; }
+  .job-answer { display:grid; grid-template-columns:minmax(0,1fr) 190px; gap:28px; align-items:center; padding:28px 0 24px; border-bottom:1px solid var(--line); }
+  .eyebrow { margin:0 0 8px; color:var(--green); font-size:12px; font-weight:800; }
+  .job-answer h1 { max-width:720px; margin:0; }
+  .alt-name { margin:3px 0 0; font-size:14px; }
+  .direct-answer { max-width:760px; margin:14px 0 6px; font-size:17px; line-height:1.65; }
+  .scope-note { margin:0; font-size:13px; }
+  .answer-actions { display:flex; flex-wrap:wrap; gap:10px; margin-top:18px; }
+  .risk-score { min-height:170px; display:flex; flex-direction:column; align-items:center; justify-content:center; border:1px solid var(--line); border-top:5px solid var(--amber); background:var(--card); }
+  .risk-score > span { color:var(--muted); font-size:12px; }
+  .risk-score > strong { font-size:44px; line-height:1.15; }
+  .risk-score small { font-size:16px; color:var(--muted); }
+  .risk-score em { font-style:normal; font-weight:700; color:var(--amber); }
+  .risk-score.risk-high { border-top-color:#dc2626; }
+  .risk-score.risk-high em { color:#dc2626; }
+  .risk-score.risk-lower { border-top-color:var(--green); }
+  .risk-score.risk-lower em { color:var(--green); }
+  .risk-strip { display:grid; grid-template-columns:repeat(4,1fr); border-bottom:1px solid var(--line); margin-bottom:24px; }
+  .risk-strip > div { padding:14px 16px; border-right:1px solid var(--line); }
+  .risk-strip > div:last-child { border-right:0; }
+  .risk-strip span { display:block; color:var(--muted); font-size:12px; }
+  .risk-strip strong { display:block; margin-top:2px; font-size:18px; }
   .job-tabs { display: flex; flex-wrap: wrap; gap: 8px; position: sticky; top: 0; z-index: 6;
     background: var(--bg); padding: 12px 0; margin: 24px 0 6px; border-bottom: 1px solid var(--line); }
   .job-tab { display: inline-flex; align-items: center; gap: 7px; font-size: 14px; font-weight: 600;
@@ -234,4 +286,12 @@ const activeCc = active && countries.some((o) => o.country === active)
   .dis-lvl.lvl-full { color: #dc2626; border-color: #dc2626; }
   .dis-year { font-size: 12px; color: var(--muted); margin-left: auto; }
   .dis-scope { margin: 6px 0 0; font-size: 14px; line-height: 1.6; }
+  @media (max-width:700px) {
+    .job-answer { grid-template-columns:1fr; gap:18px; }
+    .risk-score { min-height:130px; }
+    .risk-strip { grid-template-columns:repeat(2,1fr); }
+    .risk-strip > div:nth-child(2) { border-right:0; }
+    .risk-strip > div:nth-child(-n+2) { border-bottom:1px solid var(--line); }
+    .answer-actions .btn { flex:1 1 100%; text-align:center; }
+  }
 </style>

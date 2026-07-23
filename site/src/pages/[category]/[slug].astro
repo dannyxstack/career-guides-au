@@ -4,6 +4,7 @@
 import Base from '../../layouts/Base.astro';
 import JobDetail from '../../components/JobDetail.astro';
 import { JOB_SLUGS, jobBySlug, jobAlternates, jobHref, strings, tr, name, countryTitleName, catSlug } from '../../lib/data';
+import { DATA_UPDATED, SITE_NAME } from '../../lib/site-config';
 
 export function getStaticPaths() {
   return JOB_SLUGS.map((slug) => ({ params: { category: catSlug(jobBySlug(slug)!.rep.category), slug } }));
@@ -15,7 +16,7 @@ const rep = group.rep;
 const t = strings(locale);
 const dispName = name(rep, locale);
 
-const title = `${dispName} — ${t.jTitleG} | ${t.siteTitle}`;
+const title = `Will AI Replace ${dispName}? Risk, Tasks & Human Moat | ${t.siteTitle}`;
 const gist = rep.ai ? tr(rep.ai.verdict_zh, locale) : '';
 const description = (gist ? gist + ' ' : '')
   + `Available for ${group.countries.map((o) => countryTitleName(o.country, 'en')).join(', ')} — pick a country for local salary, licensing and migration.`;
@@ -32,6 +33,10 @@ const ld = [{
     { '@type': 'ListItem', position: 1, name: t.siteTitle, item: abs('/') },
     { '@type': 'ListItem', position: 2, name: dispName, item: abs(jobHref(locale, slug)) },
   ],
+}, {
+  '@context': 'https://schema.org', '@type': 'WebPage', name: title, description,
+  dateModified: DATA_UPDATED, publisher: { '@type': 'Organization', name: SITE_NAME },
+  mainEntity: { '@type': 'Occupation', name: dispName },
 }];
 ---
 <Base title={title} description={description.slice(0, 155)} locale={locale} country={rep.country}

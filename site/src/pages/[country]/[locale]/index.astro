@@ -2,7 +2,7 @@
 import Base from '../../../layouts/Base.astro';
 import OccCard from '../../../components/OccCard.astro';
 import { COUNTRIES, LOCALES, byCategory, occByCountry, categoriesFor, name, strings,
-  COMPARE_PAIRS, pairKey, getBySlug, bestMigration, bestIncome, fastestEntry, countryName, countryTitleName, type Locale } from '../../../lib/data';
+  COMPARE_PAIRS, pairKey, getBySlug, rankingList, countryName, countryTitleName, type Locale } from '../../../lib/data';
 
 export function getStaticPaths() {
   return COUNTRIES.flatMap((country) => LOCALES.map((locale) => ({ params: { country, locale } })));
@@ -17,27 +17,29 @@ const cats = categoriesFor(country);
 const stats = [
   `${occs.length}+ careers`,
   `${cats.length} career categories`,
-  'Salary / PR / training / demand',
+  'Task exposure / human moat / outlook',
   `${countryName(country, locale)}`,
 ];
 // 筛选 chips：值即 data-* 过滤键
 const FILTERS = [
-  { key: 'pr', label: t.fPR }, { key: 'high', label: t.fHigh }, { key: 'short', label: t.fShort },
+  { key: 'low-ai', label: 'Lower AI risk' }, { key: 'high-ai', label: 'Higher AI risk' },
   { key: 'cat:Healthcare & Care', label: 'Healthcare' },
   { key: 'cat:Trades & Construction', label: 'Trades' },
   { key: 'cat:IT & Digital', label: 'IT' },
 ];
 const SORTS = [
-  { key: 'score', label: t.sortOverall }, { key: 'pay', label: t.sortPay },
-  { key: 'train', label: t.sortTrain }, { key: 'pr', label: t.sortPR },
+  { key: 'risk', label: 'AI risk' }, { key: 'score', label: t.sortOverall }, { key: 'pay', label: t.sortPay },
+  { key: 'train', label: t.sortTrain },
 ];
-const mig = bestMigration(6, country), inc = bestIncome(6, country), fast = fastestEntry(6, country);
+const lowRisk = rankingList('low_ai_replacement', country, 6);
+const augmented = rankingList('ai_augmented_rank', country, 6);
+const cautious = rankingList('cautious_newbie', country, 6);
 const showCompare = country === 'AU' && COMPARE_PAIRS.length > 0;
 
 const ctn = countryTitleName(country, locale);
 const metaTitle = locale === 'zh-CN'
-  ? `${ctn}AI职业图谱｜薪资、移民、AI替代风险与未来职业路径`
-  : `AI Career Map for ${ctn} | Salary, Migration, AI Risk & Future Routes`;
+  ? `${ctn} AI 职业风险｜替代风险、任务暴露与人类护城河`
+  : `AI Job Risk in ${ctn} | Task Exposure, Human Moat & Outlook`;
 const abs = (p: string) => (Astro.site ? new URL(p, Astro.site).href : p);
 const ld = [
   { '@context': 'https://schema.org', '@type': 'WebSite', name: t.siteTitle, description: t.heroValue,
@@ -48,8 +50,8 @@ const ld = [
 <Base title={metaTitle} description={t.homeMetaDesc} locale={locale} country={country} alternates={alternates} jsonLd={ld}>
   <!-- Hero -->
   <section class="hero" data-section="hero">
-    <h1>{t.siteTitle}</h1>
-    <p class="hero-value">{t.heroValue}</p>
+    <h1>AI Job Risk in {ctn}</h1>
+    <p class="hero-value">Compare how AI changes occupations in {ctn}: task exposure, human moat, entry-level pressure and local outlook.</p>
     <div class="stat-row">
       {stats.map((s) => <div class="stat">{s}</div>)}
     </div>
@@ -110,17 +112,17 @@ const ld = [
   )}
 
   <!-- Curated sections -->
-  <section data-section="best-migration">
-    <h2>{t.secMigration}</h2>
-    <div class="grid grid-cards">{mig.map((o) => <OccCard o={o} country={country} locale={locale} />)}</div>
+  <section data-section="lower-ai-risk">
+    <h2>Lower AI replacement risk</h2>
+    <div class="grid grid-cards">{lowRisk.map((o) => <OccCard o={o} country={country} locale={locale} />)}</div>
   </section>
-  <section data-section="best-income">
-    <h2>{t.secIncome}</h2>
-    <div class="grid grid-cards">{inc.map((o) => <OccCard o={o} country={country} locale={locale} />)}</div>
+  <section data-section="ai-augmented">
+    <h2>Best AI-augmented occupations</h2>
+    <div class="grid grid-cards">{augmented.map((o) => <OccCard o={o} country={country} locale={locale} />)}</div>
   </section>
-  <section data-section="fastest-entry">
-    <h2>{t.secFast}</h2>
-    <div class="grid grid-cards">{fast.map((o) => <OccCard o={o} country={country} locale={locale} />)}</div>
+  <section data-section="entry-level-pressure">
+    <h2>Entry-level roles to approach carefully</h2>
+    <div class="grid grid-cards">{cautious.map((o) => <OccCard o={o} country={country} locale={locale} />)}</div>
   </section>
 
   <!-- Categories quick-nav -->
@@ -157,7 +159,9 @@ const ld = [
       cards.forEach((c) => {
         let ok = !term || c.getAttribute('data-search').includes(term);
         for (const f of active) {
-          if (f === 'pr') ok = ok && num(c, 'data-pr') === 1;
+          if (f === 'low-ai') ok = ok && num(c, 'data-airisk') > 0 && num(c, 'data-airisk') <= 4.5;
+          else if (f === 'high-ai') ok = ok && num(c, 'data-airisk') >= 7;
+          else if (f === 'pr') ok = ok && num(c, 'data-pr') === 1;
           else if (f === 'high') ok = ok && num(c, 'data-pay') >= HIGH;
           else if (f === 'short') ok = ok && num(c, 'data-train') <= SHORT;
           else if (f.startsWith('cat:')) ok = ok && c.getAttribute('data-cat') === f.slice(4);
@@ -171,7 +175,7 @@ const ld = [
     function sortCards() {
       const k = sortSel.value;
       const dir = k === 'train' ? 1 : -1; // 培训时长升序，其余降序
-      const attr = { score: 'data-score', pay: 'data-pay', train: 'data-train', pr: 'data-prscore' }[k];
+      const attr = { risk: 'data-airisk', score: 'data-score', pay: 'data-pay', train: 'data-train', pr: 'data-prscore' }[k];
       cards.slice().sort((a, b) => (num(a, attr) - num(b, attr)) * dir).forEach((c) => grid.appendChild(c));
     }
     function syncChips() {

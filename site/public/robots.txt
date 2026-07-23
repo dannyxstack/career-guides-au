@@ -1,5 +1,5 @@
-# robots.txt for aicareergraph.com
+# robots.txt for aijobrisk.com
 User-agent: *
 Allow: /
 
-Sitemap: https://aicareergraph.com/sitemap-index.xml
+Sitemap: https://aijobrisk.com/sitemap-index.xml
