@@ -1,8 +1,8 @@
 ---
 // 放射（雷达）评分图。支持多序列叠加（详情=1，对比=2）。纯 SVG，无运行时依赖。
 interface Series { name: string; color: string; values: number[] }
-interface Props { labels: string[]; series: Series[]; size?: number; max?: number }
-const { labels, series, size = 360, max = 5 } = Astro.props as Props;
+interface Props { labels: string[]; series: Series[]; size?: number; max?: number; ariaLabel?: string }
+const { labels, series, size = 360, max = 5, ariaLabel = 'rating radar' } = Astro.props as Props;
 const padX = 88; // 左右额外留白，避免长标签(PR Friendly/Certification)被裁
 const cx = size / 2, cy = size / 2, R = size / 2 - 56;
 const n = labels.length;
@@ -13,7 +13,7 @@ const labelPos = labels.map((l, i) => { const [x, y] = pt(i, R + 22); return { l
 const poly = (vals: number[]) => vals.map((v, i) => pt(i, (Math.max(0, Math.min(max, v)) / max) * R).join(',')).join(' ');
 ---
 <div class="radar">
-  <svg viewBox={`${-padX} 0 ${size + 2 * padX} ${size}`} width="100%" role="img" aria-label="rating radar">
+  <svg viewBox={`${-padX} 0 ${size + 2 * padX} ${size}`} width="100%" role="img" aria-label={ariaLabel}>
     {rings.map((rr) => (
       <polygon points={labels.map((_, i) => pt(i, R * rr).join(',')).join(' ')} class="ring" />
     ))}

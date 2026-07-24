@@ -1,0 +1,736 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AI 职业风险 · 首页</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
+  <style>
+    /* ===== 全局重置 & 基础 ===== */
+    * { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Inter', system-ui, -apple-system, sans-serif; }
+    body { background: #f6f9fc; color: #0b1a2e; }
+    .container { max-width: 1280px; margin: 0 auto; padding: 0 24px; }
+
+    /* ===== 导航 ===== */
+    .navbar {
+      background: white;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.04);
+      padding: 16px 0;
+      position: sticky;
+      top: 0;
+      z-index: 10;
+    }
+    .navbar .container {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+    .logo {
+      font-weight: 700;
+      font-size: 24px;
+      letter-spacing: -0.5px;
+      color: #0b1a2e;
+    }
+    .logo span {
+      background: #2563eb;
+      color: white;
+      padding: 2px 10px;
+      border-radius: 40px;
+      font-size: 14px;
+      margin-left: 8px;
+    }
+    .nav-links {
+      display: flex;
+      gap: 28px;
+      font-weight: 500;
+      color: #1e3a5f;
+    }
+    .nav-links a { text-decoration: none; color: inherit; }
+    .nav-links a:hover { color: #2563eb; }
+
+    /* ===== HERO ===== */
+    .hero {
+      padding: 56px 0 40px;
+      text-align: center;
+      background: linear-gradient(145deg, #ffffff 0%, #f0f5fe 100%);
+      border-radius: 32px;
+      margin-top: 20px;
+    }
+    .hero h1 {
+      font-size: 52px;
+      font-weight: 700;
+      letter-spacing: -1px;
+      line-height: 1.2;
+    }
+    .hero h1 .highlight {
+      background: linear-gradient(135deg, #2563eb, #7c3aed);
+      color: white;
+      padding: 0 18px;
+      border-radius: 60px;
+      display: inline-block;
+    }
+    .hero .sub {
+      font-size: 20px;
+      color: #2c3e5a;
+      margin: 20px 0 12px;
+    }
+    .hero .stat-badge {
+      background: #dbeafe;
+      color: #1e3a8a;
+      padding: 8px 28px;
+      border-radius: 60px;
+      display: inline-block;
+      font-weight: 600;
+      font-size: 18px;
+      margin-bottom: 28px;
+    }
+    .hero .stat-badge i { margin-right: 8px; }
+
+    /* ===== 搜索框 ===== */
+    .search-box {
+      max-width: 680px;
+      margin: 0 auto;
+      display: flex;
+      background: white;
+      border-radius: 80px;
+      box-shadow: 0 12px 30px rgba(37, 99, 235, 0.12);
+      border: 1px solid #e2edff;
+    }
+    .search-box input {
+      flex: 1;
+      border: none;
+      padding: 18px 28px;
+      font-size: 18px;
+      background: transparent;
+      outline: none;
+      border-radius: 80px 0 0 80px;
+    }
+    .search-box button {
+      background: #2563eb;
+      border: none;
+      color: white;
+      padding: 0 40px;
+      border-radius: 80px;
+      font-weight: 600;
+      font-size: 18px;
+      cursor: pointer;
+      transition: 0.2s;
+      white-space: nowrap;
+    }
+    .search-box button:hover { background: #1d4ed8; }
+
+    /* ===== 热门标签 ===== */
+    .hot-tags {
+      margin-top: 28px;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 12px;
+    }
+    .hot-tags .tag {
+      background: white;
+      padding: 8px 20px;
+      border-radius: 40px;
+      font-size: 14px;
+      font-weight: 500;
+      color: #1e3a5f;
+      border: 1px solid #dce7f5;
+      cursor: default;
+      transition: 0.1s;
+    }
+    .hot-tags .tag i { margin-right: 6px; color: #2563eb; }
+    .hot-tags .tag:hover { border-color: #2563eb; background: #f0f5fe; }
+
+    /* ===== 数据看板 ===== */
+    .stats-grid {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 40px 80px;
+      margin: 40px 0 10px;
+      padding: 24px 0;
+      border-top: 1px solid #dce7f5;
+      border-bottom: 1px solid #dce7f5;
+    }
+    .stats-grid .item { text-align: center; }
+    .stats-grid .number {
+      font-size: 34px;
+      font-weight: 700;
+      color: #0b1a2e;
+    }
+    .stats-grid .label {
+      color: #4b5e7a;
+      font-size: 15px;
+      margin-top: 2px;
+    }
+
+    /* ===== 板块标题 ===== */
+    .section-header {
+      margin: 48px 0 16px;
+      text-align: center;
+    }
+    .section-header h2 {
+      font-size: 30px;
+      font-weight: 700;
+      color: #0b1a2e;
+    }
+    .section-header .sub {
+      color: #4b5e7a;
+      font-size: 16px;
+      margin-top: 4px;
+    }
+
+    /* ===== 排行榜预览 ===== */
+    .rank-preview {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 32px;
+      margin: 12px 0 20px;
+    }
+    @media (max-width: 700px) {
+      .rank-preview { grid-template-columns: 1fr; }
+    }
+    .rank-box {
+      background: white;
+      border-radius: 24px;
+      padding: 24px 28px;
+      border: 1px solid #eaf0f6;
+    }
+    .rank-box h3 {
+      font-size: 20px;
+      margin-bottom: 16px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .rank-box h3 i { color: #2563eb; }
+    .rank-list {
+      list-style: none;
+    }
+    .rank-list li {
+      display: flex;
+      justify-content: space-between;
+      padding: 10px 0;
+      border-bottom: 1px solid #f0f5fa;
+      font-size: 15px;
+    }
+    .rank-list li:last-child { border-bottom: none; }
+    .rank-list .risk-high { color: #dc2626; font-weight: 600; }
+    .rank-list .risk-mid { color: #f59e0b; font-weight: 600; }
+    .rank-list .risk-low { color: #059669; font-weight: 600; }
+    .rank-list .country-flag { margin-right: 6px; }
+
+    /* ===== Explore More ===== */
+    .explore-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 20px;
+      margin: 12px 0 20px;
+    }
+    @media (max-width: 700px) {
+      .explore-grid { grid-template-columns: 1fr; }
+    }
+    .explore-card {
+      background: white;
+      border-radius: 20px;
+      padding: 24px 28px;
+      border: 1px solid #eaf0f6;
+      text-align: center;
+      transition: 0.15s;
+      text-decoration: none;
+      color: #0b1a2e;
+      display: block;
+    }
+    .explore-card:hover {
+      border-color: #2563eb;
+      box-shadow: 0 8px 24px rgba(37, 99, 235, 0.08);
+    }
+    .explore-card i {
+      font-size: 32px;
+      color: #2563eb;
+      margin-bottom: 10px;
+    }
+    .explore-card h4 {
+      font-size: 18px;
+      font-weight: 600;
+    }
+    .explore-card p {
+      color: #4b5e7a;
+      font-size: 14px;
+      margin-top: 4px;
+    }
+
+    /* ===== 热门职业 ===== */
+    .hot-jobs-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 20px;
+      margin: 12px 0 20px;
+    }
+    @media (max-width: 1024px) {
+      .hot-jobs-grid { grid-template-columns: repeat(2, 1fr); }
+    }
+    @media (max-width: 600px) {
+      .hot-jobs-grid { grid-template-columns: 1fr; }
+    }
+    .hot-job-card {
+      background: white;
+      border-radius: 20px;
+      padding: 20px 22px;
+      border: 1px solid #eaf0f6;
+      transition: 0.1s;
+    }
+    .hot-job-card:hover {
+      border-color: #2563eb;
+      box-shadow: 0 4px 16px rgba(37, 99, 235, 0.06);
+    }
+    .hot-job-card .job-name {
+      font-weight: 600;
+      font-size: 18px;
+      color: #0b1a2e;
+    }
+    .hot-job-card .job-industry {
+      font-size: 13px;
+      color: #4b5e7a;
+      margin-top: 2px;
+    }
+    .hot-job-card .risk-row {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-top: 12px;
+    }
+    .hot-job-card .risk-track {
+      flex: 1;
+      height: 6px;
+      background: #e2e8f0;
+      border-radius: 40px;
+      overflow: hidden;
+    }
+    .hot-job-card .risk-track .fill {
+      height: 100%;
+      border-radius: 40px;
+    }
+    .hot-job-card .risk-pct {
+      font-weight: 700;
+      font-size: 14px;
+      min-width: 40px;
+      text-align: right;
+    }
+
+    /* ===== FAQ 折叠 ===== */
+    .faq-block {
+      background: white;
+      border-radius: 24px;
+      padding: 28px 36px;
+      border: 1px solid #eaf0f6;
+      margin: 12px 0 20px;
+    }
+    .faq-block h2 {
+      font-size: 26px;
+      margin-bottom: 20px;
+    }
+    .faq-item {
+      border-bottom: 1px solid #ecf3fa;
+    }
+    .faq-item:last-child { border-bottom: none; }
+    .faq-question {
+      width: 100%;
+      background: none;
+      border: none;
+      padding: 18px 0;
+      font-size: 16px;
+      font-weight: 600;
+      color: #0b1a2e;
+      cursor: pointer;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      text-align: left;
+      font-family: inherit;
+    }
+    .faq-question:hover { color: #2563eb; }
+    .faq-question i.fa-chevron-down {
+      transition: transform 0.25s ease;
+      color: #4b5e7a;
+      font-size: 14px;
+    }
+    .faq-item.open .faq-question i.fa-chevron-down {
+      transform: rotate(180deg);
+    }
+    .faq-answer {
+      max-height: 0;
+      overflow: hidden;
+      transition: max-height 0.35s ease, padding 0.3s ease;
+      padding: 0 0 0 0;
+      color: #2c3e5a;
+      font-size: 15px;
+      line-height: 1.7;
+    }
+    .faq-item.open .faq-answer {
+      max-height: 400px; /* 足够展开 */
+      padding: 0 0 18px 0;
+    }
+    /* 对SEO隐藏折叠状态，始终渲染内容但视觉折叠 */
+    .faq-answer-content {
+      display: block;
+    }
+    /* 屏幕阅读器友好，但折叠时视觉上隐藏内容高度 */
+    .faq-item:not(.open) .faq-answer-content {
+      /* 内容依然在DOM中，只是被容器max-height裁剪，搜索引擎可抓取 */
+    }
+
+    /* ===== 数据来源 ===== */
+    .source-block {
+      background: #f8faff;
+      border-radius: 20px;
+      padding: 20px 28px;
+      border: 1px solid #eaf0f6;
+      margin: 12px 0 20px;
+      font-size: 14px;
+      color: #4b5e7a;
+      line-height: 1.8;
+    }
+    .source-block strong {
+      color: #0b1a2e;
+    }
+    .source-block a {
+      color: #2563eb;
+      text-decoration: none;
+    }
+    .source-block a:hover { text-decoration: underline; }
+
+    /* ===== 页脚 ===== */
+    .footer {
+      margin: 40px 0 20px;
+      padding: 20px 0;
+      border-top: 1px solid #dce7f5;
+      color: #4b5e7a;
+      text-align: center;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- ====== 导航 ====== -->
+  <nav class="navbar">
+    <div class="container">
+      <div class="logo">JobPulse<span>AI</span></div>
+      <div class="nav-links">
+        <a href="#">职业风险</a>
+        <a href="#">国家排行</a>
+        <a href="#">AI 增强</a>
+        <a href="#">关于数据</a>
+      </div>
+    </div>
+  </nav>
+
+  <div class="container">
+
+    <!-- ====== HERO 区 ====== -->
+    <section class="hero">
+      <h1>你的工作，<span class="highlight">5年后</span>还在吗？</h1>
+      <p class="sub">基于 4,200+ 职业 · 7 个国家 · 实时 AI 替代分析</p>
+      <div class="stat-badge">
+        <i class="fas fa-robot"></i> 已有 72% 的职业出现 AI 替代任务
+      </div>
+
+      <!-- 搜索框 -->
+      <div class="search-box">
+        <input type="text" placeholder="搜索职业，例如「Software Engineer」…" />
+        <button><i class="fas fa-search"></i> 分析</button>
+      </div>
+
+      <!-- 热门标签 -->
+      <div class="hot-tags">
+        <span class="tag"><i class="fas fa-fire"></i> 会计 · 美国</span>
+        <span class="tag"><i class="fas fa-chart-line"></i> 软件开发 · 加拿大</span>
+        <span class="tag"><i class="fas fa-briefcase"></i> 法律助理 · 英国</span>
+        <span class="tag"><i class="fas fa-flag"></i> 护士 · 澳大利亚</span>
+        <span class="tag"><i class="fas fa-euro-sign"></i> 金融分析 · 德国</span>
+        <span class="tag"><i class="fas fa-building"></i> 人力资源 · 西班牙</span>
+      </div>
+
+      <!-- 数据看板 -->
+      <div class="stats-grid">
+        <div class="item"><div class="number">4,200+</div><div class="label">覆盖职业</div></div>
+        <div class="item"><div class="number">7</div><div class="label">国家 / 地区</div></div>
+        <div class="item"><div class="number">85%</div><div class="label">职业含 AI 增强任务</div></div>
+        <div class="item"><div class="number">23k</div><div class="label">今日查询次数</div></div>
+      </div>
+    </section>
+
+    <!-- ========================================================= -->
+    <!-- 1. 排行榜板块（标题+副标题） -->
+    <div class="section-header">
+      <h2>📊 职业AI替代风险排行</h2>
+      <div class="sub">基于真实数据，实时更新 · 看看你的职业排第几</div>
+    </div>
+
+    <div class="rank-preview">
+      <!-- 高风险职业排行 -->
+      <div class="rank-box">
+        <h3><i class="fas fa-triangle-exclamation" style="color:#dc2626;"></i> 高风险职业 TOP 5</h3>
+        <ul class="rank-list">
+          <li><span><span class="country-flag">🇺🇸</span> 会计 (Accountant)</span> <span class="risk-high">76%</span></li>
+          <li><span><span class="country-flag">🇨🇦</span> 行政助理</span> <span class="risk-high">72%</span></li>
+          <li><span><span class="country-flag">🇬🇧</span> 保险核保员</span> <span class="risk-high">68%</span></li>
+          <li><span><span class="country-flag">🇩🇪</span> 税务申报员</span> <span class="risk-high">65%</span></li>
+          <li><span><span class="country-flag">🇦🇺</span> 信贷分析师</span> <span class="risk-high">61%</span></li>
+        </ul>
+      </div>
+
+      <!-- 低风险 / 高护城河职业 -->
+      <div class="rank-box">
+        <h3><i class="fas fa-shield-alt" style="color:#059669;"></i> 低风险 · 高护城河</h3>
+        <ul class="rank-list">
+          <li><span><span class="country-flag">🇺🇸</span> 心理治疗师</span> <span class="risk-low">12%</span></li>
+          <li><span><span class="country-flag">🇬🇧</span> 外科医生</span> <span class="risk-low">18%</span></li>
+          <li><span><span class="country-flag">🇨🇦</span> 幼儿教师</span> <span class="risk-low">22%</span></li>
+          <li><span><span class="country-flag">🇦🇺</span> 建筑项目经理</span> <span class="risk-low">26%</span></li>
+          <li><span><span class="country-flag">🇪🇸</span> 创意总监</span> <span class="risk-low">19%</span></li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- ========================================================= -->
+    <!-- 2. Explore More 板块 -->
+    <div class="section-header">
+      <h2>🔍 Explore More</h2>
+      <div class="sub">深入探索更多职业数据维度</div>
+    </div>
+
+    <div class="explore-grid">
+      <a href="#" class="explore-card">
+        <i class="fas fa-arrows-left-right"></i>
+        <h4>职业比较</h4>
+        <p>对比不同职业的AI风险、薪资、护城河</p>
+      </a>
+      <a href="#" class="explore-card">
+        <i class="fas fa-building"></i>
+        <h4>行业浏览</h4>
+        <p>按金融、医疗、科技等行业查看风险</p>
+      </a>
+      <a href="#" class="explore-card">
+        <i class="fas fa-list-ul"></i>
+        <h4>全部排行榜</h4>
+        <p>完整职业列表 · 按国家 / 风险排序</p>
+      </a>
+    </div>
+
+    <!-- ========================================================= -->
+    <!-- 3. 热门职业板块 (10个) -->
+    <div class="section-header">
+      <h2>🔥 热门职业</h2>
+      <div class="sub">大家最关心的职业 · 看看AI替代风险</div>
+    </div>
+
+    <div class="hot-jobs-grid">
+      <!-- 职业卡片 1 -->
+      <div class="hot-job-card">
+        <div class="job-name">会计</div>
+        <div class="job-industry"><i class="fas fa-briefcase"></i> 金融 · 美国</div>
+        <div class="risk-row">
+          <span style="font-size:13px; color:#4b5e7a;">风险</span>
+          <div class="risk-track"><div class="fill" style="width:76%; background:linear-gradient(90deg,#f59e0b,#dc2626);"></div></div>
+          <span class="risk-pct" style="color:#dc2626;">76%</span>
+        </div>
+      </div>
+      <!-- 2 -->
+      <div class="hot-job-card">
+        <div class="job-name">软件工程师</div>
+        <div class="job-industry"><i class="fas fa-code"></i> 科技 · 加拿大</div>
+        <div class="risk-row">
+          <span style="font-size:13px; color:#4b5e7a;">风险</span>
+          <div class="risk-track"><div class="fill" style="width:34%; background:#f59e0b;"></div></div>
+          <span class="risk-pct" style="color:#f59e0b;">34%</span>
+        </div>
+      </div>
+      <!-- 3 -->
+      <div class="hot-job-card">
+        <div class="job-name">护士</div>
+        <div class="job-industry"><i class="fas fa-heartbeat"></i> 医疗 · 澳大利亚</div>
+        <div class="risk-row">
+          <span style="font-size:13px; color:#4b5e7a;">风险</span>
+          <div class="risk-track"><div class="fill" style="width:28%; background:#059669;"></div></div>
+          <span class="risk-pct" style="color:#059669;">28%</span>
+        </div>
+      </div>
+      <!-- 4 -->
+      <div class="hot-job-card">
+        <div class="job-name">律师</div>
+        <div class="job-industry"><i class="fas fa-gavel"></i> 法律 · 英国</div>
+        <div class="risk-row">
+          <span style="font-size:13px; color:#4b5e7a;">风险</span>
+          <div class="risk-track"><div class="fill" style="width:44%; background:#f59e0b;"></div></div>
+          <span class="risk-pct" style="color:#f59e0b;">44%</span>
+        </div>
+      </div>
+      <!-- 5 -->
+      <div class="hot-job-card">
+        <div class="job-name">人力资源经理</div>
+        <div class="job-industry"><i class="fas fa-users"></i> 管理 · 西班牙</div>
+        <div class="risk-row">
+          <span style="font-size:13px; color:#4b5e7a;">风险</span>
+          <div class="risk-track"><div class="fill" style="width:52%; background:#f59e0b;"></div></div>
+          <span class="risk-pct" style="color:#f59e0b;">52%</span>
+        </div>
+      </div>
+      <!-- 6 -->
+      <div class="hot-job-card">
+        <div class="job-name">财务分析师</div>
+        <div class="job-industry"><i class="fas fa-chart-pie"></i> 金融 · 德国</div>
+        <div class="risk-row">
+          <span style="font-size:13px; color:#4b5e7a;">风险</span>
+          <div class="risk-track"><div class="fill" style="width:58%; background:#f59e0b;"></div></div>
+          <span class="risk-pct" style="color:#f59e0b;">58%</span>
+        </div>
+      </div>
+      <!-- 7 -->
+      <div class="hot-job-card">
+        <div class="job-name">教师</div>
+        <div class="job-industry"><i class="fas fa-chalkboard"></i> 教育 · 加拿大</div>
+        <div class="risk-row">
+          <span style="font-size:13px; color:#4b5e7a;">风险</span>
+          <div class="risk-track"><div class="fill" style="width:22%; background:#059669;"></div></div>
+          <span class="risk-pct" style="color:#059669;">22%</span>
+        </div>
+      </div>
+      <!-- 8 -->
+      <div class="hot-job-card">
+        <div class="job-name">市场总监</div>
+        <div class="job-industry"><i class="fas fa-bullhorn"></i> 营销 · 美国</div>
+        <div class="risk-row">
+          <span style="font-size:13px; color:#4b5e7a;">风险</span>
+          <div class="risk-track"><div class="fill" style="width:38%; background:#f59e0b;"></div></div>
+          <span class="risk-pct" style="color:#f59e0b;">38%</span>
+        </div>
+      </div>
+      <!-- 9 -->
+      <div class="hot-job-card">
+        <div class="job-name">建筑师</div>
+        <div class="job-industry"><i class="fas fa-ruler-combined"></i> 建筑 · 澳大利亚</div>
+        <div class="risk-row">
+          <span style="font-size:13px; color:#4b5e7a;">风险</span>
+          <div class="risk-track"><div class="fill" style="width:32%; background:#f59e0b;"></div></div>
+          <span class="risk-pct" style="color:#f59e0b;">32%</span>
+        </div>
+      </div>
+      <!-- 10 -->
+      <div class="hot-job-card">
+        <div class="job-name">数据分析师</div>
+        <div class="job-industry"><i class="fas fa-database"></i> 科技 · 英国</div>
+        <div class="risk-row">
+          <span style="font-size:13px; color:#4b5e7a;">风险</span>
+          <div class="risk-track"><div class="fill" style="width:48%; background:#f59e0b;"></div></div>
+          <span class="risk-pct" style="color:#f59e0b;">48%</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- ========================================================= -->
+    <!-- 4. FAQ 折叠板块 (SEO友好) -->
+    <div class="faq-block">
+      <h2>🤔 关于职业AI替代 · 常见问题</h2>
+
+      <div class="faq-item">
+        <button class="faq-question" onclick="toggleFAQ(this)">
+          <span><i class="fas fa-chevron-right" style="color:#2563eb; margin-right:10px;"></i> AI 会完全取代哪些职业？</span>
+          <i class="fas fa-chevron-down"></i>
+        </button>
+        <div class="faq-answer">
+          <div class="faq-answer-content">根据我们的数据分析，会计、行政助理、保险核保员、税务申报员等重复性、规则明确的职业风险最高。这些职业的共同特点是工作内容高度结构化，容易通过算法建模。但即使如此，完全取代的概率很低，更多是工作内容的重塑。</div>
+        </div>
+      </div>
+
+      <div class="faq-item">
+        <button class="faq-question" onclick="toggleFAQ(this)">
+          <span><i class="fas fa-chevron-right" style="color:#2563eb; margin-right:10px;"></i> 人类的「护城河」具体指什么？</span>
+          <i class="fas fa-chevron-down"></i>
+        </button>
+        <div class="faq-answer">
+          <div class="faq-answer-content">护城河指的是AI难以替代的人类核心能力，包括：复杂决策与判断、情感与共情能力、创造力与审美、跨领域知识整合、以及面对面的信任关系建立。这些能力需要人类独有的经验、直觉和道德判断，短期内AI无法企及。</div>
+        </div>
+      </div>
+
+      <div class="faq-item">
+        <button class="faq-question" onclick="toggleFAQ(this)">
+          <span><i class="fas fa-chevron-right" style="color:#2563eb; margin-right:10px;"></i> 我的职业风险高，应该立刻转行吗？</span>
+          <i class="fas fa-chevron-down"></i>
+        </button>
+        <div class="faq-answer">
+          <div class="faq-answer-content">不必盲目转行。高风险≠失业，而是意味着你的工作内容正在被重塑。建议：1）主动掌握AI工具，成为「会用AI的人」；2）向「AI增强」方向转型，例如从基础核算转向财务咨询；3）强化护城河技能，如客户沟通、战略决策。先评估再行动。</div>
+        </div>
+      </div>
+
+      <div class="faq-item">
+        <button class="faq-question" onclick="toggleFAQ(this)">
+          <span><i class="fas fa-chevron-right" style="color:#2563eb; margin-right:10px;"></i> 哪些职业的AI替代风险最低？</span>
+          <i class="fas fa-chevron-down"></i>
+        </button>
+        <div class="faq-answer">
+          <div class="faq-answer-content">目前风险最低的职业集中在需要深度人际互动、复杂现场决策和创造性工作的领域。例如心理治疗师（12%）、外科医生（18%）、幼儿教师（22%）、建筑项目经理（26%）等。这些职业的护城河极强，AI短期内只能起到辅助作用。</div>
+        </div>
+      </div>
+
+      <div class="faq-item">
+        <button class="faq-question" onclick="toggleFAQ(this)">
+          <span><i class="fas fa-chevron-right" style="color:#2563eb; margin-right:10px;"></i> AI 替代风险数据是如何计算的？</span>
+          <i class="fas fa-chevron-down"></i>
+        </button>
+        <div class="faq-answer">
+          <div class="faq-answer-content">我们的风险评估综合了多个维度：1）任务级AI可行性分析（参考Anthropic、OpenAI等实测数据）；2）职业任务结构特征（重复性、结构化程度）；3）行业AI渗透率；4）专家调研与劳工统计。每个职业的评分基于200+个任务粒度的评估，确保准确性。</div>
+        </div>
+      </div>
+
+      <div class="faq-item">
+        <button class="faq-question" onclick="toggleFAQ(this)">
+          <span><i class="fas fa-chevron-right" style="color:#2563eb; margin-right:10px;"></i> 如何利用AI增强我的职业竞争力？</span>
+          <i class="fas fa-chevron-down"></i>
+        </button>
+        <div class="faq-answer">
+          <div class="faq-answer-content">AI增强的关键是「人机协作」。例如：会计师可以使用AI工具自动完成数据录入和报表生成，从而将精力集中在税务筹划和客户咨询上；设计师可以用AI生成初稿，然后专注创意打磨和客户沟通。核心是让AI处理「怎么做」，人类专注「为什么做」和「做什么」。</div>
+        </div>
+      </div>
+
+      <div class="faq-item">
+        <button class="faq-question" onclick="toggleFAQ(this)">
+          <span><i class="fas fa-chevron-right" style="color:#2563eb; margin-right:10px;"></i> 这个排行榜的数据来源可靠吗？</span>
+          <i class="fas fa-chevron-down"></i>
+        </button>
+        <div class="faq-answer">
+          <div class="faq-answer-content">我们的数据整合了各国劳工统计局（BLS、ONS等）、世界经济论坛、麦肯锡行业报告，以及Anthropic、OpenAI发布的AI能力实测数据。所有数据均标注来源和更新时间，确保透明可追溯。</div>
+        </div>
+      </div>
+
+      <div class="faq-item">
+        <button class="faq-question" onclick="toggleFAQ(this)">
+          <span><i class="fas fa-chevron-right" style="color:#2563eb; margin-right:10px;"></i> 新手如何入门AI工具提升工作效率？</span>
+          <i class="fas fa-chevron-down"></i>
+        </button>
+        <div class="faq-answer">
+          <div class="faq-answer-content">建议从高频重复场景入手：1）使用AI助手（如ChatGPT、Claude）辅助撰写邮件、报告初稿；2）用AI工具（如Grammarly、Notion AI）优化文案；3）尝试AI数据分析工具（如Power BI Copilot）快速生成图表。先从小处着手，逐步建立人机协作的工作流。</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ========================================================= -->
+    <!-- 5. 数据来源说明 -->
+    <div class="source-block">
+      <strong><i class="fas fa-database"></i> 数据来源说明</strong>
+      <p style="margin-top: 6px;">
+        JobPulseAI 的职业数据整合自以下权威来源：
+        <strong>美国劳工统计局 (BLS)</strong> · 
+        <strong>英国国家统计局 (ONS)</strong> · 
+        <strong>澳大利亚统计局 (ABS)</strong> · 
+        <strong>加拿大统计局</strong> · 
+        <strong>德国联邦统计局</strong> · 
+        <strong>世界经济论坛 (WEF)</strong> · 
+        <strong>麦肯锡全球研究院</strong> · 
+        <strong>Anthropic Economic Index</strong> (基于真实AI使用数据) · 
+        <strong>OpenAI 能力评估</strong>。
+      </p>
+      <p style="margin-top: 4px;">
+        所有职业风险评分均基于任务级分析，结合AI技术可行性、行业渗透率及专家调研。数据每月更新，确保反映最新的AI技术进展和就业市场

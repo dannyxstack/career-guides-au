@@ -1,7 +1,7 @@
 ---
 import Base from '../../layouts/Base.astro';
 import { SECTORS, sectorIcon, occupationsInSector, type SectorOcc } from '../../lib/industries';
-import { COUNTRIES, countryName } from '../../lib/data';
+import { COUNTRIES, countryName, tr } from '../../lib/data';
 import { pageLocale, contentLocale, hrefIndustry, hrefIndustries } from '../../lib/i18n';
 import { expBand } from '../../lib/ui';
 
@@ -18,7 +18,7 @@ const cards = SECTORS
   .map((s) => ({ s, count: s.by_country[cc] ?? 0 }))
   .sort((a, b) => b.count - a.count)
   .map(({ s, count }) => {
-    const withExp = occupationsInSector(cc, s.id).filter((o) => o.aioe != null);
+    const withExp = occupationsInSector(cc, s.id, CL).filter((o) => o.aioe != null);
     const byRisk = [...withExp].sort((a, b) => (b.aioe as number) - (a.aioe as number));
     const bySafe = [...withExp].sort((a, b) => (a.aioe as number) - (b.aioe as number));
     const riskiest: SectorOcc | null = byRisk.find((o) => !used.has(o.slug)) || byRisk[0] || null;
@@ -39,14 +39,14 @@ const riskColor = (aioe: number | null) => {
 };
 ---
 <Base
-  title="Industries — AI exposure across 20 sectors | AI Job Risk"
-  description="Explore AI exposure across 20 industry sectors. An occupation can belong to several industries (many-to-many)."
+  title={`${tr('Industries — AI exposure across 20 sectors', CL)} | AI Job Risk`}
+  description={tr('Explore AI exposure across 20 industry sectors. An occupation can belong to several industries (many-to-many).', CL)}
   active="industries"
 >
   <div class="container">
     <header class="ind-head">
-      <h1>Industries</h1>
-      <p class="subhead">Explore AI exposure across <strong>20 industry sectors</strong>. An occupation can belong to several industries (a many-to-many relationship). Use the country selector to view other national datasets.</p>
+      <h1>{tr('Industries', CL)}</h1>
+      <p class="subhead">{tr('Explore AI exposure across 20 industry sectors. An occupation can belong to several industries (a many-to-many relationship). Use the country selector to view other national datasets.', CL)}</p>
       <label class="country-select">
         <i class="fas fa-globe"></i>
         <select onchange="if(this.value)window.location.href=this.value;">
@@ -60,17 +60,17 @@ const riskColor = (aioe: number | null) => {
         <a href={hrefIndustry(loc, s.id, cc)} class="ind-card">
           <div class="ic-head">
             <span class="ic-icon"><i class={`fas ${sectorIcon(s.id)}`}></i></span>
-            <span class="ic-title">{s.name}</span>
+            <span class="ic-title">{tr(s.name, CL)}</span>
           </div>
-          <div class="ic-count">{s.count.toLocaleString('en')} occupations</div>
+          <div class="ic-count">{s.count.toLocaleString('en')} {tr('occupations', CL)}</div>
           {(s.riskiest || s.safest) && (
             <div class="ic-extremes">
               {s.riskiest && (
-                <div class="ic-ex"><span class="ie-label"><i class="fas fa-triangle-exclamation"></i> Riskiest</span>
+                <div class="ic-ex"><span class="ie-label"><i class="fas fa-triangle-exclamation" style={`color:${riskColor(s.riskiest.aioe)}`}></i> {tr('Riskiest', CL)}</span>
                   <span class="ie-occ" style={`color:${riskColor(s.riskiest.aioe)}`}>{s.riskiest.name}</span></div>
               )}
               {s.safest && (
-                <div class="ic-ex"><span class="ie-label"><i class="fas fa-shield-halved"></i> Safest</span>
+                <div class="ic-ex"><span class="ie-label"><i class="fas fa-shield-halved" style={`color:${riskColor(s.safest.aioe)}`}></i> {tr('Safest', CL)}</span>
                   <span class="ie-occ" style={`color:${riskColor(s.safest.aioe)}`}>{s.safest.name}</span></div>
               )}
             </div>
@@ -80,7 +80,7 @@ const riskColor = (aioe: number | null) => {
     </div>
 
     <div class="provenance card">
-      <strong>Data provenance</strong> — Occupation-to-industry mapping uses the BLS National Employment Matrix (many-to-many; membership threshold ≥1% of the occupation's employment). AI-exposure scores derive from <strong>ILO Working Paper 140</strong> and <strong>Eloundou et al. (OpenAI)</strong>. Scores reflect the occupation overall, not industry-specific. Shown here for {countryName(cc, CL)}.
+      <strong>{tr('Data provenance', CL)}</strong> — {tr("Occupation-to-industry mapping uses the BLS National Employment Matrix (many-to-many; membership threshold ≥1% of the occupation's employment). AI-exposure scores derive from ILO Working Paper 140 and Eloundou et al. (OpenAI). Scores reflect the occupation overall, not industry-specific.", CL)} · {countryName(cc, CL)}
     </div>
   </div>
 

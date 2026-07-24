@@ -1,16 +1,18 @@
 ---
 import Base from '../layouts/Base.astro';
-import { pageLocale, withL } from '../lib/i18n';
+import { pageLocale, contentLocale, withL } from '../lib/i18n';
+import { tr } from '../lib/data';
 const loc = pageLocale(Astro);
+const CL = contentLocale(loc);
 ---
-<Base title="Not found — AI Job Risk" description="Page not found.">
+<Base title={`${tr('Not found', CL)} — AI Job Risk`} description={tr('Page not found.', CL)}>
   <div class="container nf">
     <h1>404</h1>
-    <p class="muted">That page could not be found.</p>
+    <p class="muted">{tr('That page could not be found.', CL)}</p>
     <div class="acts">
-      <a class="btn primary" href={withL(loc, '/')}>Home</a>
-      <a class="btn" href={withL(loc, '/search')}>Browse occupations</a>
-      <a class="btn" href={withL(loc, '/rankings')}>Rankings</a>
+      <a class="btn primary" href={withL(loc, '/')}>{tr('Home', CL)}</a>
+      <a class="btn" href={withL(loc, '/search')}>{tr('Browse occupations', CL)}</a>
+      <a class="btn" href={withL(loc, '/rankings')}>{tr('Rankings', CL)}</a>
     </div>
   </div>
   <style>

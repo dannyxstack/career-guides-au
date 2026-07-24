@@ -3,24 +3,26 @@ import Base from '../../layouts/Base.astro';
 import RiskMap from '../../components/RiskMap.astro';
 import { buildGlobalRiskMap } from '../../lib/riskmap';
 import { riskMeta } from '../../lib/riskmap-meta';
-import { pageLocale } from '../../lib/i18n';
+import { pageLocale, contentLocale } from '../../lib/i18n';
+import { tr } from '../../lib/data';
 
 const loc = pageLocale(Astro);
+const CL = contentLocale(loc);
 const layout = buildGlobalRiskMap();
 const meta = riskMeta(layout, loc);
 ---
 <Base
-  title="Global AI Job Risk Map | AI Job Risk"
-  description="A treemap of the global workforce coloured by AI automation exposure — area is workforce, colour is AI risk."
+  title={`${tr('Global AI Job Risk Map', CL)} | AI Job Risk`}
+  description={tr('A treemap of the global workforce coloured by AI automation exposure — area is workforce, colour is AI risk.', CL)}
   active="map"
 >
   <div class="container map-wrap">
     <header class="map-head">
-      <h1>AI Job Risk Map — Global</h1>
-      <p class="subhead">Each tile is an occupation; area is its global workforce and colour is AI automation exposure (green = lower, red = higher). Hover for details, click to open the occupation.</p>
+      <h1>{tr('AI Job Risk Map — Global', CL)}</h1>
+      <p class="subhead">{tr('Each tile is an occupation; area is its global workforce and colour is AI automation exposure (green = lower, red = higher). Hover for details, click to open the occupation.', CL)}</p>
     </header>
-    <RiskMap layout={layout} meta={meta} outlineKey="WORLD" activeKey="WORLD" locale={loc} ariaLabel="Global AI job risk treemap">
-      <span slot="foot">Area ∝ workforce (sum across countries). Colour ∝ AI automation exposure (1–10). Estimates only.</span>
+    <RiskMap layout={layout} meta={meta} outlineKey="WORLD" activeKey="WORLD" locale={loc} ariaLabel={tr('Global AI job risk treemap', CL)}>
+      <span slot="foot">{tr('Area ∝ workforce (sum across countries). Colour ∝ AI automation exposure (1–10). Estimates only.', CL)}</span>
     </RiskMap>
   </div>
   <style>

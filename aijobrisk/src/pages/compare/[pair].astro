@@ -28,25 +28,25 @@ const sevCls = (band: { cls: string }) => (band.cls === 'high' || band.cls === '
 // —— 评分维度取值 ——
 const dimVal = (o: Occ, dim: string): number | null => o.ratings.find((r) => r.dimension === dim)?.stars ?? null;
 const scale = (v: number | null) => (v != null ? `${v}/10` : '—');
-const certLabel = (o: Occ) => { const v = dimVal(o, 'certification_difficulty'); return v == null ? '—' : `${v}/10 (${v >= 7 ? 'High' : v >= 4 ? 'Moderate' : 'Low'})`; };
+const certLabel = (o: Occ) => { const v = dimVal(o, 'certification_difficulty'); return v == null ? '—' : `${v}/10 (${v >= 7 ? tr('High', CL) : v >= 4 ? tr('Moderate', CL) : tr('Low', CL)})`; };
 function eduSummary(o: Occ): string {
   if (!o.education || !o.education.length) return '—';
   const f = o.education[0];
   const stage = tr(f.stage, CL); const dur = tr(f.duration, CL);
-  const more = o.education.length > 1 ? ` (+${o.education.length - 1} more)` : '';
+  const more = o.education.length > 1 ? ` (+${o.education.length - 1} ${tr('more', CL)})` : '';
   return (dur ? `${stage} · ${dur}` : stage) + more;
 }
 
 // —— 一句话结论（由数据派生，非编造）——
 function verdict(): string {
-  if (!a.ai || !b.ai) return `${na} and ${nb} differ in how AI reshapes their tasks — compare the exposure, human moat and dimensions below.`;
+  if (!a.ai || !b.ai) return `${na} ${tr('and', CL)} ${nb} ${tr('differ in how AI reshapes their tasks — compare the exposure, human moat and dimensions below.', CL)}`;
   const hi = (sa.moat ?? 0) >= (sb.moat ?? 0) ? { n: na, m: sa.moat } : { n: nb, m: sb.moat };
   const lo = hi.n === na ? { n: nb, m: sb.moat } : { n: na, m: sa.moat };
   const pay = Number(a.avg_salary ?? 0) >= Number(b.avg_salary ?? 0) ? { n: na, s: a.avg_salary, c: a.country } : { n: nb, s: b.avg_salary, c: b.country };
-  let s = `Both roles face notable AI task exposure (${scale(sa.exp)} vs ${scale(sb.exp)}).`;
+  let s = `${tr('Both roles face notable AI task exposure', CL)} (${scale(sa.exp)} ${tr('vs', CL)} ${scale(sb.exp)}).`;
   if (hi.m != null && lo.m != null && hi.m !== lo.m)
-    s += ` ${hi.n}'s deeper human moat (${hi.m}/10 vs ${lo.m}/10) makes it more resilient to AI displacement.`;
-  if (pay.s) s += ` ${pay.n} pays more on average (${fmtSalary(pay.s, pay.c)}).`;
+    s += ` ${hi.n} — ${tr('deeper human moat', CL)} (${hi.m}/10 ${tr('vs', CL)} ${lo.m}/10) ${tr('makes it more resilient to AI displacement.', CL)}`;
+  if (pay.s) s += ` ${pay.n} ${tr('pays more on average', CL)} (${fmtSalary(pay.s, pay.c)}).`;
   return s;
 }
 
@@ -58,32 +58,32 @@ const moatA = (a.ai?.moat_zh || []).map((x) => tr(x, CL));
 const moatB = (b.ai?.moat_zh || []).map((x) => tr(x, CL));
 
 const FAQ = [
-  { q: `Should a ${na.toLowerCase()} retrain toward ${nb.toLowerCase()}?`, a: `It depends on the human moat and pay gap. A deeper moat and higher salary can justify retraining, but weigh the education path and certification barrier shown above. Focus on analytical, advisory and AI-tooling skills either way.` },
-  { q: 'Will AI eliminate these jobs entirely?', a: 'Not entirely. High exposure means routine tasks (data entry, standard drafting, reconciliation) are highly automatable, while judgement, advisory and accountability remain human. Workers who move up into those areas stay valuable.' },
-  { q: 'What does the AI task-exposure score mean?', a: 'The 0–10 score reflects how much of an occupation\'s core tasks could be performed or substantially augmented by generative AI, based on task-exposure research. Higher means greater potential disruption — not a guarantee of job loss.' },
-  { q: 'Where does the data come from?', a: 'Official national labour statistics (e.g. BLS OEWS, O*NET) combined with generative-AI exposure research — ILO Working Paper 140 and Eloundou et al. "GPTs are GPTs" (OpenAI). The ILO paper is a working paper, not peer-reviewed. Figures are estimates and indicative only.' },
+  { q: `${tr('Should a', CL)} ${na.toLowerCase()} ${tr('retrain toward', CL)} ${nb.toLowerCase()}?`, a: tr('It depends on the human moat and pay gap. A deeper moat and higher salary can justify retraining, but weigh the education path and certification barrier shown above. Focus on analytical, advisory and AI-tooling skills either way.', CL) },
+  { q: tr('Will AI eliminate these jobs entirely?', CL), a: tr('Not entirely. High exposure means routine tasks (data entry, standard drafting, reconciliation) are highly automatable, while judgement, advisory and accountability remain human. Workers who move up into those areas stay valuable.', CL) },
+  { q: tr('What does the AI task-exposure score mean?', CL), a: tr("The 0–10 score reflects how much of an occupation's core tasks could be performed or substantially augmented by generative AI, based on task-exposure research. Higher means greater potential disruption — not a guarantee of job loss.", CL) },
+  { q: tr('Where does the data come from?', CL), a: tr('Official national labour statistics (e.g. BLS OEWS, O*NET) combined with generative-AI exposure research — ILO Working Paper 140 and Eloundou et al. "GPTs are GPTs" (OpenAI). The ILO paper is a working paper, not peer-reviewed. Figures are estimates and indicative only.', CL) },
 ];
 const faqLd = { '@context': 'https://schema.org', '@type': 'FAQPage',
   mainEntity: FAQ.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })) };
 ---
-<Base title={`${na} vs ${nb}: AI risk comparison | AI Job Risk`}
-  description={`Compare ${na} and ${nb}: AI task exposure, the tasks AI takes over and augments, the human moat, salary, education and demand.`}
+<Base title={`${na} ${tr('vs', CL)} ${nb}: ${tr('AI risk comparison', CL)} | AI Job Risk`}
+  description={`${tr('Compare', CL)} ${na} ${tr('and', CL)} ${nb}: ${tr('AI task exposure, the tasks AI takes over and augments, the human moat, salary, education and demand.', CL)}`}
   active="compare" jsonLd={faqLd}>
   <div class="container cmp">
-    <nav class="breadcrumb"><a href={withL(loc, '/')}>Home</a> <span>/</span> <a href={hrefCompare(loc)}>Compare</a> <span>/</span> {na} vs {nb}</nav>
+    <nav class="breadcrumb"><a href={withL(loc, '/')}>{tr('Home', CL)}</a> <span>/</span> <a href={hrefCompare(loc)}>{tr('Compare', CL)}</a> <span>/</span> {na} {tr('vs', CL)} {nb}</nav>
 
     <!-- Header + score cards -->
     <header class="cmp-header">
-      <h1>{na} vs {nb}: AI Risk Comparison</h1>
+      <h1>{na} {tr('vs', CL)} {nb}: {tr('AI Risk Comparison', CL)}</h1>
       <div class="score-row">
         {[{ o: a, n: na, s: sa, band: banda }, { o: b, n: nb, s: sb, band: bandb }].map(({ o, n, s, band }) => (
           <a class="score-card" href={hrefJob(loc, o.slug)}>
             <div class="occ-label"><i class={`fas ${categoryIcon(o.category)}`}></i> {n}</div>
             <div class="ai-risk-number">{s.exp != null ? s.exp.toFixed(1) : '—'}<span class="out-of">/10</span></div>
-            <span class={`severity-tag sev-${sevCls(band)}`}>{band.label} risk</span>
+            <span class={`severity-tag sev-${sevCls(band)}`}>{tr(band.label, CL)} {tr('risk', CL)}</span>
             <div class="exposure-line">
-              {s.aioe != null && <>AI exposure percentile: <b>{s.aioe}/100</b></>}
-              {s.moat != null && <> · Human moat: <b>{s.moat}/10</b></>}
+              {s.aioe != null && <>{tr('AI exposure percentile', CL)}: <b>{s.aioe}/100</b></>}
+              {s.moat != null && <> · {tr('Human moat', CL)}: <b>{s.moat}/10</b></>}
               <span class="ctry"> · {countryName(o.country, CL)}</span>
             </div>
           </a>
@@ -96,26 +96,26 @@ const faqLd = { '@context': 'https://schema.org', '@type': 'FAQPage',
 
     <!-- Tasks AI takes over -->
     <section>
-      <h2 class="section-title">Tasks most exposed to AI</h2>
+      <h2 class="section-title">{tr('Tasks most exposed to AI', CL)}</h2>
       <div class="two-col">
         {[{ n: na, list: replacedA }, { n: nb, list: replacedB }].map(({ n, list }) => (
           <div class="col-card sec-tint-red">
             <h3 class="c-red"><i class="fas fa-circle-minus"></i> {n}</h3>
-            {list.length ? <ul class="task-list">{list.map((x) => <li>{x}</li>)}</ul> : <p class="muted small">No task data.</p>}
+            {list.length ? <ul class="task-list">{list.map((x) => <li>{x}</li>)}</ul> : <p class="muted small">{tr('No task data.', CL)}</p>}
           </div>
         ))}
       </div>
-      <p class="illustrative-note">Task lists come from the occupation's AI-era analysis; headline scores from cited research.</p>
+      <p class="illustrative-note">{tr("Task lists come from the occupation's AI-era analysis; headline scores from cited research.", CL)}</p>
     </section>
 
     <!-- Where AI augments -->
     <section>
-      <h2 class="section-title">Where AI augments</h2>
+      <h2 class="section-title">{tr('Where AI augments', CL)}</h2>
       <div class="two-col">
         {[{ n: na, list: augA }, { n: nb, list: augB }].map(({ n, list }) => (
           <div class="col-card sec-tint-green">
             <h3 class="c-green"><i class="fas fa-circle-plus"></i> {n}</h3>
-            {list.length ? <ul class="task-list">{list.map((x) => <li>{x}</li>)}</ul> : <p class="muted small">No task data.</p>}
+            {list.length ? <ul class="task-list">{list.map((x) => <li>{x}</li>)}</ul> : <p class="muted small">{tr('No task data.', CL)}</p>}
           </div>
         ))}
       </div>
@@ -123,15 +123,15 @@ const faqLd = { '@context': 'https://schema.org', '@type': 'FAQPage',
 
     <!-- Human moat -->
     <section>
-      <h2 class="section-title">Human moat</h2>
+      <h2 class="section-title">{tr('Human moat', CL)}</h2>
       <div class="two-col">
         {[{ n: na, list: moatA, m: sa.moat }, { n: nb, list: moatB, m: sb.moat }].map(({ n, list, m }) => (
           <div class="col-card sec-tint-blue">
-            <h3><i class="fas fa-shield-halved" style="color:var(--brand)"></i> {n} · Moat: {m != null ? `${m}/10` : '—'}</h3>
+            <h3><i class="fas fa-shield-halved" style="color:var(--brand)"></i> {n} · {tr('Moat', CL)}: {m != null ? `${m}/10` : '—'}</h3>
             {list.length > 0 && <ul class="task-list">{list.map((x) => <li>{x}</li>)}</ul>}
             {m != null && (
               <div class="moat-bar">
-                <span class="mb-lbl">{m >= 6 ? 'Deep' : m >= 4 ? 'Moderate' : 'Shallow'}</span>
+                <span class="mb-lbl">{m >= 6 ? tr('Deep', CL) : m >= 4 ? tr('Moderate', CL) : tr('Shallow', CL)}</span>
                 <div class="moat-bar-bg"><div class:list={['moat-bar-fill', { deep: m >= 6, shallow: m < 4 }]} style={`width:${m * 10}%`}></div></div>
                 <span class="mb-val">{m.toFixed(1)}</span>
               </div>
@@ -143,17 +143,17 @@ const faqLd = { '@context': 'https://schema.org', '@type': 'FAQPage',
 
     <!-- Other dimensions -->
     <section>
-      <h2 class="section-title">Other dimensions</h2>
+      <h2 class="section-title">{tr('Other dimensions', CL)}</h2>
       <div class="dimensions-grid">
         {[a, b].map((o) => (
           <div class="dimension-card">
             <h3>{o === a ? na : nb}</h3>
-            <div class="dim-row"><span class="dim-label">Avg. salary</span><span class="dim-value"><strong>{fmtSalary(o.avg_salary, o.country)}</strong></span></div>
-            <div class="dim-row"><span class="dim-label">Education path</span><span class="dim-value">{eduSummary(o)}</span></div>
-            <div class="dim-row"><span class="dim-label">Certification barrier</span><span class="dim-value">{certLabel(o)}</span></div>
-            <div class="dim-row"><span class="dim-label">Future prospect</span><span class="dim-value">{scale(dimVal(o, 'future_prospect'))}</span></div>
-            <div class="dim-row"><span class="dim-label">Job demand</span><span class="dim-value">{scale(dimVal(o, 'job_demand'))}</span></div>
-            <div class="dim-row"><span class="dim-label">Overall score</span><span class="dim-value">{o.overall_score != null ? `${o.overall_score}/10` : '—'}</span></div>
+            <div class="dim-row"><span class="dim-label">{tr('Avg. salary', CL)}</span><span class="dim-value"><strong>{fmtSalary(o.avg_salary, o.country)}</strong></span></div>
+            <div class="dim-row"><span class="dim-label">{tr('Education path', CL)}</span><span class="dim-value">{eduSummary(o)}</span></div>
+            <div class="dim-row"><span class="dim-label">{tr('Certification barrier', CL)}</span><span class="dim-value">{certLabel(o)}</span></div>
+            <div class="dim-row"><span class="dim-label">{tr('Future prospect', CL)}</span><span class="dim-value">{scale(dimVal(o, 'future_prospect'))}</span></div>
+            <div class="dim-row"><span class="dim-label">{tr('Job demand', CL)}</span><span class="dim-value">{scale(dimVal(o, 'job_demand'))}</span></div>
+            <div class="dim-row"><span class="dim-label">{tr('Overall score', CL)}</span><span class="dim-value">{o.overall_score != null ? `${o.overall_score}/10` : '—'}</span></div>
           </div>
         ))}
       </div>
@@ -161,7 +161,7 @@ const faqLd = { '@context': 'https://schema.org', '@type': 'FAQPage',
 
     <!-- FAQ -->
     <section class="faq-section">
-      <h2 class="section-title">Frequently asked questions</h2>
+      <h2 class="section-title">{tr('Frequently asked questions', CL)}</h2>
       {FAQ.map((f) => (
         <details><summary>{f.q}</summary><p>{f.a}</p></details>
       ))}

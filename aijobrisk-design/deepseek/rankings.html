@@ -1,0 +1,553 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI Job Risk — leaderboards</title>
+  <style>
+    /* ── design tokens ── */
+    :root {
+      /* colour system */
+      --bg: #f2f0f0;
+      --surface: #ffffff;
+      --surface-alt: #f9f8f7;
+      --text: #1a1a1e;
+      --text-secondary: #5c5c61;
+      --text-muted: #8a8a90;
+      --border: #e0dddb;
+      --shadow: rgba(0,0,0,0.04) 0 4px 12px, rgba(0,0,0,0.02) 0 1px 3px;
+      --accent: #1f4b8a;        /* deep authoritative blue */
+      --accent-soft: #e3eaf4;
+      --accent-light: #c8d8ed;
+      --green: #1f7a5c;
+      --green-bg: #e6f2ed;
+      --red: #b13a40;
+      --red-bg: #f7e8e9;
+      --gold: #ae7d2e;
+      --gold-bg: #faefdc;
+      --moat: #5d3a7a;
+      --moat-bg: #eee8f4;
+      --rank1-bg: #faf6f0;
+      --link: #1f4b8a;
+      /* radius & space */
+      --r: 12px;
+      --r-sm: 8px;
+      --space-xs: 6px;
+      --space-s: 12px;
+      --space-m: 20px;
+      --space-l: 32px;
+      --space-xl: 48px;
+    }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      line-height: 1.5;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    /* ── type scale ── */
+    h1 {
+      font-size: clamp(2rem, 4vw, 2.8rem);
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      line-height: 1.2;
+    }
+    h2 {
+      font-size: 1.25rem;
+      font-weight: 600;
+      letter-spacing: -0.01em;
+    }
+    h3 {
+      font-size: 1rem;
+      font-weight: 600;
+    }
+    .subhead {
+      font-size: 1rem;
+      color: var(--text-secondary);
+      max-width: 620px;
+    }
+    .body-text {
+      font-size: 0.9375rem;
+    }
+    .small {
+      font-size: 0.8125rem;
+    }
+    .tiny {
+      font-size: 0.75rem;
+      letter-spacing: 0.02em;
+    }
+
+    /* ── layout ── */
+    .container {
+      max-width: 1280px;
+      margin: 0 auto;
+      padding: 0 var(--space-m);
+    }
+
+    /* ── nav ── */
+    nav {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: var(--space-s) 0;
+      border-bottom: 1px solid var(--border);
+      margin-bottom: var(--space-l);
+    }
+    .nav-logo {
+      font-weight: 700;
+      font-size: 1.1rem;
+      color: var(--accent);
+      letter-spacing: -0.02em;
+    }
+    .nav-links {
+      display: flex;
+      gap: var(--space-m);
+      list-style: none;
+    }
+    .nav-links a {
+      text-decoration: none;
+      color: var(--text-secondary);
+      font-size: 0.9375rem;
+      font-weight: 500;
+      transition: color 0.2s;
+    }
+    .nav-links a:hover { color: var(--accent); }
+
+    /* ── country selector (static) ── */
+    .country-selector {
+      display: inline-flex;
+      align-items: center;
+      gap: var(--space-xs);
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--r-sm);
+      padding: var(--space-xs) var(--space-s);
+      cursor: default;
+      font-size: 0.9375rem;
+      color: var(--text);
+    }
+    .country-selector svg {
+      width: 18px;
+      height: 18px;
+      fill: none;
+      stroke: var(--text-secondary);
+      stroke-width: 1.5;
+    }
+    .country-selector::after {
+      content: "▼";
+      font-size: 0.65rem;
+      margin-left: 4px;
+      color: var(--text-muted);
+    }
+
+    /* ── header area ── */
+    .header-area {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: flex-end;
+      justify-content: space-between;
+      gap: var(--space-m);
+      margin-bottom: var(--space-l);
+    }
+    .header-area .subhead {
+      margin-top: var(--space-xs);
+    }
+
+    /* ── grid ── */
+    .board-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(min(100%, 360px), 1fr));
+      gap: var(--space-m);
+      margin-bottom: var(--space-xl);
+    }
+
+    /* ── board card ── */
+    .board-card {
+      background: var(--surface);
+      border-radius: var(--r);
+      box-shadow: var(--shadow);
+      padding: var(--space-m);
+      display: flex;
+      flex-direction: column;
+      transition: box-shadow 0.2s;
+      border: 1px solid var(--border);
+    }
+    .board-card-header {
+      margin-bottom: var(--space-s);
+    }
+    .board-card-header .board-icon {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 32px;
+      height: 32px;
+      border-radius: var(--r-sm);
+      margin-bottom: var(--space-xs);
+    }
+    .board-card-header .board-icon svg {
+      width: 18px;
+      height: 18px;
+      fill: none;
+      stroke-width: 1.8;
+    }
+    .board-card-header h2 {
+      margin-top: var(--space-xs);
+    }
+    .board-card-header .board-desc {
+      font-size: 0.8125rem;
+      color: var(--text-muted);
+      margin-top: 2px;
+    }
+
+    /* ── ranked list ── */
+    .rank-list {
+      list-style: none;
+      margin-top: var(--space-s);
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      gap: var(--space-xs);
+    }
+    .rank-item {
+      display: flex;
+      align-items: baseline;
+      gap: var(--space-s);
+      padding: var(--space-xs) var(--space-s);
+      border-radius: var(--r-sm);
+      transition: background 0.1s;
+      position: relative;
+    }
+    .rank-item.rank-1 {
+      background: var(--rank1-bg);
+      font-weight: 600;
+      border-left: 3px solid var(--gold);
+    }
+    .rank-number {
+      font-weight: 500;
+      color: var(--text-muted);
+      min-width: 22px;
+      font-size: 0.875rem;
+      text-align: right;
+    }
+    .rank-1 .rank-number {
+      color: var(--gold);
+      font-weight: 700;
+    }
+    .rank-occupation {
+      flex: 1;
+      font-size: 0.9375rem;
+      line-height: 1.4;
+    }
+    .rank-metric {
+      text-align: right;
+      white-space: nowrap;
+      font-variant-numeric: tabular-nums;
+    }
+    .rank-metric .primary-metric {
+      display: block;
+      font-weight: 600;
+      font-size: 0.9375rem;
+    }
+    .rank-metric .secondary-metric {
+      display: block;
+      font-size: 0.75rem;
+      color: var(--text-muted);
+      font-weight: 400;
+    }
+    .exposure-label {
+      display: inline-block;
+      font-size: 0.6875rem;
+      font-weight: 600;
+      letter-spacing: 0.03em;
+      padding: 1px 8px;
+      border-radius: 20px;
+      margin-left: 6px;
+      vertical-align: middle;
+      text-transform: uppercase;
+    }
+    .exposure-high { background: var(--red-bg); color: var(--red); }
+    .exposure-moderate { background: var(--gold-bg); color: #8a6320; }
+    .exposure-low { background: var(--green-bg); color: var(--green); }
+    .exposure-very-low { background: #eaeff3; color: #4d626d; }
+
+    /* ── view full link ── */
+    .view-full {
+      display: inline-block;
+      margin-top: var(--space-s);
+      font-size: 0.8125rem;
+      font-weight: 600;
+      color: var(--link);
+      text-decoration: none;
+      align-self: flex-start;
+      border-top: 1px solid var(--border);
+      padding-top: var(--space-s);
+      width: 100%;
+      transition: color 0.15s;
+    }
+    .view-full:hover { color: #0f305c; text-decoration: underline; }
+
+    /* ── methodology ── */
+    .methodology-box {
+      background: var(--surface-alt);
+      border: 1px solid var(--border);
+      border-radius: var(--r);
+      padding: var(--space-m) var(--space-l);
+      margin-bottom: var(--space-xl);
+    }
+    .methodology-box h3 {
+      margin-bottom: var(--space-xs);
+    }
+    .methodology-box p {
+      font-size: 0.875rem;
+      color: var(--text-secondary);
+      max-width: 800px;
+    }
+
+    /* ── footer ── */
+    footer {
+      border-top: 1px solid var(--border);
+      padding: var(--space-m) 0;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      gap: var(--space-s);
+      font-size: 0.8125rem;
+      color: var(--text-muted);
+      margin-bottom: var(--space-l);
+    }
+    footer a {
+      color: var(--text-muted);
+      text-decoration: none;
+    }
+    footer a:hover { color: var(--accent); }
+
+    /* ── design system strip ── */
+    .design-strip {
+      background: var(--surface);
+      border-top: 2px solid var(--border);
+      padding: var(--space-m) 0;
+      margin-bottom: 0;
+    }
+    .design-strip .container {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: var(--space-s) var(--space-m);
+    }
+    .swatch-group {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+    .swatch {
+      display: flex;
+      align-items: center;
+      gap: 4px;
+      font-size: 0.6875rem;
+      font-weight: 500;
+      color: var(--text-secondary);
+    }
+    .swatch-circle {
+      width: 18px;
+      height: 18px;
+      border-radius: 50%;
+      border: 1px solid rgba(0,0,0,0.07);
+      flex-shrink: 0;
+    }
+    .design-note {
+      font-size: 0.75rem;
+      color: var(--text-muted);
+      border-left: 1px solid var(--border);
+      padding-left: var(--space-m);
+    }
+
+    /* ── responsive ── */
+    @media (max-width: 640px) {
+      .board-grid { grid-template-columns: 1fr; }
+      .header-area { flex-direction: column; align-items: flex-start; }
+      nav { flex-wrap: wrap; gap: var(--space-s); }
+      .nav-links { gap: var(--space-s); }
+      .methodology-box { padding: var(--space-s); }
+      .design-strip .container { flex-direction: column; align-items: flex-start; }
+      .design-note { border-left: none; padding-left: 0; }
+    }
+    @media (min-width: 641px) and (max-width: 1024px) {
+      .board-grid { grid-template-columns: repeat(2, 1fr); }
+    }
+    @media (min-width: 1025px) {
+      .board-grid { grid-template-columns: repeat(3, 1fr); }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <!-- nav -->
+    <nav>
+      <div class="nav-logo">aijobrisk</div>
+      <ul class="nav-links">
+        <li><a href="#">Rankings</a></li>
+        <li><a href="#">Occupations</a></li>
+        <li><a href="#">Methodology</a></li>
+      </ul>
+    </nav>
+
+    <!-- header -->
+    <div class="header-area">
+      <div>
+        <h1>Job risk &amp; opportunity rankings</h1>
+        <p class="subhead">How exposed is your job to generative AI? Compare salary, workforce size, demand, and human resilience across 6,678 occupations in 14 countries.</p>
+      </div>
+      <div class="country-selector" role="button" aria-label="Selected country: United States. Click to change.">
+        <svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3a15 15 0 0 1 0 18 15 15 0 0 1 0-18z"/></svg>
+        United States
+      </div>
+    </div>
+
+    <!-- boards grid -->
+    <div class="board-grid">
+      <!-- Board 1: Most exposed -->
+      <div class="board-card">
+        <div class="board-card-header">
+          <div class="board-icon" style="background:var(--red-bg);">
+            <svg viewBox="0 0 24 24" stroke="var(--red)" fill="none"><circle cx="12" cy="12" r="10"/><path d="M12 8v5M12 16v1"/></svg>
+          </div>
+          <h2>Most exposed to AI</h2>
+          <div class="board-desc">Highest generative-AI exposure percentile</div>
+        </div>
+        <ol class="rank-list" style="list-style:none;">
+          <li class="rank-item rank-1"><span class="rank-number">1</span><span class="rank-occupation">Correspondence Clerks</span><span class="rank-metric"><span class="primary-metric">100 <span class="exposure-label exposure-high">critical</span></span><span class="secondary-metric">$48,090</span></span></li>
+          <li class="rank-item"><span class="rank-number">2</span><span class="rank-occupation">Writers and Authors</span><span class="rank-metric"><span class="primary-metric">100 <span class="exposure-label exposure-high">critical</span></span><span class="secondary-metric">$86,090</span></span></li>
+          <li class="rank-item"><span class="rank-number">3</span><span class="rank-occupation">Interpreters and Translators</span><span class="rank-metric"><span class="primary-metric">100 <span class="exposure-label exposure-high">critical</span></span><span class="secondary-metric">$66,360</span></span></li>
+          <li class="rank-item"><span class="rank-number">4</span><span class="rank-occupation">Mathematicians</span><span class="rank-metric"><span class="primary-metric">100 <span class="exposure-label exposure-high">critical</span></span><span class="secondary-metric">$129,260</span></span></li>
+          <li class="rank-item"><span class="rank-number">5</span><span class="rank-occupation">Brokerage Clerks</span><span class="rank-metric"><span class="primary-metric">99 <span class="exposure-label exposure-high">critical</span></span><span class="secondary-metric">$72,850</span></span></li>
+        </ol>
+        <a href="ranking-item.html" class="view-full">View full ranking →</a>
+      </div>
+
+      <!-- Board 2: Least exposed -->
+      <div class="board-card">
+        <div class="board-card-header">
+          <div class="board-icon" style="background:var(--green-bg);">
+            <svg viewBox="0 0 24 24" stroke="var(--green)" fill="none"><circle cx="12" cy="12" r="10"/><path d="M9 12l2 2 4-4"/></svg>
+          </div>
+          <h2>Least exposed to AI</h2>
+          <div class="board-desc">Most resilient to automation</div>
+        </div>
+        <ol class="rank-list" style="list-style:none;">
+          <li class="rank-item rank-1"><span class="rank-number">1</span><span class="rank-occupation">Agricultural Equipment Operators</span><span class="rank-metric"><span class="primary-metric">4 <span class="exposure-label exposure-very-low">very low</span></span><span class="secondary-metric">$43,710</span></span></li>
+          <li class="rank-item"><span class="rank-number">2</span><span class="rank-occupation">Athletes and Sports Competitors</span><span class="rank-metric"><span class="primary-metric">4 <span class="exposure-label exposure-very-low">very low</span></span><span class="secondary-metric">$206,180</span></span></li>
+          <li class="rank-item"><span class="rank-number">3</span><span class="rank-occupation">Pile Driver Operators</span><span class="rank-metric"><span class="primary-metric">4 <span class="exposure-label exposure-very-low">very low</span></span><span class="secondary-metric">$80,710</span></span></li>
+          <li class="rank-item"><span class="rank-number">4</span><span class="rank-occupation">Excavating &amp; Loading Machine Operators, Surface Mining</span><span class="rank-metric"><span class="primary-metric">4 <span class="exposure-label exposure-very-low">very low</span></span><span class="secondary-metric">$59,930</span></span></li>
+          <li class="rank-item"><span class="rank-number">5</span><span class="rank-occupation">Cooks, Short Order</span><span class="rank-metric"><span class="primary-metric">4 <span class="exposure-label exposure-very-low">very low</span></span><span class="secondary-metric">$36,120</span></span></li>
+        </ol>
+        <a href="ranking-item.html" class="view-full">View full ranking →</a>
+      </div>
+
+      <!-- Board 3: Highest paying -->
+      <div class="board-card">
+        <div class="board-card-header">
+          <div class="board-icon" style="background:var(--gold-bg);">
+            <svg viewBox="0 0 24 24" stroke="var(--gold)" fill="none"><path d="M12 2l3 7h7l-5.5 5 2 7L12 18l-6.5 3 2-7L2 9h7z"/></svg>
+          </div>
+          <h2>Highest paying</h2>
+          <div class="board-desc">Median annual salary (USD)</div>
+        </div>
+        <ol class="rank-list" style="list-style:none;">
+          <li class="rank-item rank-1"><span class="rank-number">1</span><span class="rank-occupation">Pediatric Surgeons</span><span class="rank-metric"><span class="primary-metric">$502,050</span><span class="secondary-metric">exposure 49 · moderate</span></span></li>
+          <li class="rank-item"><span class="rank-number">2</span><span class="rank-occupation">Cardiologists</span><span class="rank-metric"><span class="primary-metric">$454,940</span><span class="secondary-metric">exposure 49 · moderate</span></span></li>
+          <li class="rank-item"><span class="rank-number">3</span><span class="rank-occupation">Radiologists</span><span class="rank-metric"><span class="primary-metric">$381,530</span><span class="secondary-metric">exposure 80 · high</span></span></li>
+          <li class="rank-item"><span class="rank-number">4</span><span class="rank-occupation">Orthopedic Surgeons (except pediatric)</span><span class="rank-metric"><span class="primary-metric">$373,570</span><span class="secondary-metric">exposure 47 · moderate</span></span></li>
+          <li class="rank-item"><span class="rank-number">5</span><span class="rank-occupation">Anesthesiologists</span><span class="rank-metric"><span class="primary-metric">$360,570</span><span class="secondary-metric">exposure 46 · moderate</span></span></li>
+        </ol>
+        <a href="ranking-item.html" class="view-full">View full ranking →</a>
+      </div>
+
+      <!-- Board 4: Largest workforce -->
+      <div class="board-card">
+        <div class="board-card-header">
+          <div class="board-icon" style="background:#eaeff3;">
+            <svg viewBox="0 0 24 24" stroke="#4d626d" fill="none"><path d="M3 21v-2a4 4 0 0 1 4-4h10a4 4 0 0 1 4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
+          </div>
+          <h2>Largest workforce</h2>
+          <div class="board-desc">Total employed in the United States</div>
+        </div>
+        <ol class="rank-list" style="list-style:none;">
+          <li class="rank-item rank-1"><span class="rank-number">1</span><span class="rank-occupation">Fast Food and Counter Workers</span><span class="rank-metric"><span class="primary-metric">3,662,600</span><span class="secondary-metric">exposure 23 · low</span></span></li>
+          <li class="rank-item"><span class="rank-number">2</span><span class="rank-occupation">Retail Salespersons</span><span class="rank-metric"><span class="primary-metric">3,555,900</span><span class="secondary-metric">exposure 57 · moderate</span></span></li>
+          <li class="rank-item"><span class="rank-number">3</span><span class="rank-occupation">Cashiers</span><span class="rank-metric"><span class="primary-metric">3,357,000</span><span class="secondary-metric">exposure 47 · moderate</span></span></li>
+          <li class="rank-item"><span class="rank-number">4</span><span class="rank-occupation">Registered Nurses</span><span class="rank-metric"><span class="primary-metric">3,200,000</span><span class="secondary-metric">exposure 58 · moderate</span></span></li>
+          <li class="rank-item"><span class="rank-number">5</span><span class="rank-occupation">Customer Service Representatives</span><span class="rank-metric"><span class="primary-metric">2,912,000</span><span class="secondary-metric">exposure 95 · high</span></span></li>
+        </ol>
+        <a href="ranking-item.html" class="view-full">View full ranking →</a>
+      </div>
+
+      <!-- Board 5: Strongest job demand -->
+      <div class="board-card">
+        <div class="board-card-header">
+          <div class="board-icon" style="background:#e4eaf0;">
+            <svg viewBox="0 0 24 24" stroke="#1f4b8a" fill="none"><path d="M12 2L2 7l10 5 10-5-10-5z"/><path d="M2 17l10 5 10-5"/><path d="M2 12l10 5 10-5"/></svg>
+          </div>
+          <h2>Strongest job demand</h2>
+          <div class="board-desc">Projected growth (1–10 scale)</div>
+        </div>
+        <ol class="rank-list" style="list-style:none;">
+          <li class="rank-item rank-1"><span class="rank-number">1</span><span class="rank-occupation">Nurse Practitioners</span><span class="rank-metric"><span class="primary-metric">9.5/10</span><span class="secondary-metric">$137,300 · exp. 63</span></span></li>
+          <li class="rank-item"><span class="rank-number">2</span><span class="rank-occupation">Family Medicine Physicians</span><span class="rank-metric"><span class="primary-metric">9.0/10</span><span class="secondary-metric">$255,820 · exp. 64</span></span></li>
+          <li class="rank-item"><span class="rank-number">3</span><span class="rank-occupation">Nurse Anesthetists</span><span class="rank-metric"><span class="primary-metric">9.0/10</span><span class="secondary-metric">$248,320 · exp. 31</span></span></li>
+          <li class="rank-item"><span class="rank-number">4</span><span class="rank-occupation">Dentists, All Other Specialists</span><span class="rank-metric"><span class="primary-metric">9.0/10</span><span class="secondary-metric">$247,930 · exp. 43</span></span></li>
+          <li class="rank-item"><span class="rank-number">5</span><span class="rank-occupation">Computer &amp; Information Systems Managers</span><span class="rank-metric"><span class="primary-metric">9.0/10</span><span class="secondary-metric">$192,160 · exp. 87</span></span></li>
+        </ol>
+        <a href="ranking-item.html" class="view-full">View full ranking →</a>
+      </div>
+
+      <!-- Board 6: Deepest human moat -->
+      <div class="board-card">
+        <div class="board-card-header">
+          <div class="board-icon" style="background:var(--moat-bg);">
+            <svg viewBox="0 0 24 24" stroke="var(--moat)" fill="none"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+          </div>
+          <h2>Deepest human moat</h2>
+          <div class="board-desc">Hardest for AI to replace (1–10 scale)</div>
+        </div>
+        <ol class="rank-list" style="list-style:none;">
+          <li class="rank-item rank-1"><span class="rank-number">1</span><span class="rank-occupation">Registered Nurses</span><span class="rank-metric"><span class="primary-metric">9.0/10</span><span class="secondary-metric">exposure 58</span></span></li>
+          <li class="rank-item"><span class="rank-number">2</span><span class="rank-occupation">Analog / Mixed-Signal IC Design Engineer</span><span class="rank-metric"><span class="primary-metric">9.0/10</span><span class="secondary-metric">exposure 85</span></span></li>
+          <li class="rank-item"><span class="rank-number">3</span><span class="rank-occupation">Airline Pilots, Copilots &amp; Flight Engineers</span><span class="rank-metric"><span class="primary-metric">9.0/10</span><span class="secondary-metric">exposure 49</span></span></li>
+          <li class="rank-item"><span class="rank-number">4</span><span class="rank-occupation">Commercial Pilots</span><span class="rank-metric"><span class="primary-metric">9.0/10</span><span class="secondary-metric">exposure 39</span></span></li>
+          <li class="rank-item"><span class="rank-number">5</span><span class="rank-occupation">Air Traffic Controllers</span><span class="rank-metric"><span class="primary-metric">9.0/10</span><span class="secondary-metric">exposure 53</span></span></li>
+        </ol>
+        <a href="ranking-item.html" class="view-full">View full ranking →</a>
+      </div>
+    </div>
+
+    <!-- methodology -->
+    <div class="methodology-box">
+      <h3>Data &amp; methodology</h3>
+      <p>Occupational exposure scores are derived from ILO Working Paper 140 (Gmyrek, Berg &amp; Bescond) and Eloundou et al. "GPTs are GPTs" (OpenAI). Salary, employment, and demand data come from official national labour statistics — for the United States: BLS OEWS and O*NET. Coverage: 6,678 occupations across 14 countries. Exposure is a percentile (0–100); labels (critical, high, moderate, low, very low) use fixed thresholds for accessibility.</p>
+    </div>
+
+    <!-- footer -->
+    <footer>
+      <span>© 2025 aijobrisk.com</span>
+      <span><a href="#">Privacy</a> · <a href="#">Terms</a> · <a href="#">Contact</a></span>
+    </footer>
+  </div>
+
+  <!-- design system strip -->
+  <div class="design-strip">
+    <div class="container">
+      <div class="swatch-group">
+        <span class="swatch"><span class="swatch-circle" style="background:#1f4b8a;"></span> #1f4b8a</span>
+        <span class="swatch"><span class="swatch-circle" style="background:#b13a40;"></span> #b13a40</span>
+        <span class="swatch"><span class="swatch-circle" style="background:#1f7a5c;"></span> #1f7a5c</span>
+        <span class="swatch"><span class="swatch-circle" style="background:#ae7d2e;"></span> #ae7d2e</span>
+        <span class="swatch"><span class="swatch-circle" style="background:#5d3a7a;"></span> #5d3a7a</span>
+        <span class="swatch"><span class="swatch-circle" style="background:#1a1a1e;"></span> #1a1a1e</span>
+      </div>
+      <div class="design-note">System font stack · scale: 2.8/1.25/1/0.9375/0.8125/0.75rem · rounded surfaces, soft shadows, authoritative but unaggressive.</div>
+    </div>
+  </div>
+</body>
+</html>

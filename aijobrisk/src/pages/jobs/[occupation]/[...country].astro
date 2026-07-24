@@ -42,8 +42,7 @@ const headlinePct = aioe != null ? aioe : (exposure != null ? Math.round(exposur
 
 const catName = rep.category;
 const catUrl = hrefIndustries(loc);
-const verdict = ai ? tr(ai.verdict_zh, CL) : 'There is not enough evidence for a reliable conclusion yet.';
-const bandTitle = band.label.replace(/^\w/, (c) => c.toUpperCase());
+const verdict = ai ? tr(ai.verdict_zh, CL) : tr('There is not enough evidence for a reliable conclusion yet.', CL);
 // risk-meter 概要三连（job-detail.html 风格）：替代 / 增强 / 护城河 各取首项
 const firstReplaced = ai?.replaced_zh?.[0] ? tr(ai.replaced_zh[0], CL) : null;
 const firstAugmented = ai?.augmented_zh?.[0] ? tr(ai.augmented_zh[0], CL) : null;
@@ -68,8 +67,8 @@ const a2030 = fill(pick(F.a1)).replace('{level}', level)
   + (moat != null ? pick(F.aMoat).replace('{moat}', moat.toFixed(1)) : '')
   + pick(F.a2);
 
-const title = `Will AI replace ${dispName}? — AI risk, salary & outlook | AI Job Risk`;
-const desc = `AI replacement risk, task exposure and the human moat for ${dispName}, plus local salary, licensing and outlook across ${countries.length} countries.`;
+const title = `${tr('Will AI replace', CL)} ${dispName}? — ${tr('AI risk, salary & outlook', CL)} | AI Job Risk`;
+const desc = `${tr('AI replacement risk, task exposure and the human moat for this occupation, plus local salary, licensing and outlook.', CL)} — ${dispName}`;
 const jobLd = {
   '@context': 'https://schema.org', '@type': 'FAQPage',
   mainEntity: [
@@ -84,8 +83,8 @@ const jobLd = {
 <Base title={title} description={desc} active="occupations" jsonLd={(active.faqs || []).length ? jobLd : undefined}>
   <div class="container jd">
     <!-- Breadcrumb -->
-    <nav class="breadcrumb" aria-label="Breadcrumb">
-      <a href={withL(loc, '/')}>Home</a> <span>›</span> <a href={catUrl}>{catName}</a> <span>›</span> <span>{dispName}</span>
+    <nav class="breadcrumb" aria-label={tr('Breadcrumb', CL)}>
+      <a href={withL(loc, '/')}>{tr('Home', CL)}</a> <span>›</span> <a href={catUrl}>{tr(catName, CL)}</a> <span>›</span> <span>{dispName}</span>
     </nav>
 
     <!-- ===== 第一屏：job-detail.html 风格的 detail-section 卡片 ===== -->
@@ -93,16 +92,16 @@ const jobLd = {
       <div class="detail-header">
         <div class="title-group">
           <h1>{dispName}{dispName !== nm && <span class="latin">{nm}</span>}</h1>
-          <span class="country-pill"><i class="fas fa-clock-rotate-left"></i> Occupation baseline · updated {DATA_UPDATED}</span>
+          <span class="country-pill"><i class="fas fa-clock-rotate-left"></i> {tr('Occupation baseline · updated', CL)} {DATA_UPDATED}</span>
           <div class="meta-pills">
-            <span class="pill"><i class="fas fa-industry"></i> {catName}</span>
+            <span class="pill"><i class="fas fa-industry"></i> {tr(catName, CL)}</span>
             <span class="pill"><i class="fas fa-hashtag"></i> {active.anzsco_code || active.occ_code || '—'} ({active.occ_code_type})</span>
-            <span class="pill"><i class="fas fa-globe"></i> {countries.length} countries</span>
+            <span class="pill"><i class="fas fa-globe"></i> {countries.length} {tr('countries', CL)}</span>
           </div>
         </div>
         {headlinePct != null && (
           <div class={`risk-badge-lg ${band.cls}`}>
-            {headlinePct}<small>AI exposure · {band.label}</small>
+            {headlinePct}<small>{tr('AI exposure', CL)} · {tr(band.label, CL)}</small>
           </div>
         )}
       </div>
@@ -110,75 +109,65 @@ const jobLd = {
       {headlinePct != null && (
         <div class="risk-meter">
           <div class="meter-visual">
-            <span class="meter-label">AI exposure</span>
+            <span class="meter-label">{tr('AI exposure', CL)}{aioe != null && <small class="meter-src"> (GenAI · ILO / OpenAI)</small>}</span>
             <div class="meter-bar"><div class="fill" style={`width:${Math.min(headlinePct, 100)}%`}></div></div>
             <span class="meter-num">{headlinePct}<small>{aioe != null ? '/100' : '%'}</small></span>
+            <span class={`risk-badge ${band.cls}`}>{tr(band.label, CL)}</span>
           </div>
           <div class="risk-summary">
-            {firstReplaced && <span class="rs-pill"><i class="fas fa-circle-xmark" style="color:var(--risk-high)"></i> <b>Replaces:</b> {firstReplaced}</span>}
-            {firstAugmented && <span class="rs-pill"><i class="fas fa-circle-check" style="color:var(--risk-low)"></i> <b>Augments:</b> {firstAugmented}</span>}
-            {firstMoat && <span class="rs-pill"><i class="fas fa-shield-halved" style="color:var(--brand)"></i> <b>Moat:</b> {firstMoat}</span>}
+            {firstReplaced && <span class="rs-pill"><i class="fas fa-circle-xmark" style="color:var(--risk-high)"></i> <b>{tr('Replaces:', CL)}</b> {firstReplaced}</span>}
+            {firstAugmented && <span class="rs-pill"><i class="fas fa-circle-check" style="color:var(--risk-low)"></i> <b>{tr('Augments:', CL)}</b> {firstAugmented}</span>}
+            {firstMoat && <span class="rs-pill"><i class="fas fa-shield-halved" style="color:var(--brand)"></i> <b>{tr('Moat:', CL)}</b> {firstMoat}</span>}
           </div>
+          {aioe != null && (
+            <p class="muted meter-pct">{tr('More exposed than about', CL)} {aioe}% {tr('of occupations (percentile; higher = more exposed to generative AI).', CL)}</p>
+          )}
         </div>
       )}
 
-      <p class="verdict"><strong>{bandTitle} exposure.</strong> {verdict}</p>
-      <p class="muted scope">Occupation-level baseline, not a personal prediction. Local salary, licensing and outlook are shown by country below.</p>
+      <p class="verdict"><strong>{tr(band.label, CL)} {tr('exposure', CL)}.</strong> {verdict}</p>
+      <p class="muted scope">{tr('Occupation-level baseline, not a personal prediction. Local salary, licensing and outlook are shown by country below.', CL)}</p>
 
       <div class:list={['scores', headlinePct != null ? band.cls : null]}>
-        <div><span>Task exposure</span><b>{exposure != null ? `${exposure.toFixed(1)}/10` : '—'}</b></div>
-        <div><span>Human moat</span><b>{moat != null ? `${moat.toFixed(1)}/10` : '—'}</b></div>
-        <div><span>Entry pressure</span><b>{entry != null ? `${entry.toFixed(1)}/10` : '—'}</b></div>
-        <div><span>AI upside</span><b>{upside != null ? `${upside.toFixed(1)}/10` : '—'}</b></div>
+        <div><span>{tr('Task exposure', CL)}</span><b>{exposure != null ? `${exposure.toFixed(1)}/10` : '—'}</b></div>
+        <div><span>{tr('Human moat', CL)}</span><b>{moat != null ? `${moat.toFixed(1)}/10` : '—'}</b></div>
+        <div><span>{tr('Entry pressure', CL)}</span><b>{entry != null ? `${entry.toFixed(1)}/10` : '—'}</b></div>
+        <div><span>{tr('AI upside', CL)}</span><b>{upside != null ? `${upside.toFixed(1)}/10` : '—'}</b></div>
       </div>
 
       <div class="actions">
-        <a class="btn primary" href={NETWORK.assessment}><i class="fas fa-user-check"></i> Check my personal resilience</a>
-        <a class="btn" href={hrefMap(loc)}><i class="fas fa-map"></i> Compare on the risk map</a>
+        <a class="btn primary" href={NETWORK.assessment}><i class="fas fa-user-check"></i> {tr('Check my personal resilience', CL)}</a>
+        <a class="btn" href={hrefMap(loc)}><i class="fas fa-map"></i> {tr('Compare on the risk map', CL)}</a>
       </div>
     </section>
 
     <!-- Global AI zone -->
     {ai && (
       <section class="ai-zone">
-        {aioe != null && (
-          <div class="card exposure-card ai-tint-brand">
-            <strong>AI Exposure Index <span class="muted">(GenAI · ILO / OpenAI)</span></strong>
-            <div class="exp-row">
-              <div class="exp-num">{aioe}<span>/100</span></div>
-              <div class="exp-bar-wrap">
-                <div class="exp-bar"><div class="exp-fill" style={`width:${aioe}%`}></div></div>
-                <p class="muted">More exposed than about {aioe}% of occupations (percentile; higher = more exposed to generative AI).</p>
-              </div>
-              <span class={`risk-badge ${band.cls}`}>{band.label}</span>
-            </div>
-          </div>
-        )}
-
         <div class="ai-grid">
-          <div class="card ai-tint-red"><h4 class="amber"><i class="fas fa-minus-circle"></i> Tasks AI will take over</h4>
+          <div class="card ai-tint-red"><h4 class="amber"><i class="fas fa-minus-circle"></i> {tr('Tasks AI will take over', CL)}</h4>
             <ul class="dash">{(ai.replaced_zh || []).map((x) => <li>{tr(x, CL)}</li>)}</ul></div>
-          <div class="card ai-tint-green"><h4 class="green"><i class="fas fa-plus-circle"></i> Tasks AI will augment</h4>
+          <div class="card ai-tint-green"><h4 class="green"><i class="fas fa-plus-circle"></i> {tr('Tasks AI will augment', CL)}</h4>
             <ul class="dash">{(ai.augmented_zh || []).map((x) => <li>{tr(x, CL)}</li>)}</ul></div>
-          <div class="card moat"><h4 class="moat-h"><i class="fas fa-chess-king"></i> Human moat (hard for AI)</h4>
+          <div class="card moat"><h4 class="moat-h"><i class="fas fa-chess-king"></i> {tr('Human moat (hard for AI)', CL)}</h4>
             <ul class="dash">{(ai.moat_zh || []).map((x) => <li>{tr(x, CL)}</li>)}</ul></div>
-          <div class="card ai-tint-blue"><h4><i class="fas fa-graduation-cap"></i> Skills to build (next 5 years)</h4>
+          <div class="card ai-tint-blue"><h4><i class="fas fa-graduation-cap"></i> {tr('Skills to build (next 5 years)', CL)}</h4>
             <ul class="dash">{(ai.skills_zh || []).map((x) => <li>{tr(x, CL)}</li>)}</ul></div>
         </div>
 
         <div class="ai-notes">
           {ai.entry_narrowing_zh && (
-            <div class="card ai-tint-slate"><h4><i class="fas fa-door-closed"></i> Entry-level outlook</h4>
+            <div class="card ai-tint-slate"><h4><i class="fas fa-door-closed"></i> {tr('Entry-level outlook', CL)}</h4>
               <p class="muted">{tr(ai.entry_narrowing_zh, CL)}</p></div>
           )}
           {ai.upgrade_path_zh && (
-            <div class="card ai-tint-green"><h4 class="green"><i class="fas fa-rocket"></i> How to level up in the AI era</h4>
+            <div class="card ai-tint-green"><h4 class="green"><i class="fas fa-rocket"></i> {tr('How to level up in the AI era', CL)}</h4>
               <p>{tr(ai.upgrade_path_zh, CL)}</p></div>
           )}
         </div>
 
         {(ai as any).disruptors && (ai as any).disruptors.length > 0 && (
-          <div class="card"><h4 class="amber"><i class="fas fa-robot"></i> AI already affecting this job</h4>
+          <div class="card"><h4 class="amber"><i class="fas fa-robot"></i> {tr('AI already affecting this job', CL)}</h4>
             <ul class="disruptors">{(ai as any).disruptors.map((d: any) => (
               <li class="dis">
                 <div class="dis-head">
@@ -193,7 +182,7 @@ const jobLd = {
         )}
 
         {(ai as any).adjacent && (ai as any).adjacent.length > 0 && (
-          <div class="card ai-tint-blue"><h4><i class="fas fa-arrow-right-arrow-left"></i> Adjacent careers if risk is high</h4>
+          <div class="card ai-tint-blue"><h4><i class="fas fa-arrow-right-arrow-left"></i> {tr('Adjacent careers if risk is high', CL)}</h4>
             <div class="adjacent">{(ai as any).adjacent.map((j: any) => (
               <a class="adj-chip" href={hrefJob(loc, j.slug)}>{occName(jobBySlug(j.slug)?.rep || ({} as any), CL) || j.name_en}</a>
             ))}</div></div>
@@ -202,7 +191,7 @@ const jobLd = {
     )}
 
     <!-- Country tabs -->
-    <h2 class="by-country">Local data by country</h2>
+    <h2 class="by-country">{tr('Local data by country', CL)}</h2>
     <div class="tabs" role="tablist">
       {countries.map((o) => (
         <a class:list={['tab', { on: o.country === cc }]} role="tab" aria-selected={o.country === cc ? 'true' : 'false'}
@@ -215,23 +204,23 @@ const jobLd = {
     <!-- Active country panel -->
     <section class="panel">
       <div class="panel-stats">
-        {active.overall_score != null && <span class="pstat">Overall <b>{active.overall_score}/10</b></span>}
-        {active.workforce_size != null && <span class="pstat">Workforce <b>{fmtNum(active.workforce_size)}</b></span>}
-        {active.avg_salary != null && <span class="pstat">Avg salary <b>{fmtSalary(active.avg_salary, cc)}</b></span>}
-        {active.is_migration === 1 ? <span class="risk-badge low">Skilled migration occupation</span>
+        {active.overall_score != null && <span class="pstat">{tr('Overall', CL)} <b>{active.overall_score}/10</b></span>}
+        {active.workforce_size != null && <span class="pstat">{tr('Workforce', CL)} <b>{fmtNum(active.workforce_size)}</b></span>}
+        {active.avg_salary != null && <span class="pstat">{tr('Avg salary', CL)} <b>{fmtSalary(active.avg_salary, cc)}</b></span>}
+        {active.is_migration === 1 ? <span class="risk-badge low">{tr('Skilled migration occupation', CL)}</span>
           : active.is_migration === 2 ? <span class="risk-badge moderate">{migRestrictedOccOf(cc, CL)}</span>
-          : <span class="risk-badge verylow">Not a skilled migration occupation</span>}
+          : <span class="risk-badge verylow">{tr('Not a skilled migration occupation', CL)}</span>}
       </div>
 
       <div class="two-col">
         <div class="col">
-          <h3><i class="fas fa-chart-simple"></i> Ratings{active.overall_score != null ? ` · Overall ${active.overall_score}/10` : ''}</h3>
-          <RatingRadar labels={radarLabels(CL)} series={radar} max={10} />
+          <h3><i class="fas fa-chart-simple"></i> {tr('Ratings', CL)}{active.overall_score != null ? ` · ${tr('Overall', CL)} ${active.overall_score}/10` : ''}</h3>
+          <RatingRadar labels={radarLabels(CL)} series={radar} max={10} ariaLabel={tr('rating radar', CL)} />
         </div>
         <div class="col">
-          <h3><i class="fas fa-dollar-sign"></i> Salary ({cur})</h3>
+          <h3><i class="fas fa-dollar-sign"></i> {tr('Salary', CL)} ({cur})</h3>
           <table>
-            <thead><tr><th>Experience</th><th>Annual</th><th></th></tr></thead>
+            <thead><tr><th>{tr('Experience', CL)}</th><th>{tr('Annual', CL)}</th><th></th></tr></thead>
             <tbody>{active.salaries.map((s: any) => (
               <tr><td>{tr(s.label, CL)}</td><td class="amber pay">{money(s.min, cc)} ~ {money(s.max, cc)}</td><td class="muted">{tr(s.note, CL)}</td></tr>
             ))}</tbody>
@@ -241,9 +230,9 @@ const jobLd = {
 
       {active.education.length > 0 && (
         <>
-          <h3><i class="fas fa-graduation-cap"></i> Education path</h3>
+          <h3><i class="fas fa-graduation-cap"></i> {tr('Education path', CL)}</h3>
           <table>
-            <thead><tr><th>Stage</th><th>Duration</th><th>Cost ({cur})</th></tr></thead>
+            <thead><tr><th>{tr('Stage', CL)}</th><th>{tr('Duration', CL)}</th><th>{tr('Cost', CL)} ({cur})</th></tr></thead>
             <tbody>{active.education.map((e: any) => (
               <tr><td>{tr(e.stage, CL)}</td><td>{tr(e.duration, CL) || '—'}</td>
                 <td>{e.cost_min ? `${money(e.cost_min, cc)} ~ ${money(e.cost_max, cc)}` : (tr(e.cost_note, CL) || '—')}</td></tr>
@@ -254,46 +243,46 @@ const jobLd = {
 
       {active.qualifications && active.qualifications.length > 0 && (
         <>
-          <h3><i class="fas fa-certificate"></i> Qualifications</h3>
+          <h3><i class="fas fa-certificate"></i> {tr('Qualifications', CL)}</h3>
           <table>
-            <thead><tr><th>Qualification</th><th>Issuer</th><th></th></tr></thead>
+            <thead><tr><th>{tr('Qualification', CL)}</th><th>{tr('Issuer', CL)}</th><th></th></tr></thead>
             <tbody>{active.qualifications.map((q: any) => (
               <tr><td>{tr(q.name, CL)}</td><td class="muted">{tr(q.issuer, CL) || '—'}</td>
-                <td>{q.mandatory ? <span class="risk-badge low">Required</span> : <span class="risk-badge verylow">Optional</span>}</td></tr>
+                <td>{q.mandatory ? <span class="risk-badge low">{tr('Required', CL)}</span> : <span class="risk-badge verylow">{tr('Optional', CL)}</span>}</td></tr>
             ))}</tbody>
           </table>
         </>
       )}
 
-      <h3><i class="fas fa-passport"></i> Migration (to {countryName(cc, CL)})</h3>
+      <h3><i class="fas fa-passport"></i> {tr('Migration', CL)} ({tr('to', CL)} {countryName(cc, CL)})</h3>
       {active.is_migration ? (
         <>
           {active.is_migration === 2 && <p class="card muted note">⚠ {migRestrictedNoteOf(cc, CL)}</p>}
           <table>
-            <thead><tr><th>Visa</th><th>Details</th></tr></thead>
+            <thead><tr><th>{tr('Visa', CL)}</th><th>{tr('Details', CL)}</th></tr></thead>
             <tbody>{(active.visa || []).map((v: any) => (
               <tr><td><strong>{v.subclass}</strong> {tr(v.name, CL)}</td>
-                <td class="muted">{tr(v.desc, CL)}{v.min_score ? ` · ~${v.min_score} pts competitive cut-off (${v.score_asof || ''}, indicative)` : ''}</td></tr>
+                <td class="muted">{tr(v.desc, CL)}{v.min_score ? ` · ~${v.min_score} ${tr('pts competitive cut-off', CL)} (${v.score_asof || ''}, ${tr('indicative', CL)})` : ''}</td></tr>
             ))}</tbody>
           </table>
         </>
       ) : (
-        <p class="card muted">Not a skilled migration occupation. {nonMigVisaOf(cc, CL)}</p>
+        <p class="card muted">{tr('Not a skilled migration occupation.', CL)} {nonMigVisaOf(cc, CL)}</p>
       )}
 
       {(active.suitability?.fit?.length > 0 || active.suitability?.unfit?.length > 0) && (
         <>
-          <h3><i class="fas fa-user-check"></i> Who it fits</h3>
+          <h3><i class="fas fa-user-check"></i> {tr('Who it fits', CL)}</h3>
           <div class="two-col">
-            <div class="card"><h4 class="green">✓ Fits</h4><ul class="dash">{(active.suitability.fit || []).map((x: string) => <li>{tr(x, CL)}</li>)}</ul></div>
-            <div class="card"><h4 class="amber">✗ Not for</h4><ul class="dash">{(active.suitability.unfit || []).map((x: string) => <li>{tr(x, CL)}</li>)}</ul></div>
+            <div class="card"><h4 class="green">✓ {tr('Fits', CL)}</h4><ul class="dash">{(active.suitability.fit || []).map((x: string) => <li>{tr(x, CL)}</li>)}</ul></div>
+            <div class="card"><h4 class="amber">✗ {tr('Not for', CL)}</h4><ul class="dash">{(active.suitability.unfit || []).map((x: string) => <li>{tr(x, CL)}</li>)}</ul></div>
           </div>
         </>
       )}
 
       {(trend || forecast || active.growth_areas?.length > 0) && (
         <>
-          <h3><i class="fas fa-arrow-trend-up"></i> Career outlook</h3>
+          <h3><i class="fas fa-arrow-trend-up"></i> {tr('Career outlook', CL)}</h3>
           {trend && <p>{trend}</p>}
           {forecast && <p class="muted">{forecast}</p>}
           {active.growth_areas && active.growth_areas.length > 0 && (
@@ -302,7 +291,7 @@ const jobLd = {
         </>
       )}
 
-      <h3><i class="fas fa-circle-question"></i> FAQ · {dispName}</h3>
+      <h3><i class="fas fa-circle-question"></i> {tr('FAQ', CL)} · {dispName}</h3>
       <details class="faq-item" open>
         <summary>{q2030}<i class="fas fa-chevron-down"></i></summary>
         <div class="faq-answer">
@@ -314,7 +303,7 @@ const jobLd = {
           <div class="faq-answer">{tr(f.answer, CL)}</div></details>
       ))}
 
-      <h3><i class="fas fa-database"></i> Data sources</h3>
+      <h3><i class="fas fa-database"></i> {tr('Data sources', CL)}</h3>
       <p class="card muted note">{sourcesBody(cc, CL)}</p>
     </section>
 
@@ -355,6 +344,8 @@ const jobLd = {
     .meter-bar .fill { height: 100%; background: linear-gradient(90deg, #f59e0b, #dc2626); border-radius: 40px; }
     .meter-num { font-weight: 700; font-size: 1.25rem; color: var(--text); }
     .meter-num small { font-size: 0.8rem; font-weight: 500; color: var(--text-muted); }
+    .meter-src { font-weight: 500; font-size: 0.72rem; color: var(--text-muted); }
+    .meter-pct { flex-basis: 100%; margin: 0; font-size: 0.8rem; }
     .risk-summary { display: flex; flex-wrap: wrap; gap: 10px; flex: 1; }
     .rs-pill { background: var(--surface); border: 1px solid var(--line); border-radius: 40px;
       padding: 6px 16px; font-size: 0.82rem; color: var(--text-body); max-width: 100%; }
@@ -374,13 +365,6 @@ const jobLd = {
     .actions { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 20px; }
 
     .ai-zone { display: flex; flex-direction: column; gap: 16px; margin: 8px 0 28px; }
-    .exposure-card .exp-row { display: flex; align-items: center; gap: 18px; margin-top: 12px; flex-wrap: wrap; }
-    .exp-num { font-size: 2rem; font-weight: 700; color: var(--text); line-height: 1; }
-    .exp-num span { font-size: 0.95rem; font-weight: 500; color: var(--text-muted); }
-    .exp-bar-wrap { flex: 1; min-width: 200px; }
-    .exp-bar { height: 10px; border-radius: 6px; background: var(--line); overflow: hidden; }
-    .exp-fill { height: 100%; background: linear-gradient(90deg,#22c55e,#f59e0b,#ef4444); }
-    .exp-bar-wrap p { margin: 6px 0 0; font-size: 0.8rem; }
     .ai-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
     .ai-notes { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
     .ai-zone h4 { margin: 0 0 8px; font-size: 1rem; display: flex; align-items: center; gap: 8px; }
@@ -392,7 +376,6 @@ const jobLd = {
     .ai-zone .ai-tint-green { background: color-mix(in srgb, var(--risk-low) 8%, var(--surface)); }
     .ai-zone .ai-tint-blue  { background: color-mix(in srgb, var(--brand) 7%, var(--surface)); }
     .ai-zone .ai-tint-slate { background: color-mix(in srgb, var(--text-muted) 8%, var(--surface)); }
-    .ai-zone .ai-tint-brand { background: color-mix(in srgb, var(--brand) 6%, var(--surface)); }
     ul.dash { list-style: none; margin: 4px 0 0; padding: 0; }
     ul.dash li { position: relative; padding-left: 18px; margin: 5px 0; font-size: 0.92rem; }
     ul.dash li::before { content: "▸"; position: absolute; left: 0; color: var(--brand); font-weight: 700; }

@@ -1,7 +1,9 @@
 """英文母本 TM：把 translation_src_v2 的英文源串翻成 11 个目标语，写 translations_v2（幂等）。
 源=英文，故不翻 en。只翻尚缺的 (src_hash, locale)。
+默认只翻 aijobrisk 站实际引用的串（in_aijobrisk=1，先跑 scripts/mark_aijobrisk_src.py 打标记）；
+加 --all 翻全部源串（含未引用的）。
 后端优先级沿用：百度大模型 -> Azure -> DeepSeek。
-运行：python -m scripts.translate_v2 [--locales de,fr,it] [--batch 50] [--limit N] [--dry]
+运行：python -m scripts.translate_v2 [--locales de,fr,it] [--batch 50] [--limit N] [--dry] [--all]
 """
 import sys, os, argparse, json
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
@@ -52,15 +54,19 @@ def translate_batch(texts, loc):
 MODEL = f"deepseek:{config.DEEPSEEK_MODEL}"
 
 
-def run(locales, batch, limit, dry):
+def run(locales, batch, limit, dry, include_unreferenced=False):
     model = MODEL
+    # 默认只翻 aijobrisk 站实际引用的串（in_aijobrisk=1）；--all 时翻全部。
+    ref_clause = "" if include_unreferenced else " AND s.in_aijobrisk=1"
     for loc in locales:
         with get_cursor() as cur:
             sql = ("SELECT s.src_hash, s.src_text FROM translation_src_v2 s "
-                   "LEFT JOIN translations_v2 t ON t.src_hash=s.src_hash AND t.locale=%s WHERE t.src_hash IS NULL")
+                   "LEFT JOIN translations_v2 t ON t.src_hash=s.src_hash AND t.locale=%s "
+                   "WHERE t.src_hash IS NULL" + ref_clause)
             cur.execute(sql + (" LIMIT %s" % int(limit) if limit else ""), (loc,))
             todo = cur.fetchall()
-        print(f"[{loc}] 待翻译 {len(todo)} 串 (model={model})")
+        scope = "全部源串" if include_unreferenced else "仅 aijobrisk 引用串"
+        print(f"[{loc}] 待翻译 {len(todo)} 串 ({scope}, model={model})")
         if dry:
             continue
         done = 0
@@ -93,5 +99,7 @@ if __name__ == "__main__":
     ap.add_argument("--batch", type=int, default=50)
     ap.add_argument("--limit", type=int, default=0)
     ap.add_argument("--dry", action="store_true")
+    ap.add_argument("--all", dest="include_unreferenced", action="store_true",
+                    help="翻译全部源串（含 aijobrisk 未引用的）；默认只翻 in_aijobrisk=1")
     a = ap.parse_args()
-    run([x.strip() for x in a.locales.split(",") if x.strip()], a.batch, a.limit, a.dry)
+    run([x.strip() for x in a.locales.split(",") if x.strip()], a.batch, a.limit, a.dry, a.include_unreferenced)

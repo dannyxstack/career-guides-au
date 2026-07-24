@@ -1,0 +1,529 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI Job Risk — Industries overview</title>
+  <style>
+    :root {
+      --brand: #2563eb;
+      --brand-hover: #1e4fc4;
+      --brand-tint: #eef2ff;
+      --text: #0b1a2e;
+      --text-strong: #1e3a5f;
+      --text-body: #2c3e5a;
+      --text-muted: #4b5e7a;
+      --bg: #f6f9fc;
+      --bg-soft: #f8faff;
+      --surface: #ffffff;
+      --surface-tint: #eaf0f6;
+      --surface-tint-2: #f0f5fe;
+      --surface-accent: #ecf3fa;
+      --line: #dce7f5;
+      --risk-low: #059669;
+      --risk-low-bg: #d1fae5;
+      --risk-mid: #f59e0b;
+      --risk-mid-bg: #fef3c7;
+      --risk-high: #dc2626;
+      --risk-high-bg: #fee2e2;
+      --radius: 12px;
+      --shadow: 0 1px 3px rgba(11, 26, 46, 0.06), 0 4px 12px rgba(11, 26, 46, 0.05);
+      font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      background: var(--bg);
+      color: var(--text-body);
+      line-height: 1.5;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 24px;
+    }
+
+    /* NAV */
+    nav {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 20px 0;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .logo {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      text-decoration: none;
+      color: var(--text-strong);
+      font-weight: 600;
+      font-size: 1.25rem;
+    }
+
+    .nav-links {
+      display: flex;
+      gap: 28px;
+      list-style: none;
+    }
+
+    .nav-links a {
+      text-decoration: none;
+      color: var(--text-muted);
+      font-size: 0.95rem;
+      font-weight: 500;
+      transition: color 0.15s;
+    }
+
+    .nav-links a:hover { color: var(--brand); }
+
+    /* HEADER */
+    header {
+      padding: 48px 0 32px;
+    }
+
+    header h1 {
+      font-size: 2.25rem;
+      font-weight: 700;
+      color: var(--text-strong);
+      letter-spacing: -0.02em;
+      margin-bottom: 12px;
+    }
+
+    header .subhead {
+      font-size: 1.1rem;
+      color: var(--text-muted);
+      max-width: 700px;
+      line-height: 1.6;
+      margin-bottom: 24px;
+    }
+
+    .country-selector {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 10px 18px;
+      background: var(--surface);
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      font-weight: 500;
+      font-size: 0.95rem;
+      color: var(--text-strong);
+      box-shadow: var(--shadow);
+    }
+
+    .country-selector svg { width: 16px; height: 16px; fill: var(--text-muted); }
+
+    /* GRID */
+    .industry-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 20px;
+      padding: 12px 0 40px;
+    }
+
+    .industry-card {
+      background: var(--surface);
+      border-radius: var(--radius);
+      border: 1px solid var(--line);
+      box-shadow: var(--shadow);
+      padding: 24px 20px 20px;
+      transition: transform 0.12s, box-shadow 0.12s;
+      text-decoration: none;
+      color: inherit;
+      display: block;
+    }
+
+    .industry-card:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 4px 12px rgba(11, 26, 46, 0.08), 0 8px 24px rgba(11, 26, 46, 0.06);
+      border-color: var(--brand-tint);
+    }
+
+    .card-header {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 12px;
+    }
+
+    .card-icon {
+      width: 32px;
+      height: 32px;
+      flex-shrink: 0;
+      color: var(--brand);
+    }
+
+    .card-icon svg { width: 32px; height: 32px; fill: none; stroke: var(--brand); stroke-width: 1.8; }
+
+    .card-title {
+      font-weight: 600;
+      font-size: 1.05rem;
+      color: var(--text-strong);
+    }
+
+    .card-count {
+      font-size: 0.9rem;
+      color: var(--text-muted);
+      margin: 6px 0 10px;
+    }
+
+    .card-examples {
+      font-size: 0.85rem;
+      color: var(--text-muted);
+      line-height: 1.5;
+      border-top: 1px solid var(--line);
+      padding-top: 10px;
+      margin-top: 6px;
+    }
+
+    .card-examples span { color: var(--text-body); }
+
+    /* PROVENANCE */
+    .provenance {
+      background: var(--surface-tint);
+      border-radius: var(--radius);
+      padding: 28px 32px;
+      margin: 16px 0 48px;
+      font-size: 0.9rem;
+      color: var(--text-muted);
+      border: 1px solid var(--line);
+      line-height: 1.6;
+    }
+
+    .provenance strong { color: var(--text-strong); }
+
+    /* FOOTER */
+    footer {
+      border-top: 1px solid var(--line);
+      padding: 28px 0;
+      display: flex;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 16px;
+      color: var(--text-muted);
+      font-size: 0.85rem;
+    }
+
+    footer a { color: var(--text-muted); text-decoration: none; }
+    footer a:hover { color: var(--brand); }
+
+    /* responsive */
+    @media (max-width: 600px) {
+      .container { padding: 0 16px; }
+      header h1 { font-size: 1.75rem; }
+      .industry-grid { grid-template-columns: 1fr; }
+      nav { flex-wrap: wrap; gap: 12px; }
+      .nav-links { gap: 16px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <nav>
+      <a href="#" class="logo">
+        <svg viewBox="0 0 28 28" fill="none" width="32" height="32">
+          <rect x="2" y="2" width="24" height="24" rx="6" stroke="#2563eb" stroke-width="2"/>
+          <path d="M8 19 L14 8 L20 19" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          <circle cx="14" cy="17" r="1.5" fill="#f59e0b"/>
+        </svg>
+        AI Job Risk
+      </a>
+      <ul class="nav-links">
+        <li><a href="#">Industries</a></li>
+        <li><a href="#">Occupations</a></li>
+        <li><a href="#">About</a></li>
+      </ul>
+    </nav>
+
+    <header>
+      <h1>Industries</h1>
+      <div class="subhead">
+        Explore AI exposure across 20 US industry sectors. We cover <strong>6,678 occupations</strong> 
+        across <strong>14 countries</strong> — an occupation can belong to several industries 
+        (many-to-many relationship). Use the country selector to view other national datasets.
+      </div>
+      <div class="country-selector">
+        <svg viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z"/></svg>
+        United States
+      </div>
+    </header>
+
+    <div class="industry-grid">
+      <!-- dynamically generated 20 cards -->
+      <a href="industry.html" class="industry-card">
+        <div class="card-header">
+          <div class="card-icon">
+            <svg viewBox="0 0 24 24"><path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/></svg>
+          </div>
+          <div class="card-title">Health care & social assistance</div>
+        </div>
+        <div class="card-count">251 occupations</div>
+        <div class="card-examples">
+          <span>Registered Nurses, Nursing Assistants, Medical Assistants</span>
+        </div>
+      </a>
+
+      <a href="industry.html" class="industry-card">
+        <div class="card-header">
+          <div class="card-icon">
+            <svg viewBox="0 0 24 24"><path d="M22 12h-4l-3 9L9 3l-3 9H2"/></svg>
+          </div>
+          <div class="card-title">Manufacturing</div>
+        </div>
+        <div class="card-count">306 occupations</div>
+        <div class="card-examples">
+          <span>Software Developers, Secretaries, Janitors</span>
+        </div>
+      </a>
+
+      <a href="industry.html" class="industry-card">
+        <div class="card-header">
+          <div class="card-icon">
+            <svg viewBox="0 0 24 24"><path d="M2 22h20V2L2 22z"/><path d="M7 12l3-3 4 4 4-4"/></svg>
+          </div>
+          <div class="card-title">Construction</div>
+        </div>
+        <div class="card-count">201 occupations</div>
+        <div class="card-examples">
+          <span>General Managers, Bookkeepers, Janitors</span>
+        </div>
+      </a>
+
+      <a href="industry.html" class="industry-card">
+        <div class="card-header">
+          <div class="card-icon">
+            <svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33-1.82l-1.4-2.5a1.65 1.65 0 0 0-1.51-.94H7.18a1.65 1.65 0 0 0-1.51.94l-1.4 2.5A1.65 1.65 0 0 0 4.6 15L12 20l7.4-5z"/></svg>
+          </div>
+          <div class="card-title">Retail trade</div>
+        </div>
+        <div class="card-count">192 occupations</div>
+        <div class="card-examples">
+          <span>Customer Service Reps, Office Clerks, Managers</span>
+        </div>
+      </a>
+
+      <a href="industry.html" class="industry-card">
+        <div class="card-header">
+          <div class="card-icon">
+            <svg viewBox="0 0 24 24"><path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/></svg>
+          </div>
+          <div class="card-title">Professional, scientific & technical services</div>
+        </div>
+        <div class="card-count">315 occupations</div>
+        <div class="card-examples">
+          <span>Software Developers, Accountants, Managers</span>
+        </div>
+      </a>
+
+      <a href="industry.html" class="industry-card">
+        <div class="card-header">
+          <div class="card-icon">
+            <svg viewBox="0 0 24 24"><rect x="2" y="2" width="20" height="8" rx="2"/><rect x="2" y="14" width="20" height="8" rx="2"/></svg>
+          </div>
+          <div class="card-title">Information</div>
+        </div>
+        <div class="card-count">160 occupations</div>
+        <div class="card-examples">
+          <span>Software Developers, Customer Service, Office Clerks</span>
+        </div>
+      </a>
+
+      <a href="industry.html" class="industry-card">
+        <div class="card-header">
+          <div class="card-icon">
+            <svg viewBox="0 0 24 24"><path d="M12 2v20M2 12h20"/><circle cx="12" cy="12" r="2"/></svg>
+          </div>
+          <div class="card-title">Finance & insurance</div>
+        </div>
+        <div class="card-count">115 occupations</div>
+        <div class="card-examples">
+          <span>Accountants, Bookkeepers, Customer Service</span>
+        </div>
+      </a>
+
+      <a href="industry.html" class="industry-card">
+        <div class="card-header">
+          <div class="card-icon">
+            <svg viewBox="0 0 24 24"><path d="M4 20h16a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-7.93a2 2 0 0 1-1.66-.9l-.82-1.2A2 2 0 0 0 7.93 3H4a2 2 0 0 0-2 2v13c0 1.1.9 2 2 2z"/></svg>
+          </div>
+          <div class="card-title">Educational services</div>
+        </div>
+        <div class="card-count">336 occupations</div>
+        <div class="card-examples">
+          <span>Secretaries, Office Clerks, Janitors</span>
+        </div>
+      </a>
+
+      <a href="industry.html" class="industry-card">
+        <div class="card-header">
+          <div class="card-icon">
+            <svg viewBox="0 0 24 24"><path d="M3 3h18v18H3z"/><path d="M3 12h18"/><path d="M12 3v18"/></svg>
+          </div>
+          <div class="card-title">Government & public sector</div>
+        </div>
+        <div class="card-count">428 occupations</div>
+        <div class="card-examples">
+          <span>Office Clerks, Accountants, Managers</span>
+        </div>
+      </a>
+
+      <a href="industry.html" class="industry-card">
+        <div class="card-header">
+          <div class="card-icon">
+            <svg viewBox="0 0 24 24"><path d="M22 12h-4l-3 9L9 3l-3 9H2"/></svg>
+          </div>
+          <div class="card-title">Transportation & warehousing</div>
+        </div>
+        <div class="card-count">110 occupations</div>
+        <div class="card-examples">
+          <span>Customer Service, Office Clerks, Secretaries</span>
+        </div>
+      </a>
+
+      <a href="industry.html" class="industry-card">
+        <div class="card-header">
+          <div class="card-icon">
+            <svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33-1.82l-1.4-2.5a1.65 1.65 0 0 0-1.51-.94H7.18a1.65 1.65 0 0 0-1.51.94l-1.4 2.5A1.65 1.65 0 0 0 4.6 15L12 20l7.4-5z"/></svg>
+          </div>
+          <div class="card-title">Accommodation & food services</div>
+        </div>
+        <div class="card-count">91 occupations</div>
+        <div class="card-examples">
+          <span>Maids, Janitors, Managers</span>
+        </div>
+      </a>
+
+      <a href="industry.html" class="industry-card">
+        <div class="card-header">
+          <div class="card-icon">
+            <svg viewBox="0 0 24 24"><path d="M2 22h20V2L2 22z"/><path d="M7 12l3-3 4 4 4-4"/></svg>
+          </div>
+          <div class="card-title">Wholesale trade</div>
+        </div>
+        <div class="card-count">272 occupations</div>
+        <div class="card-examples">
+          <span>Office Clerks, Secretaries, Customer Service</span>
+        </div>
+      </a>
+
+      <a href="industry.html" class="industry-card">
+        <div class="card-header">
+          <div class="card-icon">
+            <svg viewBox="0 0 24 24"><path d="M22 12h-4l-3 9L9 3l-3 9H2"/></svg>
+          </div>
+          <div class="card-title">Administrative & support & waste services</div>
+        </div>
+        <div class="card-count">385 occupations</div>
+        <div class="card-examples">
+          <span>Janitors, Office Clerks, Secretaries</span>
+        </div>
+      </a>
+
+      <a href="industry.html" class="industry-card">
+        <div class="card-header">
+          <div class="card-icon">
+            <svg viewBox="0 0 24 24"><rect x="2" y="2" width="20" height="8" rx="2"/><rect x="2" y="14" width="20" height="8" rx="2"/></svg>
+          </div>
+          <div class="card-title">Management of companies & enterprises</div>
+        </div>
+        <div class="card-count">206 occupations</div>
+        <div class="card-examples">
+          <span>Managers, Accountants, Secretaries</span>
+        </div>
+      </a>
+
+      <a href="industry.html" class="industry-card">
+        <div class="card-header">
+          <div class="card-icon">
+            <svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33-1.82l-1.4-2.5a1.65 1.65 0 0 0-1.51-.94H7.18a1.65 1.65 0 0 0-1.51.94l-1.4 2.5A1.65 1.65 0 0 0 4.6 15L12 20l7.4-5z"/></svg>
+          </div>
+          <div class="card-title">Arts, entertainment & recreation</div>
+        </div>
+        <div class="card-count">143 occupations</div>
+        <div class="card-examples">
+          <span>Customer Service, Office Clerks, Janitors</span>
+        </div>
+      </a>
+
+      <a href="industry.html" class="industry-card">
+        <div class="card-header">
+          <div class="card-icon">
+            <svg viewBox="0 0 24 24"><rect x="2" y="2" width="20" height="8" rx="2"/><rect x="2" y="14" width="20" height="8" rx="2"/></svg>
+          </div>
+          <div class="card-title">Real estate & rental</div>
+        </div>
+        <div class="card-count">105 occupations</div>
+        <div class="card-examples">
+          <span>Secretaries, Bookkeepers, Office Clerks</span>
+        </div>
+      </a>
+
+      <a href="industry.html" class="industry-card">
+        <div class="card-header">
+          <div class="card-icon">
+            <svg viewBox="0 0 24 24"><path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/></svg>
+          </div>
+          <div class="card-title">Utilities</div>
+        </div>
+        <div class="card-count">61 occupations</div>
+        <div class="card-examples">
+          <span>Office Clerks, Secretaries, Managers</span>
+        </div>
+      </a>
+
+      <a href="industry.html" class="industry-card">
+        <div class="card-header">
+          <div class="card-icon">
+            <svg viewBox="0 0 24 24"><path d="M4 20h16a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-7.93a2 2 0 0 1-1.66-.9l-.82-1.2A2 2 0 0 0 7.93 3H4a2 2 0 0 0-2 2v13c0 1.1.9 2 2 2z"/></svg>
+          </div>
+          <div class="card-title">Mining, quarrying, oil & gas</div>
+        </div>
+        <div class="card-count">69 occupations</div>
+        <div class="card-examples">
+          <span>Managers, Secretaries, Bookkeepers</span>
+        </div>
+      </a>
+
+      <a href="industry.html" class="industry-card">
+        <div class="card-header">
+          <div class="card-icon">
+            <svg viewBox="0 0 24 24"><path d="M2 22h20V2L2 22z"/><path d="M7 12l3-3 4 4 4-4"/></svg>
+          </div>
+          <div class="card-title">Agriculture, forestry, fishing & hunting</div>
+        </div>
+        <div class="card-count">42 occupations</div>
+        <div class="card-examples">
+          <span>Office Clerks, Managers, Secretaries</span>
+        </div>
+      </a>
+
+      <a href="industry.html" class="industry-card">
+        <div class="card-header">
+          <div class="card-icon">
+            <svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33-1.82l-1.4-2.5a1.65 1.65 0 0 0-1.51-.94H7.18a1.65 1.65 0 0 0-1.51.94l-1.4 2.5A1.65 1.65 0 0 0 4.6 15L12 20l7.4-5z"/></svg>
+          </div>
+          <div class="card-title">Other services</div>
+        </div>
+        <div class="card-count">261 occupations</div>
+        <div class="card-examples">
+          <span>Secretaries, Office Clerks, Janitors</span>
+        </div>
+      </a>
+    </div>
+
+    <div class="provenance">
+      <strong>Data provenance</strong> — Occupational counts, wages, and employment: U.S. Bureau of Labor Statistics (OEWS, National Employment Matrix) and O*NET. AI exposure scores derived from <strong>ILO Working Paper 140</strong> (Gmyrek, Berg, Bescond) and <strong>Eloundou et al. (OpenAI)</strong>. ILO WP140 is a working paper — not peer-reviewed. Occupation-to-industry mapping uses the BLS National Employment Matrix (many-to-many). Data covers <strong>6,678 occupations</strong> across <strong>14 countries</strong>; shown here for the United States.
+    </div>
+
+    <footer>
+      <span>© 2025 AI Job Risk</span>
+      <span><a href="#">Privacy</a> · <a href="#">Terms</a> · <a href="#">Contact</a></span>
+    </footer>
+  </div>
+</body>
+</html>

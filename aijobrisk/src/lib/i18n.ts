@@ -1,9 +1,11 @@
 // aijobrisk SSR 站的显示语言 + 路由前缀（语言第一级、国家最后一级）。
 // 见 RULES.md「aijobrisk.com（aijobrisk/ SSR 站）路由规约」。
 //
-// 说明：显示语言（URL 前缀）共 8 种 = FAQ「2030」译文覆盖集。其中 fr/ko/zh-Hans 在
+// 说明：显示语言（URL 前缀）共 8 种 = FAQ「2030」译文覆盖集。其中 ko/zh-Hans 在
 // data.ts 的 Locale 联合类型里没有对应母本，故内容层（tr/strings/name/countryName）回退到
 // contentLocale（英文兜底）；仅 FAQ 问句等已有对应译文的内容按显示语言切换。
+// fr 已有完整引用集译文（translations-v2/fr.*），content 直接映射到 'fr'；但旧 UI 字典
+// ui_i18n.json 无 fr，故 about/methodology 的 strings() 及 AU sourcesBody 仍英文兜底。
 import type { Locale } from './data';
 
 export type Display = 'en' | 'es' | 'fr' | 'de' | 'pt' | 'ja' | 'zh-Hans' | 'ko';
@@ -14,7 +16,7 @@ export interface DisplayInfo { code: Display; label: string; content: Locale; hr
 export const DISPLAY_LOCALES: DisplayInfo[] = [
   { code: 'en',      label: 'English',  content: 'en',    hreflang: 'en' },
   { code: 'es',      label: 'Español',  content: 'es',    hreflang: 'es' },
-  { code: 'fr',      label: 'Français', content: 'en',    hreflang: 'fr' },
+  { code: 'fr',      label: 'Français', content: 'fr',    hreflang: 'fr' },
   { code: 'de',      label: 'Deutsch',  content: 'de',    hreflang: 'de' },
   { code: 'pt',      label: 'Português',content: 'pt',    hreflang: 'pt' },
   { code: 'ja',      label: '日本語',    content: 'ja',    hreflang: 'ja' },

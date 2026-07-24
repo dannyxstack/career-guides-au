@@ -1,0 +1,773 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Comparison: Bookkeeper vs Accountant | AI Job Risk</title>
+    <style>
+        :root {
+            /* Core palette – dark, serious, data-dense */
+            --bg-page: #0f1117;
+            --bg-card: #1a1d28;
+            --bg-elevated: #242736;
+            --bg-bar: #2d3042;
+            --text-primary: #eaedf2;
+            --text-secondary: #9ba0b0;
+            --text-dim: #6b7084;
+            --accent-blue: #4f8cff;
+            --accent-cyan: #3bc9db;
+            --accent-amber: #ffb74d;
+            --accent-red: #f87171;
+            --accent-green: #6ddbb3;
+            --severity-high: #f87171;
+            --severity-mid: #ffb74d;
+            --severity-low: #6ddbb3;
+            --border-subtle: #2e3245;
+            --border-card: #383d54;
+            --shadow-card: 0 4px 20px rgba(0,0,0,0.4);
+            --radius-sm: 6px;
+            --radius-md: 10px;
+            --radius-lg: 16px;
+            --space-xs: 4px;
+            --space-sm: 8px;
+            --space-md: 16px;
+            --space-lg: 24px;
+            --space-xl: 40px;
+            --space-2xl: 56px;
+            /* Type scale – system stack */
+            --font-stack: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+            --fs-micro: 0.6875rem;   /* 11px */
+            --fs-small: 0.8125rem;    /* 13px */
+            --fs-body: 0.9375rem;     /* 15px */
+            --fs-medium: 1.0625rem;   /* 17px */
+            --fs-large: 1.3125rem;    /* 21px */
+            --fs-xl: 1.75rem;         /* 28px */
+            --fs-2xl: 2.25rem;        /* 36px */
+            --lh-tight: 1.15;
+            --lh-normal: 1.5;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background: var(--bg-page);
+            color: var(--text-primary);
+            font-family: var(--font-stack);
+            font-size: var(--fs-body);
+            line-height: var(--lh-normal);
+            padding: var(--space-md);
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        /* layout container */
+        .page {
+            max-width: 1280px;
+            margin: 0 auto;
+            width: 100%;
+            flex: 1;
+        }
+
+        /* --- top nav --- */
+        .top-nav {
+            display: flex;
+            align-items: center;
+            gap: var(--space-lg);
+            padding: var(--space-md) 0;
+            border-bottom: 1px solid var(--border-subtle);
+            margin-bottom: var(--space-xl);
+            flex-wrap: wrap;
+        }
+        .top-nav .brand {
+            font-size: var(--fs-large);
+            font-weight: 700;
+            letter-spacing: -0.02em;
+            color: var(--text-primary);
+            display: flex;
+            align-items: center;
+            gap: var(--space-sm);
+        }
+        .top-nav .brand svg {
+            width: 28px;
+            height: 28px;
+        }
+        .top-nav .nav-links {
+            display: flex;
+            gap: var(--space-lg);
+            margin-left: auto;
+        }
+        .top-nav .nav-links a {
+            color: var(--text-secondary);
+            text-decoration: none;
+            font-size: var(--fs-small);
+            transition: color 0.15s;
+        }
+        .top-nav .nav-links a:hover {
+            color: var(--text-primary);
+        }
+
+        /* --- header + risk scores --- */
+        .comparison-header {
+            margin-bottom: var(--space-xl);
+        }
+        .comparison-header h1 {
+            font-size: var(--fs-2xl);
+            font-weight: 700;
+            line-height: var(--lh-tight);
+            margin-bottom: var(--space-lg);
+            letter-spacing: -0.02em;
+        }
+        .score-row {
+            display: flex;
+            gap: var(--space-md);
+            flex-wrap: wrap;
+        }
+        .score-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border-card);
+            border-radius: var(--radius-lg);
+            padding: var(--space-lg) var(--space-xl);
+            flex: 1 1 240px;
+            min-width: 200px;
+            box-shadow: var(--shadow-card);
+        }
+        .score-card .occupation-label {
+            font-size: var(--fs-medium);
+            font-weight: 600;
+            color: var(--text-primary);
+            margin-bottom: var(--space-sm);
+        }
+        .score-card .ai-risk-number {
+            font-size: var(--fs-2xl);
+            font-weight: 700;
+            line-height: 1;
+            display: flex;
+            align-items: baseline;
+            gap: var(--space-sm);
+        }
+        .score-card .ai-risk-number .out-of {
+            font-size: var(--fs-medium);
+            font-weight: 400;
+            color: var(--text-dim);
+        }
+        .score-card .severity-tag {
+            display: inline-block;
+            margin-top: var(--space-xs);
+            padding: var(--space-xs) var(--space-sm);
+            border-radius: var(--radius-sm);
+            font-size: var(--fs-micro);
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.04em;
+        }
+        .severity-high { background: rgba(248,113,113,0.18); color: var(--severity-high); }
+        .severity-mid  { background: rgba(255,183,77,0.18); color: var(--severity-mid); }
+        .severity-low  { background: rgba(109,219,179,0.18); color: var(--severity-low); }
+
+        .exposure-percentile {
+            font-size: var(--fs-small);
+            color: var(--text-dim);
+            margin-top: var(--space-sm);
+        }
+
+        /* --- verdict --- */
+        .verdict {
+            background: var(--bg-elevated);
+            border-left: 4px solid var(--accent-blue);
+            padding: var(--space-lg) var(--space-xl);
+            border-radius: var(--radius-md);
+            margin-bottom: var(--space-2xl);
+            font-size: var(--fs-medium);
+            line-height: var(--lh-normal);
+            color: var(--text-primary);
+            font-weight: 450;
+        }
+
+        /* --- shared section patterns --- */
+        .section-title {
+            font-size: var(--fs-large);
+            font-weight: 600;
+            margin-bottom: var(--space-lg);
+            letter-spacing: -0.01em;
+        }
+
+        .two-col {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: var(--space-lg);
+            margin-bottom: var(--space-2xl);
+        }
+        @media (max-width: 700px) {
+            .two-col {
+                grid-template-columns: 1fr;
+                gap: var(--space-md);
+            }
+        }
+
+        .col-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border-card);
+            border-radius: var(--radius-lg);
+            padding: var(--space-lg);
+            box-shadow: var(--shadow-card);
+        }
+        .col-card h3 {
+            font-size: var(--fs-medium);
+            font-weight: 600;
+            margin-bottom: var(--space-md);
+            color: var(--text-primary);
+            display: flex;
+            align-items: center;
+            gap: var(--space-sm);
+        }
+
+        /* --- task bars --- */
+        .task-list {
+            display: flex;
+            flex-direction: column;
+            gap: var(--space-md);
+        }
+        .task-item {
+            display: flex;
+            flex-direction: column;
+            gap: var(--space-xs);
+        }
+        .task-item .task-label {
+            font-size: var(--fs-small);
+            color: var(--text-secondary);
+            line-height: var(--lh-tight);
+        }
+        .task-bar-wrap {
+            display: flex;
+            align-items: center;
+            gap: var(--space-sm);
+        }
+        .task-bar-bg {
+            flex: 1;
+            height: 8px;
+            background: var(--bg-bar);
+            border-radius: 20px;
+            overflow: hidden;
+        }
+        .task-bar-fill {
+            height: 100%;
+            border-radius: 20px;
+            background: var(--accent-amber);
+            transition: width 0.2s;
+        }
+        .task-bar-fill.high { background: var(--severity-high); }
+        .task-bar-fill.mid  { background: var(--severity-mid); }
+        .task-bar-fill.low  { background: var(--severity-low); }
+
+        .task-bar-value {
+            font-size: var(--fs-micro);
+            font-weight: 600;
+            color: var(--text-dim);
+            min-width: 36px;
+            text-align: right;
+        }
+        .illustrative-note {
+            font-size: var(--fs-micro);
+            color: var(--text-dim);
+            font-style: italic;
+            margin-top: var(--space-sm);
+            text-align: right;
+        }
+
+        /* --- human moat visual --- */
+        .moat-bar {
+            margin-top: var(--space-sm);
+            display: flex;
+            align-items: center;
+            gap: var(--space-sm);
+        }
+        .moat-bar-bg {
+            flex: 1;
+            height: 12px;
+            background: var(--bg-bar);
+            border-radius: 20px;
+            overflow: hidden;
+        }
+        .moat-bar-fill {
+            height: 100%;
+            border-radius: 20px;
+            background: var(--accent-cyan);
+        }
+        .moat-bar-fill.deep { background: var(--accent-cyan); }
+        .moat-bar-fill.shallow { background: var(--accent-amber); }
+        .moat-value {
+            font-size: var(--fs-small);
+            font-weight: 600;
+            color: var(--text-secondary);
+            min-width: 40px;
+        }
+
+        /* --- dimensions table-like --- */
+        .dimensions-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: var(--space-lg);
+            margin-bottom: var(--space-2xl);
+        }
+        @media (max-width: 700px) {
+            .dimensions-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+        .dimension-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border-card);
+            border-radius: var(--radius-lg);
+            padding: var(--space-lg);
+            box-shadow: var(--shadow-card);
+        }
+        .dimension-card h3 {
+            font-size: var(--fs-medium);
+            font-weight: 600;
+            margin-bottom: var(--space-md);
+            color: var(--text-primary);
+        }
+        .dim-row {
+            display: flex;
+            justify-content: space-between;
+            padding: var(--space-sm) 0;
+            border-bottom: 1px solid var(--border-subtle);
+            font-size: var(--fs-small);
+        }
+        .dim-row:last-child {
+            border-bottom: none;
+        }
+        .dim-row .dim-label {
+            color: var(--text-secondary);
+        }
+        .dim-row .dim-value {
+            color: var(--text-primary);
+            font-weight: 500;
+            text-align: right;
+        }
+        .dim-row .dim-value strong {
+            font-weight: 600;
+        }
+
+        /* --- FAQ --- */
+        .faq-section {
+            margin-bottom: var(--space-2xl);
+        }
+        .faq-section details {
+            background: var(--bg-card);
+            border: 1px solid var(--border-card);
+            border-radius: var(--radius-md);
+            padding: var(--space-md) var(--space-lg);
+            margin-bottom: var(--space-sm);
+            box-shadow: var(--shadow-card);
+        }
+        .faq-section details summary {
+            font-weight: 600;
+            cursor: pointer;
+            color: var(--text-primary);
+            font-size: var(--fs-body);
+            list-style: none;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .faq-section details summary::-webkit-details-marker { display: none; }
+        .faq-section details summary::after {
+            content: "+";
+            font-size: var(--fs-large);
+            color: var(--text-dim);
+            line-height: 1;
+        }
+        .faq-section details[open] summary::after {
+            content: "–";
+        }
+        .faq-section details p {
+            margin-top: var(--space-sm);
+            color: var(--text-secondary);
+            font-size: var(--fs-small);
+            line-height: var(--lh-normal);
+        }
+
+        /* --- footer --- */
+        .footer {
+            border-top: 1px solid var(--border-subtle);
+            padding: var(--space-lg) 0;
+            margin-top: var(--space-2xl);
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            gap: var(--space-md);
+            font-size: var(--fs-small);
+            color: var(--text-dim);
+        }
+        .footer a {
+            color: var(--accent-blue);
+            text-decoration: none;
+        }
+
+        /* --- design system strip --- */
+        .design-strip {
+            background: var(--bg-elevated);
+            border-radius: var(--radius-md);
+            padding: var(--space-md) var(--space-lg);
+            margin-top: var(--space-xl);
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            gap: var(--space-md) var(--space-lg);
+            font-size: var(--fs-small);
+            color: var(--text-secondary);
+        }
+        .design-strip .swatch-group {
+            display: flex;
+            gap: var(--space-sm);
+            align-items: center;
+        }
+        .design-strip .swatch {
+            width: 24px;
+            height: 24px;
+            border-radius: 4px;
+            border: 1px solid rgba(255,255,255,0.08);
+        }
+        .design-strip .swatch-label {
+            font-size: var(--fs-micro);
+            color: var(--text-dim);
+        }
+        .design-strip .note {
+            max-width: 360px;
+            font-style: italic;
+            color: var(--text-dim);
+        }
+
+        /* responsive extras */
+        @media (max-width: 500px) {
+            .top-nav .nav-links {
+                margin-left: 0;
+                width: 100%;
+                justify-content: flex-start;
+            }
+            .score-card .ai-risk-number {
+                font-size: var(--fs-xl);
+            }
+            .comparison-header h1 {
+                font-size: var(--fs-xl);
+            }
+        }
+        @media (min-width: 1280px) {
+            body {
+                padding: var(--space-lg) var(--space-2xl);
+            }
+        }
+    </style>
+</head>
+<body>
+<div class="page">
+
+    <!-- TOP NAV -->
+    <nav class="top-nav">
+        <div class="brand">
+            <!-- inline SVG logo icon -->
+            <svg viewBox="0 0 28 28" fill="none" aria-hidden="true">
+                <rect x="2" y="2" width="24" height="24" rx="6" stroke="#4f8cff" stroke-width="2" fill="none"/>
+                <path d="M8 19 L14 8 L20 19" stroke="#3bc9db" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                <circle cx="14" cy="17" r="1.5" fill="#ffb74d"/>
+            </svg>
+            AIJobRisk
+        </div>
+        <div class="nav-links">
+            <a href="#">Explore</a>
+            <a href="#">Compare</a>
+            <a href="#">Data</a>
+            <a href="#">About</a>
+        </div>
+    </nav>
+
+    <!-- HEADER + RISK SCORES -->
+    <header class="comparison-header">
+        <h1>Bookkeeper vs Accountant: AI Risk Comparison</h1>
+        <div class="score-row">
+            <!-- Bookkeeper -->
+            <div class="score-card">
+                <div class="occupation-label">Bookkeeping, Accounting &amp; Auditing Clerks</div>
+                <div class="ai-risk-number">
+                    8.0<span class="out-of">/10</span>
+                </div>
+                <span class="severity-tag severity-high">High Risk</span>
+                <div class="exposure-percentile">AI exposure percentile: 88/100 &middot; Automation: 8.5/10</div>
+            </div>
+            <!-- Accountant -->
+            <div class="score-card">
+                <div class="occupation-label">Accountants and Auditors</div>
+                <div class="ai-risk-number">
+                    5.0<span class="out-of">/10</span>
+                </div>
+                <span class="severity-tag severity-mid">Moderate Risk</span>
+                <div class="exposure-percentile">AI exposure percentile: 86/100 &middot; Automation: 7.5/10</div>
+            </div>
+        </div>
+    </header>
+
+    <!-- ONE-SENTENCE VERDICT -->
+    <div class="verdict">
+        Both occupations face high automation exposure, but the accountant’s professional judgement, signing authority and strategic advisory role create a substantially deeper human moat (6.5/10) than the bookkeeper’s (3.0/10), making accounting significantly more resilient to AI displacement.
+    </div>
+
+    <!-- TASK-BY-TASK COMPARISON -->
+    <section>
+        <h2 class="section-title">Task-by-Task Automation Exposure</h2>
+        <div class="two-col">
+            <!-- Bookkeeper tasks -->
+            <div class="col-card">
+                <h3>Bookkeeper — exposed tasks</h3>
+                <div class="task-list">
+                    <div class="task-item">
+                        <span class="task-label">Manual invoice/receipt data entry</span>
+                        <div class="task-bar-wrap">
+                            <div class="task-bar-bg" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100">
+                                <div class="task-bar-fill high" style="width:95%"></div>
+                            </div>
+                            <span class="task-bar-value">95%</span>
+                        </div>
+                    </div>
+                    <div class="task-item">
+                        <span class="task-label">Bank reconciliation &amp; discrepancy adjust</span>
+                        <div class="task-bar-wrap">
+                            <div class="task-bar-bg" role="progressbar" aria-valuenow="88" aria-valuemin="0" aria-valuemax="100">
+                                <div class="task-bar-fill high" style="width:88%"></div>
+                            </div>
+                            <span class="task-bar-value">88%</span>
+                        </div>
+                    </div>
+                    <div class="task-item">
+                        <span class="task-label">Generating standard statements</span>
+                        <div class="task-bar-wrap">
+                            <div class="task-bar-bg" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100">
+                                <div class="task-bar-fill high" style="width:85%"></div>
+                            </div>
+                            <span class="task-bar-value">85%</span>
+                        </div>
+                    </div>
+                    <div class="task-item">
+                        <span class="task-label">Classifying repetitive expenses</span>
+                        <div class="task-bar-wrap">
+                            <div class="task-bar-bg" role="progressbar" aria-valuenow="82" aria-valuemin="0" aria-valuemax="100">
+                                <div class="task-bar-fill high" style="width:82%"></div>
+                            </div>
+                            <span class="task-bar-value">82%</span>
+                        </div>
+                    </div>
+                    <div class="task-item">
+                        <span class="task-label">Routine AR/AP processing</span>
+                        <div class="task-bar-wrap">
+                            <div class="task-bar-bg" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">
+                                <div class="task-bar-fill high" style="width:90%"></div>
+                            </div>
+                            <span class="task-bar-value">90%</span>
+                        </div>
+                    </div>
+                </div>
+                <p class="illustrative-note">Per‑task figures are illustrative; headline scores from cited research.</p>
+            </div>
+
+            <!-- Accountant tasks -->
+            <div class="col-card">
+                <h3>Accountant — exposed tasks</h3>
+                <div class="task-list">
+                    <div class="task-item">
+                        <span class="task-label">Invoice recognition &amp; three‑way matching (AI OCR)</span>
+                        <div class="task-bar-wrap">
+                            <div class="task-bar-bg" role="progressbar" aria-valuenow="92" aria-valuemin="0" aria-valuemax="100">
+                                <div class="task-bar-fill high" style="width:92%"></div>
+                            </div>
+                            <span class="task-bar-value">92%</span>
+                        </div>
+                    </div>
+                    <div class="task-item">
+                        <span class="task-label">Bank reconciliation &amp; auto‑classification (RPA)</span>
+                        <div class="task-bar-wrap">
+                            <div class="task-bar-bg" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100">
+                                <div class="task-bar-fill high" style="width:85%"></div>
+                            </div>
+                            <span class="task-bar-value">85%</span>
+                        </div>
+                    </div>
+                    <div class="task-item">
+                        <span class="task-label">Standard tax‑return generation</span>
+                        <div class="task-bar-wrap">
+                            <div class="task-bar-bg" role="progressbar" aria-valuenow="78" aria-valuemin="0" aria-valuemax="100">
+                                <div class="task-bar-fill mid" style="width:78%"></div>
+                            </div>
+                            <span class="task-bar-value">78%</span>
+                        </div>
+                    </div>
+                    <div class="task-item">
+                        <span class="task-label">Drafting initial financial reports</span>
+                        <div class="task-bar-wrap">
+                            <div class="task-bar-bg" role="progressbar" aria-valuenow="74" aria-valuemin="0" aria-valuemax="100">
+                                <div class="task-bar-fill mid" style="width:74%"></div>
+                            </div>
+                            <span class="task-bar-value">74%</span>
+                        </div>
+                    </div>
+                    <div class="task-item">
+                        <span class="task-label">Large‑sample substantive audit testing</span>
+                        <div class="task-bar-wrap">
+                            <div class="task-bar-bg" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">
+                                <div class="task-bar-fill high" style="width:80%"></div>
+                            </div>
+                            <span class="task-bar-value">80%</span>
+                        </div>
+                    </div>
+                </div>
+                <p class="illustrative-note">Per‑task figures are illustrative; headline scores from cited research.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- WHERE AI AUGMENTS -->
+    <section>
+        <h2 class="section-title">Where AI Augments</h2>
+        <div class="two-col">
+            <div class="col-card">
+                <h3>Bookkeeper</h3>
+                <ul style="list-style: none; font-size: var(--fs-small); color: var(--text-secondary);">
+                    <li style="margin-bottom: var(--space-sm);">• Anomaly/fraud detection and alerting</li>
+                    <li style="margin-bottom: var(--space-sm);">• Real‑time dashboards</li>
+                    <li style="margin-bottom: var(--space-sm);">• ML cash‑flow forecasting</li>
+                    <li style="margin-bottom: var(--space-sm);">• Automated month‑end close with data‑integrity validation</li>
+                    <li>• Turning unstructured PDFs/receipts into structured entries</li>
+                </ul>
+            </div>
+            <div class="col-card">
+                <h3>Accountant</h3>
+                <ul style="list-style: none; font-size: var(--fs-small); color: var(--text-secondary);">
+                    <li style="margin-bottom: var(--space-sm);">• Abnormal‑transaction and fraud detection</li>
+                    <li style="margin-bottom: var(--space-sm);">• Tax‑planning scenario simulation</li>
+                    <li style="margin-bottom: var(--space-sm);">• Cash‑flow forecasting and rolling budgets</li>
+                    <li style="margin-bottom: var(--space-sm);">• Audit risk assessment</li>
+                    <li>• NLP contract‑clause compliance review</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <!-- HUMAN MOAT -->
+    <section>
+        <h2 class="section-title">Human Moat</h2>
+        <div class="two-col">
+            <div class="col-card">
+                <h3>Bookkeeper · Moat: 3.0/10</h3>
+                <ul style="list-style: none; font-size: var(--fs-small); color: var(--text-secondary); margin-bottom: var(--space-md);">
+                    <li style="margin-bottom: var(--space-sm);">• Explaining complex financial anomalies and advising the business</li>
+                    <li style="margin-bottom: var(--space-sm);">• Communicating financial strategy to clients and management</li>
+                    <li style="margin-bottom: var(--space-sm);">• Non‑standard transactions and accounting judgement</li>
+                    <li style="margin-bottom: var(--space-sm);">• Ensuring compliance and audit requirements</li>
+                    <li>• Cross‑department collaboration</li>
+                </ul>
+                <div class="moat-bar">
+                    <span style="font-size: var(--fs-small); color: var(--text-dim);">Shallow</span>
+                    <div class="moat-bar-bg">
+                        <div class="moat-bar-fill shallow" style="width:30%"></div>
+                    </div>
+                    <span class="moat-value">3.0</span>
+                </div>
+            </div>
+            <div class="col-card">
+                <h3>Accountant · Moat: 6.5/10</h3>
+                <ul style="list-style: none; font-size: var(--fs-small); color: var(--text-secondary); margin-bottom: var(--space-md);">
+                    <li style="margin-bottom: var(--space-sm);">• Structured judgement on complex transactions (e.g. M&amp;A accounting)</li>
+                    <li style="margin-bottom: var(--space-sm);">• Stakeholder communication and business advisory</li>
+                    <li style="margin-bottom: var(--space-sm);">• Professional judgement in principle‑based grey areas of accounting standards</li>
+                    <li style="margin-bottom: var(--space-sm);">• Cross‑department process design</li>
+                    <li>• Legal liability, signing authority and professional ethics</li>
+                </ul>
+                <div class="moat-bar">
+                    <span style="font-size: var(--fs-small); color: var(--text-dim);">Deep</span>
+                    <div class="moat-bar-bg">
+                        <div class="moat-bar-fill deep" style="width:65%"></div>
+                    </div>
+                    <span class="moat-value">6.5</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- OTHER DIMENSIONS -->
+    <section>
+        <h2 class="section-title">Other Dimensions</h2>
+        <div class="dimensions-grid">
+            <div class="dimension-card">
+                <h3>Bookkeeper</h3>
+                <div class="dim-row"><span class="dim-label">Avg. Salary</span><span class="dim-value"><strong>$53,560</strong></span></div>
+                <div class="dim-row"><span class="dim-label">Education Path</span><span class="dim-value">Certificate / diploma (months)</span></div>
+                <div class="dim-row"><span class="dim-label">Certification Barrier</span><span class="dim-value">Low (2/10)</span></div>
+                <div class="dim-row"><span class="dim-label">Future Prospect</span><span class="dim-value">5/10</span></div>
+                <div class="dim-row"><span class="dim-label">Job Demand</span><span class="dim-value">6/10</span></div>
+            </div>
+            <div class="dimension-card">
+                <h3>Accountant</h3>
+                <div class="dim-row"><span class="dim-label">Avg. Salary</span><span class="dim-value"><strong>$94,750</strong></span></div>
+                <div class="dim-row"><span class="dim-label">Education Path</span><span class="dim-value">Bachelor’s + CPA/CA/ACCA (years)</span></div>
+                <div class="dim-row"><span class="dim-label">Certification Barrier</span><span class="dim-value">High (7/10)</span></div>
+                <div class="dim-row"><span class="dim-label">Future Prospect</span><span class="dim-value">6/10</span></div>
+                <div class="dim-row"><span class="dim-label">Job Demand</span><span class="dim-value">8/10</span></div>
+            </div>
+        </div>
+    </section>
+
+    <!-- FAQ -->
+    <section class="faq-section">
+        <h2 class="section-title">Frequently Asked Questions</h2>
+        <details>
+            <summary>Should a bookkeeper retrain as an accountant?</summary>
+            <p>Given the accountant’s deeper human moat (6.5 vs 3.0) and higher salary ($94,750 vs $53,560), retraining makes sense for many. However, the cost (bachelor’s + CPA) and time (years) are significant. Focus on building analytical, advisory and tech skills.</p>
+        </details>
+        <details>
+            <summary>Will AI eliminate bookkeeping entirely?</summary>
+            <p>Not entirely, but entry-level roles (data entry, reconciliation, report generation) are highly automatable (88–95% per our illustrative task bars). Bookkeepers who move up into analysis, advisory and compliance will remain valuable.</p>
+        </details>
+        <details>
+            <summary>What does the AI risk score mean?</summary>
+            <p>The AI risk rating (0–10) reflects how much of the occupation’s core tasks could be performed or substantially augmented by generative AI and automation, based on task exposure research. A higher score means greater potential disruption.</p>
+        </details>
+        <details>
+            <summary>Where does the data come from?</summary>
+            <p>Official U.S. labour statistics (BLS OEWS, O*NET) combined with generative-AI exposure research: ILO Working Paper 140 and Eloundou et al. “GPTs are GPTs” (OpenAI). Note: the ILO paper is a working paper, not peer-reviewed.</p>
+        </details>
+        <details>
+            <summary>How can I stay employable in these fields?</summary>
+            <p>Build skills in QuickBooks Online, Xero, advanced Excel, Power BI, SQL and RPA basics. For accountants: Python, AI tooling (Xero AI, ACL), and industry specialisation. Focus on judgement, communication and advisory — the human moat.</p>
+        </details>
+    </section>
+
+    <!-- FOOTER -->
+    <footer class="footer">
+        <span>&copy; 2025 AIJobRisk — data-based career insight</span>
+        <span><a href="#">Privacy</a> · <a href="#">Terms</a> · <a href="#">References</a></span>
+    </footer>
+
+    <!-- DESIGN SYSTEM STRIP -->
+    <div class="design-strip">
+        <div class="swatch-group">
+            <span>Palette:</span>
+            <span class="swatch" style="background:#0f1117;"></span><span class="swatch-label">#0f1117</span>
+            <span class="swatch" style="background:#1a1d28;"></span><span class="swatch-label">#1a1d28</span>
+            <span class="swatch" style="background:#242736;"></span><span class="swatch-label">#242736</span>
+            <span class="swatch" style="background:#eaedf2;"></span><span class="swatch-label">#eaedf2</span>
+            <span class="swatch" style="background:#4f8cff;"></span><span class="swatch-label">#4f8cff</span>
+            <span class="swatch" style="background:#3bc9db;"></span><span class="swatch-label">#3bc9db</span>
+            <span class="swatch" style="background:#ffb74d;"></span><span class="swatch-label">#ffb74d</span>
+            <span class="swatch" style="background:#f87171;"></span><span class="swatch-label">#f87171</span>
+            <span class="swatch" style="background:#6ddbb3;"></span><span class="swatch-label">#6ddbb3</span>
+        </div>
+        <div class="note">Typographic scale: system stack, 11–36px, serious &amp; data-dense mood. Dark theme with high contrast.</div>
+    </div>
+
+</div>
+</body>
+</html>

@@ -2,7 +2,7 @@
 // 行业与「职业族 category」是并行两根轴。行业成员由 BLS 就业矩阵映射（阈值≥1%）。
 import occIndData from '../data/occ_industries_v2.json';
 import indData from '../data/industries_v2.json';
-import { occByCountry, catSlug, name as occName, type Occ } from './data';
+import { occByCountry, catSlug, name as occName, type Occ, type Locale } from './data';
 
 interface OccIndEntry { s: string; n: string; p: number }
 const OCC_IND = (occIndData as any).occ as Record<string, OccIndEntry[]>;
@@ -47,7 +47,7 @@ export interface SectorOcc {
 }
 
 // 某国某行业下的职业（按占该职业就业比降序返回，含暴露/薪资/人数）
-export function occupationsInSector(country: string, sectorId: string): SectorOcc[] {
+export function occupationsInSector(country: string, sectorId: string, loc: Locale = 'en'): SectorOcc[] {
   const out: SectorOcc[] = [];
   for (const o of occByCountry(country)) {
     const rels = OCC_IND[String(o.id)];
@@ -55,7 +55,7 @@ export function occupationsInSector(country: string, sectorId: string): SectorOc
     const hit = rels.find((r) => r.s === sectorId);
     if (!hit) continue;
     out.push({
-      name: occName(o as Occ, 'en'), slug: o.slug, catSlug: catSlug(o.category), pct: hit.p,
+      name: occName(o as Occ, loc), slug: o.slug, catSlug: catSlug(o.category), pct: hit.p,
       aioe: o.ai?.aioe_pct ?? null, salary: o.avg_salary ?? null, workforce: o.workforce_size ?? null,
     });
   }
@@ -63,6 +63,6 @@ export function occupationsInSector(country: string, sectorId: string): SectorOc
 }
 
 // 首页/卡片用：某行业前若干职业名（按人数）作示例
-export function sectorExamples(country: string, sectorId: string, n = 3): string[] {
-  return occupationsInSector(country, sectorId).slice(0, n).map((o) => o.name);
+export function sectorExamples(country: string, sectorId: string, n = 3, loc: Locale = 'en'): string[] {
+  return occupationsInSector(country, sectorId, loc).slice(0, n).map((o) => o.name);
 }

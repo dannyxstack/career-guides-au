@@ -1,7 +1,7 @@
 ---
 import Base from '../../../layouts/Base.astro';
 import { sectorById, occupationsInSector, sectorIcon } from '../../../lib/industries';
-import { COUNTRIES, countryName } from '../../../lib/data';
+import { COUNTRIES, countryName, tr } from '../../../lib/data';
 import { pageLocale, contentLocale, hrefJob, hrefIndustry, hrefIndustries, hrefMethodology, withL } from '../../../lib/i18n';
 import { expBand, fmtSalary, fmtNum } from '../../../lib/ui';
 
@@ -12,22 +12,23 @@ const sec = sector ? sectorById(sector) : null;
 if (!sec) return new Response('Not found', { status: 404 });
 
 const cc = country && (COUNTRIES as readonly string[]).includes(country) ? country : 'US';
-const rows = occupationsInSector(cc, sec.id);
+const rows = occupationsInSector(cc, sec.id, CL);
+const secName = tr(sec.name, CL);
 const countryOpts = COUNTRIES.map((c) => ({ c, href: hrefIndustry(loc, sec.id, c), name: countryName(c, CL) }));
 ---
 <Base
-  title={`${sec.name} — AI exposure by occupation | AI Job Risk`}
-  description={`AI exposure, salary and workforce for occupations in ${sec.name} (${countryName(cc, CL)}).`}
+  title={`${secName} — ${tr('AI exposure by occupation', CL)} | AI Job Risk`}
+  description={`${tr('AI exposure, salary and workforce for occupations in this industry.', CL)} ${secName} · ${countryName(cc, CL)}`}
   active="industries"
 >
   <div class="container">
-    <nav class="breadcrumb"><a href={withL(loc, '/')}>Home</a> <span>›</span> <a href={hrefIndustries(loc, cc)}>Industries</a> <span>›</span> <span>{sec.name}</span></nav>
+    <nav class="breadcrumb"><a href={withL(loc, '/')}>{tr('Home', CL)}</a> <span>›</span> <a href={hrefIndustries(loc, cc)}>{tr('Industries', CL)}</a> <span>›</span> <span>{secName}</span></nav>
 
     <section class="hero">
       <div class="hero-text">
-        <h1><i class={`fas ${sectorIcon(sec.id)}`}></i> {sec.name}</h1>
+        <h1><i class={`fas ${sectorIcon(sec.id)}`}></i> {secName}</h1>
         <div class="hero-stats">
-          <span><strong>{fmtNum(rows.length)}</strong> occupations</span>
+          <span><strong>{fmtNum(rows.length)}</strong> {tr('occupations', CL)}</span>
           <span><strong>{countryName(cc, CL)}</strong></span>
         </div>
       </div>
@@ -40,10 +41,10 @@ const countryOpts = COUNTRIES.map((c) => ({ c, href: hrefIndustry(loc, sec.id, c
     </section>
 
     <dl class="col-legend">
-      <div><dt>AI exposure</dt><dd>Generative-AI task-exposure percentile (0–100); higher = more exposed. <a href={hrefMethodology(loc)}>Methodology →</a></dd></div>
-      <div><dt>Industry share</dt><dd>Share of this occupation's employment that sits within this industry (many-to-many mapping).</dd></div>
-      <div><dt>Avg salary</dt><dd>Average annual salary in {countryName(cc, CL)} (local currency), from official labour statistics.</dd></div>
-      <div><dt>Workforce</dt><dd>Estimated number of people employed in the occupation nationally.</dd></div>
+      <div><dt>{tr('AI exposure', CL)}</dt><dd>{tr('Generative-AI task-exposure percentile (0–100); higher = more exposed.', CL)} <a href={hrefMethodology(loc)}>{tr('Methodology', CL)} →</a></dd></div>
+      <div><dt>{tr('Industry share', CL)}</dt><dd>{tr("Share of this occupation's employment that sits within this industry (many-to-many mapping).", CL)}</dd></div>
+      <div><dt>{tr('Avg salary', CL)}</dt><dd>{tr('Average annual salary (local currency), from official labour statistics.', CL)} · {countryName(cc, CL)}</dd></div>
+      <div><dt>{tr('Workforce', CL)}</dt><dd>{tr('Estimated number of people employed in the occupation nationally.', CL)}</dd></div>
     </dl>
 
     <section class="table-section card">
@@ -51,11 +52,11 @@ const countryOpts = COUNTRIES.map((c) => ({ c, href: hrefIndustry(loc, sec.id, c
         <table id="occ-table">
           <thead>
             <tr>
-              <th data-key="name" class="active-sort">Occupation <span class="aff">▼</span></th>
-              <th data-key="aioe" class="num">AI exposure <span class="aff">▲</span></th>
-              <th data-key="share" class="num">Industry share <span class="aff">▲</span></th>
-              <th data-key="salary" class="num">Avg salary <span class="aff">▲</span></th>
-              <th data-key="workforce" class="num">Workforce <span class="aff">▲</span></th>
+              <th data-key="name" class="active-sort">{tr('Occupation', CL)} <span class="aff">▼</span></th>
+              <th data-key="aioe" class="num">{tr('AI exposure', CL)} <span class="aff">▲</span></th>
+              <th data-key="share" class="num">{tr('Industry share', CL)} <span class="aff">▲</span></th>
+              <th data-key="salary" class="num">{tr('Avg salary', CL)} <span class="aff">▲</span></th>
+              <th data-key="workforce" class="num">{tr('Workforce', CL)} <span class="aff">▲</span></th>
             </tr>
           </thead>
           <tbody>
@@ -64,7 +65,7 @@ const countryOpts = COUNTRIES.map((c) => ({ c, href: hrefIndustry(loc, sec.id, c
               return (
                 <tr data-name={r.name} data-aioe={r.aioe ?? -1} data-share={r.pct} data-salary={r.salary ?? -1} data-workforce={r.workforce ?? -1}>
                   <td class="occ-name"><a href={hrefJob(loc, r.slug, cc)}>{r.name}</a></td>
-                  <td class="num"><div class="risk-cell">{r.aioe ?? '—'} {r.aioe != null && <span class={`risk-badge ${b.cls}`}>{b.label}</span>}</div></td>
+                  <td class="num"><div class="risk-cell">{r.aioe ?? '—'} {r.aioe != null && <span class={`risk-badge ${b.cls}`}>{tr(b.label, CL)}</span>}</div></td>
                   <td class="num">{r.pct.toFixed(1)}%</td>
                   <td class="num">{fmtSalary(r.salary, cc)}</td>
                   <td class="num">{fmtNum(r.workforce)}</td>
@@ -77,7 +78,7 @@ const countryOpts = COUNTRIES.map((c) => ({ c, href: hrefIndustry(loc, sec.id, c
     </section>
 
     <div class="footnote card">
-      <strong>About the data:</strong> Occupation–industry mapping from the BLS National Employment Matrix. AI-exposure scores based on ILO Working Paper 140 and Eloundou et al. (OpenAI). An occupation may appear in several industries — exposure reflects the occupation overall, not industry-specific. Industry share = the occupation's employment share within this industry.
+      <strong>{tr('About the data:', CL)}</strong> {tr("Occupation–industry mapping from the BLS National Employment Matrix. AI-exposure scores based on ILO Working Paper 140 and Eloundou et al. (OpenAI). An occupation may appear in several industries — exposure reflects the occupation overall, not industry-specific. Industry share = the occupation's employment share within this industry.", CL)}
     </div>
   </div>
 

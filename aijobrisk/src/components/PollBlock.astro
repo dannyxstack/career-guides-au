@@ -3,7 +3,7 @@
 // 服务端渲染题目/选项（SEO 友好）+ 构建期烘焙的初始聚合；客户端拉实时值 + 提交。
 // occ_key = 职业 slug（跨国共享）。API 基址来自 PUBLIC_POLLS_API。
 import { POLLS, locText, fillTpl, pctOf, avgFromCounts, type Poll } from '../lib/polls';
-import type { Locale } from '../lib/data';
+import { tr, type Locale } from '../lib/data';
 
 interface Props { slug: string; locale: Locale; name: string; baked?: Record<string, any> | null }
 const { slug, locale, name } = Astro.props as Props;
@@ -11,12 +11,12 @@ const baked: Record<string, any> = (Astro.props as Props).baked || {}; // o.poll
 
 const API_BASE = import.meta.env.PUBLIC_POLLS_API || 'http://localhost:8790/api';
 
-// 组件内小 i18n（只维护中英文，其余回退 en）
-const UI: Record<string, Record<string, string>> = {
-  'zh-CN': { title: '社区怎么看', hint: '点击一项投票（可随时改）', votes: '人投票', avg: '大众平均', thanks: '感谢投票！', you: '你的选择' },
-  en: { title: 'What the community thinks', hint: 'Tap an option to vote (change anytime)', votes: 'votes', avg: 'Community avg', thanks: 'Thanks for voting!', you: 'Your pick' },
+// 组件内小 i18n：英文母本走内容层 tr()，覆盖全部目标语
+const u = {
+  title: tr('What the community thinks', locale), hint: tr('Tap an option to vote (change anytime)', locale),
+  votes: tr('votes', locale), avg: tr('Community avg', locale),
+  thanks: tr('Thanks for voting!', locale), you: tr('Your pick', locale),
 };
-const u = UI[locale] ?? UI.en;
 
 // 服务端预备各投票的本地化结构。职业名 {name} 服务端就填进标题/结论（SEO/GEO 可见）；
 // 结论里的 {n}/{avg}/{pct.*} 留给客户端按实时数据填。

@@ -6,5 +6,4 @@ export const DATA_UPDATED = '2026-07-16';
 export const NETWORK = {
   assessment: 'https://ismyjobaiproof.com',
   map: `${SITE_URL}/job-risk-map/`,
-  transitions: 'https://aicareergraph.com',
 } as const;

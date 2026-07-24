@@ -1,6 +1,6 @@
 ---
 import Base from '../layouts/Base.astro';
-import { JOB_SLUGS, jobBySlug, name as occName, countryName, COUNTRY_FLAG } from '../lib/data';
+import { JOB_SLUGS, jobBySlug, name as occName, countryName, COUNTRY_FLAG, tr } from '../lib/data';
 import { categoryIcon } from '../lib/industries';
 import { pageLocale, contentLocale, hrefJob, hrefSearch } from '../lib/i18n';
 import { expBand } from '../lib/ui';
@@ -26,17 +26,17 @@ results = results
   .sort((a, b) => (ql ? a.name.length - b.name.length : b.work - a.work))
   .slice(0, 60);
 ---
-<Base title={q ? `Search: ${q} | AI Job Risk` : 'Browse occupations | AI Job Risk'} description="Search occupations and check AI replacement risk." active="occupations">
+<Base title={q ? `${tr('Search', CL)}: ${q} | AI Job Risk` : `${tr('Browse occupations', CL)} | AI Job Risk`} description={tr('Search occupations and check AI replacement risk.', CL)} active="occupations">
   <div class="container search-page">
-    <h1>{q ? `Results for “${q}”` : 'Browse occupations'}</h1>
+    <h1>{q ? `${tr('Results for', CL)} “${q}”` : tr('Browse occupations', CL)}</h1>
     <form class="search-box" action={hrefSearch(loc)} method="get" role="search">
-      <input type="text" name="q" value={q} placeholder="Search a job, e.g. “Accountant”…" aria-label="Search occupations" autofocus />
-      <button type="submit"><i class="fas fa-search"></i> Search</button>
+      <input type="text" name="q" value={q} placeholder={tr('Search a job, e.g. "Accountant"…', CL)} aria-label={tr('Search occupations', CL)} autofocus />
+      <button type="submit"><i class="fas fa-search"></i> {tr('Search', CL)}</button>
     </form>
-    <p class="muted count">{results.length}{results.length === 60 ? '+' : ''} occupations{q ? ` matching “${q}”` : ' by workforce'}</p>
+    <p class="muted count">{results.length}{results.length === 60 ? '+' : ''} {tr('occupations', CL)}{q ? ` ${tr('matching', CL)} “${q}”` : ` ${tr('by workforce', CL)}`}</p>
 
     {results.length === 0 ? (
-      <p class="card muted">No occupations found. Try a different term.</p>
+      <p class="card muted">{tr('No occupations found. Try a different term.', CL)}</p>
     ) : (
       <div class="res-grid">
         {results.map((r) => {
@@ -44,9 +44,9 @@ results = results
           return (
             <a class="res-card" href={hrefJob(loc, r.slug)}>
               <div class="rc-name">{r.name}</div>
-              <div class="rc-cat"><i class={`fas ${categoryIcon(r.cat)}`}></i> {r.cat}</div>
+              <div class="rc-cat"><i class={`fas ${categoryIcon(r.cat)}`}></i> {tr(r.cat, CL)}</div>
               <div class="rc-foot">
-                {b && <span class={`risk-badge ${b.cls}`}>AI exposure {r.aioe} · {b.label}</span>}
+                {b && <span class={`risk-badge ${b.cls}`}>{tr('AI exposure', CL)} {r.aioe} · {tr(b.label, CL)}</span>}
                 <span class="rc-flags">{r.countries.slice(0, 6).map((cc) => (
                   <span class="flag" title={countryName(cc, CL)} set:html={COUNTRY_FLAG[cc]} />
                 ))}</span>

@@ -5,7 +5,7 @@
 // board id 与国家码不重叠，故单一 catch-all 自行解析、无冲突。
 import Base from '../../layouts/Base.astro';
 import { buildBoards, boardById, type Board, type RankItem } from '../../lib/rankings';
-import { COUNTRIES, countryName, occByCountry, JOB_SLUGS } from '../../lib/data';
+import { COUNTRIES, countryName, occByCountry, JOB_SLUGS, tr } from '../../lib/data';
 import { categoryIcon } from '../../lib/industries';
 import { pageLocale, contentLocale, hrefJob, hrefRankings, hrefBoard, withL } from '../../lib/i18n';
 import { expBand, fmtSalary, fmtNum } from '../../lib/ui';
@@ -45,7 +45,7 @@ const BOARD_ICON: Record<string, string> = {
 };
 
 // ============ HUB 模式数据 ============
-const boardsHub = !isBoard ? buildBoards(cc, 5) : [];
+const boardsHub = !isBoard ? buildBoards(cc, 5, CL) : [];
 const BOARD_TONE: Record<string, string> = {
   'most-exposed': 'high', 'least-exposed': 'low', 'highest-paying': 'gold',
   'largest-workforce': 'slate', 'strongest-demand': 'brand', 'deepest-moat': 'moat',
@@ -59,24 +59,24 @@ function primary(b: Board, it: RankItem): string {
 }
 function secondary(b: Board, it: RankItem): string {
   if (b.metric === 'aioe') return fmtSalary(it.salary, cc);
-  return it.aioe != null ? `exposure ${it.aioe}` : '';
+  return it.aioe != null ? `${tr('exposure', CL)} ${it.aioe}` : '';
 }
 
 // ============ BOARD 模式数据 ============
-const b = isBoard ? boardById(cc, board!, 50) : null;
+const b = isBoard ? boardById(cc, board!, 50, CL) : null;
 if (isBoard && !b) return new Response('Not found', { status: 404 });
 
 const metricCol = b && (b.metric === 'workforce'
-  ? { label: 'Workforce', fn: (it: RankItem) => fmtNum(it.workforce) }
+  ? { label: tr('Workforce', CL), fn: (it: RankItem) => fmtNum(it.workforce) }
   : b.metric === 'demand'
-  ? { label: 'Demand', fn: (it: RankItem) => (it.demand != null ? `${it.demand}/10` : '—') }
-  : { label: 'Avg salary', fn: (it: RankItem) => fmtSalary(it.salary, cc) });
+  ? { label: tr('Demand', CL), fn: (it: RankItem) => (it.demand != null ? `${it.demand}/10` : '—') }
+  : { label: tr('Avg salary', CL), fn: (it: RankItem) => fmtSalary(it.salary, cc) });
 
 function tag(aioe: number | null) {
   const bd = expBand(aioe);
-  if (bd.cls === 'critical' || bd.cls === 'high') return { cls: 'high', label: bd.label };
-  if (bd.cls === 'moderate') return { cls: 'mid', label: 'moderate' };
-  return { cls: 'low', label: bd.label };
+  if (bd.cls === 'critical' || bd.cls === 'high') return { cls: 'high', label: tr(bd.label, CL) };
+  if (bd.cls === 'moderate') return { cls: 'mid', label: tr('moderate', CL) };
+  return { cls: 'low', label: tr(bd.label, CL) };
 }
 function barColor(aioe: number | null) {
   if (aioe == null) return '#cbd5e1';
@@ -89,10 +89,10 @@ function pctColor(aioe: number | null) {
   return aioe >= 70 ? 'var(--risk-high)' : aioe >= 40 ? 'var(--risk-mid-fg)' : 'var(--risk-low)';
 }
 function moat(v: number | null) {
-  if (v == null) return { cls: 'moderate', label: 'n/a' };
-  if (v >= 7) return { cls: 'strong', label: 'Strong' };
-  if (v >= 4) return { cls: 'moderate', label: 'Moderate' };
-  return { cls: 'weak', label: 'Weak' };
+  if (v == null) return { cls: 'moderate', label: tr('n/a', CL) };
+  if (v >= 7) return { cls: 'strong', label: tr('Strong', CL) };
+  if (v >= 4) return { cls: 'moderate', label: tr('Moderate', CL) };
+  return { cls: 'weak', label: tr('Weak', CL) };
 }
 
 // 头部分布统计（board 模式）
@@ -108,21 +108,21 @@ if (isBoard) {
 const pct = (n: number) => (dist.total ? Math.round((n / dist.total) * 100) : 0);
 
 const FAQ = [
-  { q: 'How is the AI exposure percentile calculated?', a: 'It comes from two open studies — the ILO\'s Working Paper 140 and Eloundou et al. "GPTs are GPTs" (OpenAI) — mapped onto official occupation classifications. It is a percentile (0–100): higher means more exposed to generative AI.' },
-  { q: 'Does high exposure mean the job disappears?', a: 'No. High exposure means a larger share of the tasks can be done or assisted by AI — the task mix is reshaped, entry-level roles may shrink, and AI-fluent workers gain leverage. It is not a prediction of unemployment.' },
-  { q: 'What is the human moat?', a: 'The capabilities AI struggles to replace: complex judgement, on-site work, licensed accountability, empathy and care, and face-to-face trust. A deeper moat makes an occupation more resilient.' },
-  { q: 'How is this ranking produced?', a: 'Rankings are computed automatically by transparent rules from official labour statistics and the exposure scores — not hand-picked. Figures are estimates, updated periodically, and indicative only.' },
+  { q: tr('How is the AI exposure percentile calculated?', CL), a: tr('It comes from two open studies — the ILO Working Paper 140 and Eloundou et al. "GPTs are GPTs" (OpenAI) — mapped onto official occupation classifications. It is a percentile (0–100): higher means more exposed to generative AI.', CL) },
+  { q: tr('Does high exposure mean the job disappears?', CL), a: tr('No. High exposure means a larger share of the tasks can be done or assisted by AI — the task mix is reshaped, entry-level roles may shrink, and AI-fluent workers gain leverage. It is not a prediction of unemployment.', CL) },
+  { q: tr('What is the human moat?', CL), a: tr('The capabilities AI struggles to replace: complex judgement, on-site work, licensed accountability, empathy and care, and face-to-face trust. A deeper moat makes an occupation more resilient.', CL) },
+  { q: tr('How is this ranking produced?', CL), a: tr('Rankings are computed automatically by transparent rules from official labour statistics and the exposure scores — not hand-picked. Figures are estimates, updated periodically, and indicative only.', CL) },
 ];
 const faqLd = { '@context': 'https://schema.org', '@type': 'FAQPage',
   mainEntity: FAQ.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })) };
 
 // —— 页面 meta ——
 const title = isBoard
-  ? `${b!.title} — full ranking (${countryName(cc, CL)}) | AI Job Risk`
-  : 'Job risk & opportunity rankings | AI Job Risk';
+  ? `${b!.title} — ${tr('full ranking', CL)} (${countryName(cc, CL)}) | AI Job Risk`
+  : `${tr('Job risk & opportunity rankings', CL)} | AI Job Risk`;
 const description = isBoard
-  ? `${b!.title}: ${b!.desc} across occupations in ${countryName(cc, CL)}.`
-  : `How exposed is your job to generative AI? Compare salary, workforce, demand and human resilience across occupations in ${countryName(cc, CL)}.`;
+  ? `${b!.title}: ${b!.desc} · ${countryName(cc, CL)}`
+  : `${tr('How exposed is your job to generative AI? Compare salary, workforce, demand and human resilience across occupations.', CL)} · ${countryName(cc, CL)}`;
 ---
 <Base title={title} description={description} active="rankings" jsonLd={isBoard ? faqLd : undefined}>
   {!isBoard ? (
@@ -130,12 +130,12 @@ const description = isBoard
     <div class="container">
       <div class="rk-head">
         <div>
-          <h1>Job risk &amp; opportunity rankings</h1>
-          <p class="subhead">How exposed is your job to generative AI? Compare salary, workforce size, demand and human resilience across {JOB_SLUGS.length.toLocaleString('en')} occupations in {COUNTRIES.length} countries — {countryName(cc, CL)} shown.</p>
+          <h1>{tr('Job risk & opportunity rankings', CL)}</h1>
+          <p class="subhead">{tr('How exposed is your job to generative AI? Compare salary, workforce size, demand and human resilience across occupations.', CL)} — {countryName(cc, CL)}</p>
         </div>
         <label class="country-select">
           <i class="fas fa-globe"></i>
-          <select aria-label="Select country" onchange="if(this.value)window.location.href=this.value;">
+          <select aria-label={tr('Select country', CL)} onchange="if(this.value)window.location.href=this.value;">
             {COUNTRIES.map((c) => <option value={countryUrl(c)} selected={c === cc}>{countryName(c, CL)}</option>)}
           </select>
         </label>
@@ -161,64 +161,69 @@ const description = isBoard
                 </li>
               ))}
             </ol>
-            <a href={hrefBoard(loc, bd.id, cc)} class="view-full">View full ranking →</a>
+            <a href={hrefBoard(loc, bd.id, cc)} class="view-full">{tr('View full ranking', CL)} →</a>
           </div>
         ))}
       </div>
 
       <div class="methodology card">
-        <h3>Data &amp; methodology</h3>
-        <p>Exposure scores derive from ILO Working Paper 140 (Gmyrek, Berg &amp; Bescond) and Eloundou et al. "GPTs are GPTs" (OpenAI). Salary, employment and demand data come from official national labour statistics (for the US: BLS OEWS and O*NET). Exposure is a percentile (0–100); labels use fixed thresholds for accessibility. Rankings are computed automatically by transparent rules — not hand-picked.</p>
+        <h3>{tr('Data & methodology', CL)}</h3>
+        <p>{tr('Exposure scores derive from ILO Working Paper 140 (Gmyrek, Berg & Bescond) and Eloundou et al. "GPTs are GPTs" (OpenAI). Salary, employment and demand data come from official national labour statistics (for the US: BLS OEWS and O*NET). Exposure is a percentile (0–100); labels use fixed thresholds for accessibility. Rankings are computed automatically by transparent rules — not hand-picked.', CL)}</p>
       </div>
     </div>
   ) : (
     <!-- ============ BOARD ============ -->
     <div class="container ri">
-      <nav class="breadcrumb"><a href={withL(loc, '/')}>Home</a> <span>/</span> <a href={hrefRankings(loc, cc)}>Rankings</a> <span>/</span> {b!.title}</nav>
+      <nav class="breadcrumb"><a href={withL(loc, '/')}>{tr('Home', CL)}</a> <span>/</span> <a href={hrefRankings(loc, cc)}>{tr('Rankings', CL)}</a> <span>/</span> {b!.title}</nav>
 
       <div class="page-header">
         <h1><i class={`fas ${BOARD_ICON[board!] || 'fa-list-ol'}`}></i> {b!.title}
           <span class="ph-sub">{countryName(cc, CL)} · 2026</span>
         </h1>
-        <p class="sub">{b!.desc} · top {b!.items.length} of {fmtNum(dist.total)} scored occupations</p>
+        <p class="sub">{b!.desc} · {tr('top', CL)} {b!.items.length} / {fmtNum(dist.total)} {tr('scored occupations', CL)}</p>
         <div class="stats-row">
-          <span class="stat-item"><strong>🔴 High risk</strong> {pct(dist.high)}% of occupations</span>
-          <span class="stat-item"><strong>🟡 Moderate</strong> {pct(dist.mid)}%</span>
-          <span class="stat-item"><strong>🟢 Low risk</strong> {pct(dist.low)}%</span>
-          <span class="stat-item"><i class="far fa-calendar"></i> Updated {DATA_UPDATED}</span>
+          <span class="stat-item"><strong>🔴 {tr('High risk', CL)}</strong> {pct(dist.high)}% {tr('of occupations', CL)}</span>
+          <span class="stat-item"><strong>🟡 {tr('Moderate', CL)}</strong> {pct(dist.mid)}%</span>
+          <span class="stat-item"><strong>🟢 {tr('Low risk', CL)}</strong> {pct(dist.low)}%</span>
+          <span class="stat-item"><i class="far fa-calendar"></i> {tr('Updated', CL)} {DATA_UPDATED}</span>
         </div>
       </div>
 
       <div class="filter-bar">
-        <span class="label"><i class="fas fa-filter"></i> Filter:</span>
+        <span class="label"><i class="fas fa-filter"></i> {tr('Filter', CL)}:</span>
         <div class="filter-group" id="band-filter">
-          <button class="filter-btn active" data-band="all">All</button>
-          <button class="filter-btn" data-band="high">High (70+)</button>
-          <button class="filter-btn" data-band="mid">Moderate (40–69)</button>
-          <button class="filter-btn" data-band="low">Low (&lt;40)</button>
+          <button class="filter-btn active" data-band="all">{tr('All', CL)}</button>
+          <button class="filter-btn" data-band="high">{tr('High (70+)', CL)}</button>
+          <button class="filter-btn" data-band="mid">{tr('Moderate (40–69)', CL)}</button>
+          <button class="filter-btn" data-band="low">{tr('Low (<40)', CL)}</button>
         </div>
         <label class="country-select">
           <i class="fas fa-globe"></i>
-          <select aria-label="Select country" onchange="if(this.value)window.location.href=this.value;">
+          <select aria-label={tr('Select country', CL)} onchange="if(this.value)window.location.href=this.value;">
             {COUNTRIES.map((c) => <option value={countryUrl(c)} selected={c === cc}>{countryName(c, CL)}</option>)}
           </select>
         </label>
         <div class="search-mini">
           <i class="fas fa-search"></i>
-          <input type="text" id="ri-search" placeholder="Search occupation…" aria-label="Search this ranking" />
+          <input type="text" id="ri-search" placeholder={tr('Search occupation…', CL)} aria-label={tr('Search this ranking', CL)} />
         </div>
       </div>
 
       <div class="rank-table-wrapper">
-        <table class="rank-table" id="ri-table">
+        <table class="rank-table" id="ri-table"
+          data-empty={tr('No occupations match this filter.', CL)}
+          data-showing={tr('Showing', CL)}
+          data-occ={tr('occupations', CL)}
+          data-occ1={tr('occupation', CL)}
+          data-nomatch={tr('No occupations match this filter', CL)}>
           <thead>
             <tr>
               <th style="width:48px">#</th>
-              <th style="min-width:200px">Occupation</th>
-              <th style="min-width:150px">AI exposure</th>
-              <th style="min-width:110px">Human moat</th>
+              <th style="min-width:200px">{tr('Occupation', CL)}</th>
+              <th style="min-width:150px">{tr('AI exposure', CL)}</th>
+              <th style="min-width:110px">{tr('Human moat', CL)}</th>
               <th style="min-width:100px">{metricCol!.label}</th>
-              <th style="width:80px">Details</th>
+              <th style="width:80px">{tr('Details', CL)}</th>
             </tr>
           </thead>
           <tbody>
@@ -229,37 +234,37 @@ const description = isBoard
               return (
                 <tr data-band={tg.cls} data-name={it.name.toLowerCase()}>
                   <td class:list={['rank-num', { top1: rank === 1, top2: rank === 2, top3: rank === 3 }]}>{rank}</td>
-                  <td data-label="Occupation">
+                  <td data-label={tr('Occupation', CL)}>
                     <span class="job-info">
                       <a class="job-name" href={hrefJob(loc, it.slug)}>{it.name}</a>
-                      <span class="job-cat"><i class={`fas ${categoryIcon(it.cat)}`}></i> {it.cat}</span>
+                      <span class="job-cat"><i class={`fas ${categoryIcon(it.cat)}`}></i> {tr(it.cat, CL)}</span>
                       <span class={`job-tag ${tg.cls}`}>{tg.label}</span>
                     </span>
                   </td>
-                  <td data-label="AI exposure">
+                  <td data-label={tr('AI exposure', CL)}>
                     <div class="risk-bar-wrap">
                       <div class="risk-bar-track"><div class="fill" style={`width:${it.aioe ?? 0}%;background:${barColor(it.aioe)}`}></div></div>
                       <span class="risk-pct" style={`color:${pctColor(it.aioe)}`}>{it.aioe ?? '—'}</span>
                     </div>
                   </td>
-                  <td data-label="Human moat">
+                  <td data-label={tr('Human moat', CL)}>
                     <span class={`moat-badge ${mt.cls}`}><i class="fas fa-shield-halved"></i> {mt.label}</span>
                   </td>
                   <td data-label={metricCol!.label} class="metric-cell">{metricCol!.fn(it)}</td>
-                  <td data-label="Details"><a href={hrefJob(loc, it.slug)} class="action-link">View →</a></td>
+                  <td data-label={tr('Details', CL)}><a href={hrefJob(loc, it.slug)} class="action-link">{tr('View', CL)} →</a></td>
                 </tr>
               );
             })}
           </tbody>
         </table>
         <div class="rank-footer">
-          <span id="ri-count">Showing top {b!.items.length} of {fmtNum(dist.total)} occupations</span>
-          <a class="action-link" href={hrefRankings(loc, cc)}>← All rankings</a>
+          <span id="ri-count">{tr('Showing top', CL)} {b!.items.length} / {fmtNum(dist.total)} {tr('occupations', CL)}</span>
+          <a class="action-link" href={hrefRankings(loc, cc)}>← {tr('All rankings', CL)}</a>
         </div>
       </div>
 
       <div class="faq-block">
-        <h3><i class="fas fa-circle-question"></i> About this ranking</h3>
+        <h3><i class="fas fa-circle-question"></i> {tr('About this ranking', CL)}</h3>
         {FAQ.map((f) => (
           <div class="faq-item">
             <div class="q"><i class="fas fa-chevron-right"></i> {f.q}</div>
@@ -293,7 +298,7 @@ const description = isBoard
       var emptyRow = document.createElement('tr');
       emptyRow.id = 'ri-empty';
       emptyRow.style.display = 'none';
-      emptyRow.innerHTML = '<td colspan="6" class="ri-empty-cell">No occupations match this filter.</td>';
+      emptyRow.innerHTML = '<td colspan="6" class="ri-empty-cell">' + (table.dataset.empty || 'No occupations match this filter.') + '</td>';
       tbody.appendChild(emptyRow);
 
       function apply() {
@@ -307,8 +312,8 @@ const description = isBoard
         });
         emptyRow.style.display = shown ? 'none' : '';
         if (count) count.textContent = shown
-          ? ('Showing ' + shown + ' occupation' + (shown === 1 ? '' : 's'))
-          : 'No occupations match this filter';
+          ? (table.dataset.showing + ' ' + shown + ' ' + (shown === 1 ? table.dataset.occ1 : table.dataset.occ))
+          : table.dataset.nomatch;
       }
       btns.forEach(function (btn) {
         btn.addEventListener('click', function () {

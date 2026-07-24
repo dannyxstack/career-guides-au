@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+  <title>Health Care &amp; social assistance – AI Job Risk</title>
+  <style>
+    /* ----- RESET & VARIABLES ----- */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      --brand: #2563eb; --brand-hover: #1e4fc4; --brand-tint: #eef2ff;
+      --text: #0b1a2e; --text-strong: #1e3a5f; --text-body: #2c3e5a; --text-muted: #4b5e7a;
+      --bg: #f6f9fc; --bg-soft: #f8faff; --surface: #ffffff; --surface-tint: #eaf0f6;
+      --surface-tint-2: #f0f5fe; --surface-accent: #ecf3fa; --line: #dce7f5;
+      --risk-low: #059669; --risk-low-bg: #d1fae5;
+      --risk-mid: #f59e0b; --risk-mid-bg: #fef3c7;
+      --risk-high: #dc2626; --risk-high-bg: #fee2e2;
+      --radius: 12px; --shadow: 0 1px 3px rgba(11,26,46,.06),0 4px 12px rgba(11,26,46,.05);
+    }
+    body {
+      font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg); color: var(--text-body); line-height: 1.5;
+      -webkit-font-smoothing: antialiased;
+    }
+    a { color: var(--brand); text-decoration: none; }
+    a:hover { color: var(--brand-hover); }
+
+    /* ----- UTILITY ----- */
+    .container { max-width: 1200px; margin: 0 auto; padding: 0 24px; }
+    @media (max-width: 640px) { .container { padding: 0 16px; } }
+
+    /* ----- NAV ----- */
+    .site-header {
+      background: var(--surface); border-bottom: 1px solid var(--line);
+      position: sticky; top: 0; z-index: 20;
+    }
+    .nav-row {
+      display: flex; align-items: center; justify-content: space-between;
+      height: 64px;
+    }
+    .logo-area {
+      display: flex; align-items: center; gap: 10px;
+      color: var(--text-strong); font-weight: 600; font-size: 1.125rem;
+    }
+    .logo-area svg { display: block; }
+    .nav-links {
+      display: flex; gap: 28px; font-size: 0.9375rem; color: var(--text-muted);
+    }
+    .nav-links a { color: var(--text-muted); font-weight: 500; transition: color .15s; }
+    .nav-links a:hover { color: var(--brand); }
+    @media (max-width: 640px) {
+      .nav-links a:not(.nav-bold) { display: none; }
+    }
+
+    /* ----- BREADCRUMB ----- */
+    .breadcrumb {
+      display: flex; flex-wrap: wrap; align-items: center; gap: 6px 4px;
+      padding: 20px 0 8px; font-size: 0.875rem; color: var(--text-muted);
+    }
+    .breadcrumb a { color: var(--text-muted); }
+    .breadcrumb a:hover { color: var(--brand); }
+    .breadcrumb span { margin: 0 2px; }
+
+    /* ----- HERO ----- */
+    .hero {
+      padding: 8px 0 28px; display: flex; flex-wrap: wrap;
+      justify-content: space-between; align-items: flex-start; gap: 16px;
+    }
+    .hero-text { flex: 1; min-width: 240px; }
+    .hero-text h1 {
+      font-size: 2rem; font-weight: 700; color: var(--text-strong);
+      letter-spacing: -0.02em; line-height: 1.2;
+    }
+    .hero-text p { color: var(--text-muted); margin-top: 6px; font-size: 1rem; }
+    .hero-stats {
+      display: flex; gap: 20px; flex-wrap: wrap; margin-top: 14px;
+    }
+    .stat-item { font-size: 0.9375rem; color: var(--text-body); }
+    .stat-item strong { color: var(--text-strong); font-weight: 600; }
+    .country-picker {
+      background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius);
+      padding: 8px 16px; font-size: 0.9375rem; color: var(--text-strong);
+      font-weight: 500; display: flex; align-items: center; gap: 6px;
+      box-shadow: var(--shadow); white-space: nowrap;
+    }
+    .country-picker::after { content: "▾"; font-size: 0.75rem; color: var(--text-muted); }
+
+    /* ----- TABLE ----- */
+    .table-section {
+      background: var(--surface); border-radius: var(--radius);
+      box-shadow: var(--shadow); border: 1px solid var(--line);
+      overflow: hidden; margin-bottom: 28px;
+    }
+    .table-wrapper { overflow-x: auto; }
+    table {
+      width: 100%; border-collapse: collapse; font-size: 0.9375rem;
+      min-width: 500px;
+    }
+    th {
+      background: var(--surface-tint-2); color: var(--text-strong);
+      font-weight: 600; text-align: left; padding: 14px 12px 10px;
+      border-bottom: 2px solid var(--line); font-size: 0.8125rem;
+      text-transform: uppercase; letter-spacing: 0.03em;
+      cursor: default; white-space: nowrap;
+    }
+    th .sort-affordance {
+      display: inline-block; margin-left: 6px; color: var(--text-muted);
+      font-size: 0.7rem; user-select: none;
+    }
+    th.active-sort { color: var(--brand); }
+    th.active-sort .sort-affordance { color: var(--brand); }
+    td {
+      padding: 12px; border-bottom: 1px solid var(--line);
+      vertical-align: middle;
+    }
+    tr:last-child td { border-bottom: none; }
+    .occ-name { font-weight: 500; color: var(--text-strong); }
+    .risk-cell { display: flex; align-items: center; gap: 10px; }
+    .risk-badge {
+      display: inline-flex; align-items: center; gap: 5px;
+      padding: 2px 10px; border-radius: 20px; font-size: 0.75rem;
+      font-weight: 600; letter-spacing: 0.01em; white-space: nowrap;
+    }
+    .risk-badge.low { background: var(--risk-low-bg); color: var(--risk-low); }
+    .risk-badge.moderate { background: var(--risk-mid-bg); color: var(--risk-mid); }
+    .risk-badge.high { background: var(--risk-high-bg); color: var(--risk-high); }
+    .salary { font-variant-numeric: tabular-nums; color: var(--text-body); }
+    .workforce { font-variant-numeric: tabular-nums; color: var(--text-muted); }
+
+    /* mobile card fallback: keep table, but on tiny screens stack? we keep scroll + min-width */
+    @media (max-width: 640px) {
+      th, td { padding: 10px 8px; font-size: 0.875rem; }
+      .risk-badge { font-size: 0.65rem; padding: 1px 8px; }
+    }
+
+    /* ----- FOOTNOTE ----- */
+    .footnote {
+      background: var(--surface); border-radius: var(--radius);
+      padding: 20px 24px; border: 1px solid var(--line); margin-bottom: 40px;
+      font-size: 0.875rem; color: var(--text-muted); line-height: 1.6;
+    }
+    .footnote a { color: var(--brand); }
+
+    /* ----- FOOTER ----- */
+    .site-footer {
+      border-top: 1px solid var(--line); padding: 28px 0 32px;
+      font-size: 0.8125rem; color: var(--text-muted);
+      display: flex; flex-wrap: wrap; justify-content: space-between; gap: 12px;
+    }
+    .site-footer a { color: var(--text-muted); }
+    .site-footer a:hover { color: var(--brand); }
+    .footer-links { display: flex; gap: 20px; flex-wrap: wrap; }
+  </style>
+</head>
+<body>
+  <header class="site-header">
+    <div class="container nav-row">
+      <div class="logo-area">
+        <svg viewBox="0 0 28 28" fill="none" width="28" height="28">
+          <rect x="2" y="2" width="24" height="24" rx="6" stroke="#2563eb" stroke-width="2"/>
+          <path d="M8 19 L14 8 L20 19" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          <circle cx="14" cy="17" r="1.5" fill="#f59e0b"/>
+        </svg>
+        <span>AI Job Risk</span>
+      </div>
+      <nav class="nav-links">
+        <a href="#">Industries</a>
+        <a href="#">Occupations</a>
+        <a href="#">About</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <!-- breadcrumb -->
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="#">Industries</a> <span>›</span> <span>Health care &amp; social assistance</span>
+    </nav>
+
+    <!-- hero -->
+    <section class="hero">
+      <div class="hero-text">
+        <h1>Health care &amp; social assistance</h1>
+        <p>Hospitals, clinics, nursing homes, social services — the sector that cares for people.</p>
+        <div class="hero-stats">
+          <span class="stat-item"><strong>251</strong> occupations</span>
+          <span class="stat-item"><strong>United States</strong></span>
+        </div>
+      </div>
+      <div class="country-picker">United States</div>
+    </section>
+
+    <!-- occupation table -->
+    <section class="table-section">
+      <div class="table-wrapper">
+        <table>
+          <thead>
+            <tr>
+              <th scope="col" class="active-sort">Occupation <span class="sort-affordance">▼</span></th>
+              <th scope="col">AI risk <span class="sort-affordance">▲</span></th>
+              <th scope="col">Median salary <span class="sort-affordance">▲</span></th>
+              <th scope="col">Workforce <span class="sort-affordance">▲</span></th>
+            </tr>
+          </thead>
+          <tbody>
+            <!-- data rows – sample occupations from brief, plus plausible additions -->
+            <tr><td class="occ-name">Registered Nurses</td><td><div class="risk-cell">58 <span class="risk-badge moderate">Moderate</span></div></td><td class="salary">$101,420</td><td class="workforce">3,200,000</td></tr>
+            <tr><td class="occ-name">Customer Service Representatives</td><td><div class="risk-cell">95 <span class="risk-badge high">High</span></div></td><td class="salary">$46,590</td><td class="workforce">2,912,000</td></tr>
+            <tr><td class="occ-name">General and Operations Managers</td><td><div class="risk-cell">68 <span class="risk-badge moderate">Moderate</span></div></td><td class="salary">$134,940</td><td class="workforce">2,500,000</td></tr>
+            <tr><td class="occ-name">Janitors and Cleaners</td><td><div class="risk-cell">5 <span class="risk-badge low">Low</span></div></td><td class="salary">$38,760</td><td class="workforce">2,360,000</td></tr>
+            <tr><td class="occ-name">Office Clerks, General</td><td><div class="risk-cell">86 <span class="risk-badge high">High</span></div></td><td class="salary">$46,420</td><td class="workforce">2,200,000</td></tr>
+            <tr><td class="occ-name">Secretaries and Administrative Assistants</td><td><div class="risk-cell">93 <span class="risk-badge high">High</span></div></td><td class="salary">$49,350</td><td class="workforce">1,898,400</td></tr>
+            <tr><td class="occ-name">Bookkeeping, Accounting &amp; Auditing Clerks</td><td><div class="risk-cell">88 <span class="risk-badge high">High</span></div></td><td class="salary">$53,560</td><td class="workforce">1,593,200</td></tr>
+            <tr><td class="occ-name">Software Developers</td><td><div class="risk-cell">96 <span class="risk-badge high">High</span></div></td><td class="salary">$148,100</td><td class="workforce">1,548,200</td></tr>
+            <tr><td class="occ-name">Accountants and Auditors</td><td><div class="risk-cell">86 <span class="risk-badge high">High</span></div></td><td class="salary">$94,750</td><td class="workforce">1,538,200</td></tr>
+            <tr><td class="occ-name">Maids and Housekeeping Cleaners</td><td><div class="risk-cell">8 <span class="risk-badge low">Low</span></div></td><td class="salary">$37,080</td><td class="workforce">1,500,000</td></tr>
+            <tr><td class="occ-name">Nursing Assistants</td><td><div class="risk-cell">40 <span class="risk-badge moderate">Moderate</span></div></td><td class="salary">$38,200</td><td class="workforce">1,350,000</td></tr>
+            <tr><td class="occ-name">Medical Assistants</td><td><div class="risk-cell">72 <span class="risk-badge high">High</span></div></td><td class="salary">$42,000</td><td class="workforce">780,000</td></tr>
+            <tr><td class="occ-name">Physicians, All Other</td><td><div class="risk-cell">22 <span class="risk-badge low">Low</span></div></td><td class="salary">$218,850</td><td class="workforce">342,000</td></tr>
+            <tr><td class="occ-name">Licensed Practical Nurses</td><td><div class="risk-cell">44 <span class="risk-badge moderate">Moderate</span></div></td><td class="salary">$54,620</td><td class="workforce">676,000</td></tr>
+            <tr><td class="occ-name">Radiologic Technologists</td><td><div class="risk-cell">36 <span class="risk-badge moderate">Moderate</span></div></td><td class="salary">$65,530</td><td class="workforce">218,000</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- data note -->
+    <div class="footnote">
+      <p><strong>About the data:</strong> Occupation–industry mapping from BLS National Employment Matrix (US). AI-exposure scores based on ILO Working Paper 140 and Eloundou et al. (OpenAI). An occupation may appear in several industries — scores reflect the occupation overall, not industry-specific. 6,678 occupations across 14 countries.  <a href="#">Learn more</a></p>
+    </div>
+  </main>
+
+  <footer class="container site-footer">
+    <span>© 2025 AI Job Risk — data for informed career decisions.</span>
+    <span class="footer-links">
+      <a href="#">Privacy</a>
+      <a href="#">Terms</a>
+      <a href="#">Contact</a>
+    </span>
+  </footer>
+
+  <!-- tiny sort script (cosmetic: toggles active indicator) optional user interaction -->
+  <script>
+    (function() {
+      const table = document.querySelector('table');
+      if (!table) return;
+      const headers = table.querySelectorAll('th');
+      headers.forEach(th => {
+        th.addEventListener('click', function(e) {
+          headers.forEach(h => h.classList.remove('active-sort'));
+          this.classList.add('active-sort');
+        });
+      });
+    })();
+  </script>
+</body>
+</html>

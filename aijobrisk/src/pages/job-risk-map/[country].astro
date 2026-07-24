@@ -3,7 +3,7 @@ import Base from '../../layouts/Base.astro';
 import RiskMap from '../../components/RiskMap.astro';
 import { buildRiskMap } from '../../lib/riskmap';
 import { riskMeta } from '../../lib/riskmap-meta';
-import { COUNTRIES, countryName } from '../../lib/data';
+import { COUNTRIES, countryName, tr } from '../../lib/data';
 import { pageLocale, contentLocale } from '../../lib/i18n';
 
 const loc = pageLocale(Astro);
@@ -17,21 +17,21 @@ const meta = riskMeta(layout, loc);
 const cn = countryName(cc, CL);
 ---
 <Base
-  title={`AI Job Risk Map — ${cn} | AI Job Risk`}
-  description={`A treemap of the ${cn} workforce coloured by AI automation exposure — area is workforce, colour is AI risk.`}
+  title={`${tr('AI Job Risk Map', CL)} — ${cn} | AI Job Risk`}
+  description={`${tr('A treemap of the workforce coloured by AI automation exposure — area is workforce, colour is AI risk.', CL)} · ${cn}`}
   active="map"
 >
   <div class="container map-wrap">
     <header class="map-head">
-      <h1>AI Job Risk Map — {cn}</h1>
-      <p class="subhead">Each tile is an occupation; area is its {cn} workforce and colour is AI automation exposure (green = lower, red = higher). Hover for details, click to open the occupation.</p>
+      <h1>{tr('AI Job Risk Map', CL)} — {cn}</h1>
+      <p class="subhead">{tr('Each tile is an occupation; area is its workforce and colour is AI automation exposure (green = lower, red = higher). Hover for details, click to open the occupation.', CL)}</p>
     </header>
     {layout.hasData ? (
-      <RiskMap layout={layout} meta={meta} outlineKey={cc} activeKey={cc} locale={loc} ariaLabel={`${cn} AI job risk treemap`}>
-        <span slot="foot">Area ∝ workforce. Colour ∝ AI automation exposure (1–10). Estimates only.</span>
+      <RiskMap layout={layout} meta={meta} outlineKey={cc} activeKey={cc} locale={loc} ariaLabel={`${cn} ${tr('AI job risk treemap', CL)}`}>
+        <span slot="foot">{tr('Area ∝ workforce. Colour ∝ AI automation exposure (1–10). Estimates only.', CL)}</span>
       </RiskMap>
     ) : (
-      <p class="card muted">No workforce / exposure data available to render a map for {cn}.</p>
+      <p class="card muted">{tr('No workforce / exposure data available to render a map.', CL)} · {cn}</p>
     )}
   </div>
   <style>

@@ -7,9 +7,9 @@ import cats from '../data/categories_v2.json';
 //  故再按 md5(源串)%N 分片，各片 <7MB，随 FR/ES 翻译增长仍有充足余量。分片由 export_site_data_v2.py 生成）
 import uiI18n from '../data/ui_i18n.json';
 
-export type Locale = 'zh-CN' | 'zh-Hant' | 'en' | 'es' | 'pt' | 'vi' | 'th' | 'ms' | 'id' | 'ja' | 'de' | 'it' | 'nl';
+export type Locale = 'zh-CN' | 'zh-Hant' | 'en' | 'es' | 'pt' | 'fr' | 'vi' | 'th' | 'ms' | 'id' | 'ja' | 'de' | 'it' | 'nl';
 export const COUNTRIES = ['AU', 'NZ', 'CA', 'US', 'UK', 'DE', 'FR', 'ES', 'IT', 'NL', 'IE', 'JP', 'KR'] as const;
-export const LOCALES: Locale[] = ['zh-CN', 'zh-Hant', 'en', 'es', 'pt', 'vi', 'th', 'ms', 'id', 'ja', 'de', 'it', 'nl'];
+export const LOCALES: Locale[] = ['zh-CN', 'zh-Hant', 'en', 'es', 'pt', 'fr', 'vi', 'th', 'ms', 'id', 'ja', 'de', 'it', 'nl'];
 export const DEFAULT = { country: 'AU', locale: 'zh-CN' as Locale };
 // 国家 -> 本币代码（薪资/费用展示用）
 export const CURRENCY: Record<string, string> = { AU: 'AUD', NZ: 'NZD', CA: 'CAD', US: 'USD', UK: 'GBP', DE: 'EUR', FR: 'EUR', ES: 'EUR', IT: 'EUR', NL: 'EUR', IE: 'EUR', JP: 'JPY', KR: 'KRW' };
@@ -29,8 +29,12 @@ export const COUNTRY_NAME: Record<string, { 'zh-CN': string; en: string }> = {
   JP: { 'zh-CN': '日本', en: 'Japan' },
   KR: { 'zh-CN': '韩国', en: 'South Korea' },
 };
-export const countryName = (cc: string, locale: Locale) =>
-  COUNTRY_NAME[cc]?.[locale === 'zh-CN' ? 'zh-CN' : 'en'] || cc;
+export const countryName = (cc: string, locale: Locale) => {
+  const en = COUNTRY_NAME[cc]?.en;
+  if (!en) return cc;
+  if (locale === 'zh-CN') return COUNTRY_NAME[cc]!['zh-CN'];
+  return locale === 'en' ? en : tr(en, locale);
+};
 
 // 国旗：全站唯一来源，统一用内联 SVG（带 xmlns，含 class="flagsvg" 供 CSS 控制尺寸）。
 // 规则：所有国旗必须用 SVG 或静态图片渲染，禁止使用 emoji 国旗（Windows 等平台无区域指示符字形）。

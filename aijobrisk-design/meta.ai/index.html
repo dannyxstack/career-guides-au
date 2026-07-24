@@ -1,0 +1,233 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex,nofollow">
+  <title>AI Job Risk - Meta.ai layout preview</title>
+  <meta name="description" content="Static design preview for the proposed AI Job Risk page architecture.">
+  <script>
+    try {
+      document.documentElement.dataset.palette = localStorage.getItem('preview-palette') || 'current';
+      document.documentElement.dataset.theme = localStorage.getItem('preview-mode') || 'light';
+    } catch (_) {
+      document.documentElement.dataset.palette = 'current';
+      document.documentElement.dataset.theme = 'light';
+    }
+  </script>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <div class="preview-note">
+    <span>STATIC DESIGN PREVIEW</span>
+    <strong>Sample data only</strong>
+    <label class="palette-picker" for="palette-select">
+      <span>Color theme</span>
+      <select id="palette-select" aria-label="Color theme">
+        <option value="current">Current · Green Research</option>
+        <option value="editorial">A · Editorial Risk</option>
+        <option value="lab">B · Data Lab</option>
+        <option value="authority">C · Blue Authority</option>
+      </select>
+    </label>
+    <button type="button" id="theme-toggle" aria-label="Toggle color theme" title="Toggle color theme">◐</button>
+  </div>
+
+  <header class="site-header">
+    <a class="brand" href="#home" data-view-link="home" aria-label="AI Job Risk home">
+      <span class="brand-mark" aria-hidden="true">AI</span>
+      <span>AI Job Risk</span>
+    </a>
+    <nav aria-label="Preview pages">
+      <a href="#home" data-view-link="home">Home</a>
+      <a href="#country" data-view-link="country">Country</a>
+      <a href="#job" data-view-link="job">Job detail</a>
+      <a href="#salary" data-view-link="salary">Salary matrix</a>
+      <a href="#no-degree" data-view-link="no-degree">No-degree jobs</a>
+      <a href="#report" data-view-link="report">2026 report</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="page-view" data-view="home">
+      <div class="hero home-hero">
+        <p class="eyebrow">4,000+ careers across 10 countries</p>
+        <h1>Will AI take your job?</h1>
+        <p class="hero-copy">See what AI can automate, what remains distinctly human, and where your career can move next.</p>
+        <form class="job-search" id="job-search">
+          <label for="job-query">Search your occupation</label>
+          <div class="search-row">
+            <input id="job-query" type="search" placeholder="Try Accountant, Designer, Software Engineer..." autocomplete="off">
+            <button class="button primary" type="submit">Check AI risk</button>
+          </div>
+          <div class="search-suggestions" id="search-suggestions" hidden></div>
+        </form>
+        <p class="microcopy">Free, no sign-up · Task-level analysis · Updated July 2026</p>
+      </div>
+
+      <div class="mode-tabs" role="tablist" aria-label="Explore AI job risk">
+        <button class="tab active" type="button" data-home-tab="risk">Highest risk</button>
+        <button class="tab" type="button" data-home-tab="safe">Safest careers</button>
+        <button class="tab" type="button" data-home-tab="matrix">Salary vs risk</button>
+      </div>
+
+      <section class="content-band data-stage" id="home-stage">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow" id="stage-kicker">Workforce exposure</p>
+            <h2 id="stage-title">Where AI pressure is concentrated</h2>
+          </div>
+          <a class="text-link" href="#country" data-view-link="country">View all Canadian careers →</a>
+        </div>
+        <div class="home-visual-grid">
+          <div class="treemap" aria-label="Sample occupation risk treemap">
+            <a class="tile tile-red tile-xl" href="#job" data-view-link="job"><strong>Customer service</strong><span>82 risk</span></a>
+            <button class="tile tile-orange tile-lg" type="button"><strong>Bookkeeping</strong><span>74 risk</span></button>
+            <button class="tile tile-green tile-md" type="button"><strong>Nursing</strong><span>24 risk</span></button>
+            <button class="tile tile-red tile-sm" type="button"><strong>Data entry</strong><span>91</span></button>
+            <button class="tile tile-yellow tile-md" type="button"><strong>Design</strong><span>58 risk</span></button>
+            <button class="tile tile-green tile-lg" type="button"><strong>Electricians</strong><span>18 risk</span></button>
+          </div>
+          <aside class="visual-legend">
+            <p class="eyebrow">How to read this</p>
+            <h3>Area shows workers. Color shows task exposure.</h3>
+            <div class="legend-scale"><span>Low risk</span><i></i><span>High risk</span></div>
+            <dl class="compact-stats">
+              <div><dt>Most exposed</dt><dd>Data Entry</dd></div>
+              <div><dt>Largest workforce</dt><dd>Customer Service</dd></div>
+              <div><dt>Strongest moat</dt><dd>Electricians</dd></div>
+            </dl>
+          </aside>
+        </div>
+      </section>
+
+      <section class="content-band country-strip">
+        <div class="section-head"><div><p class="eyebrow">Compare markets</p><h2>AI job risk by country</h2></div></div>
+        <div class="country-list">
+          <a href="#country" data-view-link="country"><span>CA</span><strong>Canada</strong><b>46</b><small>avg risk</small></a>
+          <a href="#country" data-view-link="country"><span>US</span><strong>United States</strong><b>49</b><small>avg risk</small></a>
+          <a href="#country" data-view-link="country"><span>AU</span><strong>Australia</strong><b>44</b><small>avg risk</small></a>
+          <a href="#country" data-view-link="country"><span>GB</span><strong>United Kingdom</strong><b>47</b><small>avg risk</small></a>
+        </div>
+      </section>
+
+      <section class="content-band methodology-slab">
+        <div><p class="eyebrow">Transparent methodology</p><h2>Risk is measured at the task level, not guessed from a job title.</h2></div>
+        <p>Scores combine task automation exposure, human accountability, physical presence, licensing, social trust and AI augmentation potential.</p>
+        <a class="button secondary" href="#report" data-view-link="report">Review the method</a>
+      </section>
+
+      <section class="content-band faq-section">
+        <div class="section-head"><div><p class="eyebrow">Direct answers</p><h2>AI job risk FAQ</h2></div></div>
+        <details><summary>Will AI replace most jobs?</summary><p>AI is more likely to reshape task bundles than erase every role. Jobs with repetitive digital workflows face earlier pressure, while licensed, physical and high-trust work tends to retain a stronger human moat.</p></details>
+        <details><summary>What does an AI risk score mean?</summary><p>The score estimates occupational task exposure on a 0–100 scale. It is a comparison tool, not a prediction that a specific person will lose their job.</p></details>
+        <details><summary>Which careers are safest from AI?</summary><p>Careers combining physical dexterity, regulated responsibility, unpredictable environments and human trust generally rank as more resilient.</p></details>
+      </section>
+    </section>
+
+    <section class="page-view" data-view="country" hidden>
+      <div class="hero country-hero">
+        <div>
+          <p class="eyebrow">Canada workforce report · July 2026</p>
+          <h1>AI Job Risk in Canada</h1>
+          <p class="hero-copy">1,218 careers ranked by task exposure, salary and human resilience.</p>
+          <div class="button-row"><button class="button primary" type="button">Download Canada report</button><a class="button secondary" href="#home" data-view-link="home">Explore risk map</a></div>
+        </div>
+        <div class="country-signal" aria-label="Canada average AI exposure 46 out of 100">
+          <span>CA</span><strong>46</strong><small>Average AI exposure</small>
+        </div>
+      </div>
+      <div class="kpi-row">
+        <div><span>Average risk</span><strong>46/100</strong><small>Moderate exposure</small></div>
+        <div><span>Most exposed</span><strong>Data Entry</strong><small>91/100</small></div>
+        <div><span>Safest role</span><strong>Paramedic</strong><small>12/100</small></div>
+        <div><span>Workers covered</span><strong>20.8M</strong><small>2025 estimate</small></div>
+      </div>
+      <section class="content-band ranking-section">
+        <div class="section-head"><div><p class="eyebrow">Full ranking preview</p><h2>Canadian careers ranked by AI risk</h2></div><span class="result-count">8 sample rows</span></div>
+        <div class="filter-bar">
+          <label>Search<input id="country-filter" type="search" placeholder="Occupation"></label>
+          <label>Industry<select><option>All industries</option><option>Business</option><option>Healthcare</option><option>Trades</option></select></label>
+          <label>Risk<select><option>All risk levels</option><option>High</option><option>Moderate</option><option>Low</option></select></label>
+          <label>Sort<select><option>Highest risk</option><option>Highest salary</option><option>Most workers</option></select></label>
+        </div>
+        <div class="table-wrap">
+          <table id="country-table">
+            <thead><tr><th>Rank</th><th>Occupation</th><th>Risk</th><th>Level</th><th>Avg salary</th><th>Workers</th><th>Human moat</th></tr></thead>
+            <tbody>
+              <tr><td>1</td><td><a href="#job" data-view-link="job">Data Entry Clerk</a></td><td><b>91</b></td><td><span class="risk high">High</span></td><td>$46,200</td><td>114k</td><td>Context</td></tr>
+              <tr><td>2</td><td>Telemarketer</td><td><b>88</b></td><td><span class="risk high">High</span></td><td>$42,100</td><td>39k</td><td>Trust</td></tr>
+              <tr><td>3</td><td>Bookkeeper</td><td><b>74</b></td><td><span class="risk high">High</span></td><td>$53,600</td><td>181k</td><td>Liability</td></tr>
+              <tr><td>4</td><td>Graphic Designer</td><td><b>58</b></td><td><span class="risk medium">Moderate</span></td><td>$62,700</td><td>66k</td><td>Taste</td></tr>
+              <tr><td>5</td><td>Software Engineer</td><td><b>47</b></td><td><span class="risk medium">Moderate</span></td><td>$112,400</td><td>229k</td><td>Systems</td></tr>
+              <tr><td>6</td><td>Registered Nurse</td><td><b>24</b></td><td><span class="risk low">Low</span></td><td>$86,900</td><td>331k</td><td>Care</td></tr>
+              <tr><td>7</td><td>Electrician</td><td><b>18</b></td><td><span class="risk low">Low</span></td><td>$77,800</td><td>134k</td><td>Physical</td></tr>
+              <tr><td>8</td><td>Paramedic</td><td><b>12</b></td><td><span class="risk low">Low</span></td><td>$73,500</td><td>42k</td><td>Emergency</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </section>
+      <section class="content-band insight-band"><div><p class="eyebrow">Key insight 01</p><h3>Canada's regulated roles retain a stronger moat.</h3><p>Licensing and accountable decision-making lower exposure in healthcare and skilled trades.</p></div><div><p class="eyebrow">Key insight 02</p><h3>Routine office work carries the earliest pressure.</h3><p>Data handling, scheduling and first-draft documentation are already being compressed.</p></div><div><p class="eyebrow">Key insight 03</p><h3>AI fluency changes the outlook.</h3><p>Workers who supervise AI output can move from task replacement toward augmentation.</p></div></section>
+    </section>
+
+    <section class="page-view" data-view="job" hidden>
+      <div class="job-titlebar"><div><p class="breadcrumb">Canada / Business & Finance / Accountant</p><h1>Will AI replace Accountants?</h1><p class="hero-copy">AI will compress routine accounting work, but regulated judgment, client trust and liability remain durable.</p></div><button class="button primary" type="button">Get personalized report</button></div>
+      <section class="risk-answer">
+        <div class="risk-dial" style="--score: 68"><div><strong>68</strong><span>/100</span></div><small>AI risk score</small></div>
+        <div class="answer-copy"><span class="risk high">High task exposure</span><h2>Routine work changes first. The profession does not disappear.</h2><p>Our model estimates that 68% of a typical accountant's current task mix is exposed to automation or major AI redesign by 2029.</p><dl class="compact-stats"><div><dt>Confidence</dt><dd>Medium-high</dd></div><div><dt>Human moat</dt><dd>Liability + trust</dd></div><div><dt>Best response</dt><dd>Advisory skills</dd></div></dl></div>
+      </section>
+      <section class="content-band"><div class="section-head"><div><p class="eyebrow">Task-level breakdown</p><h2>What AI removes, enhances and cannot own</h2></div></div>
+        <div class="task-columns">
+          <div class="task-list automate"><h3>Automation pressure</h3><p>Higher scores mean earlier task compression.</p><div><span>Data reconciliation <b>2026</b></span><i><u style="width:94%"></u></i><strong>94%</strong></div><div><span>First-draft reporting <b>2027</b></span><i><u style="width:81%"></u></i><strong>81%</strong></div><div><span>Invoice classification <b>2026</b></span><i><u style="width:78%"></u></i><strong>78%</strong></div></div>
+          <div class="task-list enhance"><h3>AI augmentation upside</h3><p>Work where AI expands capacity rather than replaces ownership.</p><div><span>Scenario analysis</span><i><u style="width:87%"></u></i><strong>+87%</strong></div><div><span>Anomaly detection</span><i><u style="width:72%"></u></i><strong>+72%</strong></div><div><span>Client preparation</span><i><u style="width:64%"></u></i><strong>+64%</strong></div></div>
+          <aside class="moat-panel"><span>HUMAN MOAT</span><h3>Accountability under uncertainty</h3><p>Signing regulated statements, defending assumptions and earning client trust remain human-owned responsibilities.</p></aside>
+        </div>
+      </section>
+      <section class="content-band career-economics"><div class="mode-tabs compact" role="tablist"><button class="tab active" data-job-tab="salary" type="button">Salary</button><button class="tab" data-job-tab="path" type="button">Education path</button><button class="tab" data-job-tab="migration" type="button">Migration</button></div>
+        <div class="job-tab-panel" data-job-panel="salary"><div class="salary-bars"><div><span>Entry</span><i><u style="width:45%"></u></i><strong>$55k</strong></div><div><span>Mid-career</span><i><u style="width:68%"></u></i><strong>$82k</strong></div><div><span>Senior</span><i><u style="width:91%"></u></i><strong>$118k</strong></div></div><p class="source-note">Canada median estimates · CAD · Sample preview data</p></div>
+        <div class="job-tab-panel" data-job-panel="path" hidden><ol class="steps"><li><b>01</b><span>Complete an accredited accounting degree or bridging program.</span></li><li><b>02</b><span>Enter the CPA Professional Education Program.</span></li><li><b>03</b><span>Build supervised experience and complete the Common Final Examination.</span></li></ol></div>
+        <div class="job-tab-panel" data-job-panel="migration" hidden><div class="callout"><strong>Canada pathway signal: Moderate</strong><p>Credential recognition and provincial demand determine the realistic route. This preview would link to detailed immigration evidence.</p></div></div>
+      </section>
+      <section class="content-band timeline-section"><div class="section-head"><div><p class="eyebrow">Outlook</p><h2>How the role may change</h2></div></div><ol class="timeline"><li><b>2026</b><span><strong>Workflow compression</strong>Routine preparation shifts to supervised AI systems.</span></li><li><b>2028</b><span><strong>Role redesign</strong>Teams hire fewer pure processors and more reviewers.</span></li><li><b>2032</b><span><strong>Advisory premium</strong>Complex interpretation and client-facing accountability command a premium.</span></li></ol></section>
+    </section>
+
+    <section class="page-view" data-view="salary" hidden>
+      <div class="hero tool-hero"><p class="eyebrow">Career comparison tool</p><h1>Salary vs AI Risk Calculator</h1><p class="hero-copy">Find careers that pay well without placing your work at the center of AI disruption.</p></div>
+      <section class="tool-controls" aria-label="Career filters"><label>Country<select><option>Canada</option><option>United States</option><option>Australia</option></select></label><label>Minimum salary<select><option>$80,000</option><option>$60,000</option><option>$100,000</option></select></label><label>Maximum AI risk<select><option>40%</option><option>30%</option><option>50%</option></select></label><label>Degree<select><option>Any</option><option>Not required</option><option>Required</option></select></label><button class="button primary" type="button" id="find-jobs">Find jobs</button></section>
+      <div class="mode-tabs compact"><button class="tab active" type="button" data-salary-view="scatter">Scatter view</button><button class="tab" type="button" data-salary-view="table">Table view</button></div>
+      <section class="content-band salary-view" data-salary-panel="scatter">
+        <div class="section-head"><div><p class="eyebrow">87 matching careers</p><h2>High-pay, low-risk opportunity zone</h2></div><div class="chart-key"><span class="health">Healthcare</span><span class="trade">Trades</span><span class="tech">Technology</span></div></div>
+        <div class="scatter-chart" aria-label="Salary versus AI risk scatter plot"><span class="axis y">Salary</span><span class="axis x">AI risk →</span><div class="dream-zone"><strong>Opportunity zone</strong><small>High salary · Low risk</small></div><button class="dot health" style="--x:23%;--y:18%;--s:18px" title="Nurse Practitioner · $126k · 21 risk"><span>Nurse Practitioner</span></button><button class="dot trade" style="--x:19%;--y:49%;--s:14px" title="Electrician · $78k · 18 risk"><span>Electrician</span></button><button class="dot tech" style="--x:42%;--y:27%;--s:17px" title="Cybersecurity Specialist · $108k · 39 risk"><span>Cybersecurity</span></button><button class="dot health" style="--x:29%;--y:39%;--s:13px" title="Sonographer · $91k · 27 risk"><span>Sonographer</span></button><button class="dot trade" style="--x:34%;--y:57%;--s:12px" title="HVAC Technician · $71k · 31 risk"><span>HVAC</span></button><button class="dot tech" style="--x:62%;--y:20%;--s:16px" title="Software Engineer · $112k · 58 risk"><span>Software Engineer</span></button></div>
+      </section>
+      <section class="content-band salary-view" data-salary-panel="table" hidden><div class="table-wrap"><table><thead><tr><th>Occupation</th><th>Senior salary</th><th>AI risk</th><th>Salary/risk ratio</th><th></th></tr></thead><tbody><tr><td>Nurse Practitioner</td><td>$126k</td><td>21</td><td><b>6.0</b></td><td><a href="#job" data-view-link="job">View</a></td></tr><tr><td>Cybersecurity Specialist</td><td>$108k</td><td>39</td><td><b>2.8</b></td><td>View</td></tr><tr><td>Sonographer</td><td>$91k</td><td>27</td><td><b>3.4</b></td><td>View</td></tr><tr><td>Electrician</td><td>$78k</td><td>18</td><td><b>4.3</b></td><td>View</td></tr></tbody></table></div></section>
+      <section class="content-band generated-insights"><p class="eyebrow">For your filters</p><h2>Three useful signals</h2><div><p><b>87 careers</b> match $80k+ salary and under 40% AI risk in Canada.</p><p><b>Nurse Practitioner</b> has the strongest salary-to-risk ratio in this sample.</p><p><b>Registered Nurse</b> represents the largest matching workforce.</p></div></section>
+    </section>
+
+    <section class="page-view" data-view="no-degree" hidden>
+      <div class="hero list-hero"><p class="eyebrow">2026 data guide</p><h1>23 Jobs Without a Degree That AI Can't Easily Replace</h1><p class="hero-copy">Practical, licensed and high-trust careers with median salaries above $58k and AI risk below 35%.</p><div class="chip-row"><button class="chip active" type="button">All 23</button><button class="chip" type="button">Low risk</button><button class="chip" type="button">$80k+</button><button class="chip" type="button">Skilled trades</button></div></div>
+      <section class="content-band"><div class="section-head"><div><p class="eyebrow">The shortlist</p><h2>Low-risk careers without a four-year degree</h2></div></div><div class="career-card-grid">
+        <article class="career-card"><div class="career-rank">01</div><div><h3>Electrician</h3><p>AI can diagnose a circuit. It still cannot enter a live worksite and own the repair.</p></div><dl><div><dt>AI risk</dt><dd class="low-text">18</dd></div><div><dt>Senior salary</dt><dd>$78k</dd></div><div><dt>Training</dt><dd>Apprenticeship</dd></div></dl><a href="#job" data-view-link="job">See career path →</a></article>
+        <article class="career-card"><div class="career-rank">02</div><div><h3>HVAC Technician</h3><p>Unpredictable buildings and physical troubleshooting preserve the human advantage.</p></div><dl><div><dt>AI risk</dt><dd class="low-text">22</dd></div><div><dt>Senior salary</dt><dd>$76k</dd></div><div><dt>Training</dt><dd>Certificate</dd></div></dl><a href="#job" data-view-link="job">See career path →</a></article>
+        <article class="career-card"><div class="career-rank">03</div><div><h3>Dental Hygienist</h3><p>Clinical contact, licensing and patient reassurance make automation assistive.</p></div><dl><div><dt>AI risk</dt><dd class="low-text">26</dd></div><div><dt>Senior salary</dt><dd>$92k</dd></div><div><dt>Training</dt><dd>Diploma</dd></div></dl><a href="#job" data-view-link="job">See career path →</a></article>
+        <article class="career-card"><div class="career-rank">04</div><div><h3>Powerline Technician</h3><p>Safety-critical field work combines dexterity, judgment and regulated responsibility.</p></div><dl><div><dt>AI risk</dt><dd class="low-text">14</dd></div><div><dt>Senior salary</dt><dd>$101k</dd></div><div><dt>Training</dt><dd>Apprenticeship</dd></div></dl><a href="#job" data-view-link="job">See career path →</a></article>
+      </div></section>
+      <section class="content-band comparison"><div><p class="eyebrow">Evidence check</p><h2>Degree vs no degree: who is safer?</h2><p>Physical and licensed work can have lower task exposure even when formal university education is not required.</p></div><div class="comparison-bars"><div><span>Degree required</span><i><u style="width:52%"></u></i><strong>52 risk</strong></div><div><span>No degree</span><i><u style="width:38%"></u></i><strong>38 risk</strong></div></div></section>
+      <section class="content-band pathway"><p class="eyebrow">A practical route</p><h2>Training paths measured in months, not years</h2><div class="path-row"><span>Electrician</span><strong>Paid apprenticeship</strong><small>4–5 years while earning</small></div><div class="path-row"><span>Dental Hygienist</span><strong>Accredited diploma</strong><small>2–3 years</small></div><div class="path-row"><span>HVAC Technician</span><strong>Trade certificate</strong><small>6–18 months</small></div></section>
+    </section>
+
+    <section class="page-view" data-view="report" hidden>
+      <div class="report-cover">
+        <div><p class="eyebrow">AI Job Risk Lab · Annual research</p><h1>AI-Proof Careers Report 2026</h1><p class="hero-copy">50 safest careers across 10 countries, based on 4,000 occupations analyzed.</p><div class="button-row"><button class="button primary" type="button">Download full report</button><button class="button secondary" type="button">Embed this chart</button></div><p class="microcopy">Published January 2026 · Dataset version 2026.1</p></div>
+        <div class="cover-art" aria-label="Report cover"><span>2026</span><strong>HUMAN<br>MOAT</strong><i>50 careers</i></div>
+      </div>
+      <section class="content-band"><div class="section-head"><div><p class="eyebrow">The defining chart</p><h2>The AI-Proof Matrix 2026</h2></div><button class="icon-button" type="button" aria-label="Copy embed code" title="Copy embed code">⌘</button></div><div class="matrix-chart"><span class="axis y">Average salary</span><span class="axis x">AI risk →</span><div class="matrix-label dream"><strong>High salary</strong><small>Low risk</small></div><div class="matrix-label fragile"><strong>High salary</strong><small>High risk</small></div><button class="bubble b1" title="Nurse Practitioner">NP</button><button class="bubble b2" title="Air Traffic Controller">ATC</button><button class="bubble b3" title="Electrician">EL</button><button class="bubble b4" title="Cybersecurity Specialist">CS</button><button class="bubble b5" title="Accountant">AC</button><button class="bubble b6" title="Graphic Designer">GD</button><button class="bubble b7" title="Paramedic">PM</button></div><div class="embed-box"><code>&lt;iframe src="https://aijobrisk.com/embed/ai-proof-matrix-2026"&gt;&lt;/iframe&gt;</code><button type="button">Copy</button></div></section>
+      <section class="content-band"><div class="section-head"><div><p class="eyebrow">Citation-ready data</p><h2>Top AI-proof careers ranked</h2></div><button class="button secondary" type="button">Download CSV</button></div><div class="table-wrap"><table><thead><tr><th>Rank</th><th>Occupation</th><th>AI-proof score</th><th>US salary</th><th>Why resilient</th><th>Best country</th></tr></thead><tbody><tr><td>1</td><td>Nurse Practitioner</td><td><b>89</b></td><td>$126k</td><td>Clinical trust + license</td><td>United States</td></tr><tr><td>2</td><td>Air Traffic Controller</td><td><b>88</b></td><td>$137k</td><td>Safety accountability</td><td>United States</td></tr><tr><td>3</td><td>Paramedic</td><td><b>87</b></td><td>$73k</td><td>Emergency judgment</td><td>Australia</td></tr><tr><td>4</td><td>Powerline Technician</td><td><b>86</b></td><td>$91k</td><td>Physical + regulated</td><td>Canada</td></tr></tbody></table></div></section>
+      <section class="content-band citation-section"><div><p class="eyebrow">Methodology & citation</p><h2>Built to be checked and quoted</h2><p>The AI-Proof Score reverses task exposure, then adjusts for physical presence, human trust, licensing, liability and augmentation potential. Every ranking retains its country and source context.</p><a href="#job" data-view-link="job" class="text-link">Read the complete methodology →</a></div><blockquote>According to the AI-Proof Careers Report 2026 by AI Job Risk, careers with regulated responsibility and unpredictable physical work showed the strongest resilience across the analyzed markets.</blockquote></section>
+      <section class="press-strip"><div><p class="eyebrow">Press & research</p><h2>Need a country cut or source interview?</h2></div><p>press@aijobrisk.com</p><button class="button primary" type="button">Request dataset</button></section>
+    </section>
+  </main>
+
+  <footer class="site-footer"><div><strong>AI Job Risk</strong><p>Task-level evidence for a changing workforce.</p></div><nav><a href="#report" data-view-link="report">Methodology</a><a href="#country" data-view-link="country">Country data</a><a href="#salary" data-view-link="salary">Tools</a></nav><small>Static concept preview · Not for production</small></footer>
+  <script src="./preview.js"></script>
+</body>
+</html>

@@ -3,7 +3,8 @@
 // 顶部固定白导航 + logo + 语言下拉 + 深浅切换，底部页脚。全局 CSS 既定义设计 token，
 // 也为复用组件（RiskMap/RatingRadar/PollBlock，沿用 --card/--white/--muted/--green/--hero/--amber）提供别名。
 import { SITE_NAME } from '../lib/site-config';
-import { DISPLAY_LOCALES, pageLocale, withL, stripLocale } from '../lib/i18n';
+import { DISPLAY_LOCALES, pageLocale, contentLocale, withL, stripLocale } from '../lib/i18n';
+import { tr } from '../lib/data';
 interface Props {
   title: string;
   description?: string;
@@ -13,6 +14,7 @@ interface Props {
 }
 const { title, description = '', active = '', jsonLd, canonical } = Astro.props as Props;
 const loc = pageLocale(Astro);
+const CL = contentLocale(loc);
 // middleware 已剥语言前缀并 rewrite，故 Astro.url.pathname 即英文裸路径。
 // 语言下拉 / hreflang：以裸路径 + 现有 query 为基准，为每种语言生成对应 URL。
 const bare = stripLocale(Astro.url.pathname);
@@ -23,12 +25,12 @@ const canonicalHref = canonical
   : (Astro.site ? new URL(withL(loc, bare), Astro.site).href : withL(loc, bare));
 const ld = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [];
 const NAV = [
-  { key: 'occupations', label: 'Occupations', href: '/' },
-  { key: 'rankings', label: 'Rankings', href: '/rankings' },
-  { key: 'industries', label: 'Industries', href: '/industries' },
-  { key: 'map', label: 'Risk map', href: '/job-risk-map' },
-  { key: 'compare', label: 'Compare', href: '/compare' },
-  { key: 'about', label: 'About', href: '/about' },
+  { key: 'occupations', label: tr('Occupations', CL), href: '/' },
+  { key: 'rankings', label: tr('Rankings', CL), href: '/rankings' },
+  { key: 'industries', label: tr('Industries', CL), href: '/industries' },
+  { key: 'map', label: tr('Risk map', CL), href: '/job-risk-map' },
+  { key: 'compare', label: tr('Compare', CL), href: '/compare' },
+  { key: 'about', label: tr('About', CL), href: '/about' },
 ];
 ---
 <!doctype html>
@@ -74,21 +76,21 @@ const NAV = [
           </svg>
           <span>AI Job Risk</span>
         </a>
-        <nav class="nav-links" aria-label="Primary">
+        <nav class="nav-links" aria-label={tr('Primary', CL)}>
           {NAV.map((n) => (
             <a href={withL(loc, n.href)} class:list={[{ on: active === n.key }]}>{n.label}</a>
           ))}
         </nav>
         <div class="nav-tools">
-          <label class="lang-select" title="Language">
+          <label class="lang-select" title={tr('Language', CL)}>
             <i class="fas fa-language" aria-hidden="true"></i>
-            <select aria-label="Select language" onchange="if(this.value)window.location.href=this.value;">
-              {localeUrls.map((d) => (
+            <select aria-label={tr('Select language', CL)} onchange="if(this.value)window.location.href=this.value;">
+              {localeUrls.filter((d) => d.code !== 'de' && d.code !== 'ko').map((d) => (
                 <option value={d.href} selected={d.code === loc}>{d.label}</option>
               ))}
             </select>
           </label>
-          <button id="theme-toggle" class="theme-toggle" type="button" aria-label="Toggle dark mode">🌙</button>
+          <button id="theme-toggle" class="theme-toggle" type="button" aria-label={tr('Toggle dark mode', CL)}>🌙</button>
         </div>
       </div>
     </header>
@@ -97,12 +99,11 @@ const NAV = [
 
     <footer class="site-footer">
       <div class="container foot-inner">
-        <span>© 2026 {SITE_NAME} — evidence-led AI job-risk analysis. Estimates only; always check official sources.</span>
+        <span>© 2026 {SITE_NAME} — {tr('evidence-led AI job-risk analysis. Estimates only; always check official sources.', CL)}</span>
         <span class="footer-links">
-          <a href={withL(loc, '/methodology')}>Methodology</a>
-          <a href={withL(loc, '/about')}>About</a>
-          <a href="https://ismyjobaiproof.com" rel="noopener">Personal test</a>
-          <a href="https://aicareergraph.com" rel="noopener">Career transitions</a>
+          <a href={withL(loc, '/methodology')}>{tr('Methodology', CL)}</a>
+          <a href={withL(loc, '/about')}>{tr('About', CL)}</a>
+          <a href="https://ismyjobaiproof.com" rel="noopener">{tr('Personal test', CL)}</a>
         </span>
       </div>
     </footer>

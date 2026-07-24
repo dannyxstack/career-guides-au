@@ -1,6 +1,6 @@
 ---
 import Base from '../../layouts/Base.astro';
-import { COMPARE_PAIRS, pairKey, jobBySlug, JOB_SLUGS, name as occName, countryName, CURRENCY, COUNTRIES } from '../../lib/data';
+import { COMPARE_PAIRS, pairKey, jobBySlug, JOB_SLUGS, name as occName, countryName, CURRENCY, COUNTRIES, tr } from '../../lib/data';
 import { categoryIcon } from '../../lib/industries';
 import { pageLocale, contentLocale, hrefCompare } from '../../lib/i18n';
 import { expBand, fmtSalary } from '../../lib/ui';
@@ -18,7 +18,7 @@ const OCCS = JOB_SLUGS.map((s) => {
   return {
     s, n: occName(r, CL),
     e: r.ai?.aioe_pct ?? null,
-    c: r.category || '',
+    c: tr(r.category || '', CL),
     sal,
   };
 }).filter((o) => o.n).sort((a, b) => a.n.localeCompare(b.n));
@@ -39,37 +39,44 @@ const pairs = COMPARE_PAIRS.map(([a, b]) => {
 });
 
 const FAQ = [
-  { q: 'How does the comparison work?', a: 'We combine occupation-level data from national labour statistics with generative-AI exposure scores from ILO Working Paper 140 and Eloundou et al. (OpenAI). Each occupation is scored on a 0–100 exposure percentile based on task overlap with large language models.' },
-  { q: 'What does the AI exposure score mean?', a: 'A low percentile means minimal exposure (tasks unlikely to be automated or augmented by AI); a high percentile means near-full exposure. Scores reflect the share of tasks that could be affected by current generative AI, not job elimination.' },
-  { q: 'Where does the data come from?', a: 'Official sources include the U.S. Bureau of Labor Statistics, UK ONS, Australia Jobs and Skills, Germany BA and others. AI-exposure research is drawn from the ILO working paper and Eloundou et al. Figures are estimates and indicative only.' },
-  { q: 'Can I trust the risk labels?', a: 'Risk labels (low/moderate/high) always appear alongside the numeric score and a text description — colour is never the sole indicator. The full methodology is documented on the Methodology page.' },
+  { q: tr('How does the comparison work?', CL), a: tr('We combine occupation-level data from national labour statistics with generative-AI exposure scores from ILO Working Paper 140 and Eloundou et al. (OpenAI). Each occupation is scored on a 0–100 exposure percentile based on task overlap with large language models.', CL) },
+  { q: tr('What does the AI exposure score mean?', CL), a: tr('A low percentile means minimal exposure (tasks unlikely to be automated or augmented by AI); a high percentile means near-full exposure. Scores reflect the share of tasks that could be affected by current generative AI, not job elimination.', CL) },
+  { q: tr('Where does the data come from?', CL), a: tr('Official sources include the U.S. Bureau of Labor Statistics, UK ONS, Australia Jobs and Skills, Germany BA and others. AI-exposure research is drawn from the ILO working paper and Eloundou et al. Figures are estimates and indicative only.', CL) },
+  { q: tr('Can I trust the risk labels?', CL), a: tr('Risk labels (low/moderate/high) always appear alongside the numeric score and a text description — colour is never the sole indicator. The full methodology is documented on the Methodology page.', CL) },
 ];
 const faqLd = { '@context': 'https://schema.org', '@type': 'FAQPage',
   mainEntity: FAQ.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })) };
 const comparePrefix = hrefCompare(loc) + '/';
+// 客户端 JS 用的本地化文案（band 档标签 + 比较说明）
+const T = {
+  na: tr('n/a', CL), veryHigh: tr('very high', CL), high: tr('high', CL),
+  moderate: tr('moderate', CL), low: tr('low', CL), veryLow: tr('very low', CL),
+  equal: tr('Equal exposure', CL), higherFor: tr('Higher for', CL),
+  pays: tr('pays', CL), paysPlus: tr('pays', CL), paysMore: tr('pays more', CL),
+};
 ---
 <Base
-  title="Compare occupations side by side — AI risk, salary & outlook | AI Job Risk"
-  description="Compare two occupations: AI exposure, salary and the human moat, built on official labour statistics and AI-exposure research."
+  title={`${tr('Compare occupations side by side', CL)} — ${tr('AI risk, salary & outlook', CL)} | AI Job Risk`}
+  description={tr('Compare two occupations: AI exposure, salary and the human moat, built on official labour statistics and AI-exposure research.', CL)}
   active="compare"
   jsonLd={faqLd}
 >
   <div class="container cmp-hub">
     <section class="hero">
-      <h1>Compare occupations side by side</h1>
-      <p class="subhead">AI exposure, salary and the human moat across {JOB_SLUGS.length.toLocaleString('en')} occupations — built on official labour statistics and AI-exposure research. Search any two jobs to compare.</p>
+      <h1>{tr('Compare occupations side by side', CL)}</h1>
+      <p class="subhead">{tr('AI exposure, salary and the human moat across occupations — built on official labour statistics and AI-exposure research. Search any two jobs to compare.', CL)}</p>
 
       <div class="selectors">
         <!-- Selector A -->
         <div class="selector-card">
-          <span class="selector-label">Occupation A</span>
+          <span class="selector-label">{tr('Occupation A', CL)}</span>
           <div class="combobox" data-side="a">
-            <input type="text" class="cb-input" role="combobox" aria-expanded="false" aria-label="Search first occupation" placeholder="Search an occupation…" autocomplete="off" />
+            <input type="text" class="cb-input" role="combobox" aria-expanded="false" aria-label={tr('Search first occupation', CL)} placeholder={tr('Search an occupation…', CL)} autocomplete="off" />
             <ul class="cb-list" role="listbox" hidden></ul>
           </div>
           <div class="cb-country-row" data-side="a" hidden>
             <i class="fas fa-globe"></i>
-            <select class="cb-country" data-side="a" aria-label="Country for occupation A"></select>
+            <select class="cb-country" data-side="a" aria-label={tr('Country for occupation A', CL)}></select>
           </div>
           <span class="cat-tag" data-side="a"></span>
           <div class="preview-line">
@@ -80,19 +87,19 @@ const comparePrefix = hrefCompare(loc) + '/';
 
         <!-- swap -->
         <div class="vs-divider">
-          <button type="button" class="vs-circle" id="cmp-swap" aria-label="Swap occupations"><i class="fas fa-right-left"></i></button>
+          <button type="button" class="vs-circle" id="cmp-swap" aria-label={tr('Swap occupations', CL)}><i class="fas fa-right-left"></i></button>
         </div>
 
         <!-- Selector B -->
         <div class="selector-card">
-          <span class="selector-label">Occupation B</span>
+          <span class="selector-label">{tr('Occupation B', CL)}</span>
           <div class="combobox" data-side="b">
-            <input type="text" class="cb-input" role="combobox" aria-expanded="false" aria-label="Search second occupation" placeholder="Search an occupation…" autocomplete="off" />
+            <input type="text" class="cb-input" role="combobox" aria-expanded="false" aria-label={tr('Search second occupation', CL)} placeholder={tr('Search an occupation…', CL)} autocomplete="off" />
             <ul class="cb-list" role="listbox" hidden></ul>
           </div>
           <div class="cb-country-row" data-side="b" hidden>
             <i class="fas fa-globe"></i>
-            <select class="cb-country" data-side="b" aria-label="Country for occupation B"></select>
+            <select class="cb-country" data-side="b" aria-label={tr('Country for occupation B', CL)}></select>
           </div>
           <span class="cat-tag" data-side="b"></span>
           <div class="preview-line">
@@ -103,38 +110,38 @@ const comparePrefix = hrefCompare(loc) + '/';
       </div>
 
       <div class="cta-row">
-        <a class="btn primary" id="cmp-go" href="#"><span>Compare these jobs</span> <i class="fas fa-arrow-right"></i></a>
-        <span class="muted small">Live preview below · full breakdown on the comparison page.</span>
+        <a class="btn primary" id="cmp-go" href="#"><span>{tr('Compare these jobs', CL)}</span> <i class="fas fa-arrow-right"></i></a>
+        <span class="muted small">{tr('Live preview below · full breakdown on the comparison page.', CL)}</span>
       </div>
 
       <div class="metric-tiles">
         <div class="metric-tile">
-          <span class="mt-label">AI exposure percentile</span>
-          <div class="mt-cmp"><span class="mt-val a" data-side="a-exp">—</span><span class="mt-sep">vs</span><span class="mt-val b" data-side="b-exp">—</span></div>
+          <span class="mt-label">{tr('AI exposure percentile', CL)}</span>
+          <div class="mt-cmp"><span class="mt-val a" data-side="a-exp">—</span><span class="mt-sep">{tr('vs', CL)}</span><span class="mt-val b" data-side="b-exp">—</span></div>
           <span class="mt-note" data-side="exp-note"></span>
         </div>
         <div class="metric-tile">
-          <span class="mt-label">Average salary</span>
-          <div class="mt-cmp"><span class="mt-val a" data-side="a-pay">—</span><span class="mt-sep">vs</span><span class="mt-val b" data-side="b-pay">—</span></div>
+          <span class="mt-label">{tr('Average salary', CL)}</span>
+          <div class="mt-cmp"><span class="mt-val a" data-side="a-pay">—</span><span class="mt-sep">{tr('vs', CL)}</span><span class="mt-val b" data-side="b-pay">—</span></div>
           <span class="mt-note" data-side="pay-note"></span>
         </div>
       </div>
     </section>
 
     <section class="popular-section">
-      <h2>Popular comparison pairs</h2>
+      <h2>{tr('Popular comparison pairs', CL)}</h2>
       <div class="popular-grid">
         {pairs.map((p) => (
           <a class="popular-card" href={`${comparePrefix}${p.key}`}>
-            <span class="pair">{p.a} <span class="pv">vs</span> {p.b}</span>
-            <span class="pair-stat">AI exposure {p.ea != null && <b class={expBand(p.ea).cls}>{p.ea}</b>} vs {p.eb != null && <b class={expBand(p.eb).cls}>{p.eb}</b>}</span>
+            <span class="pair">{p.a} <span class="pv">{tr('vs', CL)}</span> {p.b}</span>
+            <span class="pair-stat">{tr('AI exposure', CL)} {p.ea != null && <b class={expBand(p.ea).cls}>{p.ea}</b>} {tr('vs', CL)} {p.eb != null && <b class={expBand(p.eb).cls}>{p.eb}</b>}</span>
           </a>
         ))}
       </div>
     </section>
 
     <section class="faq-section">
-      <h2>Frequently asked questions</h2>
+      <h2>{tr('Frequently asked questions', CL)}</h2>
       <div class="faq-list">
         {FAQ.map((f) => (
           <details class="faq-item"><summary>{f.q}<i class="fas fa-chevron-down"></i></summary>
@@ -146,7 +153,7 @@ const comparePrefix = hrefCompare(loc) + '/';
 
   <script type="application/json" id="cmp-occs" set:html={JSON.stringify(OCCS)}></script>
   <script type="application/json" id="cmp-ctry" set:html={JSON.stringify(CTRY_META)}></script>
-  <script is:inline define:vars={{ defA, defB, comparePrefix }}>
+  <script is:inline define:vars={{ defA, defB, comparePrefix, T }}>
     (function () {
       var OCCS = JSON.parse(document.getElementById('cmp-occs').textContent || '[]');
       var CTRY = JSON.parse(document.getElementById('cmp-ctry').textContent || '{}');
@@ -157,12 +164,12 @@ const comparePrefix = hrefCompare(loc) + '/';
         catch (e) { return String(Math.round(v)); }
       }
       function band(e) {
-        if (e == null) return { cls: 'verylow', label: 'n/a' };
-        if (e >= 85) return { cls: 'critical', label: 'very high' };
-        if (e >= 70) return { cls: 'high', label: 'high' };
-        if (e >= 40) return { cls: 'moderate', label: 'moderate' };
-        if (e >= 20) return { cls: 'low', label: 'low' };
-        return { cls: 'verylow', label: 'very low' };
+        if (e == null) return { cls: 'verylow', label: T.na };
+        if (e >= 85) return { cls: 'critical', label: T.veryHigh };
+        if (e >= 70) return { cls: 'high', label: T.high };
+        if (e >= 40) return { cls: 'moderate', label: T.moderate };
+        if (e >= 20) return { cls: 'low', label: T.low };
+        return { cls: 'verylow', label: T.veryLow };
       }
       // 该职业有薪资数据的国家（下拉选项）；第一项作为默认国家
       function ccKeys(o) { return o && o.sal ? Object.keys(o.sal) : []; }
@@ -208,14 +215,14 @@ const comparePrefix = hrefCompare(loc) + '/';
         var en = document.querySelector('[data-side="exp-note"]');
         var ae = sel.a && sel.a.e, be = sel.b && sel.b.e;
         if (sel.a && sel.b && ae != null && be != null)
-          en.textContent = ae === be ? 'Equal exposure' : 'Higher for ' + (ae > be ? sel.a.n : sel.b.n);
+          en.textContent = ae === be ? T.equal : T.higherFor + ' ' + (ae > be ? sel.a.n : sel.b.n);
         else en.textContent = '';
         var pn = document.querySelector('[data-side="pay-note"]');
         var ap = salOf('a'), bp = salOf('b');
         if (ap != null && bp != null && ap !== bp) {
           var hiN = ap > bp ? sel.a.n : sel.b.n, hi = Math.max(ap, bp), lo = Math.min(ap, bp);
           var diff = lo ? Math.round((hi - lo) / lo * 100) : 0;
-          pn.textContent = hiN + (diff ? ' pays +' + diff + '%' : ' pays more');
+          pn.textContent = hiN + ' ' + (diff ? T.pays + ' +' + diff + '%' : T.paysMore);
         } else pn.textContent = '';
       }
       function go() {

@@ -23,6 +23,9 @@ DIMS = ["learning_difficulty", "learning_duration", "certification_difficulty", 
 COUNTRY = {
     "CH": {"name": "Switzerland", "currency": "CHF", "official": "BFS/OFS (Swiss Federal Statistical Office), Eurostat",
            "visa": "EU/EFTA free movement / L permit (short-term) / B permit (residence) / third-country quota permit"},
+    "IN": {"name": "India", "currency": "INR", "occ_type": "NCO2015",
+           "official": "MoSPI Periodic Labour Force Survey (PLFS) & NSSO, NCO-2015 (Directorate General of Employment, Ministry of Labour & Employment)",
+           "visa": "Employment Visa / E-Visa (high-skill, ~USD 25k min annual salary threshold) / Intra-Company Transfer / Business Visa / OCI & PIO for persons of Indian origin. India has no points-based skilled-migration scheme; inbound work authorisation is employer-sponsored and largely restricted to specialist roles"},
 }
 
 
@@ -89,20 +92,32 @@ def validate(v):
     return v
 
 
+DEC_MAX = 99999999  # decimal(10,2) 上限。高收入国家/高端岗（如 CEO 卢比薪资）clamp 以防溢出。
+
+
+def _clamp(x):
+    if x is None:
+        return None
+    try:
+        return min(int(round(float(x))), DEC_MAX)
+    except (TypeError, ValueError):
+        return None
+
+
 def to_seed(cc, isco, v):
     c = COUNTRY[cc]
-    OCC = {"country_code": cc, "occ_code": isco, "occ_code_type": "ISCO08", "anzsco_code": isco,
+    OCC = {"country_code": cc, "occ_code": isco, "occ_code_type": c.get("occ_type", "ISCO08"), "anzsco_code": isco,
            "anzsco_title": v["name"], "category": v["category"], "currency": c["currency"],
            "workforce_size": v.get("workforce_size"), "shortage_listed": int(v.get("shortage", 0)),
            "is_migration": int(v.get("is_migration", 1)), "is_public_servant": 0,
            "growth_areas": v.get("growth", [])}
     TEXT = {"name": v["name"], "summary": v["summary"], "forecast_note": v["forecast_note"],
             "trend_summary": v["trend_summary"]}
-    EDU = [{"stage": e["stage"], "duration": e.get("duration"), "cost_min": e.get("cost_min"),
-            "cost_max": e.get("cost_max"), "cost_note": e.get("cost_note")} for e in v["education"]]
+    EDU = [{"stage": e["stage"], "duration": e.get("duration"), "cost_min": _clamp(e.get("cost_min")),
+            "cost_max": _clamp(e.get("cost_max")), "cost_note": e.get("cost_note")} for e in v["education"]]
     QUAL = [{"qual_name": q["qual_name"], "issuer": q.get("issuer"), "note": q.get("note"),
              "is_mandatory": int(q.get("is_mandatory", 1))} for q in v["qualifications"]]
-    SAL = [{"experience": s["experience"], "salary_min": s.get("salary_min"), "salary_max": s.get("salary_max"),
+    SAL = [{"experience": s["experience"], "salary_min": _clamp(s.get("salary_min")), "salary_max": _clamp(s.get("salary_max")),
             "salary_note": s.get("salary_note")} for s in v["salaries"]]
     VISA = [{"visa_subclass": str(x["visa_subclass"])[:40], "visa_name": x.get("visa_name"),
              "description": x.get("description")} for x in v["visa"]]

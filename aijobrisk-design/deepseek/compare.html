@@ -1,0 +1,629 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+  <title>AI Risk Compare – Occupation Comparison</title>
+  <style>
+    *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+    :root {
+      /* palette */
+      --c-bg: #f7f5f2;
+      --c-surface: #ffffff;
+      --c-text: #1a1a1a;
+      --c-text-muted: #5c5c5c;
+      --c-primary: #cc4b3c;
+      --c-primary-soft: #f2e3e0;
+      --c-accent: #2d6a6f;
+      --c-accent-soft: #dfecea;
+      --c-highlight: #e9b741;
+      --c-border: #d6d2cd;
+      --c-swap-bg: #e9e4de;
+      --c-risk-low: #2d6a6f;
+      --c-risk-mid: #cc7f3a;
+      --c-risk-high: #b0413e;
+      --c-card-shadow: 0 4px 12px rgba(0,0,0,0.04), 0 1px 3px rgba(0,0,0,0.06);
+      --c-elevation: 0 8px 24px rgba(0,0,0,0.06);
+      /* radii */
+      --r-sm: 6px;
+      --r-md: 12px;
+      --r-lg: 20px;
+      --r-pill: 9999px;
+      /* spacing */
+      --s-xs: 6px;
+      --s-sm: 12px;
+      --s-md: 24px;
+      --s-lg: 40px;
+      --s-xl: 64px;
+      /* type scale (1.25 modular) */
+      --fs-xs: 0.75rem;     /* 12px */
+      --fs-sm: 0.875rem;    /* 14px */
+      --fs-base: 1rem;      /* 16px */
+      --fs-md: 1.125rem;    /* 18px */
+      --fs-lg: 1.5rem;      /* 24px */
+      --fs-xl: 2rem;        /* 32px */
+      --fs-2xl: 2.5rem;     /* 40px */
+      --lh: 1.5;
+      --lh-heading: 1.2;
+      --font: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+      --font-mono: 'SF Mono', 'Cascadia Code', 'Consolas', monospace;
+    }
+    html { font-size: 100%; }
+    body {
+      font-family: var(--font);
+      line-height: var(--lh);
+      background: var(--c-bg);
+      color: var(--c-text);
+      -webkit-font-smoothing: antialiased;
+    }
+    /* === utilities === */
+    .container { max-width: 1280px; margin: 0 auto; padding: 0 var(--s-md); }
+    .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0,0,0,0); border: 0; }
+
+    /* === top nav === */
+    .nav {
+      background: var(--c-surface);
+      border-bottom: 1px solid var(--c-border);
+      padding: var(--s-sm) 0;
+    }
+    .nav-inner {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: var(--s-sm);
+    }
+    .wordmark {
+      font-size: var(--fs-lg);
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      color: var(--c-primary);
+      display: flex;
+      align-items: center;
+      gap: var(--s-xs);
+    }
+    .wordmark svg { width: 28px; height: 28px; }
+    .nav-links {
+      display: flex;
+      gap: var(--s-md);
+      list-style: none;
+      flex-wrap: wrap;
+    }
+    .nav-links a {
+      text-decoration: none;
+      color: var(--c-text-muted);
+      font-size: var(--fs-sm);
+      font-weight: 500;
+      padding: var(--s-xs) 0;
+      border-bottom: 2px solid transparent;
+      transition: border-color 0.2s;
+    }
+    .nav-links a:hover { border-bottom-color: var(--c-primary); color: var(--c-text); }
+
+    /* === hero === */
+    .hero { padding: var(--s-xl) 0 var(--s-lg); }
+    .hero h1 {
+      font-size: var(--fs-2xl);
+      font-weight: 700;
+      letter-spacing: -0.03em;
+      line-height: var(--lh-heading);
+      margin-bottom: var(--s-xs);
+    }
+    .hero .subhead {
+      font-size: var(--fs-md);
+      color: var(--c-text-muted);
+      max-width: 640px;
+    }
+
+    /* === selector cards === */
+    .selectors {
+      display: flex;
+      gap: var(--s-md);
+      align-items: stretch;
+      margin-bottom: var(--s-lg);
+      flex-wrap: wrap;
+    }
+    .selector-card {
+      flex: 1 1 280px;
+      background: var(--c-surface);
+      border-radius: var(--r-lg);
+      box-shadow: var(--c-card-shadow);
+      padding: var(--s-md);
+      border: 1px solid var(--c-border);
+      display: flex;
+      flex-direction: column;
+      gap: var(--s-sm);
+      transition: box-shadow 0.2s;
+    }
+    .selector-card:hover { box-shadow: var(--c-elevation); }
+    .selector-label {
+      font-size: var(--fs-xs);
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      color: var(--c-text-muted);
+    }
+    .combobox {
+      position: relative;
+    }
+    .combobox select {
+      width: 100%;
+      padding: var(--s-sm) var(--s-md);
+      background: var(--c-bg);
+      border: 1px solid var(--c-border);
+      border-radius: var(--r-sm);
+      font: inherit;
+      font-size: var(--fs-base);
+      color: var(--c-text);
+      appearance: none;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%235c5c5c' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='6 9 12 15 18 9'%3E%3C/polyline%3E%3C/svg%3E");
+      background-repeat: no-repeat;
+      background-position: right 12px center;
+      background-size: 16px;
+      cursor: pointer;
+    }
+    .country-tag {
+      font-size: var(--fs-xs);
+      color: var(--c-text-muted);
+      background: var(--c-accent-soft);
+      display: inline-block;
+      padding: 2px var(--s-sm);
+      border-radius: var(--r-pill);
+      align-self: flex-start;
+    }
+    .preview-line {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: var(--fs-sm);
+      border-top: 1px solid var(--c-border);
+      padding-top: var(--s-sm);
+      margin-top: auto;
+    }
+    .preview-item {
+      display: flex;
+      align-items: center;
+      gap: var(--s-xs);
+    }
+    .risk-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      padding: 2px 10px;
+      border-radius: var(--r-pill);
+      font-weight: 600;
+      font-size: var(--fs-xs);
+    }
+    .risk-badge.low { background: var(--c-accent-soft); color: var(--c-risk-low); }
+    .risk-badge.medium { background: #f5e4cc; color: var(--c-risk-mid); }
+    .risk-badge.high { background: var(--c-primary-soft); color: var(--c-risk-high); }
+
+    .vs-divider {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+      padding: 0 var(--s-xs);
+    }
+    .vs-circle {
+      width: 48px;
+      height: 48px;
+      border-radius: 50%;
+      background: var(--c-swap-bg);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: 700;
+      font-size: var(--fs-sm);
+      color: var(--c-text-muted);
+      border: 1px solid var(--c-border);
+      cursor: default;
+      user-select: none;
+    }
+    .vs-circle .swap-icon { font-size: 1.2rem; line-height: 1; }
+
+    @media (max-width: 700px) {
+      .selectors { flex-direction: column; }
+      .vs-divider { padding: var(--s-xs) 0; }
+    }
+
+    /* === CTA + result teaser === */
+    .result-entry { margin-bottom: var(--s-xl); }
+    .cta-row {
+      display: flex;
+      align-items: center;
+      gap: var(--s-md);
+      flex-wrap: wrap;
+      margin-bottom: var(--s-md);
+    }
+    .btn-primary {
+      background: var(--c-primary);
+      color: white;
+      border: none;
+      padding: var(--s-sm) var(--s-lg);
+      border-radius: var(--r-pill);
+      font: inherit;
+      font-size: var(--fs-base);
+      font-weight: 600;
+      cursor: default;
+      box-shadow: 0 2px 8px rgba(204,75,60,0.25);
+      transition: box-shadow 0.2s, transform 0.2s;
+      display: inline-flex;
+      align-items: center;
+      gap: var(--s-xs);
+    }
+    .btn-primary:hover { box-shadow: 0 4px 14px rgba(204,75,60,0.35); transform: translateY(-1px); }
+    .btn-primary svg { width: 20px; height: 20px; stroke: white; fill: none; stroke-width: 2; }
+
+    .metric-tiles {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+      gap: var(--s-sm);
+      background: var(--c-surface);
+      border-radius: var(--r-lg);
+      padding: var(--s-md);
+      border: 1px solid var(--c-border);
+      box-shadow: var(--c-card-shadow);
+    }
+    .metric-tile {
+      padding: var(--s-sm);
+      border-radius: var(--r-sm);
+      background: var(--c-bg);
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+    }
+    .metric-tile .label {
+      font-size: var(--fs-xs);
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      color: var(--c-text-muted);
+    }
+    .metric-compare {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      gap: var(--s-sm);
+    }
+    .metric-compare .val {
+      font-weight: 700;
+      font-size: var(--fs-md);
+    }
+    .metric-compare .val.a { color: var(--c-primary); }
+    .metric-compare .val.b { color: var(--c-accent); }
+    .metric-compare .sep { color: var(--c-text-muted); font-weight: 300; }
+
+    /* === popular comparisons === */
+    .popular-section { margin-bottom: var(--s-xl); }
+    .popular-section h2 {
+      font-size: var(--fs-lg);
+      font-weight: 700;
+      margin-bottom: var(--s-md);
+      letter-spacing: -0.02em;
+    }
+    .popular-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+      gap: var(--s-sm);
+    }
+    .popular-card {
+      background: var(--c-surface);
+      border: 1px solid var(--c-border);
+      border-radius: var(--r-md);
+      padding: var(--s-sm) var(--s-md);
+      box-shadow: var(--c-card-shadow);
+      cursor: default;
+      transition: box-shadow 0.2s, transform 0.2s;
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+    }
+    .popular-card:hover { box-shadow: var(--c-elevation); transform: translateY(-2px); }
+    .popular-card .pair {
+      font-weight: 600;
+      font-size: var(--fs-sm);
+    }
+    .popular-card .pair-stat {
+      font-size: var(--fs-xs);
+      color: var(--c-text-muted);
+      display: flex;
+      align-items: center;
+      gap: var(--s-xs);
+    }
+    .popular-card .pair-stat .stat-highlight {
+      font-weight: 600;
+      color: var(--c-text);
+    }
+
+    /* === FAQ === */
+    .faq-section { margin-bottom: var(--s-xl); }
+    .faq-section h2 {
+      font-size: var(--fs-lg);
+      font-weight: 700;
+      margin-bottom: var(--s-md);
+      letter-spacing: -0.02em;
+    }
+    .faq-list {
+      display: flex;
+      flex-direction: column;
+      gap: var(--s-sm);
+    }
+    details.faq-item {
+      background: var(--c-surface);
+      border: 1px solid var(--c-border);
+      border-radius: var(--r-md);
+      overflow: hidden;
+      box-shadow: var(--c-card-shadow);
+    }
+    details.faq-item summary {
+      padding: var(--s-sm) var(--s-md);
+      font-weight: 600;
+      font-size: var(--fs-base);
+      cursor: default;
+      list-style: none;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    details.faq-item summary::after {
+      content: "▼";
+      font-size: var(--fs-xs);
+      color: var(--c-text-muted);
+      transition: transform 0.2s;
+    }
+    details.faq-item[open] summary::after { transform: rotate(180deg); }
+    details.faq-item .answer {
+      padding: 0 var(--s-md) var(--s-md);
+      color: var(--c-text-muted);
+      font-size: var(--fs-sm);
+      line-height: var(--lh);
+    }
+
+    /* === footer === */
+    .footer {
+      border-top: 1px solid var(--c-border);
+      padding: var(--s-md) 0;
+      margin-top: var(--s-lg);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: var(--s-sm);
+      font-size: var(--fs-sm);
+      color: var(--c-text-muted);
+    }
+    .footer a { color: var(--c-text-muted); text-decoration: underline; text-underline-offset: 2px; }
+
+    /* === design system strip === */
+    .ds-strip {
+      background: var(--c-surface);
+      border-top: 2px solid var(--c-border);
+      padding: var(--s-md) 0;
+      margin-top: var(--s-lg);
+    }
+    .ds-inner {
+      display: flex;
+      flex-wrap: wrap;
+      gap: var(--s-sm);
+      align-items: center;
+      justify-content: center;
+    }
+    .swatch {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      font-size: var(--fs-xs);
+      font-family: var(--font-mono);
+    }
+    .swatch-box {
+      width: 24px;
+      height: 24px;
+      border-radius: var(--r-sm);
+      border: 1px solid var(--c-border);
+    }
+    .ds-note { font-size: var(--fs-xs); color: var(--c-text-muted); text-align: center; max-width: 400px; }
+
+    @media (max-width: 480px) {
+      :root { --fs-2xl: 1.75rem; }
+    }
+  </style>
+</head>
+<body>
+  <!-- top nav -->
+  <nav class="nav" aria-label="Primary">
+    <div class="container nav-inner">
+      <div class="wordmark">
+        <svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M16 4L28 12V20L16 28L4 20V12L16 4Z" stroke="currentColor" stroke-width="2" fill="none"/><circle cx="16" cy="16" r="3" fill="currentColor"/></svg>
+        aijobrisk
+      </div>
+      <ul class="nav-links">
+        <li><a href="#">Occupations</a></li>
+        <li><a href="#">Compare</a></li>
+        <li><a href="#">Data</a></li>
+        <li><a href="#">About</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <main class="container">
+    <!-- hero + selectors -->
+    <section class="hero" aria-labelledby="compare-heading">
+      <h1 id="compare-heading">Compare occupations side by side</h1>
+      <p class="subhead">AI exposure, salary, demand &amp; migration data across 14 countries — built on official labour statistics and peer-reviewed research.</p>
+
+      <div class="selectors" role="group" aria-label="Occupation selectors">
+        <!-- selector A -->
+        <div class="selector-card">
+          <span class="selector-label">Occupation A</span>
+          <div class="combobox">
+            <label for="occ-a" class="sr-only">Choose first occupation</label>
+            <select id="occ-a">
+              <option value="nurse" selected>Registered Nurse</option>
+              <option value="swe">Software Engineer</option>
+              <option value="accountant">Accountant</option>
+              <option value="electrician">Electrician</option>
+            </select>
+          </div>
+          <span class="country-tag">🇺🇸 United States</span>
+          <div class="preview-line">
+            <span class="preview-item">
+              <span class="risk-badge medium" aria-label="AI exposure: medium">⚠️ 3.2</span>
+            </span>
+            <span class="preview-item">$77,600</span>
+          </div>
+        </div>
+
+        <!-- VS divider -->
+        <div class="vs-divider" aria-hidden="true">
+          <div class="vs-circle">
+            <span class="swap-icon">⇄</span>
+          </div>
+        </div>
+
+        <!-- selector B -->
+        <div class="selector-card">
+          <span class="selector-label">Occupation B</span>
+          <div class="combobox">
+            <label for="occ-b" class="sr-only">Choose second occupation</label>
+            <select id="occ-b">
+              <option value="swe" selected>Software Engineer</option>
+              <option value="nurse">Registered Nurse</option>
+              <option value="accountant">Accountant</option>
+              <option value="electrician">Electrician</option>
+            </select>
+          </div>
+          <span class="country-tag">🇺🇸 United States</span>
+          <div class="preview-line">
+            <span class="preview-item">
+              <span class="risk-badge low" aria-label="AI exposure: low">✅ 1.8</span>
+            </span>
+            <span class="preview-item">$110,140</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- comparison result entry -->
+    <section class="result-entry" aria-label="Comparison result preview">
+      <div class="cta-row">
+        <span class="btn-primary" tabindex="0" role="button">
+          Compare these jobs
+          <svg viewBox="0 0 24 24" fill="none"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+        </span>
+        <span style="font-size: var(--fs-sm); color: var(--c-text-muted);">Updated with 2025 data</span>
+      </div>
+
+      <div class="metric-tiles">
+        <div class="metric-tile">
+          <span class="label">AI exposure score</span>
+          <div class="metric-compare">
+            <span class="val a">3.2</span>
+            <span class="sep">vs</span>
+            <span class="val b">1.8</span>
+          </div>
+          <span style="font-size: var(--fs-xs); color: var(--c-text-muted);">higher for Registered Nurse</span>
+        </div>
+        <div class="metric-tile">
+          <span class="label">Median salary</span>
+          <div class="metric-compare">
+            <span class="val a">$77,600</span>
+            <span class="sep">vs</span>
+            <span class="val b">$110,140</span>
+          </div>
+          <span style="font-size: var(--fs-xs); color: var(--c-text-muted);">Software Engineer +42%</span>
+        </div>
+        <div class="metric-tile">
+          <span class="label">Job demand (10yr)</span>
+          <div class="metric-compare">
+            <span class="val a">+6%</span>
+            <span class="sep">vs</span>
+            <span class="val b">+25%</span>
+          </div>
+          <span style="font-size: var(--fs-xs); color: var(--c-text-muted);">Software Engineer stronger</span>
+        </div>
+        <div class="metric-tile">
+          <span class="label">Migration friendliness</span>
+          <div class="metric-compare">
+            <span class="val a">High</span>
+            <span class="sep">vs</span>
+            <span class="val b">Very high</span>
+          </div>
+          <span style="font-size: var(--fs-xs); color: var(--c-text-muted);">both above median</span>
+        </div>
+      </div>
+    </section>
+
+    <!-- popular comparisons -->
+    <section class="popular-section" aria-labelledby="popular-heading">
+      <h2 id="popular-heading">Popular comparison pairs</h2>
+      <div class="popular-grid">
+        <div class="popular-card"><span class="pair">Registered Nurse vs Software Engineer</span><span class="pair-stat">AI risk <span class="stat-highlight">3.2</span> vs <span class="stat-highlight">1.8</span></span></div>
+        <div class="popular-card"><span class="pair">Accountant vs Data Analyst</span><span class="pair-stat">AI risk <span class="stat-highlight">4.1</span> vs <span class="stat-highlight">2.5</span></span></div>
+        <div class="popular-card"><span class="pair">Electrician vs Truck Driver</span><span class="pair-stat">AI risk <span class="stat-highlight">2.0</span> vs <span class="stat-highlight">6.2</span></span></div>
+        <div class="popular-card"><span class="pair">Graphic Designer vs UX Designer</span><span class="pair-stat">AI risk <span class="stat-highlight">5.0</span> vs <span class="stat-highlight">2.8</span></span></div>
+        <div class="popular-card"><span class="pair">Teacher vs Corporate Trainer</span><span class="pair-stat">AI risk <span class="stat-highlight">2.3</span> vs <span class="stat-highlight">3.7</span></span></div>
+        <div class="popular-card"><span class="pair">Paralegal vs Lawyer</span><span class="pair-stat">AI risk <span class="stat-highlight">4.5</span> vs <span class="stat-highlight">1.9</span></span></div>
+        <div class="popular-card"><span class="pair">Dentist vs Dental Hygienist</span><span class="pair-stat">AI risk <span class="stat-highlight">0.9</span> vs <span class="stat-highlight">2.1</span></span></div>
+        <div class="popular-card"><span class="pair">HR Specialist vs Recruiter</span><span class="pair-stat">AI risk <span class="stat-highlight">3.0</span> vs <span class="stat-highlight">4.3</span></span></div>
+      </div>
+    </section>
+
+    <!-- FAQ -->
+    <section class="faq-section" aria-labelledby="faq-heading">
+      <h2 id="faq-heading">Frequently asked questions</h2>
+      <div class="faq-list">
+        <details class="faq-item">
+          <summary>How does the comparison work?</summary>
+          <div class="answer">We combine occupation-level data from national labour statistics (14 countries) with generative-AI exposure scores from ILO Working Paper 140 and Eloundou et al. (OpenAI). Each occupation is scored on a 1–10 scale based on task overlap with large language models.</div>
+        </details>
+        <details class="faq-item">
+          <summary>Where does the data come from?</summary>
+          <div class="answer">Official sources include the U.S. Bureau of Labor Statistics, UK ONS, German BA, Australian Jobs and Skills Australia, and others. AI exposure research is drawn from peer-reviewed papers and the ILO’s global analysis.</div>
+        </details>
+        <details class="faq-item">
+          <summary>What does the AI exposure score mean?</summary>
+          <div class="answer">A score of 1 means minimal exposure (tasks unlikely to be automated or augmented by AI), while 10 means near-full exposure. Scores reflect the share of tasks that could be affected by current generative-AI capabilities, not job elimination.</div>
+        </details>
+        <details class="faq-item">
+          <summary>Which countries are covered?</summary>
+          <div class="answer">Australia, Canada, France, Germany, Italy, Japan, Netherlands, Singapore, South Korea, Spain, Sweden, Switzerland, United Kingdom, and the United States. More countries are added as data becomes available.</div>
+        </details>
+        <details class="faq-item">
+          <summary>How often is the data updated?</summary>
+          <div class="answer">Labour data is refreshed annually after each country’s official release. AI exposure scores are updated whenever new research with comparable methodology is published — at least once per year.</div>
+        </details>
+        <details class="faq-item">
+          <summary>Can I trust the risk labels?</summary>
+          <div class="answer">Risk labels (low/medium/high) always appear alongside the numeric score and a text description. Colour is never used as the sole indicator. Our methodology is fully documented in the Data section.</div>
+        </details>
+      </div>
+    </section>
+  </main>
+
+  <!-- footer -->
+  <footer class="footer container" role="contentinfo">
+    <span>© 2025 aijobrisk.com — evidence-based career intelligence</span>
+    <span><a href="#">Privacy</a> • <a href="#">Terms</a> • <a href="#">Contact</a></span>
+  </footer>
+
+  <!-- design system strip -->
+  <div class="ds-strip" aria-label="Design system showcase">
+    <div class="container">
+      <div class="ds-inner">
+        <span class="swatch"><span class="swatch-box" style="background:#f7f5f2;"></span> #f7f5f2</span>
+        <span class="swatch"><span class="swatch-box" style="background:#ffffff;border-color:#ccc;"></span> #ffffff</span>
+        <span class="swatch"><span class="swatch-box" style="background:#1a1a1a;"></span> #1a1a1a</span>
+        <span class="swatch"><span class="swatch-box" style="background:#5c5c5c;"></span> #5c5c5c</span>
+        <span class="swatch"><span class="swatch-box" style="background:#cc4b3c;"></span> #cc4b3c</span>
+        <span class="swatch"><span class="swatch-box" style="background:#f2e3e0;"></span> #f2e3e0</span>
+        <span class="swatch"><span class="swatch-box" style="background:#2d6a6f;"></span> #2d6a6f</span>
+        <span class="swatch"><span class="swatch-box" style="background:#dfecea;"></span> #dfecea</span>
+        <span class="swatch"><span class="swatch-box" style="background:#e9b741;"></span> #e9b741</span>
+        <span class="swatch"><span class="swatch-box" style="background:#d6d2cd;"></span> #d6d2cd</span>
+        <span class="ds-note">Type: system font stack (1.25 modular scale). Mood: credible, warm, data-dense with a editorial feel — soft earth tones, confident red accent, muted teal for contrast.</span>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

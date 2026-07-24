@@ -2,7 +2,7 @@
 // 共享的 AI Job Risk Map 画布：分类分块 treemap + 内联世界/国家轮廓水印（可被 CSS 主题控制）。
 // 国家页与全球页共用，保证观感一致：半透明方块（透出背景地图）、弱化的深色水印、深色模式大陆变浅。
 import type { RiskLayout } from '../lib/riskmap';
-import { COUNTRIES, COUNTRY_FLAG, countryName } from '../lib/data';
+import { COUNTRIES, COUNTRY_FLAG, countryName, tr } from '../lib/data';
 import { pageLocale, contentLocale, hrefMap, type Display } from '../lib/i18n';
 import outlinePaths from '../data/outline-paths.json';
 
@@ -13,6 +13,11 @@ const { layout, meta, outlineKey, ariaLabel, activeKey, locale } = Astro.props a
 const loc = locale || pageLocale(Astro);
 const CL = contentLocale(loc);
 const landPath = (outlinePaths as Record<string, string>)[outlineKey] || '';
+// tooltip（客户端 JS）本地化文案
+const T = {
+  category: tr('Category', CL), workforce: tr('Workforce', CL),
+  aiRisk: tr('AI risk', CL), avgSalary: tr('Avg salary', CL), clickOpen: tr('Click to open', CL),
+};
 
 const totalWorkers = meta.reduce((s, m) => s + m.w, 0);
 // 分类标题是否放得下 + 截断
@@ -22,23 +27,23 @@ function catLabel(text: string, bw: number) {
   return text.length > max ? text.slice(0, Math.max(1, max - 1)) + '…' : text;
 }
 ---
-<nav class="rm-nav" aria-label="Risk maps by region">
-  <span class="rm-nav-lbl">Risk map:</span>
-  <a class:list={['rm-chip', { on: activeKey === 'WORLD' }]} href={hrefMap(loc)}>World</a>
+<nav class="rm-nav" aria-label={tr('Risk maps by region', CL)}>
+  <span class="rm-nav-lbl">{tr('Risk map', CL)}:</span>
+  <a class:list={['rm-chip', { on: activeKey === 'WORLD' }]} href={hrefMap(loc)}>{tr('World', CL)}</a>
   {COUNTRIES.map((cc) => (
     <a class:list={['rm-chip', 'rm-flagchip', { on: activeKey === cc }]}
-       href={hrefMap(loc, cc)} title={`${countryName(cc, CL)} risk map`}>
+       href={hrefMap(loc, cc)} title={`${countryName(cc, CL)} ${tr('risk map', CL)}`}>
       <span class="flag" aria-hidden="true" set:html={COUNTRY_FLAG[cc]} />{cc}
     </a>
   ))}
 </nav>
 
 <div class="rm-legend">
-  <span class="lg-label">Lower AI risk</span>
+  <span class="lg-label">{tr('Lower AI risk', CL)}</span>
   <span class="lg-bar"></span>
-  <span class="lg-label">Higher AI risk</span>
+  <span class="lg-label">{tr('Higher AI risk', CL)}</span>
   <span class="lg-sep">·</span>
-  <span class="muted">{layout.total} occupations · {totalWorkers.toLocaleString('en')} workers</span>
+  <span class="muted">{layout.total} {tr('occupations', CL)} · {totalWorkers.toLocaleString('en')} {tr('workers', CL)}</span>
 </div>
 
 <div class="rm-wrap">
@@ -61,7 +66,7 @@ function catLabel(text: string, bw: number) {
     <!-- 分类块标题 -->
     <g class="rm-cats" aria-hidden="true">
       {layout.catBlocks.map((b) => {
-        const lbl = catLabel(b.text, b.w);
+        const lbl = catLabel(tr(b.text, CL), b.w);
         return lbl ? <text x={b.x + 4} y={b.y + 15}>{lbl}</text> : null;
       })}
     </g>
@@ -70,7 +75,7 @@ function catLabel(text: string, bw: number) {
 
 <p class="muted rm-foot"><slot name="foot" /></p>
 
-<script is:inline define:vars={{ M: meta }}>
+<script is:inline define:vars={{ M: meta, T }}>
   (function () {
     // SSR 内联 meta：tooltip 直接读，无需 fetch。
     var wrap = document.querySelector('.rm-wrap');
@@ -93,11 +98,11 @@ function catLabel(text: string, bw: number) {
         hi.forEach(function (n) { n.classList.add('on'); });
         tip.innerHTML =
           '<div class="rt-name">' + m.n + '</div>' +
-          '<div class="rt-row"><span>Category</span><b>' + m.c + '</b></div>' +
-          '<div class="rt-row"><span>Workforce</span><b>' + fmt(m.w) + '</b></div>' +
-          '<div class="rt-row"><span>AI risk</span><b style="color:' + m.col + '">' + m.r + ' / 10</b></div>' +
-          (m.a != null ? '<div class="rt-row"><span>Avg salary</span><b>' + salary(m.a, m.cur) + '</b></div>' : '') +
-          '<div class="rt-hint">Click to open →</div>';
+          '<div class="rt-row"><span>' + T.category + '</span><b>' + m.c + '</b></div>' +
+          '<div class="rt-row"><span>' + T.workforce + '</span><b>' + fmt(m.w) + '</b></div>' +
+          '<div class="rt-row"><span>' + T.aiRisk + '</span><b style="color:' + m.col + '">' + m.r + ' / 10</b></div>' +
+          (m.a != null ? '<div class="rt-row"><span>' + T.avgSalary + '</span><b>' + salary(m.a, m.cur) + '</b></div>' : '') +
+          '<div class="rt-hint">' + T.clickOpen + ' →</div>';
         tip.hidden = false;
         curr = i;
       }
