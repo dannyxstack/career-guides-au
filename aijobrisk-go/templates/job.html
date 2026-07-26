@@ -1,0 +1,387 @@
+{{ define "content" -}}
+<div class="container jd">
+  <nav class="breadcrumb" aria-label="{{ .Tr "Breadcrumb" }}">
+    <a href="{{ .WithL "/" }}">{{ .Tr "Home" }}</a> <span>›</span> <a href="{{ .CatURL }}">{{ .CatName }}</a> <span>›</span> <span>{{ .DispName }}</span>
+  </nav>
+
+  <section class="detail-section">
+    <div class="detail-header">
+      <div class="title-group">
+        <h1>{{ .DispName }}{{ if .ShowLatin }}<span class="latin">{{ .Nm }}</span>{{ end }}</h1>
+        <span class="country-pill"><i class="fas fa-clock-rotate-left"></i> {{ .Tr "Occupation baseline · updated" }} {{ .DataUpdated }}</span>
+        <div class="meta-pills">
+          <span class="pill"><i class="fas fa-industry"></i> {{ .CatName }}</span>
+          <span class="pill"><i class="fas fa-hashtag"></i> {{ .CodeLabel }} ({{ .OccCodeType }})</span>
+          <span class="pill"><i class="fas fa-globe"></i> {{ .CountriesLen }} {{ .Tr "countries" }}</span>
+        </div>
+      </div>
+      {{ if .HasHeadline }}<div class="risk-badge-lg {{ .BandCls }}">
+        {{ .HeadlinePct }}<small>{{ .Tr "AI exposure" }} · {{ .BandLabelTr }}</small>
+      </div>{{ end }}
+    </div>
+
+    {{ if .HasHeadline }}
+    <div class="risk-meter">
+      <div class="meter-visual">
+        <span class="meter-label">{{ .Tr "AI exposure" }}{{ if .HasAioe }}<small class="meter-src"> (GenAI · ILO / OpenAI)</small>{{ end }}</span>
+        <div class="meter-bar"><div class="fill" style="width:{{ if gt .HeadlinePct 100 }}100{{ else }}{{ .HeadlinePct }}{{ end }}%"></div></div>
+        <span class="meter-num">{{ .HeadlinePct }}<small>{{ .MeterUnit }}</small></span>
+        <span class="risk-badge {{ .BandCls }}">{{ .BandLabelTr }}</span>
+      </div>
+      <div class="risk-summary">
+        {{ if .FirstReplaced }}<span class="rs-pill"><i class="fas fa-circle-xmark" style="color:var(--risk-high)"></i> <b>{{ .Tr "Replaces:" }}</b> {{ .FirstReplaced }}</span>{{ end }}
+        {{ if .FirstAugmented }}<span class="rs-pill"><i class="fas fa-circle-check" style="color:var(--risk-low)"></i> <b>{{ .Tr "Augments:" }}</b> {{ .FirstAugmented }}</span>{{ end }}
+        {{ if .FirstMoat }}<span class="rs-pill"><i class="fas fa-shield-halved" style="color:var(--brand)"></i> <b>{{ .Tr "Moat:" }}</b> {{ .FirstMoat }}</span>{{ end }}
+      </div>
+      {{ if .HasAioe }}<p class="muted meter-pct">{{ .Tr "More exposed than about" }} {{ .AioePct }}% {{ .Tr "of occupations (percentile; higher = more exposed to generative AI)." }}</p>{{ end }}
+    </div>
+    {{ end }}
+
+    <p class="verdict"><strong>{{ .BandLabelTr }} {{ .Tr "exposure" }}.</strong> {{ .Verdict }}</p>
+    <p class="muted scope">{{ .Tr "Occupation-level baseline, not a personal prediction. Local salary, licensing and outlook are shown by country below." }}</p>
+
+    <div class="scores {{ .ScoresCls }}">
+      {{ range .Scores }}<div><span>{{ .Label }}</span><b>{{ .Val }}</b></div>
+      {{ end }}
+    </div>
+
+    <div class="actions">
+      <a class="btn primary" href="{{ .Assessment }}"><i class="fas fa-user-check"></i> {{ .Tr "Check my personal resilience" }}</a>
+      <a class="btn" href="{{ .MapURL }}"><i class="fas fa-map"></i> {{ .Tr "Compare on the risk map" }}</a>
+    </div>
+  </section>
+
+  {{ if .HasAI }}
+  <section class="ai-zone">
+    <div class="ai-grid">
+      <div class="card ai-tint-red"><h4 class="amber"><i class="fas fa-minus-circle"></i> {{ (index .AICards 0).Title }}</h4>
+        <ul class="dash">{{ range (index .AICards 0).Items }}<li>{{ . }}</li>{{ end }}</ul></div>
+      <div class="card ai-tint-green"><h4 class="green"><i class="fas fa-plus-circle"></i> {{ (index .AICards 1).Title }}</h4>
+        <ul class="dash">{{ range (index .AICards 1).Items }}<li>{{ . }}</li>{{ end }}</ul></div>
+      <div class="card moat"><h4 class="moat-h"><i class="fas fa-chess-king"></i> {{ (index .AICards 2).Title }}</h4>
+        <ul class="dash">{{ range (index .AICards 2).Items }}<li>{{ . }}</li>{{ end }}</ul></div>
+      <div class="card ai-tint-blue"><h4><i class="fas fa-graduation-cap"></i> {{ (index .AICards 3).Title }}</h4>
+        <ul class="dash">{{ range (index .AICards 3).Items }}<li>{{ . }}</li>{{ end }}</ul></div>
+    </div>
+
+    <div class="ai-notes">
+      {{ if .EntryNote }}<div class="card ai-tint-slate"><h4><i class="fas fa-door-closed"></i> {{ .Tr "Entry-level outlook" }}</h4>
+        <p class="muted">{{ .EntryNote }}</p></div>{{ end }}
+      {{ if .UpgradePath }}<div class="card ai-tint-green"><h4 class="green"><i class="fas fa-rocket"></i> {{ .Tr "How to level up in the AI era" }}</h4>
+        <p>{{ .UpgradePath }}</p></div>{{ end }}
+    </div>
+
+    {{ if .Disruptors }}
+    <div class="card"><h4 class="amber"><i class="fas fa-robot"></i> {{ .Tr "AI already affecting this job" }}</h4>
+      <ul class="disruptors">{{ range .Disruptors }}<li class="dis">
+        <div class="dis-head">
+          {{ if .HasURL }}<a class="dis-name" href="{{ .URL }}" target="_blank" rel="noopener nofollow">{{ .Name }}</a>{{ else }}<span class="dis-name">{{ .Name }}</span>{{ end }}
+          <span class="risk-badge verylow">{{ .Type }}</span>
+          <span class="risk-badge {{ .LevelCls }}">{{ .Level }}</span>
+          {{ if .Year }}<span class="muted dis-year">{{ .Year }}</span>{{ end }}
+        </div>
+        {{ if .Scope }}<p class="muted dis-scope">{{ .Scope }}</p>{{ end }}
+      </li>{{ end }}</ul></div>
+    {{ end }}
+
+    {{ if .Adjacent }}
+    <div class="card ai-tint-blue"><h4><i class="fas fa-arrow-right-arrow-left"></i> {{ .Tr "Adjacent careers if risk is high" }}</h4>
+      <div class="adjacent">{{ range .Adjacent }}<a class="adj-chip" href="{{ .Href }}">{{ .Name }}</a>{{ end }}</div></div>
+    {{ end }}
+  </section>
+  {{ end }}
+
+  <h2 class="by-country">{{ .Tr "Local data by country" }}</h2>
+  <div class="tabs" role="tablist">
+    {{ range .Tabs }}<a class="tab{{ if .On }} on{{ end }}" role="tab" aria-selected="{{ if .On }}true{{ else }}false{{ end }}" href="{{ .Href }}">
+      <span class="flag">{{ .Flag }}</span>{{ .Name }}</a>
+    {{ end }}
+  </div>
+
+  <section class="panel">
+    <div class="panel-stats">
+      {{ if .OverallScore }}<span class="pstat">{{ .Tr "Overall" }} <b>{{ .OverallScore }}</b></span>{{ end }}
+      {{ if .Workforce }}<span class="pstat">{{ .Tr "Workforce" }} <b>{{ .Workforce }}</b></span>{{ end }}
+      {{ if .AvgSalary }}<span class="pstat">{{ .Tr "Avg salary" }} <b>{{ .AvgSalary }}</b></span>{{ end }}
+      <span class="risk-badge {{ .MigBadge.Cls }}">{{ .MigBadge.Text }}</span>
+    </div>
+
+    <div class="two-col">
+      <div class="col">
+        <h3><i class="fas fa-chart-simple"></i> {{ .Tr "Ratings" }}{{ if .OverallScore }} · {{ .Tr "Overall" }} {{ .OverallScore }}{{ end }}</h3>
+        {{ .RadarSVG }}
+      </div>
+      <div class="col">
+        <h3><i class="fas fa-dollar-sign"></i> {{ .Tr "Salary" }} ({{ .Currency }})</h3>
+        <table>
+          <thead><tr><th>{{ .Tr "Experience" }}</th><th>{{ .Tr "Annual" }}</th><th></th></tr></thead>
+          <tbody>{{ range .Salaries }}<tr><td>{{ .Label }}</td><td class="amber pay">{{ .Pay }}</td><td class="muted">{{ .Note }}</td></tr>{{ end }}</tbody>
+        </table>
+      </div>
+    </div>
+
+    {{ if .Education }}
+    <h3><i class="fas fa-graduation-cap"></i> {{ .Tr "Education path" }}</h3>
+    <table>
+      <thead><tr><th>{{ .Tr "Stage" }}</th><th>{{ .Tr "Duration" }}</th><th>{{ .Tr "Cost" }} ({{ .Currency }})</th></tr></thead>
+      <tbody>{{ range .Education }}<tr><td>{{ .Stage }}</td><td>{{ .Duration }}</td><td>{{ .Cost }}</td></tr>{{ end }}</tbody>
+    </table>
+    {{ end }}
+
+    {{ if .Qualifications }}
+    <h3><i class="fas fa-certificate"></i> {{ .Tr "Qualifications" }}</h3>
+    <table>
+      <thead><tr><th>{{ .Tr "Qualification" }}</th><th>{{ .Tr "Issuer" }}</th><th></th></tr></thead>
+      <tbody>{{ range .Qualifications }}<tr><td>{{ .Name }}</td><td class="muted">{{ .Issuer }}</td>
+        <td>{{ if .Mandatory }}<span class="risk-badge low">{{ $.Tr "Required" }}</span>{{ else }}<span class="risk-badge verylow">{{ $.Tr "Optional" }}</span>{{ end }}</td></tr>{{ end }}</tbody>
+    </table>
+    {{ end }}
+
+    <h3><i class="fas fa-passport"></i> {{ .Tr "Migration" }} ({{ .Tr "to" }} {{ .MigCountryName }})</h3>
+    {{ if .IsMigration }}
+      {{ if .MigNote }}<p class="card muted note">⚠ {{ .MigNote }}</p>{{ end }}
+      <table>
+        <thead><tr><th>{{ .Tr "Visa" }}</th><th>{{ .Tr "Details" }}</th></tr></thead>
+        <tbody>{{ range .Visas }}<tr><td><strong>{{ .Subclass }}</strong> {{ .Name }}</td><td class="muted">{{ .Desc }}</td></tr>{{ end }}</tbody>
+      </table>
+    {{ else }}
+      <p class="card muted">{{ .NonMigVisa }}</p>
+    {{ end }}
+
+    {{ if or .SuitFit .SuitUnfit }}
+    <h3><i class="fas fa-user-check"></i> {{ .Tr "Who it fits" }}</h3>
+    <div class="two-col">
+      <div class="card"><h4 class="green">✓ {{ .Tr "Fits" }}</h4><ul class="dash">{{ range .SuitFit }}<li>{{ . }}</li>{{ end }}</ul></div>
+      <div class="card"><h4 class="amber">✗ {{ .Tr "Not for" }}</h4><ul class="dash">{{ range .SuitUnfit }}<li>{{ . }}</li>{{ end }}</ul></div>
+    </div>
+    {{ end }}
+
+    {{ if or .Trend .Forecast .GrowthAreas }}
+    <h3><i class="fas fa-arrow-trend-up"></i> {{ .Tr "Career outlook" }}</h3>
+    {{ if .Trend }}<p>{{ .Trend }}</p>{{ end }}
+    {{ if .Forecast }}<p class="muted">{{ .Forecast }}</p>{{ end }}
+    {{ if .GrowthAreas }}<p class="growth-tags">{{ range .GrowthAreas }}<span class="risk-badge verylow gt">{{ . }}</span>{{ end }}</p>{{ end }}
+    {{ end }}
+
+    <h3><i class="fas fa-circle-question"></i> {{ .Tr "FAQ" }} · {{ .DispName }}</h3>
+    {{ range .FAQ }}<details class="faq-item"{{ if .Open }} open{{ end }}><summary>{{ .Q }}<i class="fas fa-chevron-down"></i></summary>
+      <div class="faq-answer"><p>{{ .A }}</p></div></details>
+    {{ end }}
+
+    <h3><i class="fas fa-database"></i> {{ .Tr "Data sources" }}</h3>
+    <p class="card muted note">{{ .SourcesBody }}</p>
+  </section>
+
+  {{ if .Poll.Has }}
+  <section class="polls" data-section="community-polls" data-occ="{{ .Poll.Slug }}" data-api="{{ .Poll.APIBase }}">
+    <h2>{{ index .Poll.Labels "title" }}</h2>
+    <p class="polls-hint muted">{{ index .Poll.Labels "hint" }}</p>
+    {{ range .Poll.Polls }}
+    <div class="poll" data-poll="{{ .Code }}" data-hasavg="{{ if .HasAvg }}1{{ else }}0{{ end }}">
+      <div class="poll-q">{{ .Q }}</div>
+      <div class="poll-opts">
+        {{ range .Options }}<button class="poll-opt" type="button" data-key="{{ .Key }}" aria-pressed="false">
+          <span class="poll-bar"></span><span class="poll-lbl">{{ .Label }}</span><span class="poll-pct"></span>
+        </button>{{ end }}
+      </div>
+      <div class="poll-meta muted"><span class="poll-total">0</span> {{ index $.Poll.Labels "votes" }}<span class="poll-avg"></span></div>
+      <p class="poll-conclusion"{{ if not .SsrConcl }} style="display:none"{{ end }}>{{ .SsrConcl }}</p>
+    </div>
+    {{ end }}
+  </section>
+
+  <script>
+    (function () {
+      var apiBase = "{{ .Poll.APIBase }}", slug = "{{ .Poll.Slug }}";
+      var labels = {{ .Poll.LabelsJSON }}, baked = {{ .Poll.BakedJSON }}, conclTpls = {{ .Poll.ConclTpls }};
+      var root = document.querySelector('.polls[data-section="community-polls"]');
+      if (!root) return;
+      var occ = root.getAttribute('data-occ');
+      var token = '';
+      try {
+        token = localStorage.getItem('poll_token') || '';
+        if (!/^[a-f0-9]{32}$/.test(token)) {
+          token = (crypto.randomUUID ? crypto.randomUUID().replace(/-/g, '') : Math.random().toString(16).slice(2).padEnd(32, '0')).slice(0, 32);
+          localStorage.setItem('poll_token', token);
+        }
+      } catch (e) {}
+      function render(code, view) {
+        var el = root.querySelector('.poll[data-poll="' + code + '"]');
+        if (!el || !view) return;
+        var counts = view.counts || {}, total = view.total || 0;
+        el.querySelectorAll('.poll-opt').forEach(function (btn) {
+          var k = btn.getAttribute('data-key'), c = counts[k] || 0;
+          var pct = total ? Math.round((c * 100) / total) : 0;
+          btn.querySelector('.poll-bar').style.width = pct + '%';
+          btn.querySelector('.poll-pct').textContent = total ? pct + '%' : '';
+          var mine = view.mine === k;
+          btn.setAttribute('aria-pressed', mine ? 'true' : 'false');
+          btn.classList.toggle('mine', mine);
+          btn.title = mine ? labels.you : '';
+        });
+        el.querySelector('.poll-total').textContent = String(total);
+        var avgEl = el.querySelector('.poll-avg');
+        if (el.getAttribute('data-hasavg') === '1' && view.avgPct != null && total) {
+          avgEl.textContent = ' · ' + labels.avg + ' ' + view.avgPct + '%';
+        } else { avgEl.textContent = ''; }
+        el.classList.toggle('voted', total > 0);
+        var cEl = el.querySelector('.poll-conclusion'), tpl = conclTpls[code];
+        if (cEl && tpl && total > 0) {
+          var pct = {};
+          Object.keys(counts).forEach(function (k) { pct[k] = Math.round((counts[k] * 100) / total); });
+          cEl.textContent = tpl
+            .replace(/\{pct\.(\w+)\}/g, function (_, k) { return String(pct[k] || 0); })
+            .replace(/\{n\}/g, String(total))
+            .replace(/\{avg\}/g, view.avgPct != null ? String(view.avgPct) : '');
+          cEl.style.display = '';
+        } else if (cEl) { cEl.style.display = 'none'; }
+      }
+      function load() {
+        fetch(apiBase + '/polls?occ=' + encodeURIComponent(occ) + '&token=' + token)
+          .then(function (r) { return r.json(); })
+          .then(function (d) { Object.keys(d.polls || {}).forEach(function (c) { render(c, d.polls[c]); }); })
+          .catch(function () {});
+      }
+      function vote(code, key, btn) {
+        btn.disabled = true;
+        fetch(apiBase + '/polls/vote', {
+          method: 'POST', headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ poll_code: code, occ_key: occ, answer_key: key, client_token: token }),
+        }).then(function (r) { return r.json(); })
+          .then(function (d) { if (d && d.poll) render(code, d.poll); })
+          .catch(function () {})
+          .finally(function () { btn.disabled = false; });
+      }
+      root.querySelectorAll('.poll').forEach(function (el) {
+        var code = el.getAttribute('data-poll');
+        el.querySelectorAll('.poll-opt').forEach(function (btn) {
+          btn.addEventListener('click', function () { vote(code, btn.getAttribute('data-key'), btn); });
+        });
+      });
+      if (baked) Object.keys(baked).forEach(function (c) { render(c, { counts: baked[c].counts, total: baked[c].total, avgPct: null, mine: null }); });
+      load();
+    })();
+  </script>
+
+  <style>
+    .polls { margin-top: 22px; }
+    .polls-hint { font-size: 13px; margin: 2px 0 12px; }
+    .poll { background: var(--card); border: 1px solid var(--border, var(--line)); border-radius: 12px; padding: 14px 16px; margin-bottom: 12px; }
+    .poll-q { font-weight: 600; margin-bottom: 10px; }
+    .poll-opts { display: flex; flex-direction: column; gap: 8px; }
+    .poll-opt { position: relative; overflow: hidden; display: flex; align-items: center; justify-content: space-between; gap: 10px; text-align: left; padding: 10px 12px; border: 1px solid var(--border, var(--line)); border-radius: 8px; background: transparent; color: inherit; font: inherit; cursor: pointer; }
+    .poll-opt:hover { border-color: var(--green); }
+    .poll-opt.mine { border-color: var(--green); box-shadow: inset 0 0 0 1px var(--green); }
+    .poll-bar { position: absolute; left: 0; top: 0; bottom: 0; width: 0; background: color-mix(in srgb, var(--green) 16%, transparent); transition: width .35s ease; z-index: 0; }
+    .poll-lbl, .poll-pct { position: relative; z-index: 1; }
+    .poll-pct { font-variant-numeric: tabular-nums; font-weight: 600; color: var(--muted); }
+    .poll-opt.mine .poll-pct { color: var(--green); }
+    .poll-meta { font-size: 13px; margin-top: 10px; }
+    .poll-conclusion { margin: 10px 0 0; padding-top: 10px; border-top: 1px dashed var(--border, var(--line)); font-size: 14px; font-weight: 600; color: var(--white, inherit); }
+  </style>
+  {{ end }}
+</div>
+
+<style>
+  .jd { padding-bottom: 20px; }
+  .breadcrumb { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; padding: 18px 0 8px; font-size: 0.85rem; color: var(--text-muted); }
+  .breadcrumb a { color: var(--text-muted); } .breadcrumb a:hover { color: var(--brand); }
+  .breadcrumb span { color: var(--text-muted); }
+  .detail-section { background: var(--surface); border: 1px solid var(--line); border-radius: 28px; padding: 32px 36px; box-shadow: var(--shadow); margin: 10px 0 32px; }
+  .detail-header { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; gap: 20px; border-bottom: 1px solid var(--line); padding-bottom: 24px; margin-bottom: 24px; }
+  .title-group h1 { font-size: clamp(1.8rem, 4vw, 2.3rem); margin: 0; letter-spacing: -0.02em; line-height: 1.15; }
+  .title-group h1 .latin { font-weight: 400; font-size: 0.62em; color: var(--text-body); margin-left: 8px; }
+  .country-pill { display: inline-block; margin-top: 8px; font-size: 0.82rem; color: var(--text-strong); background: var(--surface-tint-2); padding: 4px 16px; border-radius: 40px; }
+  .country-pill i { margin-right: 6px; color: var(--brand); }
+  .meta-pills { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px; }
+  .pill { background: var(--brand-tint); color: var(--text-strong); padding: 4px 14px; border-radius: 40px; font-size: 0.78rem; font-weight: 500; }
+  .pill i { margin-right: 5px; color: var(--brand); }
+  .risk-badge-lg { flex: none; text-align: center; padding: 12px 28px; border-radius: 60px; font-size: 2.4rem; font-weight: 700; line-height: 1.1; }
+  .risk-badge-lg small { display: block; font-size: 0.78rem; font-weight: 500; opacity: .9; margin-top: 2px; }
+  .risk-badge-lg.high, .risk-badge-lg.critical { background: var(--risk-high-bg); color: var(--risk-high-fg); }
+  .risk-badge-lg.moderate { background: var(--risk-mid-bg); color: var(--risk-mid-fg); }
+  .risk-badge-lg.low, .risk-badge-lg.verylow { background: var(--risk-low-bg); color: var(--risk-low-fg); }
+  .risk-meter { display: flex; flex-wrap: wrap; align-items: center; gap: 18px 40px; background: var(--bg-soft); border: 1px solid var(--line); padding: 18px 24px; border-radius: 20px; margin-bottom: 24px; }
+  .meter-visual { display: flex; align-items: center; gap: 14px; }
+  .meter-label { font-weight: 600; font-size: 1rem; color: var(--text-strong); }
+  .meter-bar { width: 200px; height: 12px; background: var(--surface-tint); border-radius: 40px; overflow: hidden; }
+  .meter-bar .fill { height: 100%; background: linear-gradient(90deg, #f59e0b, #dc2626); border-radius: 40px; }
+  .meter-num { font-weight: 700; font-size: 1.25rem; color: var(--text); }
+  .meter-num small { font-size: 0.8rem; font-weight: 500; color: var(--text-muted); }
+  .meter-src { font-weight: 500; font-size: 0.72rem; color: var(--text-muted); }
+  .meter-pct { flex-basis: 100%; margin: 0; font-size: 0.8rem; }
+  .risk-summary { display: flex; flex-wrap: wrap; gap: 10px; flex: 1; }
+  .rs-pill { background: var(--surface); border: 1px solid var(--line); border-radius: 40px; padding: 6px 16px; font-size: 0.82rem; color: var(--text-body); max-width: 100%; }
+  .rs-pill i { margin-right: 6px; } .rs-pill b { color: var(--text-strong); font-weight: 600; }
+  .verdict { font-size: 1.1rem; margin: 0 0 6px; }
+  .scope { font-size: 0.85rem; margin: 0 0 18px; }
+  .scores { display: grid; grid-template-columns: repeat(4, 1fr); border: 1px solid var(--line); border-radius: 14px; overflow: hidden; }
+  .scores.high, .scores.critical { background: color-mix(in srgb, var(--risk-high-bg) 45%, var(--surface)); }
+  .scores.moderate { background: color-mix(in srgb, var(--risk-mid-bg) 45%, var(--surface)); }
+  .scores.low, .scores.verylow { background: color-mix(in srgb, var(--risk-low-bg) 45%, var(--surface)); }
+  .scores > div { padding: 12px 16px; border-right: 1px solid var(--line); }
+  .scores > div:last-child { border-right: none; }
+  .scores span { display: block; color: var(--text-muted); font-size: 0.75rem; }
+  .scores b { display: block; margin-top: 2px; font-size: 1.15rem; color: var(--text-strong); }
+  .actions { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 20px; }
+  .ai-zone { display: flex; flex-direction: column; gap: 16px; margin: 8px 0 28px; }
+  .ai-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+  .ai-notes { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+  .ai-zone h4 { margin: 0 0 8px; font-size: 1rem; display: flex; align-items: center; gap: 8px; }
+  .ai-zone .amber { color: var(--risk-mid-fg); } .ai-zone .green { color: var(--risk-low); }
+  .ai-zone .moat-h { color: var(--accent-purple); }
+  .card.moat { background: var(--surface-tint-2); border-color: var(--line); }
+  .ai-zone .ai-tint-red   { background: color-mix(in srgb, var(--risk-high) 7%, var(--surface)); }
+  .ai-zone .ai-tint-green { background: color-mix(in srgb, var(--risk-low) 8%, var(--surface)); }
+  .ai-zone .ai-tint-blue  { background: color-mix(in srgb, var(--brand) 7%, var(--surface)); }
+  .ai-zone .ai-tint-slate { background: color-mix(in srgb, var(--text-muted) 8%, var(--surface)); }
+  ul.dash { list-style: none; margin: 4px 0 0; padding: 0; }
+  ul.dash li { position: relative; padding-left: 18px; margin: 5px 0; font-size: 0.92rem; }
+  ul.dash li::before { content: "▸"; position: absolute; left: 0; color: var(--brand); font-weight: 700; }
+  .disruptors { list-style: none; margin: 8px 0 0; padding: 0; display: flex; flex-direction: column; gap: 10px; }
+  .dis { border: 1px solid var(--line); border-radius: 8px; padding: 10px 12px; }
+  .dis-head { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; }
+  .dis-name { font-weight: 700; color: var(--brand); }
+  .dis-year { margin-left: auto; font-size: 0.78rem; }
+  .dis-scope { margin: 6px 0 0; font-size: 0.9rem; }
+  .adjacent { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 8px; }
+  .adj-chip { background: var(--brand-tint); color: var(--brand); padding: 5px 14px; border-radius: 40px; font-size: 0.85rem; font-weight: 500; }
+  .adj-chip:hover { background: var(--brand); color: #fff; }
+  .by-country { font-size: 1.3rem; margin: 8px 0 10px; }
+  .tabs { display: flex; flex-wrap: wrap; gap: 8px; position: sticky; top: 64px; z-index: 6; background: var(--bg); padding: 10px 0; margin-bottom: 14px; border-bottom: 1px solid var(--line); }
+  .tab { display: inline-flex; align-items: center; gap: 7px; font-size: 0.86rem; font-weight: 600; padding: 7px 14px; border-radius: 40px; border: 1px solid var(--line); background: var(--surface); color: var(--text-muted); }
+  .tab:hover { border-color: var(--brand); color: var(--brand); }
+  .tab.on { background: var(--brand); border-color: var(--brand); color: #fff; }
+  .tab .flagsvg { width: 20px; height: 13px; border-radius: 2px; display: block; box-shadow: 0 0 0 1px var(--line); }
+  .panel h3 { font-size: 1.1rem; margin: 26px 0 10px; display: flex; align-items: center; gap: 8px; }
+  .panel h3 i { color: var(--brand); }
+  .panel-stats { display: flex; flex-wrap: wrap; align-items: center; gap: 10px 16px; margin: 4px 0 8px; font-size: 0.9rem; }
+  .pstat { color: var(--text-muted); } .pstat b { color: var(--text-strong); }
+  .two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; align-items: start; }
+  table { width: 100%; border-collapse: collapse; }
+  th, td { text-align: left; padding: 9px 10px; border-bottom: 1px solid var(--line); font-size: 0.9rem; }
+  th { color: var(--text-muted); font-weight: 600; font-size: 0.78rem; text-transform: uppercase; letter-spacing: .03em; }
+  .amber { color: var(--risk-mid-fg); } .pay { font-weight: 600; }
+  .green { color: var(--risk-low); }
+  .note { font-size: 0.82rem; line-height: 1.6; }
+  .growth-tags { display: flex; flex-wrap: wrap; gap: 6px; }
+  .gt { font-weight: 500; }
+  .faq-item { border-bottom: 1px solid var(--line); }
+  .faq-item summary { list-style: none; cursor: pointer; padding: 14px 0; font-weight: 600; color: var(--text); display: flex; justify-content: space-between; gap: 12px; align-items: center; }
+  .faq-item summary::-webkit-details-marker { display: none; }
+  .faq-item summary i { color: var(--text-muted); font-size: 0.8rem; transition: transform .2s; }
+  .faq-item[open] summary i { transform: rotate(180deg); }
+  .faq-answer { padding: 0 0 16px; color: var(--text-body); font-size: 0.92rem; line-height: 1.7; }
+  .faq-answer p { margin: 0 0 10px; }
+  @media (max-width: 760px) {
+    .ai-grid, .ai-notes, .two-col { grid-template-columns: 1fr; }
+    .scores { grid-template-columns: repeat(2, 1fr); }
+    .scores > div:nth-child(2) { border-right: none; }
+    .scores > div:nth-child(-n+2) { border-bottom: 1px solid var(--line); }
+    .tabs { top: 0; }
+    .detail-section { padding: 22px 18px; border-radius: 20px; }
+    .risk-badge-lg { font-size: 2rem; padding: 10px 22px; }
+    .meter-bar { width: 140px; }
+  }
+</style>
+{{- end }}

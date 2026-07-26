@@ -1,0 +1,131 @@
+{{ define "content" -}}
+<div class="container map-wrap">
+  <header class="map-head">
+    <h1>{{ if .Global }}{{ .Tr "AI Job Risk Map — Global" }}{{ else }}{{ .Tr "AI Job Risk Map" }} — {{ .CountryName }}{{ end }}</h1>
+    <p class="subhead">{{ .HeadingSub }}</p>
+  </header>
+
+  <nav class="rm-nav" aria-label="{{ .Tr "Risk maps by region" }}">
+    <span class="rm-nav-lbl">{{ .Tr "Risk map" }}:</span>
+    {{ range .Chips }}<a class="rm-chip{{ if .IsCC }} rm-flagchip{{ end }}{{ if .On }} on{{ end }}" href="{{ .Href }}">{{ if .IsCC }}<span class="flag" aria-hidden="true">{{ .Flag }}</span>{{ end }}{{ .Label }}</a>
+    {{ end }}
+  </nav>
+
+  {{ if .HasData }}
+  <div class="rm-legend">
+    <span class="lg-label">{{ .Tr "Lower AI risk" }}</span>
+    <span class="lg-bar"></span>
+    <span class="lg-label">{{ .Tr "Higher AI risk" }}</span>
+    <span class="lg-sep">·</span>
+    <span class="muted">{{ .Total }} {{ .Tr "occupations" }} · {{ .TotalWorkers }} {{ .Tr "workers" }}</span>
+  </div>
+
+  <div class="rm-wrap">
+    <div class="rm-tip" hidden></div>
+    {{ .SVG }}
+  </div>
+  <p class="muted rm-foot">{{ .FootText }}</p>
+  {{ else }}
+  <p class="card muted rm-nodata">{{ .Tr "No workforce / exposure data available to render a map." }} · {{ .CountryName }}</p>
+  {{ end }}
+</div>
+
+<script>
+  (function () {
+    var M = {{ .MetaJSON }}, T = {{ .TJSON }};
+    var wrap = document.querySelector('.rm-wrap');
+    if (!wrap) return;
+    var svg = wrap.querySelector('.rm-svg');
+    var tip = wrap.querySelector('.rm-tip');
+    var curr = -1, hi = [];
+    function clearHi() { hi.forEach(function (n) { n.classList.remove('on'); }); hi = []; }
+    function fmt(n) { return Number(n).toLocaleString('en'); }
+    function salary(v, cur) {
+      var n = Number(v);
+      try { return new Intl.NumberFormat('en', { style: 'currency', currency: cur || 'USD', maximumFractionDigits: 0 }).format(n); }
+      catch (e) { return fmt(Math.round(n)) + ' ' + (cur || ''); }
+    }
+    function show(i, evt) {
+      var m = M[i]; if (!m) return;
+      if (i !== curr) {
+        clearHi();
+        hi = Array.prototype.slice.call(svg.querySelectorAll('rect[data-i="' + i + '"]'));
+        hi.forEach(function (n) { n.classList.add('on'); });
+        tip.innerHTML =
+          '<div class="rt-name">' + m.n + '</div>' +
+          '<div class="rt-row"><span>' + T.category + '</span><b>' + m.c + '</b></div>' +
+          '<div class="rt-row"><span>' + T.workforce + '</span><b>' + fmt(m.w) + '</b></div>' +
+          '<div class="rt-row"><span>' + T.aiRisk + '</span><b style="color:' + m.col + '">' + m.r + ' / 10</b></div>' +
+          (m.a != null ? '<div class="rt-row"><span>' + T.avgSalary + '</span><b>' + salary(m.a, m.cur) + '</b></div>' : '') +
+          '<div class="rt-hint">' + T.clickOpen + ' →</div>';
+        tip.hidden = false;
+        curr = i;
+      }
+      var wr = wrap.getBoundingClientRect();
+      var x = evt.clientX - wr.left, y = evt.clientY - wr.top;
+      var tw = tip.offsetWidth, th = tip.offsetHeight;
+      x = Math.min(x + 14, wr.width - tw - 6);
+      y = Math.max(6, y - th - 12);
+      tip.style.left = x + 'px'; tip.style.top = y + 'px';
+    }
+    function hide() { tip.hidden = true; clearHi(); curr = -1; }
+    if (!svg) return;
+    svg.addEventListener('mousemove', function (e) {
+      var t = e.target;
+      if (t && t.tagName === 'rect' && t.hasAttribute('data-i')) show(+t.getAttribute('data-i'), e);
+      else hide();
+    });
+    svg.addEventListener('mouseleave', hide);
+    svg.addEventListener('click', function (e) {
+      var t = e.target;
+      if (t && t.tagName === 'rect' && t.hasAttribute('data-i')) {
+        var m = M[+t.getAttribute('data-i')]; if (m) location.href = m.u;
+      }
+    });
+  })();
+</script>
+
+<style>
+  .map-wrap { padding-top: 20px; }
+  .map-head { margin-bottom: 16px; }
+  .map-head h1 { font-size: 2rem; margin: 0 0 8px; }
+  .subhead { color: var(--text-muted); max-width: 760px; margin: 0; }
+  .rm-nav { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; margin-bottom: 10px; }
+  .rm-nav-lbl { font-size: 12px; color: var(--muted); margin-right: 2px; }
+  .rm-chip { display: inline-flex; align-items: center; gap: 4px; font-size: 11px; font-weight: 600;
+    color: var(--muted); padding: 2px 8px; border: 1px solid var(--line); border-radius: 999px; }
+  .rm-chip:hover { color: var(--white); border-color: var(--green); }
+  .rm-chip.on { color: var(--green); border-color: var(--green); font-weight: 700; }
+  .rm-flagchip { padding: 2px 8px 2px 6px; }
+  .rm-chip .flag :global(svg), .rm-chip .flag svg { width: 16px; height: 11px; border-radius: 2px; display: block;
+    box-shadow: 0 0 0 1px var(--line); }
+  .rm-legend { display: flex; align-items: center; gap: 10px; flex-wrap: wrap;
+    font-size: 13px; color: var(--muted); margin-bottom: 10px; }
+  .rm-legend .lg-bar { width: 180px; height: 12px; border-radius: 999px;
+    background: linear-gradient(90deg, rgb(16,185,129), rgb(245,158,11), rgb(239,68,68)); }
+  .rm-legend .lg-label { font-weight: 600; color: var(--white); }
+  .rm-legend .lg-sep { color: var(--line); }
+  .rm-wrap { position: relative; background: var(--card); border: 1px solid var(--line);
+    border-radius: 12px; padding: 10px; }
+  .rm-svg { width: 100%; height: auto; display: block; }
+  .rm-tiles rect { cursor: pointer; stroke: var(--card); stroke-width: 1px; fill-opacity: .7; }
+  .rm-tiles rect.on { stroke: var(--white); stroke-width: 2px; fill-opacity: .92; }
+  .rm-outline { pointer-events: none; }
+  .rm-land { fill: #0b2447; fill-opacity: .24; }
+  .rm-coast { fill: none; stroke: #1b2b4a; stroke-opacity: .3; stroke-width: 1.1; stroke-linejoin: round; }
+  :root[data-theme="dark"] .rm-land { fill: #aab6d0; fill-opacity: .16; }
+  :root[data-theme="dark"] .rm-coast { stroke: #ffffff; stroke-opacity: .18; }
+  .rm-cats text { fill: #fff; font-size: 12.5px; font-weight: 700; opacity: .95;
+    paint-order: stroke; stroke: rgba(0,0,0,.6); stroke-width: 2.4px; pointer-events: none; }
+  .rm-tip { position: absolute; z-index: 20; pointer-events: none; min-width: 180px;
+    background: var(--card); border: 1px solid var(--line); border-radius: 10px;
+    padding: 9px 11px; box-shadow: 0 8px 24px rgba(0,0,0,.3); font-size: 13px; }
+  .rm-tip .rt-name { font-weight: 700; margin-bottom: 5px; color: var(--white); }
+  .rm-tip .rt-row { display: flex; justify-content: space-between; gap: 16px; color: var(--muted); }
+  .rm-tip .rt-row span { margin-right: 12px; }
+  .rm-tip .rt-row b { color: var(--white); font-weight: 600; }
+  .rm-tip .rt-hint { margin-top: 6px; color: var(--green); font-size: 12px; }
+  .rm-foot { font-size: 12px; margin-top: 10px; color: var(--muted); }
+  .rm-nodata { padding: 20px; }
+</style>
+{{- end }}

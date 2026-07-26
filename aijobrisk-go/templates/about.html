@@ -1,0 +1,16 @@
+{{ define "content" -}}
+<div class="container prose">
+  <h1>{{ .Title }}</h1>
+  <p class="lead">{{ .Lead }}</p>
+  {{ range .Sections }}<section><h2>{{ .H }}</h2>{{ range .B }}<p>{{ . }}</p>{{ end }}</section>{{ end }}
+  <p class="muted note">Related: <a href="{{ .HrefMethodology }}">how the AI Exposure Index is computed</a> · <a href="{{ .HrefRankings }}">rankings</a> · <a href="{{ .HrefIndustries }}">industries</a>.</p>
+</div>
+<style>
+  .prose { max-width: 820px; padding: 36px 0 24px; }
+  .prose h1 { font-size: 2.1rem; margin: 0 0 12px; }
+  .prose .lead { font-size: 1.12rem; color: var(--text-body); margin: 0 0 8px; }
+  .prose h2 { font-size: 1.25rem; margin: 28px 0 8px; }
+  .prose p { color: var(--text-body); margin: 0 0 10px; line-height: 1.7; }
+  .note { font-size: 0.85rem; margin-top: 24px; }
+</style>
+{{- end }}

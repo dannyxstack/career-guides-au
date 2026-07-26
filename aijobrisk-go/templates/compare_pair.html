@@ -1,0 +1,136 @@
+{{ define "content" -}}
+<div class="container cmp">
+  <nav class="breadcrumb"><a href="{{ .WithL "/" }}">{{ .Tr "Home" }}</a> <span>/</span> <a href="{{ .HrefCompareHub }}">{{ .Tr "Compare" }}</a> <span>/</span> {{ .Na }} {{ .Tr "vs" }} {{ .Nb }}</nav>
+
+  <header class="cmp-header">
+    <h1>{{ .Na }} {{ .Tr "vs" }} {{ .Nb }}: {{ .Tr "AI Risk Comparison" }}</h1>
+    <div class="score-row">
+      {{ range .Sides }}<a class="score-card" href="{{ .Href }}">
+        <div class="occ-label"><i class="fas {{ .CatIcon }}"></i> {{ .Name }}</div>
+        <div class="ai-risk-number">{{ .Exp }}<span class="out-of">/10</span></div>
+        <span class="severity-tag sev-{{ .SevCls }}">{{ .BandLabel }} {{ $.Tr "risk" }}</span>
+        <div class="exposure-line">
+          {{ if .HasAioe }}{{ $.Tr "AI exposure percentile" }}: <b>{{ .Aioe }}/100</b>{{ end }}
+          {{ if .HasMoat }} · {{ $.Tr "Human moat" }}: <b>{{ .Moat }}/10</b>{{ end }}
+          <span class="ctry"> · {{ .Country }}</span>
+        </div>
+      </a>{{ end }}
+    </div>
+  </header>
+
+  <div class="verdict">{{ .Verdict }}</div>
+
+  <section>
+    <h2 class="section-title">{{ .Tr "Tasks most exposed to AI" }}</h2>
+    <div class="two-col">
+      {{ range .Sides }}<div class="col-card sec-tint-red">
+        <h3 class="c-red"><i class="fas fa-circle-minus"></i> {{ .Name }}</h3>
+        {{ if .Replaced }}<ul class="task-list">{{ range .Replaced }}<li>{{ . }}</li>{{ end }}</ul>{{ else }}<p class="muted small">{{ $.NoTaskData }}</p>{{ end }}
+      </div>{{ end }}
+    </div>
+    <p class="illustrative-note">{{ .Tr "Task lists come from the occupation's AI-era analysis; headline scores from cited research." }}</p>
+  </section>
+
+  <section>
+    <h2 class="section-title">{{ .Tr "Where AI augments" }}</h2>
+    <div class="two-col">
+      {{ range .Sides }}<div class="col-card sec-tint-green">
+        <h3 class="c-green"><i class="fas fa-circle-plus"></i> {{ .Name }}</h3>
+        {{ if .Aug }}<ul class="task-list">{{ range .Aug }}<li>{{ . }}</li>{{ end }}</ul>{{ else }}<p class="muted small">{{ $.NoTaskData }}</p>{{ end }}
+      </div>{{ end }}
+    </div>
+  </section>
+
+  <section>
+    <h2 class="section-title">{{ .Tr "Human moat" }}</h2>
+    <div class="two-col">
+      {{ range .Sides }}<div class="col-card sec-tint-blue">
+        <h3><i class="fas fa-shield-halved" style="color:var(--brand)"></i> {{ .Name }} · {{ $.Tr "Moat" }}: {{ if .HasMoat }}{{ .Moat }}/10{{ else }}—{{ end }}</h3>
+        {{ if .Moatl }}<ul class="task-list">{{ range .Moatl }}<li>{{ . }}</li>{{ end }}</ul>{{ end }}
+        {{ if .HasMoatBar }}<div class="moat-bar">
+          <span class="mb-lbl">{{ .MoatLbl }}</span>
+          <div class="moat-bar-bg"><div class="moat-bar-fill{{ if .MoatDeep }} deep{{ end }}{{ if .MoatShallow }} shallow{{ end }}" style="width:{{ .MoatWidth }}%"></div></div>
+          <span class="mb-val">{{ .MoatVal }}</span>
+        </div>{{ end }}
+      </div>{{ end }}
+    </div>
+  </section>
+
+  <section>
+    <h2 class="section-title">{{ .Tr "Other dimensions" }}</h2>
+    <div class="dimensions-grid">
+      {{ range .Sides }}<div class="dimension-card">
+        <h3>{{ .Name }}</h3>
+        <div class="dim-row"><span class="dim-label">{{ $.Tr "Avg. salary" }}</span><span class="dim-value"><strong>{{ .Salary }}</strong></span></div>
+        <div class="dim-row"><span class="dim-label">{{ $.Tr "Education path" }}</span><span class="dim-value">{{ .Edu }}</span></div>
+        <div class="dim-row"><span class="dim-label">{{ $.Tr "Certification barrier" }}</span><span class="dim-value">{{ .Cert }}</span></div>
+        <div class="dim-row"><span class="dim-label">{{ $.Tr "Future prospect" }}</span><span class="dim-value">{{ .Prospect }}</span></div>
+        <div class="dim-row"><span class="dim-label">{{ $.Tr "Job demand" }}</span><span class="dim-value">{{ .Demand }}</span></div>
+        <div class="dim-row"><span class="dim-label">{{ $.Tr "Overall score" }}</span><span class="dim-value">{{ .Overall }}</span></div>
+      </div>{{ end }}
+    </div>
+  </section>
+
+  <section class="faq-section">
+    <h2 class="section-title">{{ .Tr "Frequently asked questions" }}</h2>
+    {{ range .FAQ }}<details><summary>{{ .Q }}</summary><p>{{ .A }}</p></details>{{ end }}
+  </section>
+</div>
+
+<style>
+  .cmp { padding-bottom: 20px; }
+  .breadcrumb { display: flex; gap: 6px; align-items: center; padding: 18px 0 12px; font-size: 0.85rem; color: var(--text-muted); }
+  .breadcrumb a { color: var(--brand); } .breadcrumb a:hover { text-decoration: underline; }
+  .cmp-header { margin-bottom: 28px; }
+  .cmp-header h1 { font-size: clamp(1.7rem, 4vw, 2.25rem); font-weight: 700; letter-spacing: -0.02em; line-height: 1.15; margin: 0 0 20px; }
+  .score-row { display: flex; gap: 16px; flex-wrap: wrap; }
+  .score-card { flex: 1 1 240px; min-width: 200px; background: var(--surface); border: 1px solid var(--line); border-radius: 16px; padding: 22px 26px; box-shadow: var(--shadow); color: var(--text); transition: .12s; }
+  .score-card:hover { border-color: var(--brand); }
+  .occ-label { font-size: 1.02rem; font-weight: 600; color: var(--text-strong); margin-bottom: 8px; }
+  .occ-label i { color: var(--brand); margin-right: 6px; }
+  .ai-risk-number { font-size: 2.25rem; font-weight: 700; line-height: 1; display: flex; align-items: baseline; gap: 8px; }
+  .ai-risk-number .out-of { font-size: 1.05rem; font-weight: 400; color: var(--text-muted); }
+  .severity-tag { display: inline-block; margin-top: 8px; padding: 3px 10px; border-radius: 6px; font-size: 0.68rem; font-weight: 700; text-transform: uppercase; letter-spacing: .04em; }
+  .sev-high { background: var(--risk-high-bg); color: var(--risk-high-fg); }
+  .sev-mid { background: var(--risk-mid-bg); color: var(--risk-mid-fg); }
+  .sev-low { background: var(--risk-low-bg); color: var(--risk-low-fg); }
+  .exposure-line { font-size: 0.8rem; color: var(--text-muted); margin-top: 10px; }
+  .exposure-line b { color: var(--text-strong); font-weight: 600; }
+  .exposure-line .ctry { color: var(--text-muted); }
+  .verdict { background: var(--surface-tint-2); border-left: 4px solid var(--brand); padding: 20px 26px; border-radius: 10px; margin-bottom: 40px; font-size: 1.05rem; line-height: 1.6; color: var(--text-strong); }
+  .section-title { font-size: 1.3rem; font-weight: 600; margin: 0 0 18px; letter-spacing: -0.01em; }
+  section { margin-bottom: 40px; }
+  .two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; }
+  .dimensions-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; }
+  .col-card, .dimension-card { background: var(--surface); border: 1px solid var(--line); border-radius: 16px; padding: 20px 22px; box-shadow: var(--shadow); }
+  .col-card.sec-tint-red   { background: color-mix(in srgb, var(--risk-high) 7%, var(--surface)); }
+  .col-card.sec-tint-green { background: color-mix(in srgb, var(--risk-low) 8%, var(--surface)); }
+  .col-card.sec-tint-blue  { background: color-mix(in srgb, var(--brand) 7%, var(--surface)); }
+  .col-card h3, .dimension-card h3 { font-size: 1.02rem; font-weight: 600; margin: 0 0 12px; color: var(--text-strong); display: flex; align-items: center; gap: 8px; }
+  .c-red { color: var(--risk-mid-fg) !important; } .c-red i { color: var(--risk-high); }
+  .c-green i { color: var(--risk-low); }
+  .task-list { list-style: none; margin: 0; padding: 0; }
+  .task-list li { position: relative; padding-left: 18px; margin: 7px 0; font-size: 0.88rem; color: var(--text-body); line-height: 1.5; }
+  .task-list li::before { content: "▸"; position: absolute; left: 0; color: var(--brand); font-weight: 700; }
+  .illustrative-note { font-size: 0.72rem; color: var(--text-muted); font-style: italic; margin-top: 10px; text-align: right; }
+  .moat-bar { display: flex; align-items: center; gap: 10px; margin-top: 14px; }
+  .mb-lbl { font-size: 0.8rem; color: var(--text-muted); min-width: 62px; }
+  .moat-bar-bg { flex: 1; height: 12px; background: var(--surface-tint); border-radius: 20px; overflow: hidden; }
+  .moat-bar-fill { height: 100%; border-radius: 20px; background: var(--risk-mid); }
+  .moat-bar-fill.deep { background: var(--brand); }
+  .moat-bar-fill.shallow { background: var(--risk-high); }
+  .mb-val { font-size: 0.85rem; font-weight: 600; color: var(--text-strong); min-width: 32px; text-align: right; }
+  .dim-row { display: flex; justify-content: space-between; gap: 12px; padding: 9px 0; border-bottom: 1px solid var(--line); font-size: 0.86rem; }
+  .dim-row:last-child { border-bottom: none; }
+  .dim-label { color: var(--text-muted); }
+  .dim-value { color: var(--text-strong); font-weight: 500; text-align: right; }
+  .faq-section details { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 14px 20px; margin-bottom: 10px; box-shadow: var(--shadow); }
+  .faq-section summary { font-weight: 600; cursor: pointer; color: var(--text-strong); font-size: 0.95rem; list-style: none; display: flex; justify-content: space-between; align-items: center; gap: 12px; }
+  .faq-section summary::-webkit-details-marker { display: none; }
+  .faq-section summary::after { content: "+"; font-size: 1.3rem; color: var(--text-muted); line-height: 1; }
+  .faq-section details[open] summary::after { content: "–"; }
+  .faq-section details p { margin: 10px 0 0; color: var(--text-body); font-size: 0.88rem; line-height: 1.6; }
+  .small { font-size: 0.85rem; }
+  @media (max-width: 700px) { .two-col, .dimensions-grid { grid-template-columns: 1fr; } }
+</style>
+{{- end }}

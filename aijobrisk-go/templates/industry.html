@@ -1,0 +1,124 @@
+{{ define "content" -}}
+<div class="container">
+  <nav class="breadcrumb"><a href="{{ .WithL "/" }}">{{ .Tr "Home" }}</a> <span>›</span> <a href="{{ .HrefIndustriesCC }}">{{ .Tr "Industries" }}</a> <span>›</span> <span>{{ .SecName }}</span></nav>
+
+  <section class="hero">
+    <div class="hero-text">
+      <h1><i class="fas {{ .SecIcon }}"></i> {{ .SecName }}</h1>
+      <div class="hero-stats">
+        <span><strong>{{ .RowsLen }}</strong> {{ .Tr "occupations" }}</span>
+        <span><strong>{{ .CountryName }}</strong></span>
+      </div>
+    </div>
+    <label class="country-select">
+      <i class="fas fa-globe"></i>
+      <select onchange="if(this.value)window.location.href=this.value;">
+        {{ range .CountryOpts }}<option value="{{ .Href }}"{{ if .On }} selected{{ end }}>{{ .Name }}</option>{{ end }}
+      </select>
+    </label>
+  </section>
+
+  <dl class="col-legend">
+    <div><dt>{{ .Tr "AI exposure" }}</dt><dd>{{ .Tr "Generative-AI task-exposure percentile (0–100); higher = more exposed." }} <a href="{{ .HrefMethodology }}">{{ .Tr "Methodology" }} →</a></dd></div>
+    <div><dt>{{ .Tr "Industry share" }}</dt><dd>{{ .Tr "Share of this occupation's employment that sits within this industry (many-to-many mapping)." }}</dd></div>
+    <div><dt>{{ .Tr "Avg salary" }}</dt><dd>{{ .Tr "Average annual salary (local currency), from official labour statistics." }} · {{ .CountryName }}</dd></div>
+    <div><dt>{{ .Tr "Workforce" }}</dt><dd>{{ .Tr "Estimated number of people employed in the occupation nationally." }}</dd></div>
+  </dl>
+
+  <section class="table-section card">
+    <div class="table-wrapper">
+      <table id="occ-table">
+        <thead>
+          <tr>
+            <th data-key="name" class="active-sort">{{ .Tr "Occupation" }} <span class="aff">▼</span></th>
+            <th data-key="aioe" class="num">{{ .Tr "AI exposure" }} <span class="aff">▲</span></th>
+            <th data-key="share" class="num">{{ .Tr "Industry share" }} <span class="aff">▲</span></th>
+            <th data-key="salary" class="num">{{ .Tr "Avg salary" }} <span class="aff">▲</span></th>
+            <th data-key="workforce" class="num">{{ .Tr "Workforce" }} <span class="aff">▲</span></th>
+          </tr>
+        </thead>
+        <tbody>
+          {{ range .Rows }}<tr data-name="{{ .Name }}" data-aioe="{{ .AioeVal }}" data-share="{{ .ShareVal }}" data-salary="{{ .SalaryVal }}" data-workforce="{{ .WorkforceVal }}">
+            <td class="occ-name"><a href="{{ .Href }}">{{ .Name }}</a></td>
+            <td class="num"><div class="risk-cell">{{ .Aioe }} {{ if .HasAioe }}<span class="risk-badge {{ .BandCls }}">{{ .BandLabel }}</span>{{ end }}</div></td>
+            <td class="num">{{ .Share }}</td>
+            <td class="num">{{ .Salary }}</td>
+            <td class="num">{{ .Workforce }}</td>
+          </tr>{{ end }}
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <div class="footnote card">
+    <strong>{{ .Tr "About the data:" }}</strong> {{ .Tr "Occupation–industry mapping from the BLS National Employment Matrix. AI-exposure scores based on ILO Working Paper 140 and Eloundou et al. (OpenAI). An occupation may appear in several industries — exposure reflects the occupation overall, not industry-specific. Industry share = the occupation's employment share within this industry." }}
+  </div>
+</div>
+
+<script>
+  (function () {
+    var table = document.getElementById('occ-table');
+    if (!table) return;
+    var tbody = table.querySelector('tbody');
+    var ths = table.querySelectorAll('th');
+    var state = { key: 'workforce', dir: -1 };
+    function sort(key) {
+      var dir = state.key === key ? -state.dir : (key === 'name' ? 1 : -1);
+      state = { key: key, dir: dir };
+      var rows = Array.prototype.slice.call(tbody.querySelectorAll('tr'));
+      rows.sort(function (a, b) {
+        var av = a.getAttribute('data-' + key), bv = b.getAttribute('data-' + key);
+        if (key === 'name') return dir * av.localeCompare(bv);
+        return dir * (parseFloat(av) - parseFloat(bv));
+      });
+      rows.forEach(function (r) { tbody.appendChild(r); });
+      ths.forEach(function (th) {
+        th.classList.toggle('active-sort', th.getAttribute('data-key') === key);
+        var aff = th.querySelector('.aff');
+        if (aff) aff.textContent = th.getAttribute('data-key') === key ? (dir < 0 ? '▼' : '▲') : '▲';
+      });
+    }
+    ths.forEach(function (th) { th.addEventListener('click', function () { sort(th.getAttribute('data-key')); }); });
+  })();
+</script>
+
+<style>
+  .breadcrumb { display: flex; gap: 6px; align-items: center; padding: 18px 0 8px; font-size: 0.85rem; color: var(--text-muted); }
+  .breadcrumb a { color: var(--text-muted); } .breadcrumb a:hover { color: var(--brand); }
+  .hero { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; gap: 16px; padding: 6px 0 22px; }
+  .hero-text h1 { font-size: 1.9rem; margin: 0; }
+  .hero-text h1 i { color: var(--brand); margin-right: 8px; }
+  .hero-stats { display: flex; gap: 20px; margin-top: 10px; color: var(--text-body); font-size: 0.95rem; }
+  .hero-stats strong { color: var(--text-strong); }
+  .country-select { display: inline-flex; align-items: center; gap: 8px; background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 8px 14px; box-shadow: var(--shadow); }
+  .country-select i { color: var(--text-muted); }
+  .country-select select { border: none; background: transparent; font: inherit; color: var(--text-strong); font-weight: 500; cursor: pointer; outline: none; }
+  .col-legend { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 4px 22px; margin: 4px 0 14px; padding: 12px 16px; background: var(--surface-tint-2); border: 1px solid var(--line); border-radius: 12px; font-size: 0.78rem; line-height: 1.5; }
+  .col-legend div { display: flex; gap: 6px; }
+  .col-legend dt { flex: none; font-weight: 700; color: var(--text-strong); white-space: nowrap; }
+  .col-legend dt::after { content: "—"; margin-left: 4px; color: var(--text-muted); font-weight: 400; }
+  .col-legend dd { margin: 0; color: var(--text-muted); }
+  .col-legend a { color: var(--brand); white-space: nowrap; }
+  .col-legend a:hover { text-decoration: underline; }
+  .table-section { padding: 0; margin-bottom: 22px; }
+  table { width: 100%; border-collapse: collapse; font-size: 0.92rem; }
+  th { position: sticky; top: 64px; z-index: 5; background: var(--surface-tint-2); color: var(--text-strong); font-weight: 600; text-align: left; padding: 13px 12px; border-bottom: 2px solid var(--line); font-size: 0.74rem; text-transform: uppercase; letter-spacing: .03em; cursor: pointer; white-space: nowrap; user-select: none; }
+  th.num { text-align: right; }
+  th.active-sort { color: var(--brand); }
+  th .aff { color: var(--text-muted); font-size: 0.7rem; margin-left: 4px; }
+  th.active-sort .aff { color: var(--brand); }
+  td { padding: 11px 12px; border-bottom: 1px solid var(--line); }
+  td.num { text-align: right; font-variant-numeric: tabular-nums; color: var(--text-body); }
+  tr:last-child td { border-bottom: none; }
+  .occ-name a { color: var(--text-strong); font-weight: 500; }
+  .occ-name a:hover { color: var(--brand); }
+  .risk-cell { display: inline-flex; align-items: center; gap: 8px; justify-content: flex-end; }
+  .footnote { font-size: 0.85rem; color: var(--text-muted); line-height: 1.6; margin-bottom: 20px; }
+  .footnote strong { color: var(--text-strong); }
+  @media (max-width: 680px) {
+    .table-wrapper { overflow-x: auto; }
+    table { min-width: 620px; }
+    th { position: static; }
+  }
+</style>
+{{- end }}

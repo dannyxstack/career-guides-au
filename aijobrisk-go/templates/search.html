@@ -1,0 +1,44 @@
+{{ define "content" -}}
+<div class="container search-page">
+  <h1>{{ if .Q }}{{ .Tr "Results for" }} “{{ .Q }}”{{ else }}{{ .Tr "Browse occupations" }}{{ end }}</h1>
+  <form class="search-box" action="{{ .HrefSearch }}" method="get" role="search">
+    <input type="text" name="q" value="{{ .Q }}" placeholder="{{ .Tr "Search a job, e.g. \"Accountant\"…" }}" aria-label="{{ .Tr "Search occupations" }}" autofocus />
+    <button type="submit"><i class="fas fa-search"></i> {{ .Tr "Search" }}</button>
+  </form>
+  <p class="muted count">{{ .Count }}{{ if .CountPlus }}+{{ end }} {{ .Tr "occupations" }}{{ if .Q }} {{ .Tr "matching" }} “{{ .Q }}”{{ else }} {{ .Tr "by workforce" }}{{ end }}</p>
+
+  {{ if not .Results }}
+    <p class="card muted">{{ .Tr "No occupations found. Try a different term." }}</p>
+  {{ else }}
+    <div class="res-grid">
+      {{ range .Results }}<a class="res-card" href="{{ .Href }}">
+        <div class="rc-name">{{ .Name }}</div>
+        <div class="rc-cat"><i class="fas {{ .CatIcon }}"></i> {{ .CatName }}</div>
+        <div class="rc-foot">
+          {{ if .HasAioe }}<span class="risk-badge {{ .BandCls }}">{{ $.Tr "AI exposure" }} {{ .Aioe }} · {{ .BandLabel }}</span>{{ end }}
+          <span class="rc-flags">{{ range .Flags }}<span class="flag">{{ . }}</span>{{ end }}</span>
+        </div>
+      </a>{{ end }}
+    </div>
+  {{ end }}
+</div>
+
+<style>
+  .search-page { padding: 32px 0 20px; }
+  .search-page h1 { font-size: 1.9rem; margin: 0 0 18px; }
+  .search-box { max-width: 620px; display: flex; background: var(--surface); border-radius: 60px; box-shadow: 0 8px 24px rgba(37,99,235,.1); border: 1px solid var(--line); overflow: hidden; }
+  .rc-cat i { margin-right: 4px; }
+  .search-box input { flex: 1; border: none; padding: 14px 22px; font-size: 1rem; outline: none; color: var(--text); }
+  .search-box button { background: var(--brand); border: none; color: #fff; padding: 0 28px; font-weight: 600; cursor: pointer; white-space: nowrap; }
+  .search-box button:hover { background: var(--brand-hover); }
+  .count { margin: 14px 0 18px; font-size: 0.9rem; }
+  .res-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 14px; padding-bottom: 24px; }
+  .res-card { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 16px 18px; box-shadow: var(--shadow); color: var(--text); transition: .12s; }
+  .res-card:hover { border-color: var(--brand); transform: translateY(-2px); }
+  .rc-name { font-weight: 600; font-size: 1rem; }
+  .rc-cat { font-size: 0.8rem; color: var(--text-muted); margin: 2px 0 12px; }
+  .rc-foot { display: flex; align-items: center; justify-content: space-between; gap: 10px; flex-wrap: wrap; }
+  .rc-flags { display: inline-flex; gap: 3px; }
+  .rc-flags .flagsvg { width: 18px; height: 12px; border-radius: 2px; box-shadow: 0 0 0 1px var(--line); display: block; }
+</style>
+{{- end }}

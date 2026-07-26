@@ -33,3 +33,6 @@ downloads/
 # job-treemap 构建产物（可由 job-treemap/build.py 重建，勿入库）
 job-treemap/dist/
 job-treemap/dist.zip
+
+# 旧 Astro 版 aijobrisk 已弃用，由 aijobrisk-go 取代；本地保留、勿入库
+aijobrisk/

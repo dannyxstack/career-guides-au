@@ -1,0 +1,378 @@
+package web
+
+import (
+	"fmt"
+	"html/template"
+	"net/http"
+	"strings"
+
+	"aijobrisk/internal/data"
+	"aijobrisk/internal/i18n"
+	"aijobrisk/internal/model"
+)
+
+const networkAssessment = "https://ismyjobaiproof.com"
+
+type scoreVM struct{ Label, Val string }
+type disVM struct {
+	Name, URL, Type, LevelCls, Level, Year, Scope string
+	HasURL                                        bool
+}
+type adjVM struct{ Name, Href string }
+type tabVM struct {
+	Flag template.HTML
+	Name, Href string
+	On         bool
+}
+type salRow struct{ Label, Pay, Note string }
+type eduRow struct{ Stage, Duration, Cost string }
+type qualRow struct {
+	Name, Issuer string
+	Mandatory    bool
+}
+type visaRow struct{ Subclass, Name, Desc string }
+type faqRow struct {
+	Q, A string
+	Open bool
+}
+type badgeVM struct{ Cls, Text string }
+type listCard struct {
+	Title string
+	Items []string
+}
+
+// JobVM 职业详情视图模型。
+type JobVM struct {
+	*Ctx
+	DispName, Nm  string
+	ShowLatin     bool
+	DataUpdated   string
+	CatName       string
+	CatURL        string
+	CodeLabel     string
+	OccCodeType   string
+	CountriesLen  int
+	HasHeadline   bool
+	HeadlinePct   int
+	BandCls       string
+	BandLabelTr   string
+	// meter
+	HasAioe    bool
+	MeterUnit  string
+	FirstReplaced, FirstAugmented, FirstMoat string
+	AioePct    int
+	Verdict    string
+	// scores
+	ScoresCls string
+	Scores    []scoreVM
+	Assessment, MapURL string
+	// AI zone
+	HasAI       bool
+	AICards     []listCard // 4 tint cards（replaced/augmented/moat/skills）
+	EntryNote   string
+	UpgradePath string
+	Disruptors  []disVM
+	Adjacent    []adjVM
+	// country
+	Tabs        []tabVM
+	// active panel
+	OverallScore string
+	Workforce    string
+	AvgSalary    string
+	MigBadge     badgeVM
+	Currency     string
+	RadarSVG     template.HTML
+	Salaries     []salRow
+	Education    []eduRow
+	Qualifications []qualRow
+	MigCountryName string
+	IsMigration    int
+	MigNote        string
+	Visas          []visaRow
+	NonMigVisa     string
+	SuitFit, SuitUnfit []string
+	Trend, Forecast    string
+	GrowthAreas        []string
+	FAQ                []faqRow
+	SourcesBody        string
+	Poll               PollWidget
+}
+
+func f1(v *float64) string {
+	if v == nil {
+		return "—"
+	}
+	return fmt.Sprintf("%.1f/10", *v)
+}
+
+// Job 职业详情处理器。bare 形如 /jobs/{slug} 或 /jobs/{slug}/{cc}。
+func Job(w http.ResponseWriter, ctx *Ctx, slug, country string) {
+	CL := ctx.CL
+	group := data.JobBySlug(slug)
+	if group == nil {
+		notFound(w, ctx)
+		return
+	}
+	rep := data.OccFull(group.Rep)
+	ai := rep.AI
+	nm := rep.NameEn
+	dispName := data.Name(rep, CL)
+
+	countries := make([]*model.Occ, len(group.Countries))
+	for i, o := range group.Countries {
+		countries[i] = data.OccFull(o)
+	}
+	active := countries[0]
+	if country != "" {
+		for _, o := range countries {
+			if o.Country == country {
+				active = o
+				break
+			}
+		}
+	}
+	cc := active.Country
+	cur := active.Currency
+	if cur == "" {
+		cur = data.CurrencyOf(cc)
+	}
+
+	// 风险刻度
+	var exposure, moat, entry, upside, aioe *float64
+	if ai != nil {
+		exposure = ai.AutomationExposure.Ptr()
+		moat = ai.HumanMoat.Ptr()
+		entry = ai.EntryRisk.Ptr()
+		upside = ai.AIUpside.Ptr()
+		aioe = ai.AioePct.Ptr()
+	}
+	var band data.Band
+	if aioe != nil {
+		band = data.ExpBand(aioe)
+	} else {
+		band = data.RiskBand10(exposure)
+	}
+	hasHeadline := false
+	headlinePct := 0
+	if aioe != nil {
+		hasHeadline, headlinePct = true, int(*aioe+0.5)
+	} else if exposure != nil {
+		hasHeadline, headlinePct = true, int(*exposure*10+0.5)
+	}
+
+	verdict := data.Tr("There is not enough evidence for a reliable conclusion yet.", CL)
+	if ai != nil {
+		verdict = data.Tr(ai.VerdictZh, CL)
+	}
+	first := func(arr []string) string {
+		if len(arr) > 0 {
+			return data.Tr(arr[0], CL)
+		}
+		return ""
+	}
+
+	vm := &JobVM{
+		Ctx: ctx, DispName: dispName, Nm: nm, ShowLatin: dispName != nm,
+		DataUpdated: DataUpdated, CatName: data.Tr(rep.Category, CL), CatURL: i18n.HrefIndustries(ctx.Loc, ""),
+		OccCodeType: active.OccCodeType, CountriesLen: len(countries),
+		HasHeadline: hasHeadline, HeadlinePct: headlinePct, BandCls: band.Cls, BandLabelTr: data.Tr(band.Label, CL),
+		Verdict: verdict, Assessment: networkAssessment, MapURL: i18n.HrefMap(ctx.Loc, ""),
+		Currency: cur, MigCountryName: data.CountryName(cc, CL), IsMigration: active.IsMigration,
+		SourcesBody: data.SourcesBody(cc, CL),
+	}
+	if code := active.AnzscoCode; code != "" {
+		vm.CodeLabel = code
+	} else if active.OccCode != "" {
+		vm.CodeLabel = active.OccCode
+	} else {
+		vm.CodeLabel = "—"
+	}
+
+	// meter
+	if hasHeadline {
+		vm.HasAioe = aioe != nil
+		if aioe != nil {
+			vm.MeterUnit = "/100"
+			vm.AioePct = int(*aioe + 0.5)
+		} else {
+			vm.MeterUnit = "%"
+		}
+		if ai != nil {
+			vm.FirstReplaced = first(ai.ReplacedZh)
+			vm.FirstAugmented = first(ai.AugmentedZh)
+			vm.FirstMoat = first(ai.MoatZh)
+		}
+	}
+
+	// scores
+	if hasHeadline {
+		vm.ScoresCls = band.Cls
+	}
+	vm.Scores = []scoreVM{
+		{data.Tr("Task exposure", CL), f1(exposure)},
+		{data.Tr("Human moat", CL), f1(moat)},
+		{data.Tr("Entry pressure", CL), f1(entry)},
+		{data.Tr("AI upside", CL), f1(upside)},
+	}
+
+	// AI zone
+	if ai != nil {
+		vm.HasAI = true
+		trList := func(arr []string) []string {
+			out := make([]string, 0, len(arr))
+			for _, x := range arr {
+				out = append(out, data.Tr(x, CL))
+			}
+			return out
+		}
+		vm.AICards = []listCard{
+			{data.Tr("Tasks AI will take over", CL), trList(ai.ReplacedZh)},
+			{data.Tr("Tasks AI will augment", CL), trList(ai.AugmentedZh)},
+			{data.Tr("Human moat (hard for AI)", CL), trList(ai.MoatZh)},
+			{data.Tr("Skills to build (next 5 years)", CL), trList(ai.SkillsZh)},
+		}
+		if ai.EntryNarrowingZh != "" {
+			vm.EntryNote = data.Tr(ai.EntryNarrowingZh, CL)
+		}
+		if ai.UpgradePathZh != "" {
+			vm.UpgradePath = data.Tr(ai.UpgradePathZh, CL)
+		}
+		for _, d := range ai.Disruptors {
+			lvlCls := "low"
+			switch d.Level {
+			case "full":
+				lvlCls = "high"
+			case "major":
+				lvlCls = "moderate"
+			}
+			year := ""
+			if d.Year != nil {
+				year = fmt.Sprint(d.Year)
+			}
+			scope := ""
+			if d.ScopeZh != "" {
+				scope = data.Tr(d.ScopeZh, CL)
+			}
+			vm.Disruptors = append(vm.Disruptors, disVM{
+				Name: d.Name, URL: d.URL, HasURL: d.URL != "",
+				Type: data.DisType(d.Type, CL), LevelCls: lvlCls, Level: data.DisLevel(d.Level, CL),
+				Year: year, Scope: scope,
+			})
+		}
+		for _, j := range ai.Adjacent {
+			name := j.NameEn
+			if g := data.JobBySlug(j.Slug); g != nil {
+				name = data.Name(g.Rep, CL)
+			}
+			vm.Adjacent = append(vm.Adjacent, adjVM{Name: name, Href: ctx.HrefJob(j.Slug)})
+		}
+	}
+
+	// country tabs
+	for _, o := range countries {
+		vm.Tabs = append(vm.Tabs, tabVM{
+			Flag: data.CountryFlag(o.Country), Name: data.CountryName(o.Country, CL),
+			Href: i18n.HrefJob(ctx.Loc, slug, o.Country), On: o.Country == cc,
+		})
+	}
+
+	// active panel stats
+	if active.OverallScore.Set {
+		vm.OverallScore = fmt.Sprintf("%g/10", active.OverallScore.V)
+	}
+	if active.WorkforceSize.Set {
+		vm.Workforce = data.FmtNum(active.WorkforceSize.Ptr())
+	}
+	if active.AvgSalary.Set {
+		vm.AvgSalary = data.FmtSalary(active.AvgSalary.Ptr(), cc)
+	}
+	switch active.IsMigration {
+	case 1:
+		vm.MigBadge = badgeVM{"low", data.Tr("Skilled migration occupation", CL)}
+	case 2:
+		vm.MigBadge = badgeVM{"moderate", data.MigRestrictedOccOf(cc, CL)}
+	default:
+		vm.MigBadge = badgeVM{"verylow", data.Tr("Not a skilled migration occupation", CL)}
+	}
+
+	// radar
+	vm.RadarSVG = RadarSVG(data.RadarLabels(CL),
+		[]RadarSeries{{Name: nm, Color: "#2563eb", Values: data.RadarValues(active)}}, 10, data.Tr("rating radar", CL))
+
+	// salary
+	for _, s := range active.Salaries {
+		vm.Salaries = append(vm.Salaries, salRow{
+			Label: data.Tr(s.Label, CL),
+			Pay:   data.Money(s.Min.Ptr(), cc) + " ~ " + data.Money(s.Max.Ptr(), cc),
+			Note:  data.Tr(s.Note, CL),
+		})
+	}
+	// education
+	for _, e := range active.Education {
+		cost := "—"
+		if e.CostMin.Set {
+			cost = data.Money(e.CostMin.Ptr(), cc) + " ~ " + data.Money(e.CostMax.Ptr(), cc)
+		} else if t := data.Tr(e.CostNote, CL); t != "" {
+			cost = t
+		}
+		dur := data.Tr(e.Duration, CL)
+		if dur == "" {
+			dur = "—"
+		}
+		vm.Education = append(vm.Education, eduRow{Stage: data.Tr(e.Stage, CL), Duration: dur, Cost: cost})
+	}
+	// qualifications
+	for _, q := range active.Qualifications {
+		iss := data.Tr(q.Issuer, CL)
+		if iss == "" {
+			iss = "—"
+		}
+		vm.Qualifications = append(vm.Qualifications, qualRow{Name: data.Tr(q.Name, CL), Issuer: iss, Mandatory: q.Mandatory})
+	}
+	// migration
+	if active.IsMigration == 2 {
+		vm.MigNote = data.MigRestrictedNoteOf(cc, CL)
+	}
+	if active.IsMigration != 0 {
+		for _, v := range active.Visa {
+			desc := data.Tr(v.Desc, CL)
+			if v.MinScore.Set {
+				desc += fmt.Sprintf(" · ~%d %s (%s, %s)", int(v.MinScore.V), data.Tr("pts competitive cut-off", CL), v.ScoreAsof, data.Tr("indicative", CL))
+			}
+			vm.Visas = append(vm.Visas, visaRow{Subclass: v.Subclass, Name: data.Tr(v.Name, CL), Desc: desc})
+		}
+	} else {
+		vm.NonMigVisa = data.Tr("Not a skilled migration occupation.", CL) + " " + data.NonMigVisaOf(cc, CL)
+	}
+	// suitability
+	if active.Suitability != nil {
+		for _, x := range active.Suitability.Fit {
+			vm.SuitFit = append(vm.SuitFit, data.Tr(x, CL))
+		}
+		for _, x := range active.Suitability.Unfit {
+			vm.SuitUnfit = append(vm.SuitUnfit, data.Tr(x, CL))
+		}
+	}
+	// outlook
+	z := active.Zh()
+	vm.Trend = data.Tr(z.TrendSummary, CL)
+	vm.Forecast = data.Tr(z.ForecastNote, CL)
+	vm.GrowthAreas = active.GrowthAreas
+
+	// FAQ（2030 + active.faqs）
+	q2030, a2030 := data.Build2030(ctx.Loc, dispName, band.Cls, band.Label, aioe, exposure, moat)
+	vm.FAQ = append(vm.FAQ, faqRow{Q: q2030, A: a2030, Open: true})
+	for _, ff := range active.Faqs {
+		vm.FAQ = append(vm.FAQ, faqRow{Q: data.Tr(ff.Question, CL), A: data.Tr(ff.Answer, CL)})
+	}
+
+	// 投票组件（baked 取全球 rep 的 polls）
+	vm.Poll = buildPollWidget(slug, dispName, CL, rep)
+
+	ctx.Active = "occupations"
+	ctx.Title = data.Tr("Will AI replace", CL) + " " + dispName + "? — " + data.Tr("AI risk, salary & outlook", CL) + " | AI Job Risk"
+	ctx.Description = data.Tr("AI replacement risk, task exposure and the human moat for this occupation, plus local salary, licensing and outlook.", CL) + " — " + dispName
+	renderPage(w, "job.html", vm)
+}
+
+var _ = strings.TrimSpace

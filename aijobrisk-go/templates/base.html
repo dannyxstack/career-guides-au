@@ -1,0 +1,93 @@
+{{ define "base.html" -}}
+<!doctype html>
+<html lang="{{ .Loc }}">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{{ .Title }}</title>
+    {{ if .Description }}<meta name="description" content="{{ .Description }}" />{{ end }}
+    <link rel="canonical" href="{{ .CanonicalURL }}" />
+    <link rel="icon" type="image/svg+xml" href="/logo.svg" />
+    {{ range .Alternates }}<link rel="alternate" hreflang="{{ .Hreflang }}" href="{{ .Href }}" />
+    {{ end }}<link rel="alternate" hreflang="x-default" href="{{ .XDefault }}" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="{{ .SiteName }}" />
+    <meta property="og:title" content="{{ .Title }}" />
+    {{ if .Description }}<meta property="og:description" content="{{ .Description }}" />{{ end }}
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="stylesheet" href="/static/app.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
+    {{ if .JSONLD }}<script type="application/ld+json">{{ .JSONLD }}</script>{{ end }}
+    <script>
+      (function () {
+        try {
+          var t = localStorage.getItem('theme');
+          if (!t) t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+          document.documentElement.setAttribute('data-theme', t);
+        } catch (e) {}
+      })();
+    </script>
+    {{ block "head" . }}{{ end }}
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container nav-row">
+        <a href="{{ .HrefHome }}" class="logo-area" aria-label="{{ .SiteName }} home">
+          <svg viewBox="0 0 28 28" fill="none" width="28" height="28" aria-hidden="true">
+            <rect x="2" y="2" width="24" height="24" rx="6" stroke="var(--brand)" stroke-width="2" />
+            <path d="M8 19 L14 8 L20 19" stroke="var(--brand)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+            <circle cx="14" cy="17" r="1.5" fill="var(--risk-mid)" />
+          </svg>
+          <span>AI Job Risk</span>
+        </a>
+        <nav class="nav-links" aria-label="{{ .Tr "Primary" }}">
+          {{ range .Nav }}<a href="{{ .Href }}"{{ if .On }} class="on"{{ end }}>{{ .Label }}</a>
+          {{ end }}
+        </nav>
+        <div class="nav-tools">
+          <label class="lang-select" title="{{ .Tr "Language" }}">
+            <i class="fas fa-language" aria-hidden="true"></i>
+            <select aria-label="{{ .Tr "Select language" }}" onchange="if(this.value)window.location.href=this.value;">
+              {{ $cur := .CurLoc }}{{ range .LangOptions }}<option value="{{ .Href }}"{{ if eq .Code $cur }} selected{{ end }}>{{ .Label }}</option>
+              {{ end }}
+            </select>
+          </label>
+          <button id="theme-toggle" class="theme-toggle" type="button" aria-label="{{ .Tr "Toggle dark mode" }}">🌙</button>
+        </div>
+      </div>
+    </header>
+
+    <main class="site-main">{{ template "content" . }}</main>
+
+    <footer class="site-footer">
+      <div class="container foot-inner">
+        <span>© 2026 {{ .SiteName }} — {{ .Tr "evidence-led AI job-risk analysis. Estimates only; always check official sources." }}</span>
+        <span class="footer-links">
+          <a href="{{ .HrefMethodology }}">{{ .Tr "Methodology" }}</a>
+          <a href="{{ .HrefAbout }}">{{ .Tr "About" }}</a>
+          <a href="https://ismyjobaiproof.com" rel="noopener">{{ .Tr "Personal test" }}</a>
+        </span>
+      </div>
+    </footer>
+
+    <script>
+      (function () {
+        var btn = document.getElementById('theme-toggle');
+        if (!btn) return;
+        var sync = function () {
+          var th = document.documentElement.getAttribute('data-theme') || 'light';
+          btn.textContent = th === 'dark' ? '☀️' : '🌙';
+        };
+        sync();
+        btn.addEventListener('click', function () {
+          var cur = document.documentElement.getAttribute('data-theme') === 'dark' ? 'dark' : 'light';
+          var next = cur === 'dark' ? 'light' : 'dark';
+          document.documentElement.setAttribute('data-theme', next);
+          try { localStorage.setItem('theme', next); } catch (e) {}
+          sync();
+        });
+      })();
+    </script>
+  </body>
+</html>
+{{- end }}

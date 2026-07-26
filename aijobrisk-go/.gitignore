@@ -1,0 +1,12 @@
+# 构建产物（二进制在目标服务器上现编，勿入库）
+/aijobrisk
+/aijobrisk.exe
+*.exe
+/pollsapi
+/cmd/pollsapi/pollsapi
+
+# 运行时数据：约 358MB 派生 JSON，由主仓库导出、经 rsync 单独部署（见 deployment.md）
+/data/
+
+# 本地环境变量（含 MYSQL_* 等密钥）
+.env
