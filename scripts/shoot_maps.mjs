@@ -32,7 +32,7 @@ const PORT = 8977;
 const SLUGS = [
   "australia", "united-states", "united-kingdom", "canada", "new-zealand",
   "japan", "south-korea", "germany", "france", "spain", "italy",
-  "netherlands", "ireland",
+  "netherlands", "ireland", "brazil", "mexico", "india", "china",
 ];
 
 const MIME = {

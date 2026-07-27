@@ -78,14 +78,34 @@ body {
 .sr-score { flex-shrink: 0; font-size: 11px; font-weight: 600; padding: 1px 6px; border-radius: 3px; }
 .sr-meta { flex-shrink: 0; color: var(--fg2); font-size: 10px; white-space: nowrap; }
 
-/* Country switcher */
-#countrySelect {
-  width: 100%; padding: 7px 10px; border: 1px solid rgba(255,255,255,0.12);
+/* Country switcher (custom dropdown so each option can show an SVG flag —
+   native <option> can't render inline SVG, and emoji flags aren't allowed). */
+.cty-dd { position: relative; }
+.cty-btn {
+  width: 100%; display: flex; align-items: center; gap: 8px;
+  padding: 7px 10px; border: 1px solid rgba(255,255,255,0.12);
   border-radius: 6px; background: rgba(255,255,255,0.04); color: var(--fg);
-  font-size: 13px; font-family: inherit; outline: none; cursor: pointer;
+  font-size: 13px; font-family: inherit; cursor: pointer; text-align: left;
 }
-#countrySelect:focus { border-color: rgba(255,255,255,0.25); }
-#countrySelect option { background: var(--bg2); color: var(--fg); }
+.cty-btn:hover, .cty-btn:focus { border-color: rgba(255,255,255,0.25); outline: none; }
+.cty-label { flex: 1; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.cty-caret { flex-shrink: 0; color: var(--fg2); font-size: 10px; transition: transform .15s; }
+.cty-dd.open .cty-caret { transform: rotate(180deg); }
+.cty-flag { flex-shrink: 0; width: 20px; height: 14px; display: inline-flex; }
+.cty-flag svg { width: 100%; height: 100%; border-radius: 2px; display: block; }
+.cty-menu {
+  position: absolute; left: 0; right: 0; top: calc(100% + 4px); z-index: 30;
+  margin: 0; padding: 4px; list-style: none; max-height: 320px; overflow-y: auto;
+  background: var(--bg2); border: 1px solid rgba(255,255,255,0.14);
+  border-radius: 8px; box-shadow: 0 8px 28px rgba(0,0,0,0.45); display: none;
+}
+.cty-dd.open .cty-menu { display: block; }
+.cty-opt {
+  display: flex; align-items: center; gap: 8px; padding: 7px 8px;
+  border-radius: 5px; cursor: pointer; font-size: 13px; color: var(--fg);
+}
+.cty-opt:hover, .cty-opt.active { background: rgba(255,255,255,0.07); }
+.cty-opt[aria-selected="true"] { color: #e6961e; font-weight: 600; }
 
 /* Sidebar */
 #sidebar {
@@ -312,7 +332,14 @@ body.embed .site-footer { display: none; }
 
   <div class="stat-section" id="countrySwitchWrap" style="display:none;">
     <h3>Country</h3>
-    <select id="countrySelect"></select>
+    <div class="cty-dd" id="ctyDD">
+      <button type="button" class="cty-btn" id="ctyBtn" aria-haspopup="listbox" aria-expanded="false">
+        <span class="cty-flag" id="ctyBtnFlag"></span>
+        <span class="cty-label" id="ctyBtnLabel"></span>
+        <span class="cty-caret" aria-hidden="true">&#9662;</span>
+      </button>
+      <ul class="cty-menu" id="ctyMenu" role="listbox" tabindex="-1"></ul>
+    </div>
   </div>
 
   <div id="searchWrap">
@@ -856,16 +883,27 @@ function loadCountry() {
 // ── Init ────────────────────────────────────────────────────────
 drawGradientLegend();
 // Country switcher navigates to each country's own URL (/slug/) — no client-side swap.
+// Custom dropdown (not native <select>) so each option renders its SVG flag.
 if (CONFIG.countries && CONFIG.countries.length) {
   const wrap = document.getElementById("countrySwitchWrap");
-  const sel = document.getElementById("countrySelect");
-  wrap.style.display = "flex";
-  sel.innerHTML = CONFIG.countries.map(c => `<option value="${c.cc}">${c.name}</option>`).join("");
-  sel.value = CONFIG.cc;
-  sel.addEventListener("change", () => {
-    const m = CONFIG.countries.find(c => c.cc === sel.value);
-    if (m && m.url) location.href = m.url;
+  const dd = document.getElementById("ctyDD");
+  const btn = document.getElementById("ctyBtn");
+  const menu = document.getElementById("ctyMenu");
+  const cur = CONFIG.countries.find(c => c.cc === CONFIG.cc) || CONFIG.countries[0];
+  wrap.style.display = "block";
+  document.getElementById("ctyBtnFlag").innerHTML = cur ? cur.flag : "";
+  document.getElementById("ctyBtnLabel").textContent = cur ? cur.name : "";
+  menu.innerHTML = CONFIG.countries.map(c =>
+    `<li class="cty-opt" role="option" data-url="${c.url}" aria-selected="${c.cc === CONFIG.cc}">` +
+    `<span class="cty-flag">${c.flag}</span><span class="cty-label">${c.name}</span></li>`).join("");
+  const setOpen = (v) => { dd.classList.toggle("open", v); btn.setAttribute("aria-expanded", v); };
+  btn.addEventListener("click", (e) => { e.stopPropagation(); setOpen(!dd.classList.contains("open")); });
+  menu.addEventListener("click", (e) => {
+    const li = e.target.closest(".cty-opt");
+    if (li && li.dataset.url) location.href = li.dataset.url;
   });
+  document.addEventListener("click", (e) => { if (!dd.contains(e.target)) setOpen(false); });
+  btn.addEventListener("keydown", (e) => { if (e.key === "Escape") setOpen(false); });
 }
 loadCountry();
 window.addEventListener("resize", resize);
