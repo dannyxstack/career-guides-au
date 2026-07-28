@@ -64,11 +64,63 @@ COUNTRY_META = {
            "<strong>Data sources:</strong><br>MoSPI PLFS 2023-24 unit-level microdata &mdash; NCO-2015 (ISCO-08 aligned) occupations"),
     "CN": ("China", "CNY", "¥",
            "<strong>Data sources:</strong><br>National Bureau of Statistics &mdash; 2020 Census occupation employment &amp; post-category wages, CSCO&rarr;ISCO-08"),
+    "NO": ("Norway", "NOK", "kr",
+           "<strong>Data sources:</strong><br>Statistics Norway (SSB) &mdash; STYRK-08 (ISCO-08) occupations"),
+    "SE": ("Sweden", "SEK", "kr",
+           "<strong>Data sources:</strong><br>Statistics Sweden (SCB) &mdash; SSYK 2012&rarr;ISCO-08 occupations"),
+    "FI": ("Finland", "EUR", "€",
+           "<strong>Data sources:</strong><br>Statistics Finland &mdash; Classification of Occupations 2010 (ISCO-08) occupations"),
+    "DK": ("Denmark", "DKK", "kr",
+           "<strong>Data sources:</strong><br>Statistics Denmark &mdash; DISCO-08 (ISCO-08) occupations"),
+    "IS": ("Iceland", "ISK", "kr",
+           "<strong>Data sources:</strong><br>Statistics Iceland &mdash; ÍSTARF95 (ISCO-88)&rarr;ISCO-08 occupations"),
+    "BE": ("Belgium", "EUR", "€",
+           "<strong>Data sources:</strong><br>Eurostat LFS — ISCO-08 occupations"),
+    "AT": ("Austria", "EUR", "€",
+           "<strong>Data sources:</strong><br>Eurostat LFS — ISCO-08 occupations"),
+    "PL": ("Poland", "PLN", "zł",
+           "<strong>Data sources:</strong><br>Eurostat LFS — ISCO-08 occupations"),
+    "PT": ("Portugal", "EUR", "€",
+           "<strong>Data sources:</strong><br>Eurostat LFS — ISCO-08 occupations"),
+    "GR": ("Greece", "EUR", "€",
+           "<strong>Data sources:</strong><br>Eurostat LFS — ISCO-08 occupations"),
+    "HU": ("Hungary", "HUF", "Ft",
+           "<strong>Data sources:</strong><br>Eurostat LFS — ISCO-08 occupations"),
+    "CZ": ("Czechia", "CZK", "Kč",
+           "<strong>Data sources:</strong><br>ČSÚ (CZSO) &amp; Eurostat LFS — CZ-ISCO (ISCO-08)"),
+    "RO": ("Romania", "RON", "lei",
+           "<strong>Data sources:</strong><br>Eurostat LFS — ISCO-08 occupations"),
+    "LU": ("Luxembourg", "EUR", "€",
+           "<strong>Data sources:</strong><br>Eurostat LFS — ISCO-08 occupations"),
+    "SK": ("Slovakia", "EUR", "€",
+           "<strong>Data sources:</strong><br>Eurostat LFS — ISCO-08 occupations"),
+    "SI": ("Slovenia", "EUR", "€",
+           "<strong>Data sources:</strong><br>SURS &amp; Eurostat LFS — ISCO-08 (SKP-08)"),
+    "HR": ("Croatia", "EUR", "€",
+           "<strong>Data sources:</strong><br>Eurostat LFS — ISCO-08 occupations"),
+    "TR": ("Turkey", "TRY", "₺",
+           "<strong>Data sources:</strong><br>Eurostat LFS — ISCO-08 occupations"),
+    "AR": ("Argentina", "ARS", "$",
+           "<strong>Data sources:</strong><br>ILOSTAT (INDEC EPH) — ISCO-08 occupations"),
+    "CL": ("Chile", "CLP", "$",
+           "<strong>Data sources:</strong><br>ILOSTAT (INE ENE) — ISCO-08 occupations"),
+    "MY": ("Malaysia", "MYR", "RM",
+           "<strong>Data sources:</strong><br>ILOSTAT (DOSM LFS) — ISCO-08 occupations"),
+    "ID": ("Indonesia", "IDR", "Rp",
+           "<strong>Data sources:</strong><br>ILOSTAT (BPS Sakernas) — ISCO-08 occupations"),
+    "TH": ("Thailand", "THB", "฿",
+           "<strong>Data sources:</strong><br>ILOSTAT (NSO LFS) — ISCO-08 occupations"),
+    "VN": ("Vietnam", "VND", "₫",
+           "<strong>Data sources:</strong><br>ILOSTAT (GSO LFS) — ISCO-08 occupations"),
+    "SG": ("Singapore", "SGD", "$",
+           "<strong>Data sources:</strong><br>ILOSTAT / MOM — ISCO-08 occupations"),
 }
 # Set of countries the site builds. Display order is derived alphabetically by
 # English name at build time (see `present` below), not from this list's order.
 # NOTE: keep NC (country count in the SEO copy below) in sync when adding/removing here.
-ORDER = ["AU", "US", "UK", "CA", "NZ", "JP", "KR", "DE", "FR", "ES", "IT", "NL", "IE", "BR", "MX", "IN", "CN"]
+ORDER = ["AU", "US", "UK", "CA", "NZ", "JP", "KR", "DE", "FR", "ES", "IT", "NL", "IE", "BR", "MX", "IN", "CN",
+         "NO", "SE", "FI", "DK", "IS",
+         "BE", "AT", "PL", "PT", "GR", "HU", "CZ", "RO", "LU", "SK", "SI", "HR", "TR", "AR", "CL", "MY", "ID", "TH", "VN", "SG"]
 
 # Public site identity + per-country URL slug (lowercase full name).
 DOMAIN = "https://aijobriskmap.com"
@@ -80,7 +132,9 @@ SLUG = {
     "CA": "canada", "NZ": "new-zealand", "JP": "japan", "KR": "south-korea",
     "DE": "germany", "FR": "france", "ES": "spain", "IT": "italy",
     "NL": "netherlands", "IE": "ireland", "BR": "brazil", "MX": "mexico",
-    "IN": "india", "CN": "china",
+    "IN": "india", "CN": "china", "NO": "norway", "SE": "sweden",
+    "FI": "finland", "DK": "denmark", "IS": "iceland",
+    "BE": "belgium", "AT": "austria", "PL": "poland", "PT": "portugal", "GR": "greece", "HU": "hungary", "CZ": "czechia", "RO": "romania", "LU": "luxembourg", "SK": "slovakia", "SI": "slovenia", "HR": "croatia", "TR": "turkey", "AR": "argentina", "CL": "chile", "MY": "malaysia", "ID": "indonesia", "TH": "thailand", "VN": "vietnam", "SG": "singapore",
 }
 
 # Country pages live under /country/{slug}/ so the URL space reads as a hub.
@@ -116,6 +170,31 @@ FLAG = {
     "MX": '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60"><rect width="40" height="60" fill="#006847"/><rect x="40" width="40" height="60" fill="#fff"/><rect x="80" width="40" height="60" fill="#CE1126"/></svg>',
     "IN": '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60"><rect width="120" height="20" fill="#FF9933"/><rect y="20" width="120" height="20" fill="#fff"/><rect y="40" width="120" height="20" fill="#138808"/><circle cx="60" cy="30" r="8" fill="none" stroke="#000080" stroke-width="1.4"/><circle cx="60" cy="30" r="1.6" fill="#000080"/></svg>',
     "CN": '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60"><rect width="120" height="60" fill="#DE2910"/><polygon points="18,8 19.6,12.9 24.6,12.9 20.5,15.9 22.1,20.8 18,17.8 13.9,20.8 15.5,15.9 11.4,12.9 16.4,12.9" fill="#FFDE00"/><circle cx="30" cy="6" r="1.7" fill="#FFDE00"/><circle cx="36" cy="11" r="1.7" fill="#FFDE00"/><circle cx="36" cy="18" r="1.7" fill="#FFDE00"/><circle cx="30" cy="23" r="1.7" fill="#FFDE00"/></svg>',
+    "NO": '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60"><rect width="120" height="60" fill="#EF2B2D"/><rect x="36" width="12" height="60" fill="#fff"/><rect y="24" width="120" height="12" fill="#fff"/><rect x="39" width="6" height="60" fill="#002868"/><rect y="27" width="120" height="6" fill="#002868"/></svg>',
+    "SE": '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60"><rect width="120" height="60" fill="#006AA7"/><rect x="36" width="12" height="60" fill="#FECC00"/><rect y="24" width="120" height="12" fill="#FECC00"/></svg>',
+    "FI": '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60"><rect width="120" height="60" fill="#fff"/><rect x="36" width="12" height="60" fill="#003580"/><rect y="24" width="120" height="12" fill="#003580"/></svg>',
+    "DK": '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60"><rect width="120" height="60" fill="#C8102E"/><rect x="36" width="12" height="60" fill="#fff"/><rect y="24" width="120" height="12" fill="#fff"/></svg>',
+    "IS": '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60"><rect width="120" height="60" fill="#02529C"/><rect x="36" width="12" height="60" fill="#fff"/><rect y="24" width="120" height="12" fill="#fff"/><rect x="39" width="6" height="60" fill="#DC1E35"/><rect y="27" width="120" height="6" fill="#DC1E35"/></svg>',
+    "BE": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 120 60\"><rect width=\"40\" height=\"60\" fill=\"#000\"/><rect x=\"40\" width=\"40\" height=\"60\" fill=\"#FAE042\"/><rect x=\"80\" width=\"40\" height=\"60\" fill=\"#ED2939\"/></svg>",
+    "AT": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 120 60\"><rect width=\"120\" height=\"60\" fill=\"#ED2939\"/><rect y=\"20\" width=\"120\" height=\"20\" fill=\"#fff\"/></svg>",
+    "PL": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 120 60\"><rect width=\"120\" height=\"60\" fill=\"#fff\"/><rect y=\"30\" width=\"120\" height=\"30\" fill=\"#DC143C\"/></svg>",
+    "PT": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 120 60\"><rect width=\"120\" height=\"60\" fill=\"#FF0000\"/><rect width=\"48\" height=\"60\" fill=\"#006600\"/><circle cx=\"48\" cy=\"30\" r=\"9\" fill=\"#FFCC00\" stroke=\"#fff\" stroke-width=\"1\"/></svg>",
+    "GR": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 120 60\"><rect width=\"120\" height=\"60\" fill=\"#0D5EAF\"/><rect y=\"6\" width=\"120\" height=\"6.66\" fill=\"#fff\"/><rect y=\"19\" width=\"120\" height=\"6.66\" fill=\"#fff\"/><rect y=\"33\" width=\"120\" height=\"6.66\" fill=\"#fff\"/><rect y=\"46\" width=\"120\" height=\"6.66\" fill=\"#fff\"/><rect width=\"26.6\" height=\"33.3\" fill=\"#0D5EAF\"/><rect x=\"10\" width=\"6.6\" height=\"33.3\" fill=\"#fff\"/><rect y=\"13.3\" width=\"26.6\" height=\"6.6\" fill=\"#fff\"/></svg>",
+    "HU": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 120 60\"><rect width=\"120\" height=\"60\" fill=\"#CD2A3E\"/><rect y=\"20\" width=\"120\" height=\"20\" fill=\"#fff\"/><rect y=\"40\" width=\"120\" height=\"20\" fill=\"#436F4D\"/></svg>",
+    "CZ": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 120 60\"><rect width=\"120\" height=\"30\" fill=\"#fff\"/><rect y=\"30\" width=\"120\" height=\"30\" fill=\"#D7141A\"/><path d=\"M0,0 L60,30 L0,60 Z\" fill=\"#11457E\"/></svg>",
+    "RO": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 120 60\"><rect width=\"40\" height=\"60\" fill=\"#002B7F\"/><rect x=\"40\" width=\"40\" height=\"60\" fill=\"#FCD116\"/><rect x=\"80\" width=\"40\" height=\"60\" fill=\"#CE1126\"/></svg>",
+    "LU": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 120 60\"><rect width=\"120\" height=\"60\" fill=\"#ED2939\"/><rect y=\"20\" width=\"120\" height=\"20\" fill=\"#fff\"/><rect y=\"40\" width=\"120\" height=\"20\" fill=\"#00A1DE\"/></svg>",
+    "SK": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 120 60\"><rect width=\"120\" height=\"20\" fill=\"#fff\"/><rect y=\"20\" width=\"120\" height=\"20\" fill=\"#0B4EA2\"/><rect y=\"40\" width=\"120\" height=\"20\" fill=\"#EE1C25\"/><path d=\"M18,14 h16 v20 q0,10 -8,14 q-8,-4 -8,-14 Z\" fill=\"#EE1C25\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"24\" y=\"18\" width=\"4\" height=\"20\" fill=\"#fff\"/><rect x=\"20\" y=\"24\" width=\"12\" height=\"4\" fill=\"#fff\"/></svg>",
+    "SI": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 120 60\"><rect width=\"120\" height=\"20\" fill=\"#fff\"/><rect y=\"20\" width=\"120\" height=\"20\" fill=\"#005DA4\"/><rect y=\"40\" width=\"120\" height=\"20\" fill=\"#ED1C24\"/><path d=\"M14,30 q6,-14 12,0 q6,14 -12,20 q-18,-6 -6,-20 Z\" fill=\"#005DA4\" stroke=\"#fff\" stroke-width=\"1.2\"/></svg>",
+    "HR": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 120 60\"><rect width=\"120\" height=\"20\" fill=\"#FF0000\"/><rect y=\"20\" width=\"120\" height=\"20\" fill=\"#fff\"/><rect y=\"40\" width=\"120\" height=\"20\" fill=\"#171796\"/><g><rect x=\"52.0\" y=\"22.0\" width=\"3.2\" height=\"3.2\" fill=\"#FF0000\"/><rect x=\"55.2\" y=\"22.0\" width=\"3.2\" height=\"3.2\" fill=\"#fff\"/><rect x=\"58.4\" y=\"22.0\" width=\"3.2\" height=\"3.2\" fill=\"#FF0000\"/><rect x=\"61.6\" y=\"22.0\" width=\"3.2\" height=\"3.2\" fill=\"#fff\"/><rect x=\"64.8\" y=\"22.0\" width=\"3.2\" height=\"3.2\" fill=\"#FF0000\"/><rect x=\"52.0\" y=\"25.2\" width=\"3.2\" height=\"3.2\" fill=\"#FF0000\"/><rect x=\"55.2\" y=\"25.2\" width=\"3.2\" height=\"3.2\" fill=\"#fff\"/><rect x=\"58.4\" y=\"25.2\" width=\"3.2\" height=\"3.2\" fill=\"#FF0000\"/><rect x=\"61.6\" y=\"25.2\" width=\"3.2\" height=\"3.2\" fill=\"#fff\"/><rect x=\"64.8\" y=\"25.2\" width=\"3.2\" height=\"3.2\" fill=\"#FF0000\"/><rect x=\"52.0\" y=\"28.4\" width=\"3.2\" height=\"3.2\" fill=\"#FF0000\"/><rect x=\"55.2\" y=\"28.4\" width=\"3.2\" height=\"3.2\" fill=\"#fff\"/><rect x=\"58.4\" y=\"28.4\" width=\"3.2\" height=\"3.2\" fill=\"#FF0000\"/><rect x=\"61.6\" y=\"28.4\" width=\"3.2\" height=\"3.2\" fill=\"#fff\"/><rect x=\"64.8\" y=\"28.4\" width=\"3.2\" height=\"3.2\" fill=\"#FF0000\"/></g></svg>",
+    "TR": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 120 60\"><rect width=\"120\" height=\"60\" fill=\"#E30A17\"/><circle cx=\"48\" cy=\"30\" r=\"15\" fill=\"#fff\"/><circle cx=\"53\" cy=\"30\" r=\"12\" fill=\"#E30A17\"/><polygon points=\"66,30 74,27 69,33 69,27 74,33\" fill=\"#fff\"/></svg>",
+    "AR": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 120 60\"><rect width=\"120\" height=\"60\" fill=\"#74ACDF\"/><rect y=\"20\" width=\"120\" height=\"20\" fill=\"#fff\"/><circle cx=\"60\" cy=\"30\" r=\"6\" fill=\"#F6B40E\" stroke=\"#85340A\" stroke-width=\"0.8\"/></svg>",
+    "CL": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 120 60\"><rect width=\"120\" height=\"60\" fill=\"#fff\"/><rect y=\"30\" width=\"120\" height=\"30\" fill=\"#D52B1E\"/><rect width=\"40\" height=\"30\" fill=\"#0039A6\"/><polygon points=\"20,8 22.4,15.2 30,15.2 23.8,19.8 26.2,27 20,22.4 13.8,27 16.2,19.8 10,15.2 17.6,15.2\" fill=\"#fff\"/></svg>",
+    "MY": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 120 60\"><rect width=\"120\" height=\"60\" fill=\"#fff\"/><rect y=\"0\" width=\"120\" height=\"4.3\" fill=\"#CC0001\"/><rect y=\"8\" width=\"120\" height=\"4.3\" fill=\"#CC0001\"/><rect y=\"17\" width=\"120\" height=\"4.3\" fill=\"#CC0001\"/><rect y=\"25\" width=\"120\" height=\"4.3\" fill=\"#CC0001\"/><rect y=\"34\" width=\"120\" height=\"4.3\" fill=\"#CC0001\"/><rect y=\"42\" width=\"120\" height=\"4.3\" fill=\"#CC0001\"/><rect y=\"51\" width=\"120\" height=\"4.3\" fill=\"#CC0001\"/><rect width=\"60\" height=\"34.3\" fill=\"#010066\"/><circle cx=\"24\" cy=\"17\" r=\"9\" fill=\"#FFCC00\"/><circle cx=\"28\" cy=\"17\" r=\"7.5\" fill=\"#010066\"/><polygon points=\"37,17 41,12 40,18 45,20 40,22 41,28 37,23\" fill=\"#FFCC00\"/></svg>",
+    "ID": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 120 60\"><rect width=\"120\" height=\"60\" fill=\"#FF0000\"/><rect y=\"30\" width=\"120\" height=\"30\" fill=\"#fff\"/></svg>",
+    "TH": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 120 60\"><rect width=\"120\" height=\"60\" fill=\"#A51931\"/><rect y=\"10\" width=\"120\" height=\"40\" fill=\"#fff\"/><rect y=\"20\" width=\"120\" height=\"20\" fill=\"#2D2A4A\"/></svg>",
+    "VN": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 120 60\"><rect width=\"120\" height=\"60\" fill=\"#DA251D\"/><polygon points=\"60,14 64.7,28.6 80,28.6 67.6,37.6 72.4,52.2 60,43.2 47.6,52.2 52.4,37.6 40,28.6 55.3,28.6\" fill=\"#FFFF00\"/></svg>",
+    "SG": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 120 60\"><rect width=\"120\" height=\"60\" fill=\"#EF3340\"/><rect y=\"30\" width=\"120\" height=\"30\" fill=\"#fff\"/><circle cx=\"30\" cy=\"15\" r=\"11\" fill=\"#fff\"/><circle cx=\"35\" cy=\"15\" r=\"9\" fill=\"#EF3340\"/><g fill=\"#fff\"><circle cx=\"42\" cy=\"9\" r=\"1.6\"/><circle cx=\"47\" cy=\"9\" r=\"1.6\"/><circle cx=\"52\" cy=\"9\" r=\"1.6\"/><circle cx=\"42\" cy=\"16\" r=\"1.6\"/><circle cx=\"47\" cy=\"16\" r=\"1.6\"/></g></svg>",
 }
 
 FAVICON = ('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">'
@@ -124,6 +203,165 @@ FAVICON = ('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">'
            '<rect x="19" y="4" width="9" height="11" rx="1.5" fill="#32a032"/>'
            '<rect x="19" y="17" width="9" height="11" rx="1.5" fill="#ff5014"/>'
            '</svg>')
+
+
+# ── Per-country data source & authority registry ─────────────────
+# Single source of truth for the "data sources & authority" copy shown on every
+# country page and in the full sources table on the methodology page. Each country
+# has a distinct provenance, so each description differs.
+#   auth  – the national statistical authority (+ secondary agency) behind the data.
+#   cls   – the occupation classification the country's data is expressed in.
+#   tier  – authority level of the employment counts:
+#             "A" national official statistics (own survey/register/census),
+#             "B" via Eurostat's harmonised EU Labour Force Survey,
+#             "C" via ILOSTAT (UN ILO harmonised database).
+#   pay   – True when official occupation-level pay is available; False when the
+#           source does not publish pay at occupation level (left blank, not estimated).
+SOURCE_INFO = {
+    "AU": ("Jobs and Skills Australia &amp; the Australian Bureau of Statistics (ABS)", "ANZSCO", "A", True),
+    "US": ("the U.S. Bureau of Labor Statistics (BLS) Occupational Employment &amp; Wage Statistics and O*NET", "SOC", "A", True),
+    "CA": ("Statistics Canada &amp; Job Bank (Employment and Social Development Canada)", "NOC", "A", True),
+    "UK": ("the UK Office for National Statistics (ONS)", "SOC", "A", True),
+    "NZ": ("Stats NZ &amp; the Ministry of Business, Innovation and Employment (MBIE)", "ANZSCO", "A", True),
+    "DE": ("the Federal Statistical Office (Destatis) &amp; the Federal Employment Agency (Bundesagentur für Arbeit)", "KldB / ISCO-08", "A", True),
+    "ES": ("the National Statistics Institute (INE) &amp; the Public Employment Service (SEPE)", "CNO / ISCO-08", "A", True),
+    "FR": ("the National Institute of Statistics and Economic Studies (INSEE) &amp; France Travail", "ROME / PCS → ISCO-08", "A", True),
+    "IE": ("the Central Statistics Office (CSO Ireland)", "ISCO-08", "A", True),
+    "IT": ("the National Institute of Statistics (ISTAT)", "ISCO-08 (CP)", "A", True),
+    "NL": ("Statistics Netherlands (CBS)", "ISCO-08 (BRC)", "A", True),
+    "JP": ("the Statistics Bureau of Japan &amp; the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure)", "JSCO → ISCO-08", "A", True),
+    "KR": ("the Korea Employment Information Service (KEIS) WorkNet/KNOW &amp; Statistics Korea", "KECO → ISCO-08", "A", True),
+    "BR": ("the Brazilian Institute of Geography and Statistics (IBGE), PNAD Contínua microdata", "CBO → ISCO-08", "A", True),
+    "MX": ("the National Institute of Statistics and Geography (INEGI), ENOE microdata", "SINCO → ISCO-08", "A", True),
+    "IN": ("the Ministry of Statistics (MoSPI) Periodic Labour Force Survey 2023-24 unit-level microdata", "NCO-2015 (ISCO-08 aligned)", "A", True),
+    "CN": ("the National Bureau of Statistics of China, 2020 Population Census", "CSCO → ISCO-08", "A", True),
+    "NO": ("Statistics Norway (SSB)", "STYRK-08 (ISCO-08)", "A", True),
+    "SE": ("Statistics Sweden (SCB)", "SSYK 2012 → ISCO-08", "A", True),
+    "FI": ("Statistics Finland", "Classification of Occupations 2010 (ISCO-08)", "A", True),
+    "DK": ("Statistics Denmark", "DISCO-08 (ISCO-08)", "A", True),
+    "IS": ("Statistics Iceland", "ÍSTARF95 (ISCO-88) → ISCO-08", "A", True),
+    "CZ": ("the Czech Statistical Office (ČSÚ) &amp; the ISPV Regional Wage Survey", "CZ-ISCO (ISCO-08)", "A", True),
+    "HU": ("the Hungarian Central Statistical Office (KSH)", "HSCO'08 (ISCO-08 aligned)", "A", True),
+    "SG": ("the Ministry of Manpower (MOM) Occupational Wage Survey &amp; the Department of Statistics", "SSOC 2024 (ISCO-08 based)", "A", True),
+    "BE": ("Statistics Belgium (Statbel)", "ISCO-08", "B", False),
+    "AT": ("Statistics Austria (Statistik Austria)", "ISCO-08", "B", False),
+    "PL": ("Statistics Poland (GUS)", "ISCO-08", "B", False),
+    "PT": ("Statistics Portugal (INE)", "ISCO-08", "B", False),
+    "GR": ("the Hellenic Statistical Authority (ELSTAT)", "ISCO-08", "B", False),
+    "RO": ("the National Institute of Statistics (INS)", "ISCO-08", "B", False),
+    "LU": ("the National Institute of Statistics and Economic Studies (STATEC)", "ISCO-08", "B", False),
+    "SK": ("the Statistical Office of the Slovak Republic (ŠÚSR)", "ISCO-08 (SK ISCO-08)", "B", False),
+    "SI": ("the Statistical Office of the Republic of Slovenia (SURS)", "ISCO-08 (SKP-08)", "B", False),
+    "HR": ("the Croatian Bureau of Statistics (DZS)", "ISCO-08", "B", False),
+    "TR": ("the Turkish Statistical Institute (TÜİK)", "ISCO-08", "B", False),
+    "AR": ("Argentina's INDEC (Permanent Household Survey, EPH)", "ISCO-08", "C", False),
+    "CL": ("Chile's National Statistics Institute (INE), National Employment Survey (ENE)", "ISCO-08", "C", False),
+    "MY": ("Malaysia's Department of Statistics (DOSM) Labour Force Survey", "ISCO-08", "C", False),
+    "ID": ("BPS-Statistics Indonesia (Sakernas)", "ISCO-08", "C", False),
+    "TH": ("Thailand's National Statistical Office (NSO) Labour Force Survey", "ISCO-08", "C", False),
+    "VN": ("Vietnam's General Statistics Office (GSO) Labour Force Survey", "ISCO-08", "C", False),
+}
+
+# AI-mapped (model-assisted ISCO placement) exposure scoring — clearly identified.
+LLM_MAPPED = {"FR", "JP", "KR"}
+
+TIER_LABEL = {"A": "National statistics", "B": "Eurostat EU-LFS", "C": "ILOSTAT (UN ILO)"}
+
+
+def employment_basis(cc):
+    """One phrase describing where the tile-area (employment) figures come from."""
+    tier = SOURCE_INFO[cc][2]
+    if tier == "A":
+        return "official national statistics"
+    if tier == "B":
+        return "the EU Labour Force Survey (Eurostat)"
+    return "ILOSTAT (UN ILO harmonised data)"
+
+
+def source_paragraph(cc, name):
+    """Per-country 'data sources & authority' prose for the country-page body."""
+    auth, cls, tier, pay = SOURCE_INFO[cc]
+    parts = [
+        f"<strong>Employment (tile area)</strong> for {esc(name)} comes from {auth}, "
+        f"classified in {cls}."]
+    if tier == "A":
+        parts.append(
+            " These are official national statistics &mdash; the highest-authority source "
+            "for the country&rsquo;s labour market.")
+    elif tier == "B":
+        parts.append(
+            " Counts are drawn from the harmonised EU Labour Force Survey published by Eurostat "
+            "(the European Union&rsquo;s official statistical authority); occupation detail is "
+            "modelled from published major-group shares.")
+    else:
+        parts.append(
+            " Counts are drawn from ILOSTAT, the UN International Labour Organization&rsquo;s "
+            "harmonised database; occupation detail is modelled to 4-digit ISCO-08.")
+    if pay:
+        parts.append(
+            " <strong>Pay</strong> is official occupation-level earnings from the same source, "
+            "shown where the source publishes it.")
+    else:
+        parts.append(
+            " <strong>Pay</strong> is not published at occupation level for this source, so salary "
+            "is left blank rather than estimated.")
+    if cc in LLM_MAPPED:
+        parts.append(
+            f" No clean official crosswalk from {esc(name)}&rsquo;s national classification to ISCO-08 "
+            "was obtainable, so occupations are placed onto the ISCO-08 structure by a clearly "
+            "identified model-assisted mapping for the exposure score only.")
+    parts.append(
+        " The <strong>AI-exposure score</strong> itself is identical in method for every country: "
+        "the ILO Working Paper 140 index and OpenAI&rsquo;s <em>GPTs are GPTs</em> study, ranked on a "
+        "single global percentile scale.")
+    return "".join(parts)
+
+
+def sidebar_source_html(cc):
+    """Compact sidebar note (replaces the old static COUNTRY_META source line)."""
+    auth, cls, tier, pay = SOURCE_INFO[cc]
+    via = {"A": "", "B": " (via Eurostat EU-LFS)", "C": " (via ILOSTAT)"}[tier]
+    pay_note = "" if pay else "<br><span style='opacity:.75'>Occupation-level pay not published &mdash; salary blank.</span>"
+    return (f"<strong>Data sources:</strong><br>{auth}{via}<br>"
+            f"<span style='opacity:.85'>{cls} occupations</span>{pay_note}")
+
+
+def methodology_sources_section(present):
+    """Full data-sources & authority table across all countries, for methodology.html."""
+    order = sorted(present, key=lambda c: COUNTRY_META[c][0])
+    rows = []
+    for cc in order:
+        auth, cls, tier, pay = SOURCE_INFO[cc]
+        tag = {"A": "tag-a", "B": "tag-b", "C": "tag-c"}[tier]
+        paycell = "Official" if pay else "&mdash;"
+        rows.append(
+            f"<tr><td>{esc(COUNTRY_META[cc][0])}</td>"
+            f"<td>{auth}</td><td>{esc(cls)}</td>"
+            f"<td><span class='tag {tag}'>{TIER_LABEL[tier]}</span></td>"
+            f"<td>{paycell}</td></tr>")
+    table = ("<table><thead><tr><th>Country</th><th>Statistical authority</th>"
+             "<th>Classification</th><th>Employment basis</th><th>Occupation pay</th></tr></thead>"
+             f"<tbody>{''.join(rows)}</tbody></table>")
+    return f"""<h2>Data sources &amp; authority by country</h2>
+<p>Tile <em>area</em> is the size of each occupation&rsquo;s workforce; tile <em>colour</em> is the AI-exposure
+score. The exposure score is computed identically for every country (see above). The employment counts &mdash;
+and, where available, occupation-level pay &mdash; come from each country&rsquo;s own authority, so provenance
+differs country by country:</p>
+<ul>
+<li><span class="tag tag-a">National statistics</span> &mdash; official figures from the national statistical
+office (own survey, register or census). Highest authority; occupation-level pay is generally published.</li>
+<li><span class="tag tag-b">Eurostat EU-LFS</span> &mdash; the European Union&rsquo;s harmonised Labour Force
+Survey (national data collected by each member state&rsquo;s statistics office). Occupation detail is modelled
+from published major-group shares; occupation-level pay is not published, so salary is left blank.</li>
+<li><span class="tag tag-c">ILOSTAT (UN ILO)</span> &mdash; the International Labour Organization&rsquo;s
+harmonised database (national data collected by each country&rsquo;s statistics office). Occupation detail is
+modelled to 4-digit ISCO-08; occupation-level pay is not published, so salary is left blank.</li>
+</ul>
+{table}
+<p>Occupations in {esc(', '.join(COUNTRY_META[c][0] for c in order if c in LLM_MAPPED))} are placed onto the
+ISCO-08 structure by a clearly identified model-assisted mapping (tagged <code>_llmmap</code>) for the exposure
+score, pending an official crosswalk. Salary and workforce figures blend official data with estimates where a
+source is incomplete; treat everything as indicative, not advice.</p>"""
 
 
 METHODOLOGY_HTML = """<!doctype html>
@@ -218,30 +456,10 @@ numbers stay comparable across borders.</li>
 red&nbsp;=&nbsp;high).</li>
 </ol>
 
-<h2>Country coverage</h2>
-<p>Each country&rsquo;s occupations are mapped to ISCO-08 (or, for the US, to SOC):</p>
-<table>
-<thead><tr><th>Method</th><th>Countries</th><th>How</th></tr></thead>
-<tbody>
-<tr><td><span class="tag tag-a">Direct</span></td><td>US &middot; IE &middot; IT &middot; NL</td>
-<td>Occupation code is already SOC (US) or ISCO-08 (IE/IT/NL) &mdash; joined directly.</td></tr>
-<tr><td><span class="tag tag-b">Crosswalk</span></td><td>AU &middot; NZ &middot; DE &middot; UK &middot; CA &middot; ES</td>
-<td>Official classification correspondence (ANZSCO, KldB, SOC, NOC, and Spain&rsquo;s INE CNO-11&harr;ISCO-08) &rarr; ISCO-08.</td></tr>
-<tr><td><span class="tag tag-c">AI-mapped</span></td><td>FR &middot; JP &middot; KR</td>
-<td>No clean official ROME / JSCO / KECO &rarr; ISCO table was obtainable, so each occupation is placed
-onto the official ISCO-08 structure by an LLM (a clearly identified model-assisted mapping), then scored as
-above. Tagged separately (<code>_llmmap</code>); will be upgraded when the official table is wired in.</td></tr>
-</tbody>
-</table>
-
-<h2>About the underlying job data</h2>
-<p>Tile <em>area</em> is the size of the workforce in each occupation, from each country&rsquo;s official statistics
-(see the &ldquo;Data sources&rdquo; note in the sidebar of every country page &mdash; e.g. Jobs and Skills Australia &amp; ABS,
-US&nbsp;BLS &amp; O*NET, Statistics Canada, ONS, Destatis, and so on). Salary and workforce figures blend official
-data with estimates; treat everything as indicative, not advice.</p>
+__SOURCES_SECTION__
 
 <h2>Download the data</h2>
-<p>The full scored dataset &mdash; every occupation in all 17 countries, with its AI-exposure score
+<p>The full scored dataset &mdash; every occupation in all 42 countries, with its AI-exposure score
 (0&ndash;10), global percentile, workforce size and average pay &mdash; is available as a single CSV:</p>
 <div class="src">
 <strong><a href="dataset.csv" download>dataset.csv</a></strong> &mdash; one row per occupation across
@@ -585,12 +803,8 @@ def static_content(cc, name, st, summary_html, present, faqs):
 
 {faq_accordion(faqs)}
 
-<h3>Methodology &amp; sources</h3>
-<p>Every occupation is scored 0&ndash;10 for generative-AI exposure by combining two open, published
-research datasets &mdash; the ILO's Working Paper 140 index and OpenAI's <em>GPTs are GPTs</em> task-exposure study &mdash;
-mapped onto {esc(name)}'s official occupation classification, then ranked on a single global percentile
-scale so the numbers stay comparable between countries. Tile area is the size of each occupation's
-workforce, from official statistics. <a href="/methodology.html">Full methodology &amp; data sources &rarr;</a></p>
+<h3>Data sources &amp; authority for {esc(name)}</h3>
+<p>{source_paragraph(cc, name)} <a href="/methodology.html">Full methodology &amp; all-country data sources &rarr;</a></p>
 
 {map_dl}
 """
@@ -621,8 +835,8 @@ def build_landing(present, stats_by_cc):
             f'<span class="cc-exp">Avg exposure '
             f'<b style="color:rgb({r},{g},{b})">{st["weighted_avg"]:.1f}</b><span class="cc-scale">/10</span></span>'
             f'</a>')
-    title = "AI Job Risk Map — how exposed is every job to AI, across 17 countries"
-    desc = ("An interactive map of how exposed jobs are to generative AI in 17 countries. "
+    title = "AI Job Risk Map — how exposed is every job to AI, across 42 countries"
+    desc = ("An interactive map of how exposed jobs are to generative AI in 42 countries. "
             "Every occupation scored 0–10 using ILO and OpenAI research on each country's official data.")
     return f"""<!doctype html>
 <html lang="en">
@@ -682,7 +896,7 @@ h1{{font-size:32px;line-height:1.2;letter-spacing:-.02em;margin:0 0 12px}}
 <div class="wrap">
 <div class="brand"><img src="favicon.svg" alt=""><b>{SITE_NAME}</b></div>
 <h1>Which jobs are most at risk from AI?</h1>
-<p class="lead">An interactive treemap of every occupation in 17 countries. We score each job&rsquo;s
+<p class="lead">An interactive treemap of every occupation in 42 countries. We score each job&rsquo;s
 <b>AI risk</b> by its <b>exposure</b> to generative AI &mdash; how much of its day-to-day tasks AI can
 already do &mdash; on a 0&ndash;10 scale, computed from open ILO and OpenAI research and mapped onto
 each country's official statistics. Pick a country:</p>
@@ -725,7 +939,7 @@ def build_og_image(path):
     except Exception:
         title_f = sub_f = dom_f = ImageFont.load_default()
     d.text((90, 330), "AI Job Risk Map", font=title_f, fill=(240, 240, 245))
-    d.text((90, 438), "How exposed is every job to AI — 17 countries, one 0–10 scale.",
+    d.text((90, 438), "How exposed is every job to AI — 42 countries, one 0–10 scale.",
            font=sub_f, fill=(154, 154, 166))
     # exposure gradient strip
     for i in range(1020):
@@ -825,13 +1039,13 @@ def map_card(cc, st):
 
 def build_about():
     title = "About — AI Job Risk Map"
-    desc = ("AI Job Risk Map is a free, independent atlas of how exposed 5,000+ jobs in 17 "
+    desc = ("AI Job Risk Map is a free, independent atlas of how exposed 5,000+ jobs in 42 "
             "countries are to generative AI, on one comparable 0–10 scale.")
     body = f"""<body><div class="wrap">
 <a class="back" href="/">&larr; Back to the map</a>
 <h1>About AI Job Risk Map</h1>
 <p class="lead">A free, independent atlas of how exposed the world&rsquo;s jobs are to generative AI &mdash;
-5,000+ occupations across 17 countries, on one comparable 0&ndash;10 scale.</p>
+5,000+ occupations across 42 countries, on one comparable 0&ndash;10 scale.</p>
 
 <h2>What it is</h2>
 <p>AI Job Risk Map turns two open, generative-AI-era research datasets into an interactive picture of the
@@ -847,7 +1061,7 @@ how many people it employs, so you can see at a glance where generative AI is mo
 </ul>
 
 <h2>How it&rsquo;s different</h2>
-<p>Instead of one country or one headline number, the map puts 17 national labour markets on a single global
+<p>Instead of one country or one headline number, the map puts 42 national labour markets on a single global
 percentile scale, so an exposure score means the same thing whether you&rsquo;re looking at Australia or Japan.
 Scores are recomputed from published research rather than asserted &mdash; see the
 <a href="/methodology.html">full methodology</a>.</p>
@@ -872,7 +1086,7 @@ aijobriskmap.com.</p>
 
 def build_embed_hub(present, stats_by_cc):
     title = "Embed & Download AI Job Risk Maps — Free for Journalists & Bloggers"
-    desc = ("Download free high-resolution AI job risk maps for 17 countries (CC BY 4.0), embed the "
+    desc = ("Download free high-resolution AI job risk maps for 42 countries (CC BY 4.0), embed the "
             "interactive map, and grab ready-to-use citations. One minute to publish.")
     # Per-country data for the JS-driven snippet + citation builders.
     countries_js = json.dumps(
@@ -885,7 +1099,7 @@ def build_embed_hub(present, stats_by_cc):
 <a class="back" href="/">&larr; Back to the map</a>
 <h1>Embed &amp; download AI Job Risk Maps &mdash; free for journalists &amp; bloggers</h1>
 <p class="lead">Everything you need to publish in about a minute: free high-resolution maps for
-17 countries, an interactive embed, and ready-to-paste citations. Free to use with attribution.</p>
+42 countries, an interactive embed, and ready-to-paste citations. Free to use with attribution.</p>
 
 <h2>1. Interactive embed</h2>
 <label for="ctry">Country</label>
@@ -992,7 +1206,7 @@ def build_llms(present, stats_by_cc):
         f"# {SITE_NAME}",
         "",
         "> Interactive treemaps showing how exposed each occupation is to generative AI "
-        "across 17 countries. Every occupation is scored 0–10 by combining two open research "
+        "across 42 countries. Every occupation is scored 0–10 by combining two open research "
         "datasets — the ILO's Working Paper 140 index and OpenAI's \"GPTs are GPTs\" "
         "task-exposure study — mapped onto each country's official occupation classification "
         "and ranked on a single global percentile scale so the numbers stay comparable "
@@ -1011,7 +1225,7 @@ def build_llms(present, stats_by_cc):
         "## About",
         f"- [Methodology & sources]({DOMAIN}/methodology.html): how the 0–10 AI exposure score is "
         "computed, data sources, and how each country is mapped to ISCO-08.",
-        f"- [Full dataset (CSV)]({DATASET_URL}): every occupation in all 17 countries with its "
+        f"- [Full dataset (CSV)]({DATASET_URL}): every occupation in all 42 countries with its "
         "AI-exposure score, percentile, workforce and average pay.",
         "",
     ]
@@ -1049,8 +1263,8 @@ def dataset_ld_country(cc, name, st, has_png):
 def dataset_ld_global(present):
     return {
         "@context": "https://schema.org", "@type": "Dataset",
-        "name": "AI Job Risk Map — 17 Countries, 5000+ Occupations",
-        "description": ("Interactive treemap of AI exposure for 5000+ occupations across 17 "
+        "name": "AI Job Risk Map — 42 Countries, 5000+ Occupations",
+        "description": ("Interactive treemap of AI exposure for 5000+ occupations across 42 "
                         "countries, based on ILO Working Paper 140 and OpenAI's GPTs are GPTs study."),
         "url": DOMAIN + "/",
         "keywords": ["AI job risk map", "AI exposure by country", "jobs at risk from AI"],
@@ -1184,7 +1398,7 @@ def main():
             f'<p><a href="{DOMAIN}/country/{slug}/">Source: AI Job Risk Map — {name}</a></p>')
         cfg = {
             "cc": cc, "countryName": name, "currency": currency, "symbol": symbol,
-            "sourceHtml": source, "dataUrl": "data.json", "aboutUrl": "/methodology.html",
+            "sourceHtml": sidebar_source_html(cc), "dataUrl": "data.json", "aboutUrl": "/methodology.html",
             "ver": VER, "embedSnippet": embed_snippet,
             "countries": [{"cc": c, "name": COUNTRY_META[c][0], "url": f"/country/{SLUG[c]}/",
                            "flag": FLAG.get(c, "")}
@@ -1239,7 +1453,7 @@ def main():
         #    data.json, no sidebar/second-screen, noindex to avoid duplicate content) ──
         ecfg = {
             "cc": cc, "countryName": name, "currency": currency, "symbol": symbol,
-            "sourceHtml": source, "dataUrl": f"/country/{slug}/data.json",
+            "sourceHtml": sidebar_source_html(cc), "dataUrl": f"/country/{slug}/data.json",
             "aboutUrl": "/methodology.html", "ver": VER, "embed": True, "countries": [],
         }
         epage = (template
@@ -1278,7 +1492,9 @@ def main():
 
     # ── Methodology + About pages (distinct: how it's computed vs what it is) ──
     with open(os.path.join(DIST, "methodology.html"), "w", encoding="utf-8") as f:
-        f.write(METHODOLOGY_HTML.replace("__DOMAIN__", DOMAIN).replace("__FOOTER__", build_footer()))
+        f.write(METHODOLOGY_HTML.replace("__DOMAIN__", DOMAIN)
+                .replace("__SOURCES_SECTION__", methodology_sources_section(present))
+                .replace("__FOOTER__", build_footer()))
     with open(os.path.join(DIST, "about.html"), "w", encoding="utf-8") as f:
         f.write(build_about())
     print("  methodology.html, about.html written")

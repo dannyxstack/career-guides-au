@@ -44,13 +44,16 @@ SECTIONS = [
      "End by noting exposure is a starting point for thinking about complementary skills, not a "
      "prediction about any individual's job."),
     ("compare",
-     "Which countries and industries are most exposed",
-     "Using ONLY the per-country averages and industry figures in the FACTS block, describe how "
-     "generative-AI exposure varies across the 13 countries and which kinds of industries sit at "
-     "the top and bottom of the range. Explain WHY office- and information-heavy economies score "
-     "higher while economies weighted toward physical, manual or in-person work score lower. Do "
-     "not rank the countries beyond what the figures support, and do not state a difference is "
-     "large or small unless the numbers show it."),
+     "Which industries are most exposed",
+     "Using ONLY the industry figures in the FACTS block, describe which kinds of industries sit at "
+     "the top and bottom of the AI-exposure range and WHY. Keep the focus on industries, not on "
+     "ranking individual countries. Explain why office- and information-heavy sectors (such as IT "
+     "and digital, and business, finance and legal) score higher, while sectors weighted toward "
+     "physical, manual or in-person work (such as trades and construction, agriculture, healthcare "
+     "and care, hospitality and transport) score lower. You may note that the spread across "
+     "industries is much wider than the spread across countries, so the type of work matters more "
+     "for exposure than the country a worker is in. Do not state a difference is large or small "
+     "unless the numbers show it, and do not invent any figure."),
     ("advice",
      "What high exposure means for workers — and the limits of the data",
      "Explain what a worker in a highly exposed role should take from this, in practical, "
