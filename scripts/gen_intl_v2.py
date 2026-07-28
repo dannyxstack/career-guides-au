@@ -3,7 +3,7 @@
 
 运行：$env:LLM_PROVIDER="deepseek"; python -m scripts.gen_intl_v2 --country CH --codes 2512,2611,3112 [--limit N]
 """
-import sys, os, json, argparse, time, re
+import sys, os, json, argparse, time, re, hashlib
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
 from db.connection import get_cursor
 from scripts._seed_helper_v2 import seed_occupation_en
@@ -26,6 +26,46 @@ COUNTRY = {
     "IN": {"name": "India", "currency": "INR", "occ_type": "NCO2015",
            "official": "MoSPI Periodic Labour Force Survey (PLFS) & NSSO, NCO-2015 (Directorate General of Employment, Ministry of Labour & Employment)",
            "visa": "Employment Visa / E-Visa (high-skill, ~USD 25k min annual salary threshold) / Intra-Company Transfer / Business Visa / OCI & PIO for persons of Indian origin. India has no points-based skilled-migration scheme; inbound work authorisation is employer-sponsored and largely restricted to specialist roles"},
+    # BR/MX：骨架统一 ISCO-08（occ_code_type=ISCO08）；本国分类(CBO/SINCO)仅作 official 数据参照。
+    # native_locale：把 LLM 产出的本国语言职业名(name_local)直灌该语种 TM，translate_v2 不再重译。
+    "BR": {"name": "Brazil", "currency": "BRL", "native_locale": "pt", "native_lang": "Brazilian Portuguese",
+           "official": "IBGE / PNAD Contínua (Continuous National Household Sample Survey), CBO (Classificação Brasileira de Ocupações, Ministério do Trabalho e Emprego)",
+           "visa": "Employer-sponsored work visa VITEM V (temporary residence for work) / Mercosur Residence Agreement (regional free movement) / CNIg professional authorisation. Brazil has no points-based skilled-migration scheme; inbound work authorisation is employer-sponsored"},
+    "MX": {"name": "Mexico", "currency": "MXN", "native_locale": "es", "native_lang": "Mexican Spanish",
+           "official": "INEGI / ENOE (National Survey of Occupation and Employment), SINCO (Sistema Nacional de Clasificación de Ocupaciones)",
+           "visa": "Employer-sponsored Temporary Resident Visa with work permit (INM, via job offer) / Permanent Resident by points or family. Mexico has no dedicated points-based skilled-migration route for most roles; inbound work authorisation is employer-sponsored"},
+    "CN": {"name": "China", "currency": "CNY", "native_locale": "zh-CN", "native_lang": "Simplified Chinese",
+           "official": "National Bureau of Statistics (国家统计局) / China Population Census Yearbook 2020, MOHRSS CSCO occupation classification (GB/T 6565)",
+           "visa": "Employer-sponsored Z work visa via the Foreigner's Work Permit (tiered A/B/C talent classification) / R visa for high-level foreign talent. China has no points-based skilled-migration or general PR route; inbound work authorisation is employer-sponsored"},
+    # 北欧5国：骨架统一 ISCO-08；官方薪资/就业来自各国统计局(见 downloads/{cc}/{cc}_by_isco.json)，
+    # 数字零 LLM；native_locale 灌本国语言职业名进 TM。
+    "NO": {"name": "Norway", "currency": "NOK", "native_locale": "nb", "native_lang": "Norwegian (Bokmål)",
+           "official": "Statistics Norway (SSB), STYRK-08 occupations — earnings table 11418 & employment table 11658; NAV Business Survey shortage data",
+           "visa": "EEA/EFTA free movement (EU/EEA nationals) / Skilled Worker residence permit (job offer, completed degree or trade certificate, salary threshold) / Jobseeker permit. Norway is in the EEA/EFTA but not the EU"},
+    "SE": {"name": "Sweden", "currency": "SEK", "native_locale": "sv", "native_lang": "Swedish",
+           "official": "Statistics Sweden (SCB), SSYK 2012 (→ISCO-08) — wage structure & YREG employment; Swedish Public Employment Service Occupational Barometer",
+           "visa": "EU/EEA free movement / employer-tied Work Permit (job offer meeting collective-agreement pay) / EU Blue Card for the highly qualified"},
+    "FI": {"name": "Finland", "currency": "EUR", "native_locale": "fi", "native_lang": "Finnish",
+           "official": "Statistics Finland, Classification of Occupations 2010 (ISCO-08 based) — Structure of Earnings & register-based employment; Labour Force Barometer",
+           "visa": "EU/EEA free movement / Residence permit for an employed person (TTOL) / Specialist & EU Blue Card routes / D-visa fast track"},
+    "DK": {"name": "Denmark", "currency": "DKK", "native_locale": "da", "native_lang": "Danish",
+           "official": "Statistics Denmark, DISCO-08 occupations — LONS20 earnings; SIRI Positive Lists (shortage)",
+           "visa": "EU/EEA free movement / Pay Limit Scheme / Positive List (skilled & higher-education shortage) / Fast-track & Researcher schemes. Denmark has EU opt-outs but labour free movement applies"},
+    "IS": {"name": "Iceland", "currency": "ISK", "native_locale": "is", "native_lang": "Icelandic",
+           "official": "Statistics Iceland, Istarf95/ISCO-88 occupations (mapped to ISCO-08 via ILO crosswalk) — VIN02001 earnings",
+           "visa": "EEA/EFTA free movement (EU/EEA nationals) / work & residence permit for qualified professionals tied to a job offer & labour-market test. Iceland is in the EEA/EFTA but not the EU"},
+    # CZ/HU/SG：四位 ISCO 官方薪资可得，升级为完整管线（官方薪资 + 规则评分 + LLM 文案）。
+    # SG 工作语言即英文 → native_locale=None（不灌本地名）；CZ 官方捷克名已在 by_isco.json，
+    # gen_nordic_official 运行时优先取官方 name_local。
+    "CZ": {"name": "Czechia", "currency": "CZK", "native_locale": "cs", "native_lang": "Czech",
+           "official": "Czech Statistical Office (ČSÚ) & ISPV Regional Wage Survey 2025 (private + public sector), CZ-ISCO (ISCO-08) occupations; Eurostat LFS employment",
+           "visa": "EU/EEA free movement / Employee Card (long-term work & residence, job offer) / EU Blue Card for the highly qualified / Intra-Company Transfer"},
+    "HU": {"name": "Hungary", "currency": "HUF", "native_locale": "hu", "native_lang": "Hungarian",
+           "official": "Hungarian Central Statistical Office (KSH) 2023 gross earnings by occupation, HSCO'08 (ISCO-08 aligned); Eurostat LFS employment",
+           "visa": "EU/EEA free movement / Work & residence permit (job offer) / EU Blue Card / Guest Worker permit for non-EU nationals"},
+    "SG": {"name": "Singapore", "currency": "SGD", "native_locale": None, "native_lang": "English",
+           "official": "Ministry of Manpower (MOM) Occupational Wage Survey 2025 & Comprehensive Labour Force Survey, SSOC 2024 (built on ISCO-08); Department of Statistics",
+           "visa": "Employer-sponsored Employment Pass (professionals, points-based COMPASS framework) / S Pass (mid-skill, quota & levy) / Work Permit (semi-skilled). Singapore has no general points-based PR-by-migration route; work authorisation is employer-sponsored"},
 }
 
 
@@ -48,12 +88,18 @@ def build_system(cc):
 def build_prompt(cc, isco, title_en):
     c = COUNTRY[cc]
     dims = ", ".join(DIMS)
+    nl = c.get("native_locale")
+    eng_note = "ALL TEXT IN ENGLISH" if not nl else "ALL TEXT IN ENGLISH except name_local"
+    name_local_line = ""
+    if nl:
+        name_local_line = (f"\n- name_local: the standard {c['native_lang']} occupation name (singular), "
+                           f"as commonly used locally — THIS FIELD ONLY in {c['native_lang']}, everything else in English")
     return f"""{c['name']} ISCO-08 occupation:
 - ISCO code: {isco}
 - English title: {title_en}
 
-Return a JSON object (all fields required, ALL TEXT IN ENGLISH):
-- name: standard English occupation name (singular, Title Case)
+Return a JSON object (all fields required, {eng_note}):
+- name: standard English occupation name (singular, Title Case){name_local_line}
 - summary: one-sentence intro (60-140 words)
 - forecast_note: one paragraph on {c['name']} employment outlook (60-120 words)
 - trend_summary: one paragraph on career/progression path (60-120 words)
@@ -126,17 +172,53 @@ def to_seed(cc, isco, v):
     return OCC, TEXT, EDU, QUAL, SAL, VISA, RAT, v["fit"], v["unfit"], FAQS
 
 
-def run(cc, codes, limit, rest):
+def inject_native_name(cur, en_name, native_locale, name_local, cc):
+    """把本国语言职业名直灌 TM（translate_v2 靠 src_hash=sha1(英文) 判重，预填即跳过重译）。"""
+    if not (native_locale and name_local and en_name):
+        return
+    h = hashlib.sha1(en_name.encode("utf-8")).hexdigest()
+    cur.execute("INSERT INTO translation_src_v2 (src_hash,src_text) VALUES (%s,%s) "
+                "ON DUPLICATE KEY UPDATE src_text=VALUES(src_text)", (h, en_name))
+    cur.execute("INSERT INTO translations_v2 (src_hash,locale,text,gen_model) VALUES (%s,%s,%s,%s) "
+                "ON DUPLICATE KEY UPDATE text=VALUES(text),gen_model=VALUES(gen_model)",
+                (h, native_locale, name_local, f"collected:{cc}"))
+
+
+def archive_path(cc):
+    d = os.path.join(os.path.dirname(__file__), "..", "downloads", cc.lower())
+    os.makedirs(d, exist_ok=True)
+    return os.path.join(d, "collected.json")
+
+
+def load_archive(cc):
+    p = archive_path(cc)
+    if os.path.exists(p):
+        try:
+            return json.load(open(p, encoding="utf-8"))
+        except Exception:
+            return {}
+    return {}
+
+
+def save_archive(cc, arc):
+    json.dump(arc, open(archive_path(cc), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+
+
+def run(cc, codes, limit, rest, archive=False):
     assert cc in COUNTRY, f"暂只支持 {list(COUNTRY)}"
+    c = COUNTRY[cc]
+    native_locale = c.get("native_locale")
     uni = load_universe()
     if codes:
-        targets = [uni[c] for c in codes if c in uni]
+        targets = [uni[c2] for c2 in codes if c2 in uni]
     else:
         targets = list(uni.values())
     if limit:
         targets = targets[:limit]
     system = build_system(cc)
-    print(f"[{cc}] 待生成 {len(targets)} (currency={COUNTRY[cc]['currency']}) model={config.DEEPSEEK_MODEL}", flush=True)
+    print(f"[{cc}] 待生成 {len(targets)} (currency={c['currency']}) "
+          f"native_locale={native_locale or '-'} archive={archive} model={config.DEEPSEEK_MODEL}", flush=True)
+    arc = load_archive(cc) if archive else None
     okc = fail = 0
     for idx, u in enumerate(targets, 1):
         isco, title = u["isco"], u["label_en"]
@@ -146,8 +228,13 @@ def run(cc, codes, limit, rest):
             args = to_seed(cc, isco, v)
             with get_cursor() as cur:
                 occ_id = seed_occupation_en(cur, *args)
+                inject_native_name(cur, v["name"], native_locale, v.get("name_local"), cc)
             okc += 1
-            print(f"  [{tag}] -> {cc} id={occ_id} {v['name']} [{v['category']}] mig={v.get('is_migration')}", flush=True)
+            if arc is not None:
+                arc[isco] = {"isco": isco, "title_en": title, **v}
+                save_archive(cc, arc)
+            nl_show = f" 〔{native_locale}:{v.get('name_local')}〕" if native_locale else ""
+            print(f"  [{tag}] -> {cc} id={occ_id} {v['name']}{nl_show} [{v['category']}] mig={v.get('is_migration')}", flush=True)
         except Exception as e:
             fail += 1
             print(f"  [{tag}] 失败: {e}", flush=True)
@@ -162,5 +249,6 @@ if __name__ == "__main__":
     ap.add_argument("--codes", default="")
     ap.add_argument("--limit", type=int, default=0)
     ap.add_argument("--rest", type=int, default=0)
+    ap.add_argument("--archive", action="store_true", help="归档原始 LLM 输出到 downloads/<cc>/collected.json")
     a = ap.parse_args()
-    run(a.country, [c.strip() for c in a.codes.split(",") if c.strip()] or None, a.limit, a.rest)
+    run(a.country, [c.strip() for c in a.codes.split(",") if c.strip()] or None, a.limit, a.rest, a.archive)
