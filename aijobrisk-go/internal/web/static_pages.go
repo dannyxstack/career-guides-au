@@ -12,12 +12,29 @@ type proseSection struct {
 	B []string
 }
 
+// sourceRowVM 各国数据来源表一行。
+type sourceRowVM struct {
+	Country   string
+	Authority template.HTML
+	Class     string
+	Tier      string // A/B/C
+	TierText  string
+	Pay       string
+}
+
 // AboutVM / MethodologyVM 走 UI 字典（strings）。
 type AboutVM struct {
 	*Ctx
 	Title    string
 	Lead     string
 	Sections []proseSection
+	// 数据来源与权威性
+	SourcesH    string
+	SourcesLead string
+	SourceRows  []sourceRowVM
+	TierAText   string
+	TierBText   string
+	TierCText   string
 }
 
 // About /about。
@@ -34,6 +51,32 @@ func About(w http.ResponseWriter, ctx *Ctx) {
 			{t["abS6h"], []string{t["abS6"]}},
 		},
 	}
+	// 各国数据来源与权威性（全 43 国来源表 + A/B/C 权威分层）
+	yes := data.Tr("Official", ctx.CL)
+	no := "—"
+	for _, cc := range data.SourceOrder() {
+		r, ok := data.SourceOf(cc)
+		if !ok {
+			continue
+		}
+		pay := no
+		if r.OfficialPay {
+			pay = yes
+		}
+		vm.SourceRows = append(vm.SourceRows, sourceRowVM{
+			Country:   data.CountryName(cc, ctx.CL),
+			Authority: data.SourceAuthorityHTML(cc),
+			Class:     r.Class,
+			Tier:      r.Tier,
+			TierText:  data.TierLabel(r.Tier, ctx.CL),
+			Pay:       pay,
+		})
+	}
+	vm.SourcesH = data.Tr("Data sources & authority by country", ctx.CL)
+	vm.SourcesLead = data.Tr("We currently cover 43 countries. Occupation employment and pay come from each country's own official statistics, graded by a three-level authority scale.", ctx.CL)
+	vm.TierAText = data.TierLabel("A", ctx.CL)
+	vm.TierBText = data.TierLabel("B", ctx.CL)
+	vm.TierCText = data.TierLabel("C", ctx.CL)
 	ctx.Active = "about"
 	ctx.Title = "About — AI Job Risk"
 	ctx.Description = t["abLead"]

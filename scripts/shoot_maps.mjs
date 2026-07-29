@@ -33,6 +33,11 @@ const SLUGS = [
   "australia", "united-states", "united-kingdom", "canada", "new-zealand",
   "japan", "south-korea", "germany", "france", "spain", "italy",
   "netherlands", "ireland", "brazil", "mexico", "india", "china",
+  "norway", "sweden", "finland", "denmark", "iceland",
+  "belgium", "austria", "poland", "portugal", "greece", "hungary", "czechia",
+  "romania", "luxembourg", "slovakia", "slovenia", "croatia", "turkey",
+  "argentina", "chile", "malaysia", "indonesia", "thailand", "vietnam", "singapore",
+  "switzerland", "estonia", "latvia", "lithuania",
 ];
 
 const MIME = {

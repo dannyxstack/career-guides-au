@@ -114,13 +114,22 @@ COUNTRY_META = {
            "<strong>Data sources:</strong><br>ILOSTAT (GSO LFS) — ISCO-08 occupations"),
     "SG": ("Singapore", "SGD", "$",
            "<strong>Data sources:</strong><br>ILOSTAT / MOM — ISCO-08 occupations"),
+    "CH": ("Switzerland", "CHF", "CHF ",
+           "<strong>Data sources:</strong><br>Eurostat &amp; ILOSTAT — ISCO-08 occupations"),
+    "EE": ("Estonia", "EUR", "€",
+           "<strong>Data sources:</strong><br>Statistics Estonia PA633 — ISCO-08 occupations"),
+    "LV": ("Latvia", "EUR", "€",
+           "<strong>Data sources:</strong><br>CSB Latvia &amp; Eurostat SES — ISCO-08 occupations"),
+    "LT": ("Lithuania", "EUR", "€",
+           "<strong>Data sources:</strong><br>Statistics Lithuania &amp; Eurostat SES — LPK/ISCO-08 occupations"),
 }
 # Set of countries the site builds. Display order is derived alphabetically by
 # English name at build time (see `present` below), not from this list's order.
 # NOTE: keep NC (country count in the SEO copy below) in sync when adding/removing here.
 ORDER = ["AU", "US", "UK", "CA", "NZ", "JP", "KR", "DE", "FR", "ES", "IT", "NL", "IE", "BR", "MX", "IN", "CN",
          "NO", "SE", "FI", "DK", "IS",
-         "BE", "AT", "PL", "PT", "GR", "HU", "CZ", "RO", "LU", "SK", "SI", "HR", "TR", "AR", "CL", "MY", "ID", "TH", "VN", "SG"]
+         "BE", "AT", "PL", "PT", "GR", "HU", "CZ", "RO", "LU", "SK", "SI", "HR", "TR", "AR", "CL", "MY", "ID", "TH", "VN", "SG",
+         "CH", "EE", "LV", "LT"]
 
 # Public site identity + per-country URL slug (lowercase full name).
 DOMAIN = "https://aijobriskmap.com"
@@ -135,6 +144,7 @@ SLUG = {
     "IN": "india", "CN": "china", "NO": "norway", "SE": "sweden",
     "FI": "finland", "DK": "denmark", "IS": "iceland",
     "BE": "belgium", "AT": "austria", "PL": "poland", "PT": "portugal", "GR": "greece", "HU": "hungary", "CZ": "czechia", "RO": "romania", "LU": "luxembourg", "SK": "slovakia", "SI": "slovenia", "HR": "croatia", "TR": "turkey", "AR": "argentina", "CL": "chile", "MY": "malaysia", "ID": "indonesia", "TH": "thailand", "VN": "vietnam", "SG": "singapore",
+    "CH": "switzerland", "EE": "estonia", "LV": "latvia", "LT": "lithuania",
 }
 
 # Country pages live under /country/{slug}/ so the URL space reads as a hub.
@@ -195,6 +205,10 @@ FLAG = {
     "TH": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 120 60\"><rect width=\"120\" height=\"60\" fill=\"#A51931\"/><rect y=\"10\" width=\"120\" height=\"40\" fill=\"#fff\"/><rect y=\"20\" width=\"120\" height=\"20\" fill=\"#2D2A4A\"/></svg>",
     "VN": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 120 60\"><rect width=\"120\" height=\"60\" fill=\"#DA251D\"/><polygon points=\"60,14 64.7,28.6 80,28.6 67.6,37.6 72.4,52.2 60,43.2 47.6,52.2 52.4,37.6 40,28.6 55.3,28.6\" fill=\"#FFFF00\"/></svg>",
     "SG": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 120 60\"><rect width=\"120\" height=\"60\" fill=\"#EF3340\"/><rect y=\"30\" width=\"120\" height=\"30\" fill=\"#fff\"/><circle cx=\"30\" cy=\"15\" r=\"11\" fill=\"#fff\"/><circle cx=\"35\" cy=\"15\" r=\"9\" fill=\"#EF3340\"/><g fill=\"#fff\"><circle cx=\"42\" cy=\"9\" r=\"1.6\"/><circle cx=\"47\" cy=\"9\" r=\"1.6\"/><circle cx=\"52\" cy=\"9\" r=\"1.6\"/><circle cx=\"42\" cy=\"16\" r=\"1.6\"/><circle cx=\"47\" cy=\"16\" r=\"1.6\"/></g></svg>",
+    "CH": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 120 60\"><rect width=\"120\" height=\"60\" fill=\"#DA291C\"/><rect x=\"53\" y=\"15\" width=\"14\" height=\"30\" fill=\"#fff\"/><rect x=\"45\" y=\"23\" width=\"30\" height=\"14\" fill=\"#fff\"/></svg>",
+    "EE": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 120 60\"><rect width=\"120\" height=\"20\" fill=\"#0072CE\"/><rect y=\"20\" width=\"120\" height=\"20\" fill=\"#000\"/><rect y=\"40\" width=\"120\" height=\"20\" fill=\"#fff\"/></svg>",
+    "LV": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 120 60\"><rect width=\"120\" height=\"60\" fill=\"#9E3039\"/><rect y=\"24\" width=\"120\" height=\"12\" fill=\"#fff\"/></svg>",
+    "LT": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 120 60\"><rect width=\"120\" height=\"20\" fill=\"#FDB913\"/><rect y=\"20\" width=\"120\" height=\"20\" fill=\"#006A44\"/><rect y=\"40\" width=\"120\" height=\"20\" fill=\"#C1272D\"/></svg>",
 }
 
 FAVICON = ('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">'
@@ -260,6 +274,10 @@ SOURCE_INFO = {
     "ID": ("BPS-Statistics Indonesia (Sakernas)", "ISCO-08", "C", False),
     "TH": ("Thailand's National Statistical Office (NSO) Labour Force Survey", "ISCO-08", "C", False),
     "VN": ("Vietnam's General Statistics Office (GSO) Labour Force Survey", "ISCO-08", "C", False),
+    "CH": ("the Swiss Federal Statistical Office (FSO)", "ISCO-08", "B", False),
+    "EE": ("Statistics Estonia (Statistikaamet), PA633 occupational earnings", "ISCO-08", "A", True),
+    "LV": ("the Central Statistical Bureau of Latvia (CSB) &amp; Eurostat SES", "ISCO-08", "B", False),
+    "LT": ("Statistics Lithuania (State Data Agency) &amp; Eurostat SES", "LPK 2023 (ISCO-08)", "B", False),
 }
 
 # AI-mapped (model-assisted ISCO placement) exposure scoring — clearly identified.
@@ -459,7 +477,7 @@ red&nbsp;=&nbsp;high).</li>
 __SOURCES_SECTION__
 
 <h2>Download the data</h2>
-<p>The full scored dataset &mdash; every occupation in all 42 countries, with its AI-exposure score
+<p>The full scored dataset &mdash; every occupation in all 46 countries, with its AI-exposure score
 (0&ndash;10), global percentile, workforce size and average pay &mdash; is available as a single CSV:</p>
 <div class="src">
 <strong><a href="dataset.csv" download>dataset.csv</a></strong> &mdash; one row per occupation across
@@ -835,8 +853,8 @@ def build_landing(present, stats_by_cc):
             f'<span class="cc-exp">Avg exposure '
             f'<b style="color:rgb({r},{g},{b})">{st["weighted_avg"]:.1f}</b><span class="cc-scale">/10</span></span>'
             f'</a>')
-    title = "AI Job Risk Map — how exposed is every job to AI, across 42 countries"
-    desc = ("An interactive map of how exposed jobs are to generative AI in 42 countries. "
+    title = "AI Job Risk Map — how exposed is every job to AI, across 46 countries"
+    desc = ("An interactive map of how exposed jobs are to generative AI in 46 countries. "
             "Every occupation scored 0–10 using ILO and OpenAI research on each country's official data.")
     return f"""<!doctype html>
 <html lang="en">
@@ -896,7 +914,7 @@ h1{{font-size:32px;line-height:1.2;letter-spacing:-.02em;margin:0 0 12px}}
 <div class="wrap">
 <div class="brand"><img src="favicon.svg" alt=""><b>{SITE_NAME}</b></div>
 <h1>Which jobs are most at risk from AI?</h1>
-<p class="lead">An interactive treemap of every occupation in 42 countries. We score each job&rsquo;s
+<p class="lead">An interactive treemap of every occupation in 46 countries. We score each job&rsquo;s
 <b>AI risk</b> by its <b>exposure</b> to generative AI &mdash; how much of its day-to-day tasks AI can
 already do &mdash; on a 0&ndash;10 scale, computed from open ILO and OpenAI research and mapped onto
 each country's official statistics. Pick a country:</p>
@@ -939,7 +957,7 @@ def build_og_image(path):
     except Exception:
         title_f = sub_f = dom_f = ImageFont.load_default()
     d.text((90, 330), "AI Job Risk Map", font=title_f, fill=(240, 240, 245))
-    d.text((90, 438), "How exposed is every job to AI — 42 countries, one 0–10 scale.",
+    d.text((90, 438), "How exposed is every job to AI — 46 countries, one 0–10 scale.",
            font=sub_f, fill=(154, 154, 166))
     # exposure gradient strip
     for i in range(1020):
@@ -1045,7 +1063,7 @@ def build_about():
 <a class="back" href="/">&larr; Back to the map</a>
 <h1>About AI Job Risk Map</h1>
 <p class="lead">A free, independent atlas of how exposed the world&rsquo;s jobs are to generative AI &mdash;
-5,000+ occupations across 42 countries, on one comparable 0&ndash;10 scale.</p>
+5,000+ occupations across 46 countries, on one comparable 0&ndash;10 scale.</p>
 
 <h2>What it is</h2>
 <p>AI Job Risk Map turns two open, generative-AI-era research datasets into an interactive picture of the
@@ -1086,7 +1104,7 @@ aijobriskmap.com.</p>
 
 def build_embed_hub(present, stats_by_cc):
     title = "Embed & Download AI Job Risk Maps — Free for Journalists & Bloggers"
-    desc = ("Download free high-resolution AI job risk maps for 42 countries (CC BY 4.0), embed the "
+    desc = ("Download free high-resolution AI job risk maps for 46 countries (CC BY 4.0), embed the "
             "interactive map, and grab ready-to-use citations. One minute to publish.")
     # Per-country data for the JS-driven snippet + citation builders.
     countries_js = json.dumps(
@@ -1099,7 +1117,7 @@ def build_embed_hub(present, stats_by_cc):
 <a class="back" href="/">&larr; Back to the map</a>
 <h1>Embed &amp; download AI Job Risk Maps &mdash; free for journalists &amp; bloggers</h1>
 <p class="lead">Everything you need to publish in about a minute: free high-resolution maps for
-42 countries, an interactive embed, and ready-to-paste citations. Free to use with attribution.</p>
+46 countries, an interactive embed, and ready-to-paste citations. Free to use with attribution.</p>
 
 <h2>1. Interactive embed</h2>
 <label for="ctry">Country</label>
@@ -1206,7 +1224,7 @@ def build_llms(present, stats_by_cc):
         f"# {SITE_NAME}",
         "",
         "> Interactive treemaps showing how exposed each occupation is to generative AI "
-        "across 42 countries. Every occupation is scored 0–10 by combining two open research "
+        "across 46 countries. Every occupation is scored 0–10 by combining two open research "
         "datasets — the ILO's Working Paper 140 index and OpenAI's \"GPTs are GPTs\" "
         "task-exposure study — mapped onto each country's official occupation classification "
         "and ranked on a single global percentile scale so the numbers stay comparable "
@@ -1225,7 +1243,7 @@ def build_llms(present, stats_by_cc):
         "## About",
         f"- [Methodology & sources]({DOMAIN}/methodology.html): how the 0–10 AI exposure score is "
         "computed, data sources, and how each country is mapped to ISCO-08.",
-        f"- [Full dataset (CSV)]({DATASET_URL}): every occupation in all 42 countries with its "
+        f"- [Full dataset (CSV)]({DATASET_URL}): every occupation in all 46 countries with its "
         "AI-exposure score, percentile, workforce and average pay.",
         "",
     ]

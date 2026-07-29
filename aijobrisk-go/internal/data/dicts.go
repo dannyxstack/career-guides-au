@@ -3,6 +3,7 @@ package data
 import (
 	"html/template"
 	"path/filepath"
+	"strings"
 
 	"aijobrisk/internal/model"
 )
@@ -26,16 +27,16 @@ type uiI18nEntry struct {
 }
 
 var (
-	dimLabelD  map[string]map[string]string
-	dimDescD   map[string]map[string]string
-	disTypeD   map[string]map[string]string
-	disLevelD  map[string]map[string]string
-	uiBase     map[string]map[string]string // en / zh-CN 母本
-	uiI18n     map[string]uiI18nEntry       // 其余语言
-	sourcesD   map[string]Bi
-	rankingsD  map[string]rankingDef
-	migTextD   map[string]map[string]Bi
-	countryFlag map[string]string
+	dimLabelD    map[string]map[string]string
+	dimDescD     map[string]map[string]string
+	disTypeD     map[string]map[string]string
+	disLevelD    map[string]map[string]string
+	uiBase       map[string]map[string]string // en / zh-CN 母本
+	uiI18n       map[string]uiI18nEntry       // 其余语言
+	sourcesD     map[string]Bi
+	rankingsD    map[string]rankingDef
+	migTextD     map[string]map[string]Bi
+	countryFlag  map[string]string
 	countryNameD map[string]Bi
 )
 
@@ -48,6 +49,11 @@ var DimOrder = []string{
 var currencySym = map[string]string{
 	"AU": "$", "NZ": "$", "CA": "$", "US": "$", "UK": "£", "DE": "€", "FR": "€",
 	"ES": "€", "IT": "€", "NL": "€", "IE": "€", "JP": "¥", "KR": "₩",
+	"BR": "R$", "MX": "$", "IN": "₹", "CN": "¥",
+	"NO": "kr", "SE": "kr", "FI": "€", "DK": "kr", "IS": "kr",
+	"BE": "€", "AT": "€", "PL": "zł", "PT": "€", "GR": "€", "HU": "Ft", "CZ": "Kč",
+	"RO": "lei", "LU": "€", "SK": "€", "SI": "€", "HR": "€", "TR": "₺",
+	"AR": "$", "CL": "$", "MY": "RM", "ID": "Rp", "TH": "฿", "VN": "₫", "SG": "$",
 }
 
 func loadDicts() error {
@@ -78,6 +84,13 @@ func loadDicts() error {
 	}
 	if err := d("COUNTRY_FLAG.json", &countryFlag); err != nil {
 		return err
+	}
+	// 归一化：部分后加国（BR/MX/IN/CN）的国旗 SVG 缺 class="flagsvg"，
+	// 导致 CSS 尺寸规则不生效、渲染为 0 宽。补齐后所有国旗一致。
+	for cc, svg := range countryFlag {
+		if strings.HasPrefix(svg, "<svg") && !strings.Contains(svg, "flagsvg") {
+			countryFlag[cc] = strings.Replace(svg, "<svg", `<svg class="flagsvg"`, 1)
+		}
 	}
 	if err := d("COUNTRY_NAME.json", &countryNameD); err != nil {
 		return err
@@ -215,9 +228,13 @@ func migText(country, key, locale string) string {
 	return ""
 }
 
-func MigRestrictedOccOf(country, locale string) string  { return migText(country, "restrictedOcc", locale) }
-func MigRestrictedNoteOf(country, locale string) string { return migText(country, "restrictedNote", locale) }
-func NonMigVisaOf(country, locale string) string        { return migText(country, "nonMigVisa", locale) }
+func MigRestrictedOccOf(country, locale string) string {
+	return migText(country, "restrictedOcc", locale)
+}
+func MigRestrictedNoteOf(country, locale string) string {
+	return migText(country, "restrictedNote", locale)
+}
+func NonMigVisaOf(country, locale string) string { return migText(country, "nonMigVisa", locale) }
 
 // RankName / RankSub / RankWhy 榜单文案。
 func RankName(key, locale string) string { return biPick(rankingsD[key].Name, locale) }
@@ -251,6 +268,44 @@ func RadarValues(o *model.Occ) []float64 {
 	}
 	out := make([]float64, len(DimOrder))
 	for i, d := range DimOrder {
+		out[i] = m[d]
+	}
+	return out
+}
+
+// dimOrderFor 按国家移民档位返回维度顺序：非"经典移民国"去掉
+// pr_friendliness / pr_difficulty 两个永居相关维度。
+func dimOrderFor(cc string) []string {
+	if MigrationTier(cc) == "full" {
+		return DimOrder
+	}
+	out := make([]string, 0, len(DimOrder))
+	for _, d := range DimOrder {
+		if d == "pr_friendliness" || d == "pr_difficulty" {
+			continue
+		}
+		out = append(out, d)
+	}
+	return out
+}
+
+// RadarLabelsFor / RadarValuesFor 国家感知版（对齐 dimOrderFor）。
+func RadarLabelsFor(cc, locale string) []string {
+	order := dimOrderFor(cc)
+	out := make([]string, len(order))
+	for i, d := range order {
+		out[i] = DimLabel(d, locale)
+	}
+	return out
+}
+func RadarValuesFor(cc string, o *model.Occ) []float64 {
+	m := map[string]float64{}
+	for _, r := range o.Ratings {
+		m[r.Dimension] = r.Stars.V
+	}
+	order := dimOrderFor(cc)
+	out := make([]float64, len(order))
+	for i, d := range order {
 		out[i] = m[d]
 	}
 	return out

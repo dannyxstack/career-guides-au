@@ -3,6 +3,37 @@
   <h1>{{ .Title }}</h1>
   <p class="lead">{{ .Lead }}</p>
   {{ range .Sections }}<section><h2>{{ .H }}</h2>{{ range .B }}<p>{{ . }}</p>{{ end }}</section>{{ end }}
+
+  <section id="data-sources">
+    <h2>{{ .SourcesH }}</h2>
+    <p>{{ .SourcesLead }}</p>
+    <ul class="tier-legend">
+      <li><span class="tier tA">A</span> {{ .TierAText }}</li>
+      <li><span class="tier tB">B</span> {{ .TierBText }}</li>
+      <li><span class="tier tC">C</span> {{ .TierCText }}</li>
+    </ul>
+    <div class="src-scroll">
+      <table class="src-table">
+        <thead><tr>
+          <th>{{ .Tr "Country" }}</th>
+          <th>{{ .Tr "Data source" }}</th>
+          <th>{{ .Tr "Classification" }}</th>
+          <th>{{ .Tr "Authority" }}</th>
+          <th>{{ .Tr "Occupation pay" }}</th>
+        </tr></thead>
+        <tbody>
+          {{ range .SourceRows }}<tr>
+            <td class="c-name">{{ .Country }}</td>
+            <td>{{ .Authority }}</td>
+            <td class="muted">{{ .Class }}</td>
+            <td><span class="tier t{{ .Tier }}" title="{{ .TierText }}">{{ .Tier }}</span></td>
+            <td>{{ .Pay }}</td>
+          </tr>{{ end }}
+        </tbody>
+      </table>
+    </div>
+  </section>
+
   <p class="muted note">Related: <a href="{{ .HrefMethodology }}">how the AI Exposure Index is computed</a> · <a href="{{ .HrefRankings }}">rankings</a> · <a href="{{ .HrefIndustries }}">industries</a>.</p>
 </div>
 <style>
@@ -12,5 +43,14 @@
   .prose h2 { font-size: 1.25rem; margin: 28px 0 8px; }
   .prose p { color: var(--text-body); margin: 0 0 10px; line-height: 1.7; }
   .note { font-size: 0.85rem; margin-top: 24px; }
+  .tier-legend { list-style: none; padding: 0; margin: 8px 0 14px; display: flex; flex-direction: column; gap: 4px; font-size: 0.9rem; color: var(--text-body); }
+  .tier { display: inline-block; min-width: 18px; text-align: center; font-weight: 700; font-size: 0.78rem; padding: 1px 5px; border-radius: 4px; color: #fff; }
+  .tier.tA { background: #16a34a; } .tier.tB { background: #2563eb; } .tier.tC { background: #9ca3af; }
+  .src-scroll { overflow-x: auto; }
+  .src-table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
+  .src-table th, .src-table td { text-align: left; padding: 7px 10px; border-bottom: 1px solid var(--line); vertical-align: top; }
+  .src-table th { font-weight: 600; color: var(--text-muted, #6b7280); white-space: nowrap; }
+  .src-table .c-name { font-weight: 600; white-space: nowrap; }
+  .src-table .muted { color: var(--text-muted, #6b7280); }
 </style>
 {{- end }}

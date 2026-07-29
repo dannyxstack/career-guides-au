@@ -91,7 +91,7 @@
   </section>
   {{ end }}
 
-  <h2 class="by-country">{{ .Tr "Local data by country" }}</h2>
+  <h2 id="region-data" class="by-country">{{ .Tr "Local data by country" }}</h2>
   <div class="tabs" role="tablist">
     {{ range .Tabs }}<a class="tab{{ if .On }} on{{ end }}" role="tab" aria-selected="{{ if .On }}true{{ else }}false{{ end }}" href="{{ .Href }}">
       <span class="flag">{{ .Flag }}</span>{{ .Name }}</a>
@@ -103,7 +103,7 @@
       {{ if .OverallScore }}<span class="pstat">{{ .Tr "Overall" }} <b>{{ .OverallScore }}</b></span>{{ end }}
       {{ if .Workforce }}<span class="pstat">{{ .Tr "Workforce" }} <b>{{ .Workforce }}</b></span>{{ end }}
       {{ if .AvgSalary }}<span class="pstat">{{ .Tr "Avg salary" }} <b>{{ .AvgSalary }}</b></span>{{ end }}
-      <span class="risk-badge {{ .MigBadge.Cls }}">{{ .MigBadge.Text }}</span>
+      {{ if .ShowMigBadge }}<span class="risk-badge {{ .MigBadge.Cls }}">{{ .MigBadge.Text }}</span>{{ end }}
     </div>
 
     <div class="two-col">
@@ -137,6 +137,7 @@
     </table>
     {{ end }}
 
+    {{ if eq .MigMode "full" }}
     <h3><i class="fas fa-passport"></i> {{ .Tr "Migration" }} ({{ .Tr "to" }} {{ .MigCountryName }})</h3>
     {{ if .IsMigration }}
       {{ if .MigNote }}<p class="card muted note">⚠ {{ .MigNote }}</p>{{ end }}
@@ -146,6 +147,11 @@
       </table>
     {{ else }}
       <p class="card muted">{{ .NonMigVisa }}</p>
+    {{ end }}
+    {{ else if eq .MigMode "info" }}
+    <h3><i class="fas fa-passport"></i> {{ .Tr "Immigration pathways" }} ({{ .Tr "to" }} {{ .MigCountryName }})</h3>
+    <p class="card muted">{{ .MigInfoBody }}
+      {{ if .MigInfoURL }}<br><a href="{{ .MigInfoURL }}" target="_blank" rel="nofollow noopener">{{ .MigInfoLink }} →</a>{{ end }}</p>
     {{ end }}
 
     {{ if or .SuitFit .SuitUnfit }}

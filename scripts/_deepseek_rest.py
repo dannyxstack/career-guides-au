@@ -11,7 +11,7 @@ def complete_json(system, prompt, timeout=120):
     url = config.DEEPSEEK_BASE_URL.rstrip("/") + "/chat/completions"
     headers = {"Authorization": f"Bearer {config.require('DEEPSEEK_API_KEY')}",
                "Content-Type": "application/json"}
-    body = {"model": config.DEEPSEEK_MODEL, "max_tokens": 4000,
+    body = {"model": config.DEEPSEEK_MODEL, "max_tokens": 8000,
             "messages": [{"role": "system", "content": system}, {"role": "user", "content": prompt}],
             "response_format": {"type": "json_object"}}
     r = requests.post(url, headers=headers, json=body, timeout=timeout)

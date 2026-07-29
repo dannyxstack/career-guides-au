@@ -17,6 +17,17 @@ POLARITY = {"income_level": 1, "job_demand": 1, "future_prospect": 1, "pr_friend
 AVG_LABELS = {"average salary", "average", "mean", "avg salary"}
 
 
+def pick_avg_salary(salaries):
+    """Treemap 用代表薪资：优先 mean/average 档，缺失时回退 median 档（北欧只有官方 median）。"""
+    for s in salaries:
+        if (s["label"] or "").strip().lower() in AVG_LABELS:
+            return s["min"]
+    for s in salaries:
+        if "median" in (s["label"] or "").strip().lower():
+            return s["min"]
+    return None
+
+
 def _ai_legacy(ai):
     """把 v2 的英文命名 ai 字段重映射为前端沿用的旧键名（*_zh 现装英文母本，过渡期不改前端）。"""
     if not ai:
@@ -82,7 +93,7 @@ def build():
                 "training_zh": b["training_en"],
                 "salaries": [{"label": s["label"], "min": s["min"], "max": s["max"], "note": s["note"]} for s in b["salaries"]],
                 "ratings": ratings, "overall_score": overall_score(ratings),
-                "avg_salary": next((s["min"] for s in b["salaries"] if (s["label"] or "").strip().lower() in AVG_LABELS), None),
+                "avg_salary": pick_avg_salary(b["salaries"]),
                 "visa": [{**v, **({"min_score": inv[b["id"]][v["subclass"]]["min_score"],
                                    "score_asof": inv[b["id"]][v["subclass"]]["asof"]}
                                   if inv.get(b["id"], {}).get(v["subclass"]) else {})} for v in b["visa"]],

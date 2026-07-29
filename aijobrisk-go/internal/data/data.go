@@ -11,12 +11,21 @@ import (
 )
 
 // COUNTRIES 路由支持的国家（对齐 data.ts）。
-var COUNTRIES = []string{"AU", "NZ", "CA", "US", "UK", "DE", "FR", "ES", "IT", "NL", "IE", "JP", "KR"}
+var COUNTRIES = []string{"AU", "NZ", "CA", "US", "UK", "DE", "FR", "ES", "IT", "NL", "IE", "JP", "KR", "BR", "MX", "IN", "CN",
+	"NO", "SE", "FI", "DK", "IS",
+	"BE", "AT", "PL", "PT", "GR", "HU", "CZ", "RO", "LU", "SK", "SI", "HR", "TR",
+	"AR", "CL", "MY", "ID", "TH", "VN", "SG"}
 
 // CURRENCY 国家 -> 本币代码。
 var CURRENCY = map[string]string{
 	"AU": "AUD", "NZ": "NZD", "CA": "CAD", "US": "USD", "UK": "GBP", "DE": "EUR",
 	"FR": "EUR", "ES": "EUR", "IT": "EUR", "NL": "EUR", "IE": "EUR", "JP": "JPY", "KR": "KRW",
+	"BR": "BRL", "MX": "MXN", "IN": "INR", "CN": "CNY",
+	"NO": "NOK", "SE": "SEK", "FI": "EUR", "DK": "DKK", "IS": "ISK",
+	"BE": "EUR", "AT": "EUR", "PL": "PLN", "PT": "EUR", "GR": "EUR", "HU": "HUF", "CZ": "CZK",
+	"RO": "RON", "LU": "EUR", "SK": "EUR", "SI": "EUR", "HR": "EUR", "TR": "TRY",
+	"AR": "ARS", "CL": "CLP", "MY": "MYR", "ID": "IDR", "TH": "THB", "VN": "VND", "SG": "SGD",
+	"CH": "CHF", "EE": "EUR", "LV": "EUR", "LT": "EUR",
 }
 
 var (

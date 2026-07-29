@@ -20,7 +20,7 @@ type disVM struct {
 }
 type adjVM struct{ Name, Href string }
 type tabVM struct {
-	Flag template.HTML
+	Flag       template.HTML
 	Name, Href string
 	On         bool
 }
@@ -44,27 +44,27 @@ type listCard struct {
 // JobVM 职业详情视图模型。
 type JobVM struct {
 	*Ctx
-	DispName, Nm  string
-	ShowLatin     bool
-	DataUpdated   string
-	CatName       string
-	CatURL        string
-	CodeLabel     string
-	OccCodeType   string
-	CountriesLen  int
-	HasHeadline   bool
-	HeadlinePct   int
-	BandCls       string
-	BandLabelTr   string
+	DispName, Nm string
+	ShowLatin    bool
+	DataUpdated  string
+	CatName      string
+	CatURL       string
+	CodeLabel    string
+	OccCodeType  string
+	CountriesLen int
+	HasHeadline  bool
+	HeadlinePct  int
+	BandCls      string
+	BandLabelTr  string
 	// meter
-	HasAioe    bool
-	MeterUnit  string
+	HasAioe                                  bool
+	MeterUnit                                string
 	FirstReplaced, FirstAugmented, FirstMoat string
-	AioePct    int
-	Verdict    string
+	AioePct                                  int
+	Verdict                                  string
 	// scores
-	ScoresCls string
-	Scores    []scoreVM
+	ScoresCls          string
+	Scores             []scoreVM
 	Assessment, MapURL string
 	// AI zone
 	HasAI       bool
@@ -74,22 +74,27 @@ type JobVM struct {
 	Disruptors  []disVM
 	Adjacent    []adjVM
 	// country
-	Tabs        []tabVM
+	Tabs []tabVM
 	// active panel
-	OverallScore string
-	Workforce    string
-	AvgSalary    string
-	MigBadge     badgeVM
-	Currency     string
-	RadarSVG     template.HTML
-	Salaries     []salRow
-	Education    []eduRow
-	Qualifications []qualRow
-	MigCountryName string
-	IsMigration    int
-	MigNote        string
-	Visas          []visaRow
-	NonMigVisa     string
+	OverallScore       string
+	Workforce          string
+	AvgSalary          string
+	MigBadge           badgeVM
+	Currency           string
+	RadarSVG           template.HTML
+	Salaries           []salRow
+	Education          []eduRow
+	Qualifications     []qualRow
+	MigCountryName     string
+	IsMigration        int
+	MigNote            string
+	Visas              []visaRow
+	NonMigVisa         string
+	MigMode            string // full=逐职业块 / info=一段话+链接 / none=不显示
+	MigInfoBody        string
+	MigInfoURL         template.URL
+	MigInfoLink        string
+	ShowMigBadge       bool
 	SuitFit, SuitUnfit []string
 	Trend, Forecast    string
 	GrowthAreas        []string
@@ -272,7 +277,9 @@ func Job(w http.ResponseWriter, ctx *Ctx, slug, country string) {
 	for _, o := range countries {
 		vm.Tabs = append(vm.Tabs, tabVM{
 			Flag: data.CountryFlag(o.Country), Name: data.CountryName(o.Country, CL),
-			Href: i18n.HrefJob(ctx.Loc, slug, o.Country), On: o.Country == cc,
+			// 加 #region-data 锚点：切换国家后新页面直接定位到"按国家本地数据"板块，
+			// 而非停在页面顶部。
+			Href: i18n.HrefJob(ctx.Loc, slug, o.Country) + "#region-data", On: o.Country == cc,
 		})
 	}
 
@@ -286,18 +293,24 @@ func Job(w http.ResponseWriter, ctx *Ctx, slug, country string) {
 	if active.AvgSalary.Set {
 		vm.AvgSalary = data.FmtSalary(active.AvgSalary.Ptr(), cc)
 	}
-	switch active.IsMigration {
-	case 1:
-		vm.MigBadge = badgeVM{"low", data.Tr("Skilled migration occupation", CL)}
-	case 2:
-		vm.MigBadge = badgeVM{"moderate", data.MigRestrictedOccOf(cc, CL)}
-	default:
-		vm.MigBadge = badgeVM{"verylow", data.Tr("Not a skilled migration occupation", CL)}
+	// 移民档位：full=经典逐职业块 / info=一段话 / none=不显示。
+	vm.MigMode = data.MigrationTier(cc)
+	// 移民徽章仅经典移民国显示（其余国家的 is_migration 多为占位默认，会误导）。
+	vm.ShowMigBadge = vm.MigMode == "full"
+	if vm.ShowMigBadge {
+		switch active.IsMigration {
+		case 1:
+			vm.MigBadge = badgeVM{"low", data.Tr("Skilled migration occupation", CL)}
+		case 2:
+			vm.MigBadge = badgeVM{"moderate", data.MigRestrictedOccOf(cc, CL)}
+		default:
+			vm.MigBadge = badgeVM{"verylow", data.Tr("Not a skilled migration occupation", CL)}
+		}
 	}
 
-	// radar
-	vm.RadarSVG = RadarSVG(data.RadarLabels(CL),
-		[]RadarSeries{{Name: nm, Color: "#2563eb", Values: data.RadarValues(active)}}, 10, data.Tr("rating radar", CL))
+	// radar（非经典移民国去掉 pr_friendliness / pr_difficulty 两个永居维度）
+	vm.RadarSVG = RadarSVG(data.RadarLabelsFor(cc, CL),
+		[]RadarSeries{{Name: nm, Color: "#2563eb", Values: data.RadarValuesFor(cc, active)}}, 10, data.Tr("rating radar", CL))
 
 	// salary
 	for _, s := range active.Salaries {
@@ -329,21 +342,33 @@ func Job(w http.ResponseWriter, ctx *Ctx, slug, country string) {
 		}
 		vm.Qualifications = append(vm.Qualifications, qualRow{Name: data.Tr(q.Name, CL), Issuer: iss, Mandatory: q.Mandatory})
 	}
-	// migration
-	if active.IsMigration == 2 {
-		vm.MigNote = data.MigRestrictedNoteOf(cc, CL)
-	}
-	if active.IsMigration != 0 {
-		for _, v := range active.Visa {
-			desc := data.Tr(v.Desc, CL)
-			if v.MinScore.Set {
-				desc += fmt.Sprintf(" · ~%d %s (%s, %s)", int(v.MinScore.V), data.Tr("pts competitive cut-off", CL), v.ScoreAsof, data.Tr("indicative", CL))
-			}
-			vm.Visas = append(vm.Visas, visaRow{Subclass: v.Subclass, Name: data.Tr(v.Name, CL), Desc: desc})
+	// migration —— 分档渲染
+	switch vm.MigMode {
+	case "full": // 经典移民国：逐职业签证块
+		if active.IsMigration == 2 {
+			vm.MigNote = data.MigRestrictedNoteOf(cc, CL)
 		}
-	} else {
-		vm.NonMigVisa = data.Tr("Not a skilled migration occupation.", CL) + " " + data.NonMigVisaOf(cc, CL)
+		if active.IsMigration != 0 {
+			for _, v := range active.Visa {
+				desc := data.Tr(v.Desc, CL)
+				if v.MinScore.Set {
+					desc += fmt.Sprintf(" · ~%d %s (%s, %s)", int(v.MinScore.V), data.Tr("pts competitive cut-off", CL), v.ScoreAsof, data.Tr("indicative", CL))
+				}
+				vm.Visas = append(vm.Visas, visaRow{Subclass: v.Subclass, Name: data.Tr(v.Name, CL), Desc: desc})
+			}
+		} else {
+			vm.NonMigVisa = data.Tr("Not a skilled migration occupation.", CL) + " " + data.NonMigVisaOf(cc, CL)
+		}
+	case "info": // 一段话 + 官方链接（不随职业变）
+		if mi, ok := data.MigrationInfoOf(cc, CL); ok {
+			vm.MigInfoBody = mi.Body
+			vm.MigInfoURL = data.SafeURL(mi.URL)
+			vm.MigInfoLink = mi.LinkText
+		}
 	}
+	// case "none": 不显示移民板块
+
+	// FAQ（2030 + active.faqs）——非经典移民国过滤掉移民/签证诱导问答
 	// suitability
 	if active.Suitability != nil {
 		for _, x := range active.Suitability.Fit {
@@ -363,6 +388,10 @@ func Job(w http.ResponseWriter, ctx *Ctx, slug, country string) {
 	q2030, a2030 := data.Build2030(ctx.Loc, dispName, band.Cls, band.Label, aioe, exposure, moat)
 	vm.FAQ = append(vm.FAQ, faqRow{Q: q2030, A: a2030, Open: true})
 	for _, ff := range active.Faqs {
+		// 非经典移民国：过滤掉签证/移民诱导问答（原文英文母本判定）。
+		if vm.MigMode != "full" && isMigrationFAQ(ff.Question, ff.Answer) {
+			continue
+		}
 		vm.FAQ = append(vm.FAQ, faqRow{Q: data.Tr(ff.Question, CL), A: data.Tr(ff.Answer, CL)})
 	}
 
@@ -375,4 +404,13 @@ func Job(w http.ResponseWriter, ctx *Ctx, slug, country string) {
 	renderPage(w, "job.html", vm)
 }
 
-var _ = strings.TrimSpace
+// isMigrationFAQ 判定一条 FAQ 是否为签证/移民诱导问答（按英文母本关键词）。
+func isMigrationFAQ(q, a string) bool {
+	s := strings.ToLower(q + " " + a)
+	for _, kw := range []string{"migrat", "immigra", "visa", "work permit", "permanent resid", "green card", "pr pathway", "skilled migration"} {
+		if strings.Contains(s, kw) {
+			return true
+		}
+	}
+	return false
+}
