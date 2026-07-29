@@ -6,6 +6,7 @@ import (
 	"os"
 	"path/filepath"
 	"sort"
+	"strings"
 
 	"aijobrisk/internal/model"
 )
@@ -183,6 +184,12 @@ func JobBySlug(slug string) *JobGroup {
 
 // GetBySlug 取某国某 slug 的职业。
 func GetBySlug(slug, cc string) *model.Occ { return bySlugCC[slug+"|"+cc] }
+
+// IsNEC 判断是否 n.e.c. 兜底桶（方案 C3 降权：noindex + 不进搜索首屏 + 不入 sitemap）。
+// 语义空泛、彼此高度相似，SEO 价值低但仍可直达（保留页面、仅降权）。
+func IsNEC(slug string) bool {
+	return strings.HasSuffix(slug, "-not-elsewhere-classified") || strings.HasSuffix(slug, "-nec")
+}
 
 // CatSlug 类名 -> slug。
 func CatSlug(c string) string { return CategorySlug[c] }

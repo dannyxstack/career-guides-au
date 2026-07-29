@@ -8,6 +8,7 @@ from datetime import date
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
 from db.connection import get_cursor
 from scripts._i18n_fields_v2 import fetch_bundles
+from scripts.dedup_slug import build_canonical_map
 
 OUT = os.path.join(os.path.dirname(__file__), "..", "site", "src", "data")
 N_TR_SHARDS = 8
@@ -50,6 +51,23 @@ def slug(name):
     s = re.sub(r"[/()\[\]]", " ", (name or "occ").lower())
     s = re.sub(r"[^a-z0-9 ]", "", s)
     return re.sub(r"\s+", "-", s.strip()) or "occ"
+
+
+def _write_dedup_redirects(redirects):
+    """写方案 C1 的 301 产物（CSV + nginx conf），供部署时挂上游。"""
+    docs = os.path.join(os.path.dirname(__file__), "..", "docs")
+    os.makedirs(docs, exist_ok=True)
+    import csv as _csv
+    with open(os.path.join(docs, "dedup-c1-redirects.csv"), "w", newline="", encoding="utf-8") as f:
+        w = _csv.writer(f)
+        w.writerow(["old_slug", "canonical_slug"])
+        for old in sorted(redirects):
+            w.writerow([old, redirects[old]])
+    with open(os.path.join(docs, "nginx-301-dedup-c1.conf"), "w", encoding="utf-8") as f:
+        f.write("# 方案 C1 职业去重 301（ISCO 跨国 canonical，单数 slug）。由 export_site_data_v2 生成。\n")
+        f.write("# 覆盖 /jobs/{old} 与 /jobs/{old}/{cc}；展示语言前缀由上游 map 处理。\n")
+        for old in sorted(redirects):
+            f.write(f"rewrite ^/jobs/{old}(/.*)?$ /jobs/{redirects[old]}$1 permanent;\n")
 
 
 def overall_score(ratings):
@@ -102,6 +120,30 @@ def build():
                 "faqs": [{"type": f["type"], "question": f["question"], "answer": f["answer"]} for f in b["faqs"]],
                 "ai": _ai_legacy(b.get("ai")),
             })
+
+        # 方案 C1：ISCO 跨国 canonical slug 去重（单数 URL；name_en 不动）。
+        # 按 occ_code 归一（每条 ISCO 记录 slug := 该码 canonical），彻底消除
+        # 少数记录借用邻近码 nec-slug 造成的跨码撞车。在建 adjacent/also 引用前做。
+        _, code_canon = build_canonical_map(out)
+        orig = {}
+        n_remap = 0
+        for o in out:
+            if o["occ_code_type"] == "ISCO08":
+                canon = code_canon.get(o["occ_code"], o["slug"])
+                orig[o["id"]] = o["slug"]
+                if o["slug"] != canon:
+                    o["slug"] = canon
+                    n_remap += 1
+        # 旧 slug → canonical 重定向（仅对归一后不再存活的旧 slug 发 301）。
+        live = set(o["slug"] for o in out)
+        redirects = {}
+        for o in out:
+            if o["occ_code_type"] == "ISCO08":
+                s = orig[o["id"]]
+                if s not in live and s not in redirects:
+                    redirects[s] = code_canon[o["occ_code"]]
+        _write_dedup_redirects(redirects)
+        print(f"[export_v2] C1 slug 去重：{n_remap} 条记录归一，{len(redirects)} 个旧 slug 301 重定向")
 
         # 相邻职业 & disruptor also（同旧逻辑）
         code_map = {(o["country"], o["occ_code"]): o for o in out}

@@ -49,6 +49,10 @@ func Search(w http.ResponseWriter, ctx *Ctx, q string) {
 		if ql != "" && !strings.Contains(strings.ToLower(name), ql) {
 			continue
 		}
+		// C3：无查询的默认榜单剔除 n.e.c. 兜底桶（仍可被检索命中）。
+		if ql == "" && data.IsNEC(slug) {
+			continue
+		}
 		var aioe *float64
 		if grp.Rep.AI != nil {
 			aioe = grp.Rep.AI.AioePct.Ptr()

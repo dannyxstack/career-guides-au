@@ -118,6 +118,7 @@ func Job(w http.ResponseWriter, ctx *Ctx, slug, country string) {
 		notFound(w, ctx)
 		return
 	}
+	ctx.Noindex = data.IsNEC(slug) // C3：n.e.c. 兜底桶降权
 	rep := data.OccFull(group.Rep)
 	ai := rep.AI
 	nm := rep.NameEn

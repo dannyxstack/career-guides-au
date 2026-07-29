@@ -32,6 +32,7 @@ type Ctx struct {
 	Bare        string // 去语言前缀的英文裸路径
 	Query       string // 原始 query（含 ? 或空）
 	JSONLD      template.JS
+	Noindex     bool // 方案 C3：n.e.c. 兜底桶页面 noindex,follow
 }
 
 func (c *Ctx) Tr(s string) string  { return data.Tr(s, c.CL) }

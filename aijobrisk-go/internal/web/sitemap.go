@@ -36,6 +36,9 @@ func pagePaths() []string {
 func jobGlobalPaths() []string {
 	out := make([]string, 0, len(data.JobSlugs))
 	for _, s := range data.JobSlugs {
+		if data.IsNEC(s) { // C3：n.e.c. 不入 sitemap
+			continue
+		}
 		out = append(out, "/jobs/"+s)
 	}
 	return out
@@ -48,7 +51,7 @@ func jobCountryPaths() []string {
 	}
 	var out []string
 	for _, o := range data.Occupations {
-		if set[o.Country] {
+		if set[o.Country] && !data.IsNEC(o.Slug) { // C3：n.e.c. 不入 sitemap
 			out = append(out, "/jobs/"+o.Slug+"/"+o.Country)
 		}
 	}
