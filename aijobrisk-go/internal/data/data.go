@@ -37,6 +37,7 @@ var (
 	bySlugCC    map[string]*model.Occ        // "slug|cc" -> occ
 	Categories  []string                     // 职业族
 	CategorySlug map[string]string           // 类名 -> slug
+	slugRedirects map[string]string          // 去重旧 slug -> canonical（应用层 301，nginx 解耦）
 )
 
 // DataDir 返回数据根目录。
@@ -120,6 +121,10 @@ func Load(dir string) error {
 	Categories = catDoc.Categories
 	CategorySlug = catDoc.CategorySlug
 
+	// 去重重定向表（可选：旧数据无此文件时静默跳过）。
+	slugRedirects = map[string]string{}
+	_ = readJSON("slug_redirects.json", &slugRedirects)
+
 	initComparePairs()
 
 	if err := loadTranslations(); err != nil {
@@ -184,6 +189,12 @@ func JobBySlug(slug string) *JobGroup {
 
 // GetBySlug 取某国某 slug 的职业。
 func GetBySlug(slug, cc string) *model.Occ { return bySlugCC[slug+"|"+cc] }
+
+// RedirectSlug 返回去重后的 canonical slug（命中旧 slug 时 ok=true），供应用层 301。
+func RedirectSlug(old string) (string, bool) {
+	c, ok := slugRedirects[old]
+	return c, ok
+}
 
 // IsNEC 判断是否 n.e.c. 兜底桶（方案 C3 降权：noindex + 不进搜索首屏 + 不入 sitemap）。
 // 语义空泛、彼此高度相似，SEO 价值低但仍可直达（保留页面、仅降权）。

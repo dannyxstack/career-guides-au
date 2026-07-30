@@ -115,6 +115,12 @@ func Job(w http.ResponseWriter, ctx *Ctx, slug, country string) {
 	CL := ctx.CL
 	group := data.JobBySlug(slug)
 	if group == nil {
+		// 去重旧 slug → canonical：应用层 301（保留语言前缀、国家段与 query），nginx 不耦合业务数据。
+		if canon, ok := data.RedirectSlug(slug); ok {
+			w.Header().Set("Location", i18n.HrefJob(ctx.Loc, canon, country)+ctx.Query)
+			w.WriteHeader(http.StatusMovedPermanently)
+			return
+		}
 		notFound(w, ctx)
 		return
 	}

@@ -64,10 +64,14 @@ def _write_dedup_redirects(redirects):
         for old in sorted(redirects):
             w.writerow([old, redirects[old]])
     with open(os.path.join(docs, "nginx-301-dedup-c1.conf"), "w", encoding="utf-8") as f:
-        f.write("# 方案 C1 职业去重 301（ISCO 跨国 canonical，单数 slug）。由 export_site_data_v2 生成。\n")
-        f.write("# 覆盖 /jobs/{old} 与 /jobs/{old}/{cc}；展示语言前缀由上游 map 处理。\n")
+        f.write("# 方案 C1+C2 职业去重 301（ISCO canonical + 单数归一）。由 export_site_data_v2 生成。\n")
+        f.write("# 备份口径：301 已在 Go 应用层处理（slug_redirects.json），nginx 不必挂本文件。\n")
         for old in sorted(redirects):
             f.write(f"rewrite ^/jobs/{old}(/.*)?$ /jobs/{redirects[old]}$1 permanent;\n")
+    # Go 应用层 301 的数据源（nginx 与业务数据解耦：重定向由 aijobrisk-go 读此表处理）。
+    os.makedirs(OUT, exist_ok=True)
+    with open(os.path.join(OUT, "slug_redirects.json"), "w", encoding="utf-8") as f:
+        json.dump(redirects, f, ensure_ascii=False)
 
 
 def overall_score(ratings):
