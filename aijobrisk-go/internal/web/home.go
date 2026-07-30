@@ -8,7 +8,12 @@ import (
 	"aijobrisk/internal/data"
 )
 
-type tagVM struct{ Icon, Name, Href string }
+type tagVM struct {
+	Icon, Name, Href   string
+	HasPct             bool
+	Pct                int
+	BorderColor        string
+}
 type rankVM struct{ Icon, Name, Href string; Pct int }
 type hotVM struct {
 	Name, CatIcon, CatName, Href string
@@ -132,7 +137,12 @@ func Home(w http.ResponseWriter, ctx *Ctx) {
 			continue
 		}
 		seenCat[g.cat] = true
-		hotTags = append(hotTags, tagVM{Icon: data.CategoryIcon(g.cat), Name: g.name, Href: ctx.HrefJob(g.slug)})
+		t := tagVM{Icon: data.CategoryIcon(g.cat), Name: g.name, Href: ctx.HrefJob(g.slug), BorderColor: "var(--line)"}
+		if g.exp != nil { // 按 AI 暴露分给边框上色 + 显示风险值（同热门卡分级）
+			t.HasPct, t.Pct = true, int(*g.exp+0.5)
+			t.BorderColor = pctColor(t.Pct)
+		}
+		hotTags = append(hotTags, t)
 		if len(hotTags) >= 6 {
 			break
 		}
