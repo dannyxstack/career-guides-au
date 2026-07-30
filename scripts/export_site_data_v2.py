@@ -8,7 +8,7 @@ from datetime import date
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
 from db.connection import get_cursor
 from scripts._i18n_fields_v2 import fetch_bundles
-from scripts.dedup_slug import build_canonical_map
+from scripts.dedup_slug import build_canonical_map, build_singular_map
 
 OUT = os.path.join(os.path.dirname(__file__), "..", "site", "src", "data")
 N_TR_SHARDS = 8
@@ -54,7 +54,7 @@ def slug(name):
 
 
 def _write_dedup_redirects(redirects):
-    """写方案 C1 的 301 产物（CSV + nginx conf），供部署时挂上游。"""
+    """写职业去重的 301 产物（CSV + nginx conf，含 C1 ISCO canonical + C2 单数归一），供部署时挂上游。"""
     docs = os.path.join(os.path.dirname(__file__), "..", "docs")
     os.makedirs(docs, exist_ok=True)
     import csv as _csv
@@ -142,8 +142,24 @@ def build():
                 s = orig[o["id"]]
                 if s not in live and s not in redirects:
                     redirects[s] = code_canon[o["occ_code"]]
+        # 方案 C2：全类型单数归一（非 ISCO 国的复数/异形 slug 并入 ISCO 单数 canonical）。
+        # 在 C1 之后跑（ISCO slug 已是单数）；仅对存在 2+ 变体的重复组归一。
+        orig2 = {o["id"]: o["slug"] for o in out}
+        smap = build_singular_map(out)
+        n_remap2 = 0
+        for o in out:
+            c2 = smap.get(o["slug"])
+            if c2 and c2 != o["slug"]:
+                o["slug"] = c2
+                n_remap2 += 1
+        live = set(o["slug"] for o in out)
+        for o in out:
+            s = orig2[o["id"]]
+            if s != o["slug"] and s not in live and s not in redirects:
+                redirects[s] = o["slug"]
         _write_dedup_redirects(redirects)
-        print(f"[export_v2] C1 slug 去重：{n_remap} 条记录归一，{len(redirects)} 个旧 slug 301 重定向")
+        print(f"[export_v2] C1 slug 去重：{n_remap} 条记录归一")
+        print(f"[export_v2] C2 单数归一：{n_remap2} 条记录归一，累计 {len(redirects)} 个旧 slug 301 重定向")
 
         # 相邻职业 & disruptor also（同旧逻辑）
         code_map = {(o["country"], o["occ_code"]): o for o in out}

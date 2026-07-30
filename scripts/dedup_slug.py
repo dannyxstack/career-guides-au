@@ -82,3 +82,28 @@ def build_canonical_map(records):
             if s != canon:
                 remap[s] = canon
     return remap, code_canon
+
+
+def build_singular_map(records):
+    """方案 C2：全类型单数归一。C1 只把 ISCO08 归成单数，非 ISCO 国（SOC/NOC/
+    ANZSCO/…）仍是复数/异形，导致 `photographer`(ISCO) 与 `photographers`(SOC) 并存。
+
+    按 `singular_slug(slug)` 把所有存活 slug 分组；**仅对含 2+ 变体的组**（即真正的
+    重复）归一到该组的单数 canonical，代表 slug = 单数形 `k`（若组内已有成员等于 `k`
+    即沿用，否则以 `k` 作为新 slug）。返回 old_slug -> canonical_singular（仅重复组、
+    且 old != canonical 的条目）。
+
+    与 build_canonical_map 互补：先跑 C1（ISCO 按码归一）再跑本函数（跨分类单数归一），
+    使非 ISCO 国自动并入 ISCO 的 by-country tab。
+    """
+    groups = collections.defaultdict(set)
+    for r in records:
+        groups[singular_slug(r["slug"])].add(r["slug"])
+    remap = {}
+    for k, slugs in groups.items():
+        if len(slugs) < 2:            # 无并存变体，不动（不误改孤立复数 URL）
+            continue
+        for s in slugs:
+            if s != k:
+                remap[s] = k
+    return remap

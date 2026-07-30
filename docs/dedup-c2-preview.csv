@@ -1,0 +1,380 @@
+old_slug,canonical_slug,old_countries,old_types,sample_name_en
+accountants,accountant,1,NCO2015,Accountants
+actors,actor,1,SOC,Actors
+actuaries,actuary,1,SOC,Actuaries
+administrative-assistants,administrative-assistant,1,NOC,Administrative assistants
+advertising-and-marketing-professionals,advertising-and-marketing-professional,1,CNO,Advertising and Marketing Professionals
+advertising-and-public-relations-managers,advertising-and-public-relation-manager,1,NCO2015,Advertising and Public Relations Managers
+aerospace-engineers,aerospace-engineer,3,NOC|SOC,Aerospace engineers
+aged-care-services-manager,aged-care-service-manager,1,NCO2015,Aged Care Services Manager
+agricultural-and-agritech-technicians,agricultural-and-agritech-technician,1,NOC,Agricultural and agritech technicians
+agricultural-and-forestry-production-managers,agricultural-and-forestry-production-manager,1,CNO,Agricultural and Forestry Production Managers
+agricultural-engineers,agricultural-engineer,1,SOC,Agricultural Engineers
+agricultural-technicians,agricultural-technician,1,SOC,Agricultural Technicians
+air-traffic-controllers,air-traffic-controller,2,NOC|SOC,Air traffic controllers
+air-traffic-safety-electronics-technicians,air-traffic-safety-electronics-technician,1,NCO2015,Air Traffic Safety Electronics Technicians
+aircraft-maintenance-engineer-avionics,aircraft-maintenance-engineer-avionic,2,ANZSCO,Aircraft Maintenance Engineer (Avionics)
+aircraft-maintenance-engineers,aircraft-maintenance-engineer,1,NOC,Aircraft maintenance engineers
+aircraft-maintenance-engineers-avionics,aircraft-maintenance-engineer-avionic,1,NOC,Aircraft maintenance engineers (avionics)
+anesthesiologists,anesthesiologist,1,SOC,Anesthesiologists
+animal-caretakers,animal-caretaker,1,SOC,Animal Caretakers
+announcers-on-radio-television-and-other-media,announcer-on-radio-television-and-other-media,1,NCO2015,"Announcers on Radio, Television and Other Media"
+applications-programmer,application-programmer,1,NCO2015,Applications Programmer
+aquaculture-and-fisheries-production-managers,aquaculture-and-fishery-production-manager,1,NCO2015,Aquaculture and Fisheries Production Managers
+architects,architect,1,SOC,Architects
+archivists,archivist,2,NOC|SOC,Archivists
+armed-forces-occupations-other-ranks,armed-forces-occupation-other-rank,1,NCO2015,"Armed Forces Occupations, Other Ranks"
+assemblers-not-elsewhere-classified,assembler-not-elsewhere-classified,1,CNO,Assemblers Not Elsewhere Classified
+astrologers-fortunetellers-and-related-workers,astrologer-fortuneteller-and-related-worker,1,NCO2015,"Astrologers, Fortune-tellers and Related Workers"
+athletes-and-sports-players,athlete-and-sports-player,1,NCO2015,Athletes and Sports Players
+bailiffs,bailiff,1,SOC,Bailiffs
+bakers,baker,2,NOC|SOC,Bakers
+barbers,barber,1,SOC,Barbers
+bartenders,bartender,1,SOC,Bartenders
+bicycle-and-related-repairers,bicycle-and-related-repairer,1,NCO2015,Bicycle and Related Repairers
+bicycle-repairers,bicycle-repairer,1,SOC,Bicycle Repairers
+boilermakers,boilermaker,2,NOC|SOC,Boilermakers
+bookmakers-croupiers-and-related-gaming-workers,bookmaker-croupier-and-related-gaming-worker,1,NCO2015,"Bookmakers, Croupiers and Related Gaming Workers"
+bricklayers,bricklayer,2,NOC|SOC,Bricklayers
+broadcasting-and-audiovisual-technicians,broadcasting-and-audiovisual-technician,1,NCO2015,Broadcasting and Audiovisual Technicians
+building-and-related-electricians,building-and-related-electrician,1,NCO2015,Building and Related Electricians
+bus-and-coach-drivers,bus-and-coach-driver,1,SOC,Bus and coach drivers
+bus-and-tram-drivers,bus-and-tram-driver,1,CNO,Bus and Tram Drivers
+business-services-agent-not-elsewhere-classified,business-service-agent-not-elsewhere-classified,1,NCO2015,Business Services Agent Not Elsewhere Classified
+business-services-and-administration-managers-not-elsewhere-classified,business-service-and-administration-manager-not-elsewhere-classified,1,NCO2015,Business Services and Administration Managers Not Elsewhere Classified
+butchers,butcher,1,SOC,Butchers
+buyers,buyer,1,NCO2015,Buyers
+cabinetmakers-and-related-workers,cabinetmaker-and-related-worker,1,CNO,Cabinetmakers and related workers
+cardiologists,cardiologist,1,SOC,Cardiologists
+carpenters,carpenter,2,NOC|SOC,Carpenters
+carpenters-and-joiners,carpenter-and-joiner,2,NCO2015|SOC,Carpenters and Joiners
+cartographers-and-surveyors,cartographer-and-surveyor,1,NCO2015,Cartographers and Surveyors
+cashiers,cashier,2,NOC|SOC,Cashiers
+cement-stone-and-other-mineral-products-machine-operator,cement-stone-and-other-mineral-product-machine-operator,1,NCO2015,"Cement, Stone and Other Mineral Products Machine Operator"
+chefs,chef,2,NOC|SOC,Chefs
+chemical-and-physical-science-technicians,chemical-and-physical-science-technician,1,NCO2015,Chemical and Physical Science Technicians
+chemical-engineers,chemical-engineer,1,SOC,Chemical Engineers
+chemical-plant-workers,chemical-plant-worker,1,NOC,Chemical Plant Workers
+chemical-products-plant-and-machine-operators,chemical-product-plant-and-machine-operator,1,NCO2015,Chemical Products Plant and Machine Operators
+chemists,chemist,2,NOC|SOC,Chemists
+child-care-services-manager,child-care-service-manager,1,NCO2015,Child Care Services Manager
+childcare-workers,childcare-worker,1,SOC,Childcare Workers
+chiropractors,chiropractor,1,SOC,Chiropractors
+choreographers,choreographer,1,SOC,Choreographers
+civil-engineers,civil-engineer,3,NOC|SOC,Civil Engineers
+cleaner-and-helper-in-offices-hotels-and-other-establishments,cleaner-and-helper-in-office-hotel-and-other-establishment,1,NCO2015,"Cleaner and Helper in Offices, Hotels and Other Establishments"
+cleaning-supervisors,cleaning-supervisor,1,NOC,Cleaning supervisors
+clerical-support-workers-not-elsewhere-classified,clerical-support-worker-not-elsewhere-classified,1,NCO2015,Clerical Support Workers Not Elsewhere Classified
+client-information-workers-not-elsewhere-classified,client-information-worker-not-elsewhere-classified,1,NCO2015,Client Information Workers Not Elsewhere Classified
+clinical-psychologists,clinical-psychologist,1,SOC,Clinical psychologists
+commissioned-armed-forces-officers,commissioned-armed-forces-officer,1,CNO,Commissioned Armed Forces Officers
+community-health-workers,community-health-worker,1,SOC,Community Health Workers
+compliance-officers,compliance-officer,1,SOC,Compliance Officers
+composers,composer,1,KldB,Composers
+computer-network-and-systems-technicians,computer-network-and-system-technician,1,NCO2015,Computer Network and Systems Technicians
+concrete-placers-concrete-finishers-and-related-workers,concrete-placer-concrete-finisher-and-related-worker,1,NCO2015,"Concrete Placers, Concrete Finishers And Related Workers"
+conference-and-event-planners,conference-and-event-planner,1,NOC,Conference and event planners
+construction-managers,construction-manager,2,NCO2015|SOC,Construction Managers
+construction-supervisors,construction-supervisor,1,CNO,Construction Supervisors
+contact-centre-information-clerks,contact-centre-information-clerk,1,NCO2015,Contact Centre Information Clerks
+contract-administrators,contract-administrator,1,NOC,Contract administrators
+cooks,cook,2,NOC|SOC,Cooks
+counsellors,counsellor,2,NOC|SOC,Counsellors
+craft-and-related-workers-not-elsewhere-classified,craft-and-related-worker-not-elsewhere-classified,1,NCO2015,Craft And Related Workers Not Elsewhere Classified
+craft-artists,craft-artist,1,SOC,Craft Artists
+crane-operators,crane-operator,1,NOC,Crane operators
+creative-and-performing-artists-not-elsewhere-classified,creative-and-performing-artist-not-elsewhere-classified,1,CNO,Creative and Performing Artists Not Elsewhere Classified
+credit-analysts,credit-analyst,1,SOC,Credit Analysts
+credit-and-loans-officer,credit-and-loan-officer,3,ANZSCO|NCO2015,Credit and Loans Officer
+credit-and-loans-officers,credit-and-loan-officer,1,NOC,Credit and Loans Officers
+curators,curator,1,SOC,Curators
+customer-service-representatives,customer-service-representative,1,SOC,Customer Service Representatives
+customs-and-border-inspector,custom-and-border-inspector,1,NCO2015,Customs and Border Inspector
+dairy-products-maker,dairy-product-maker,4,ANZSCO|KldB|NCO2015,Dairy Products Maker
+dancers,dancer,1,SOC,Dancers
+dancers-and-choreographers,dancer-and-choreographer,1,SOC,Dancers and choreographers
+data-analysts,data-analyst,1,SOC,Data analysts
+data-entry-clerks,data-entry-clerk,1,NOC,Data entry clerks
+data-entry-operators,data-entry-operator,1,CNO,Data Entry Operators
+data-scientists,data-scientist,1,SOC,Data Scientists
+database-administrators,database-administrator,1,SOC,Database Administrators
+database-and-network-professionals-not-elsewhere-classified,database-and-network-professional-not-elsewhere-classified,1,NCO2015,Database and Network Professionals Not Elsewhere Classified
+database-designers-and-administrators,database-designer-and-administrator,2,CNO|NCO2015,Database Designers and Administrators
+debt-collectors-and-related-workers,debt-collector-and-related-worker,1,NCO2015,Debt Collectors and Related Workers
+dental-assistants,dental-assistant,2,NOC|SOC,Dental assistants
+dental-assistants-and-therapists,dental-assistant-and-therapist,1,NCO2015,Dental Assistants and Therapists
+dental-hygienists,dental-hygienist,1,SOC,Dental Hygienists
+dentists,dentist,2,NCO2015|NOC,Dentists
+dermatologists,dermatologist,1,SOC,Dermatologists
+dieticians-and-nutritionists,dietician-and-nutritionist,1,NCO2015,Dieticians and Nutritionists
+dishwashers,dishwasher,1,SOC,Dishwashers
+dispensing-opticians,dispensing-optician,1,SOC,Dispensing opticians
+domestic-cleaners-and-helpers,domestic-cleaner-and-helper,1,NCO2015,Domestic Cleaners and Helpers
+drillers,driller,1,NOC,Drillers
+driving-instructors,driving-instructor,1,SOC,Driving instructors
+earth-science-technicians,earth-science-technician,1,NOC,Earth Science Technicians
+earthmoving-and-related-plant-operators,earthmoving-and-related-plant-operator,1,NCO2015,Earthmoving And Related Plant Operators
+economists,economist,1,SOC,Economists
+education-managers,education-manager,2,NCO2015|SOC,Education Managers
+education-methods-specialist,education-method-specialist,1,NCO2015,Education Methods Specialist
+electrical-and-electronic-equipment-assemblers,electrical-and-electronic-equipment-assembler,1,SOC,Electrical and Electronic Equipment Assemblers
+electrical-engineering-technicians,electrical-engineering-technician,1,CNO,Electrical Engineering Technicians
+electrical-engineers,electrical-engineer,2,SOC,Electrical engineers
+electrical-line-installers-and-repairers,electrical-line-installer-and-repairer,1,CNO,Electrical Line Installers and Repairers
+electrical-mechanics-and-fitters,electrical-mechanic-and-fitter,1,NCO2015,Electrical Mechanics and Fitters
+electricians,electrician,1,SOC,Electricians
+electronics-engineers,electronics-engineer,1,NCO2015,Electronics Engineers
+electronics-mechanics-and-servicers,electronics-mechanic-and-servicer,1,NCO2015,Electronics Mechanics and Servicers
+emergency-medical-technicians,emergency-medical-technician,1,SOC,Emergency Medical Technicians
+engineering-managers,engineering-manager,1,NOC,Engineering Managers
+engineering-professionals-not-elsewhere-classified,engineering-professional-not-elsewhere-classified,1,NCO2015,Engineering Professionals Not Elsewhere Classified
+environmental-engineers,environmental-engineer,1,SOC,Environmental Engineers
+environmental-protection-professionals,environmental-protection-professional,1,CNO,Environmental Protection Professionals
+executive-assistants,executive-assistant,1,NOC,Executive assistants
+facilities-manager,facility-manager,2,ANZSCO,Facilities Manager
+facilities-managers,facility-manager,1,SOC,Facilities Managers
+family-medicine-physicians,family-medicine-physician,1,SOC,Family Medicine Physicians
+farming-forestry-and-fisheries-adviser,farming-forestry-and-fishery-adviser,1,NCO2015,"Farming, Forestry and Fisheries Adviser"
+fashion-designers,fashion-designer,1,SOC,Fashion Designers
+fencers,fencer,1,NOC,Fencers
+field-crop-and-vegetable-growers,field-crop-and-vegetable-grower,1,NCO2015,Field Crop and Vegetable Growers
+financial-and-insurance-services-branch-managers,financial-and-insurance-service-branch-manager,1,NCO2015,Financial And Insurance Services Branch Managers
+financial-managers,financial-manager,2,NOC|SOC,Financial managers
+firefighters,firefighter,2,NOC|SOC,Firefighters
+fish-processing-workers,fish-processing-worker,1,CNO,Fish Processing Workers
+flight-attendants,flight-attendant,2,NOC|SOC,Flight Attendants
+floor-layers-and-tile-setters,floor-layer-and-tile-setter,1,NCO2015,Floor Layers and Tile Setters
+florists,florist,1,SOC,Florists
+food-and-related-products-machine-operators,food-and-related-product-machine-operator,1,NCO2015,Food and Related Products Machine Operators
+food-service-managers,food-service-manager,1,SOC,Food Service Managers
+forestry-and-related-workers,forestry-and-related-worker,1,SOC,Forestry and related workers
+forklift-operators,forklift-operator,1,CNO,Forklift Operators
+forklift-truck-drivers,forklift-truck-driver,1,SOC,Fork-lift truck drivers
+fumigators-and-other-pest-and-weed-controllers,fumigator-and-other-pest-and-weed-controller,1,CNO,Fumigators and Other Pest and Weed Controllers
+fur-and-leather-preparing-machine-operators,fur-and-leather-preparing-machine-operator,1,NCO2015,Fur and Leather Preparing Machine Operators
+gallery-museum-and-library-technicians,gallery-museum-and-library-technician,1,CNO,"Gallery, Museum and Library Technicians"
+garbage-and-recycling-collectors,garbage-and-recycling-collector,1,NCO2015,Garbage And Recycling Collectors
+garden-and-horticultural-labourers,garden-and-horticultural-labourer,1,NCO2015,Garden and Horticultural Labourers
+garment-and-related-patternmakers-and-cutters,garment-and-related-patternmaker-and-cutter,1,NCO2015,Garment and Related Patternmakers and Cutters
+gas-fitters,gas-fitter,1,NOC,Gas fitters
+generalist-medical-practitioners,generalist-medical-practitioner,1,SOC,Generalist medical practitioners
+geographers,geographer,1,SOC,Geographers
+geologists-and-geophysicists,geologist-and-geophysicist,1,NCO2015,Geologists and Geophysicists
+glass-and-ceramics-plant-operators,glass-and-ceramics-plant-operator,1,NCO2015,Glass and Ceramics Plant Operators
+glaziers,glazier,2,NOC|SOC,Glaziers
+government-regulatory-associate-professionals-not-elsewhere-classified,government-regulatory-associate-professional-not-elsewhere-classified,1,NCO2015,Government Regulatory Associate Professionals Not Elsewhere Classified
+government-social-benefits-official,government-social-benefit-official,1,NCO2015,Government Social Benefits Official
+government-tax-and-excise-officials,government-tax-and-excise-official,1,NCO2015,Government Tax and Excise Officials
+graphic-and-multimedia-designers,graphic-and-multimedia-designer,1,SOC,Graphic and multimedia designers
+graphic-designers,graphic-designer,1,SOC,Graphic Designers
+hand-and-pedal-vehicle-drivers,hand-and-pedal-vehicle-driver,1,NCO2015,Hand and Pedal Vehicle Drivers
+hand-packers,hand-packer,1,NCO2015,Hand Packers
+handicraft-worker-in-textile-leather-and-related-materials,handicraft-worker-in-textile-leather-and-related-material,1,NCO2015,"Handicraft Worker in Textile, Leather and Related Materials"
+handicraft-worker-in-wood-basketry-and-related-materials,handicraft-worker-in-wood-basketry-and-related-material,1,NCO2015,"Handicraft Worker in Wood, Basketry and Related Materials"
+health-associate-professionals-not-elsewhere-classified,health-associate-professional-not-elsewhere-classified,1,NCO2015,Health Associate Professionals Not Elsewhere Classified
+health-professionals-not-elsewhere-classified,health-professional-not-elsewhere-classified,1,CNO,Health Professionals Not Elsewhere Classified
+health-services-manager,health-service-manager,1,NCO2015,Health Services Manager
+heavy-truck-and-lorry-drivers,heavy-truck-and-lorry-driver,1,NCO2015,Heavy Truck and Lorry Drivers
+historians,historian,1,SOC,Historians
+housing-officers,housing-officer,1,SOC,Housing officers
+human-resources-manager,human-resource-manager,1,ANZSCO,Human Resources Manager
+human-resources-managers,human-resource-manager,2,NOC|SOC,Human resources managers
+industrial-and-production-engineers,industrial-and-production-engineer,1,CNO,Industrial and Production Engineers
+industrial-designers,industrial-designer,1,NOC,Industrial designers
+industrial-electricians,industrial-electrician,1,NOC,Industrial electricians
+industrial-engineers,industrial-engineer,1,SOC,Industrial Engineers
+industrial-machinery-mechanics,industrial-machinery-mechanic,1,SOC,Industrial Machinery Mechanics
+information-and-communications-technology-installers-and-servicers,information-and-communications-technology-installer-and-servicer,1,NCO2015,Information and Communications Technology Installers and Servicers
+information-and-communications-technology-operations-technician,information-and-communications-technology-operation-technician,1,NCO2015,Information and Communications Technology Operations Technician
+information-and-communications-technology-sales-professionals,information-and-communications-technology-sales-professional,1,NCO2015,Information And Communications Technology Sales Professionals
+information-and-communications-technology-services-managers,information-and-communications-technology-service-manager,1,NCO2015,Information and Communications Technology Services Managers
+information-technology-trainers,information-technology-trainer,1,SOC,Information technology trainers
+inland-and-coastal-waters-fishery-worker,inland-and-coastal-water-fishery-worker,1,NCO2015,Inland and Coastal Waters Fishery Worker
+insulation-workers,insulation-worker,1,NOC,Insulation Workers
+insurance-brokers,insurance-broker,1,NOC,Insurance Brokers
+insurance-representatives,insurance-representative,1,NCO2015,Insurance Representatives
+insurance-underwriters,insurance-underwriter,3,NOC|SOC,Insurance underwriters
+interior-designers,interior-designer,3,NOC|SOC,Interior Designers
+interior-designers-and-decorators,interior-designer-and-decorator,1,CNO,Interior Designers and Decorators
+interpreters-and-translators,interpreter-and-translator,1,SOC,Interpreters and Translators
+it-managers,it-manager,1,SOC,IT managers
+it-project-managers,it-project-manager,1,SOC,IT project managers
+it-user-support-technicians,it-user-support-technician,1,SOC,IT user support technicians
+journalists,journalist,1,NOC,Journalists
+landscape-architects,landscape-architect,1,SOC,Landscape Architects
+lawyers,lawyer,3,CNO|KldB|SOC,Lawyers
+legal-professionals-not-elsewhere-classified,legal-professional-not-elsewhere-classified,1,CNO,Legal Professionals Not Elsewhere Classified
+legal-secretaries,legal-secretary,1,SOC,Legal secretaries
+legislators,legislator,3,NCO2015|NOC|SOC,Legislators
+librarians,librarian,2,NOC|SOC,Librarians
+librarians-and-related-information-professionals,librarian-and-related-information-professional,1,NCO2015,Librarians and Related Information Professionals
+lighting-technicians,lighting-technician,1,SOC,Lighting Technicians
+management-and-organization-analysts,management-and-organization-analyst,1,CNO,Management and Organization Analysts
+managing-directors-and-chief-executives,managing-director-and-chief-executive,1,NCO2015,Managing Directors and Chief Executives
+manufacturing-managers,manufacturing-manager,3,CNO|NCO2015|NOC,Manufacturing Managers
+marketing-managers,marketing-manager,1,SOC,Marketing Managers
+massage-therapists,massage-therapist,2,NOC|SOC,Massage therapists
+mathematicians,mathematician,1,SOC,Mathematicians
+mechanical-engineers,mechanical-engineer,3,NCO2015|NOC|SOC,Mechanical Engineers
+medical-and-pathology-laboratory-technicians,medical-and-pathology-laboratory-technician,1,NCO2015,Medical and Pathology Laboratory Technicians
+medical-assistants,medical-assistant,1,SOC,Medical Assistants
+medical-laboratory-technologists,medical-laboratory-technologist,1,NOC,Medical laboratory technologists
+medical-records-and-health-information-technician,medical-record-and-health-information-technician,1,NCO2015,Medical Records and Health Information Technician
+medical-secretaries,medical-secretary,1,SOC,Medical secretaries
+merchandisers,merchandiser,1,SOC,Merchandisers
+microbiologists,microbiologist,1,SOC,Microbiologists
+miners-and-quarriers,miner-and-quarrier,1,NCO2015,Miners and Quarriers
+mining-and-metallurgical-technicians,mining-and-metallurgical-technician,1,NCO2015,Mining and Metallurgical Technicians
+mining-engineer-metallurgist-and-related-professionals,mining-engineer-metallurgist-and-related-professional,1,CNO,"Mining Engineer, Metallurgist and Related Professionals"
+mining-engineers,mining-engineer,1,NOC,Mining engineers
+mining-managers,mining-manager,1,NCO2015,Mining Managers
+models,model,1,SOC,Models
+motor-vehicle-mechanics-and-repairers,motor-vehicle-mechanic-and-repairer,2,CNO|NCO2015,Motor Vehicle Mechanics and Repairers
+motorcycle-mechanics,motorcycle-mechanic,1,SOC,Motorcycle Mechanics
+musical-instrument-makers-and-tuners,musical-instrument-maker-and-tuner,1,CNO,Musical Instrument Makers and Tuners
+musicians,musician,2,KldB|SOC,Musicians
+musicians-and-singers,musician-and-singer,2,NOC|SOC,Musicians and singers
+neurologists,neurologist,1,SOC,Neurologists
+nurse-anesthetists,nurse-anesthetist,1,SOC,Nurse Anesthetists
+nursing-assistants,nursing-assistant,1,SOC,Nursing Assistants
+nursing-professionals,nursing-professional,1,NCO2015,Nursing Professionals
+occupational-health-and-safety-technicians,occupational-health-and-safety-technician,1,SOC,Occupational Health and Safety Technicians
+occupational-therapists,occupational-therapist,2,SOC,Occupational therapists
+office-managers,office-manager,1,SOC,Office managers
+office-supervisors,office-supervisor,1,SOC,Office supervisors
+opticians,optician,1,NOC,Opticians
+optometrists,optometrist,4,CNO|NOC|SOC,Optometrists
+optometrists-and-ophthalmic-opticians,optometrist-and-ophthalmic-optician,1,NCO2015,Optometrists And Ophthalmic Opticians
+other-artistic-and-cultural-associate-professionals,other-artistic-and-cultural-associate-professional,1,NCO2015,Other Artistic and Cultural Associate Professionals
+painters-and-decorators,painter-and-decorator,2,NOC|SOC,Painters and Decorators
+paper-products-machine-operator,paper-product-machine-operator,3,ANZSCO|NCO2015,Paper Products Machine Operator
+paper-products-machine-operators,paper-product-machine-operator,1,NOC,Paper Products Machine Operators
+paralegal-and-related-occupations,paralegal-and-related-occupation,1,NOC,Paralegal and related occupations
+paralegals-and-related-occupations,paralegal-and-related-occupation,1,NOC,Paralegals and related occupations
+paramedics,paramedic,2,SOC,Paramedics
+personal-care-workers-in-health-services-not-elsewhere-classified,personal-care-worker-in-health-service-not-elsewhere-classified,1,CNO,Personal Care Workers in Health Services Not Elsewhere Classified
+personal-service-workers-not-elsewhere-classified,personal-service-worker-not-elsewhere-classified,1,CNO,Personal Service Workers Not Elsewhere Classified
+personal-services-worker-not-elsewhere-classified,personal-service-worker-not-elsewhere-classified,1,NCO2015,Personal Services Worker Not Elsewhere Classified
+personnel-and-careers-professional,personnel-and-career-professional,1,NCO2015,Personnel and Careers Professional
+personnel-clerks,personnel-clerk,1,NOC,Personnel clerks
+pest-control-workers,pest-control-worker,1,SOC,Pest Control Workers
+pet-groomers-and-animal-care-workers,pet-groomer-and-animal-care-worker,1,NOC,Pet groomers and animal care workers
+petroleum-engineers,petroleum-engineer,1,SOC,Petroleum Engineers
+pharmaceutical-technicians-and-assistants,pharmaceutical-technician-and-assistant,1,NCO2015,Pharmaceutical Technicians and Assistants
+pharmacists,pharmacist,2,SOC,Pharmacists
+pharmacy-technicians,pharmacy-technician,2,NOC|SOC,Pharmacy technicians
+philosophers-historians-and-political-scientists,philosopher-historian-and-political-scientist,1,CNO,"Philosophers, Historians and Political Scientists"
+photographers,photographer,4,KECO|NCO2015|NOC|SOC,Photographers
+photographic-products-machine-operator,photographic-product-machine-operator,1,NCO2015,Photographic Products Machine Operator
+physical-therapists,physical-therapist,1,SOC,Physical Therapists
+physicists,physicist,1,SOC,Physicists
+physicists-and-astronomers,physicist-and-astronomer,2,CNO|NOC,Physicists and astronomers
+physiotherapists,physiotherapist,2,NOC|SOC,Physiotherapists
+plasterers,plasterer,3,CNO|KldB|SOC,Plasterers
+plastic-products-machine-operator,plastic-product-machine-operator,2,CNO|NCO2015,Plastic Products Machine Operator
+plumbers,plumber,1,NOC,Plumbers
+plumbers-and-pipe-fitters,plumber-and-pipe-fitter,1,NCO2015,Plumbers and Pipe Fitters
+podiatrists,podiatrist,2,SOC,Podiatrists
+police-inspectors-and-detectives,police-inspector-and-detective,1,NCO2015,Police Inspectors and Detectives
+police-officers,police-officer,1,NCO2015,Police Officers
+political-scientists,political-scientist,1,SOC,Political Scientists
+prepress-technicians,prepress-technician,1,SOC,Pre-press technicians
+print-finishing-and-binding-workers,print-finishing-and-binding-worker,1,SOC,Print finishing and binding workers
+printers,printer,2,NCO2015|SOC,Printers
+printing-press-operators,printing-press-operator,2,NOC|SOC,Printing press operators
+prison-guards,prison-guard,1,NCO2015,Prison Guards
+process-control-technicians-not-elsewhere-classified,process-control-technician-not-elsewhere-classified,2,CNO|NCO2015,Process Control Technicians Not Elsewhere Classified
+product-and-garment-designers,product-and-garment-designer,1,CNO,Product and Garment Designers
+property-valuers,property-valuer,1,NOC,Property Valuers
+protective-services-worker-not-elsewhere-classified,protective-service-worker-not-elsewhere-classified,1,NCO2015,Protective Services Worker Not Elsewhere Classified
+psychiatrists,psychiatrist,1,SOC,Psychiatrists
+psychologists,psychologist,1,NCO2015,Psychologists
+public-relations-manager,public-relation-manager,3,ANZSCO|KldB,Public Relations Manager
+public-relations-managers,public-relation-manager,1,SOC,Public Relations Managers
+public-relations-professional,public-relation-professional,4,ANZSCO|CNO|NCO2015,Public Relations Professional
+public-relations-professionals,public-relation-professional,1,SOC,Public relations professionals
+public-relations-specialist,public-relation-specialist,1,KldB,Public Relations Specialist
+public-relations-specialists,public-relation-specialist,1,SOC,Public Relations Specialists
+pulp-and-papermaking-plant-operators,pulp-and-papermaking-plant-operator,1,CNO,Pulp and Papermaking Plant Operators
+purchasing-managers,purchasing-manager,2,NOC|SOC,Purchasing managers
+quality-assurance-technicians,quality-assurance-technician,1,SOC,Quality assurance technicians
+quantity-surveyors,quantity-surveyor,1,SOC,Quantity surveyors
+radiation-therapists,radiation-therapist,1,SOC,Radiation Therapists
+radiologists,radiologist,1,SOC,Radiologists
+real-estate-agents-and-property-managers,real-estate-agent-and-property-manager,1,NCO2015,Real Estate Agents and Property Managers
+receptionists,receptionist,1,SOC,Receptionists
+receptionists-and-information-clerks,receptionist-and-information-clerk,1,SOC,Receptionists and Information Clerks
+registered-nurses,registered-nurse,1,SOC,Registered Nurses
+religious-professionals,religious-professional,1,NCO2015,Religious Professionals
+restaurant-managers,restaurant-manager,1,NCO2015,Restaurant Managers
+retail-and-wholesale-trade-managers,retail-and-wholesale-trade-manager,1,NOC,Retail and wholesale trade managers
+riggers,rigger,1,SOC,Riggers
+roofers,roofer,2,KldB|SOC,Roofers
+rubber-products-machine-operator,rubber-product-machine-operator,1,NCO2015,Rubber Products Machine Operator
+sales-and-marketing-managers,sales-and-marketing-manager,1,CNO,Sales and Marketing Managers
+sales-managers,sales-manager,1,SOC,Sales Managers
+sales-promoters,sales-promoter,1,CNO,Sales Promoters
+scaffolders,scaffolder,1,NOC,Scaffolders
+secondary-school-teachers,secondary-school-teacher,1,NOC,Secondary School Teachers
+securities-and-finance-dealers-and-brokers,security-and-finance-dealer-and-broker,1,NCO2015,Securities and Finance Dealers and Brokers
+security-guards,security-guard,2,NCO2015|SOC,Security Guards
+senior-officials-of-specialinterest-organizations,senior-official-of-specialinterest-organization,1,NCO2015,Senior Officials of Special-interest Organizations
+services-manager-not-elsewhere-classified,service-manager-not-elsewhere-classified,1,NCO2015,Services Manager Not Elsewhere Classified
+sewing-machine-operators,sewing-machine-operator,1,SOC,Sewing Machine Operators
+sheet-metal-workers,sheet-metal-worker,3,NOC|SOC,Sheet metal workers
+shelf-fillers,shelf-filler,1,SOC,Shelf fillers
+ship-engineers,ship-engineer,2,CNO|SOC,Ship Engineers
+ships-deck-officer-and-pilot,ship-deck-officer-and-pilot,1,NCO2015,Ships’ Deck Officer and Pilot
+ships-engineer,ship-engineer,1,NCO2015,Ship's Engineer
+shoemakers-and-related-workers,shoemaker-and-related-worker,1,NCO2015,Shoemakers and Related Workers
+shopkeepers,shopkeeper,1,NCO2015,Shopkeepers
+signwriters-decorative-painters-engravers-and-etchers,signwriter-decorative-painter-engraver-and-etcher,1,NCO2015,"Signwriters, Decorative Painters, Engravers and Etchers"
+social-work-and-counselling-professionals,social-work-and-counselling-professional,1,NCO2015,Social Work and Counselling Professionals
+social-workers,social-worker,2,NOC|SOC,Social Workers
+sociologists,sociologist,1,SOC,Sociologists
+software-and-applications-developers-and-analysts-not-elsewhere-classified,software-and-application-developer-and-analyst-not-elsewhere-classified,1,NCO2015,Software and Applications Developers and Analysts Not Elsewhere Classified
+software-developers,software-developer,2,NCO2015|SOC,Software Developers
+special-needs-teacher,special-need-teacher,1,NCO2015,Special Needs Teacher
+speechlanguage-pathologists,speechlanguage-pathologist,1,SOC,Speech-Language Pathologists
+sports-coaches-instructors-and-officials,sports-coach-instructor-and-official,1,SOC,"Sports coaches, instructors and officials"
+statisticians,statistician,2,NOC|SOC,Statisticians
+steel-erectors,steel-erector,1,SOC,Steel erectors
+stonemasons,stonemason,1,SOC,Stonemasons
+street-and-related-services-worker,street-and-related-service-worker,1,NCO2015,Street and Related Services Worker
+street-vendors-excluding-food,street-vendor-excluding-food,1,NCO2015,Street Vendors (Excluding Food)
+structural-metal-preparers-and-erectors,structural-metal-preparer-and-erector,1,NCO2015,Structural Metal Preparers and Erectors
+supply-chain-managers,supply-chain-manager,1,NOC,Supply Chain Managers
+supply-distribution-and-related-managers,supply-distribution-and-related-manager,1,NCO2015,"Supply, Distribution and Related Managers"
+sweepers-and-related-labourers,sweeper-and-related-labourer,1,NCO2015,Sweepers and Related Labourers
+systems-administrator,system-administrator,1,NCO2015,Systems Administrator
+systems-analyst,system-analyst,2,CNO|NCO2015,Systems Analyst
+taxi-drivers,taxi-driver,1,SOC,Taxi Drivers
+teachers-aide,teacher-aide,1,NCO2015,Teachers' Aide
+teaching-professionals-not-elsewhere-classified,teaching-professional-not-elsewhere-classified,1,NCO2015,Teaching Professionals Not Elsewhere Classified
+technical-writers,technical-writer,1,SOC,Technical Writers
+telecommunications-engineer,telecommunication-engineer,4,ANZSCO|CNO|NCO2015,Telecommunications Engineer
+telecommunications-engineering-technician,telecommunication-engineering-technician,2,CNO|NCO2015,Telecommunications Engineering Technician
+telemarketers,telemarketer,1,SOC,Telemarketers
+telephone-operators,telephone-operator,1,SOC,Telephone Operators
+textile-fur-and-leather-products-machine-operators-not-elsewhere-classified,textile-fur-and-leather-product-machine-operator-not-elsewhere-classified,1,NCO2015,"Textile, Fur and Leather Products Machine Operators Not Elsewhere Classified"
+tobacco-preparers-and-tobacco-products-maker,tobacco-preparer-and-tobacco-product-maker,1,NCO2015,Tobacco Preparers and Tobacco Products Maker
+train-and-tram-drivers,train-and-tram-driver,1,SOC,Train and tram drivers
+training-and-development-managers,training-and-development-manager,1,SOC,Training and Development Managers
+translators-interpreters-and-other-linguists,translator-interpreter-and-other-linguist,1,NCO2015,"Translators, Interpreters and Other Linguists"
+travel-guides,travel-guide,2,NCO2015|SOC,Travel Guides
+typists-and-word-processing-operators,typist-and-word-processing-operator,1,NCO2015,Typists And Word Processing Operators
+university-and-higher-education-teachers,university-and-higher-education-teacher,1,CNO,University and Higher Education Teachers
+upholsterers,upholsterer,3,NOC|SOC,Upholsterers
+urban-and-regional-planners,urban-and-regional-planner,1,SOC,Urban and Regional Planners
+valuers-and-loss-assessors,valuer-and-loss-assessor,1,NCO2015,Valuers and Loss Assessors
+veterinarians,veterinarian,3,NOC|SOC,Veterinarians
+veterinary-technicians-and-assistants,veterinary-technician-and-assistant,1,NCO2015,Veterinary Technicians and Assistants
+visual-artists,visual-artist,1,CNO,Visual Artists
+waiters,waiter,1,CNO,Waiters
+weaving-and-knitting-machine-operators,weaving-and-knitting-machine-operator,1,KECO,Weaving and Knitting Machine Operators
+web-designers,web-designer,1,NOC,Web Designers
+web-developers,web-developer,1,SOC,Web Developers
+web-technicians,web-technician,1,CNO,Web Technicians
+wind-turbine-technicians,wind-turbine-technician,1,NOC,Wind turbine technicians
+window-cleaners,window-cleaner,2,CNO|SOC,Window Cleaners
+wine-makers,wine-maker,1,CNO,Wine Makers
