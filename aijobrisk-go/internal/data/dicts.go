@@ -43,7 +43,7 @@ var (
 // DimOrder 雷达维度固定顺序（对齐 data.ts DIM_ORDER）。
 var DimOrder = []string{
 	"income_level", "job_demand", "future_prospect", "pr_friendliness", "ai_risk", "competition",
-	"work_intensity", "learning_difficulty", "learning_duration", "certification_difficulty", "pr_difficulty",
+	"work_intensity", "learning_difficulty", "learning_duration", "certification_difficulty",
 }
 
 var currencySym = map[string]string{
