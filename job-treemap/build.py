@@ -547,6 +547,14 @@ def load_outlook_map():
     return m
 
 
+def median_salary(o):
+    """官方"Median salary"档年薪（无则 None，不回退到均值，供薪资配色用）。"""
+    for s in o.get("salaries") or []:
+        if "median" in (s.get("label") or "").lower():
+            return to_int(s.get("min"))
+    return None
+
+
 def build_record(o, cat_slug, outlook):
     ai = o.get("ai") or {}
     # AI exposure 首选权威 GenAI 指数 aioe_pct（0-100，ILO WP140 + Eloundou，见
@@ -571,6 +579,7 @@ def build_record(o, cat_slug, outlook):
         "category": cat_slug.get(cat_name, cat_name),
         "category_name": cat_name,
         "pay": to_int(o.get("avg_salary")),
+        "median": median_salary(o),
         "jobs": to_int(o.get("workforce_size")),
         "education": edu_stage,
         "exposure": exposure,
@@ -597,6 +606,15 @@ def exp_rgb(score):
         return (round(50 + s * 180), round(160 - s * 10), round(50 - s * 20))
     s = (t - 0.5) / 0.5
     return (round(230 + s * 25), round(150 - s * 110), round(30 - s * 10))
+
+
+# 薪资配色（USD 阈值，高薪→绿）。与气泡 JS 的 salColor 同口径，供图例色块与气泡一致着色。
+SAL_LO, SAL_HI = 8000, 80000
+
+
+def sal_rgb(usd):
+    t = max(0.0, min(1.0, (usd - SAL_LO) / (SAL_HI - SAL_LO)))
+    return exp_rgb(10 * (1 - t))
 
 
 def exp_chip(score):
@@ -650,9 +668,12 @@ def country_stats(rows):
         "avg": (d["wsum"] / d["wcnt"]) if d["wcnt"] else None,
     } for name, d in inds.items()]
     industries.sort(key=lambda x: (-(x["avg"] if x["avg"] is not None else -1), -x["jobs"]))
+    meds = sorted(r["median"] for r in rows if r.get("median") is not None)
+    median_local = meds[len(meds) // 2] if meds else None
     return {
         "total_jobs": total_jobs, "scored": len(scored), "total": len(rows),
         "weighted_avg": (wsum / wcnt) if wcnt else 0.0,
+        "median_local": median_local,
         "has_pay": any(r["pay"] is not None for r in rows),
         "top": sorted(scored, key=lambda d: (-d["exposure"], -(d["jobs"] or 0)))[:20],
         "bottom": sorted(scored, key=lambda d: (d["exposure"], -(d["jobs"] or 0)))[:20],
@@ -830,6 +851,42 @@ def static_content(cc, name, st, summary_html, present, faqs):
 
 # ── Landing hub + SEO assets ─────────────────────────────────────
 
+# 货币→USD 近似汇率（2025 年中，静态值；仅用于气泡图跨国薪资排序着色，非精确换算）。
+FX_USD = {
+    "USD": 1.0, "AUD": 0.66, "CAD": 0.73, "GBP": 1.27, "NZD": 0.60, "EUR": 1.08,
+    "JPY": 0.0067, "KRW": 0.00073, "BRL": 0.18, "MXN": 0.055, "INR": 0.012,
+    "CNY": 0.138, "NOK": 0.093, "SEK": 0.095, "DKK": 0.145, "ISK": 0.0072,
+    "PLN": 0.25, "HUF": 0.0027, "CZK": 0.043, "RON": 0.22, "TRY": 0.030,
+    "ARS": 0.0011, "CLP": 0.00105, "MYR": 0.21, "IDR": 0.0000615, "THB": 0.028,
+    "VND": 0.0000395, "SGD": 0.74, "CHF": 1.12,
+}
+
+
+# 各国平均年薪（USD）。口径：优先国家中位数——但中位数各国不可比/多缺，故按需求统一改用
+# 平均薪资。OECD 成员用官方 Average Annual Wage（PPP，2023，OECD.Stat）；非 OECD 用国家统计/
+# 调查平均年薪的近似值（市场汇率折 USD）；个别缺失者由人均 GDP 推算。仅用于气泡上半的跨国相对着色。
+NATIONAL_WAGE_USD = {
+    # —— OECD Average Annual Wage (PPP USD, 2023, OECD.Stat) ——
+    "AU": 67101, "AT": 71167, "BE": 73206, "CA": 66211, "CL": 31000, "CZ": 37366,
+    "DK": 69525, "EE": 37404, "FI": 57860, "FR": 59087, "DE": 65719, "GR": 30238,
+    "HU": 31709, "IS": 87421, "IE": 56809, "IT": 48874, "JP": 46792, "KR": 49062,
+    "LV": 38740, "LT": 48864, "LU": 89767, "MX": 20474, "NL": 70185, "NZ": 58097,
+    "NO": 71972, "PL": 41050, "PT": 37500, "SK": 31733, "SI": 55660, "ES": 51336,
+    "SE": 57996, "CH": 83332, "TR": 37000, "UK": 57617, "US": 80115,
+    # —— 非 OECD：国家统计/调查平均年薪近似（市场汇率 USD）——
+    "CN": 15000, "IN": 6000, "BR": 8300, "AR": 12000, "RO": 22000, "HR": 23000,
+    "SG": 50000, "MY": 10500, "ID": 3500, "TH": 6000, "VN": 5000,
+}
+
+
+def median_usd(cc, st):
+    """该国薪资中位数换算为 USD（无薪资数据则 None）。"""
+    m = st.get("median_local")
+    if m is None:
+        return None
+    return round(m * FX_USD.get(COUNTRY_META[cc][1], 0))
+
+
 def build_landing(present, stats_by_cc):
     sections = load_longform()
     longform_html = ""
@@ -853,6 +910,21 @@ def build_landing(present, stats_by_cc):
             f'<span class="cc-exp">Avg exposure '
             f'<b style="color:rgb({r},{g},{b})">{st["weighted_avg"]:.1f}</b><span class="cc-scale">/10</span></span>'
             f'</a>')
+    bubbles = [{
+        "cc": cc, "name": COUNTRY_META[cc][0], "slug": SLUG[cc], "flag": FLAG.get(cc, ""),
+        "workers": stats_by_cc[cc]["total_jobs"], "exp": round(stats_by_cc[cc]["weighted_avg"], 1),
+        "usd": NATIONAL_WAGE_USD.get(cc), "medianUsd": median_usd(cc, stats_by_cc[cc]),
+    } for cc in present]
+    bubble_json = json.dumps(bubbles, ensure_ascii=False, separators=(",", ":"))
+    # 图例分段色块：不同颜色对应不同取值范围（薪资按 USD 档，风险按 0-10 档）
+    def _chip(rgb3, label):
+        return f'<span class="dl-chip"><i style="background:rgb{rgb3}"></i>{label}</span>'
+    pay_chips = "".join(_chip(sal_rgb(u), lab) for lab, u in
+                        [("&lt; $15k", 12000), ("$15–30k", 22000), ("$30–50k", 40000),
+                         ("$50–70k", 60000), ("&gt; $70k", 78000)])
+    risk_chips = "".join(_chip(exp_rgb(s), lab) for lab, s in
+                         [("0–1 minimal", 0.5), ("2–3 low", 2.5), ("4–5 moderate", 4.5),
+                          ("6–7 high", 6.5), ("8–10 very high", 9)])
     title = "AI Job Risk Map — how exposed is every job to AI, across 46 countries"
     desc = ("An interactive map of how exposed jobs are to generative AI in 46 countries. "
             "Every occupation scored 0–10 using ILO and OpenAI research on each country's official data.")
@@ -884,7 +956,7 @@ body{{background:var(--bg);color:var(--fg);font:16px/1.6 -apple-system,BlinkMacS
 .brand img{{width:38px;height:38px}}
 .brand b{{font-size:19px;letter-spacing:-.01em}}
 h1{{font-size:32px;line-height:1.2;letter-spacing:-.02em;margin:0 0 12px}}
-.lead{{color:var(--fg2);font-size:17px;max-width:720px;margin:0 0 34px}}
+.lead{{color:var(--fg2);font-size:17px;max-width:960px;margin:0 0 34px}}
 .grid{{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:14px}}
 .cc-card{{display:flex;flex-direction:column;gap:5px;padding:16px 18px;border:1px solid var(--line);border-radius:12px;background:var(--bg2);text-decoration:none;color:var(--fg);transition:border-color .15s,transform .15s}}
 .cc-card:hover{{border-color:rgba(255,255,255,.28);transform:translateY(-2px)}}
@@ -908,6 +980,44 @@ h1{{font-size:32px;line-height:1.2;letter-spacing:-.02em;margin:0 0 12px}}
 .lf-body p:last-child{{margin-bottom:0}}
 .lf-toggle{{margin-top:12px;background:none;border:none;color:var(--accent);font:inherit;font-size:14px;font-weight:600;cursor:pointer;padding:0}}
 .lf-toggle:hover{{text-decoration:underline}}
+.tabs{{display:flex;gap:8px;margin:0 0 20px}}
+.tab-btn{{background:var(--bg2);border:1px solid var(--line);border-radius:8px;padding:8px 16px;color:var(--fg2);font:inherit;font-size:14px;font-weight:600;cursor:pointer}}
+.tab-btn:hover{{color:var(--fg)}}
+.tab-btn.active{{background:var(--accent);color:#0a0a0f;border-color:var(--accent)}}
+.tab-panel{{display:none}}
+.tab-panel.active{{display:block}}
+.bubble-legend{{display:flex;flex-wrap:wrap;gap:8px 18px;font-size:12px;color:var(--fg2);margin:0 0 22px}}
+.bubble-legend .lg{{display:inline-block;width:11px;height:11px;border-radius:2px;margin-right:5px;vertical-align:middle}}
+.bubble-legend .lg-sal{{background:linear-gradient(90deg,#e63c14,#32a032)}}
+.bubble-legend .lg-exp{{background:linear-gradient(90deg,#32a032,#e63c14)}}
+#bubbleChart{{position:relative;width:100%;margin:0 auto}}
+.bubble{{position:absolute;border-radius:50%;display:flex;align-items:center;justify-content:center;text-decoration:none;box-shadow:inset 0 0 0 1px rgba(255,255,255,.14),0 2px 8px rgba(0,0,0,.3);transition:transform .12s}}
+.bubble:hover{{transform:scale(1.06);z-index:5;box-shadow:inset 0 0 0 1px rgba(255,255,255,.3),0 4px 16px rgba(0,0,0,.5)}}
+.bubble .bflag{{width:46%;line-height:0;opacity:.96}}
+.bubble .bflag svg{{width:100%;height:auto;border-radius:2px;box-shadow:0 0 0 1px rgba(0,0,0,.25)}}
+/* 宽屏时气泡群宽度取正文(.wrap)内容区的 90%，居中；窄屏/手机保持满宽不变 */
+@media(min-width:1100px){{#bubbleChart{{width:90%}}}}
+.dual-legend{{display:flex;align-items:center;justify-content:center;gap:16px;margin:30px auto 4px;flex-wrap:wrap;max-width:660px}}
+.dl-side{{flex:1;min-width:150px}}
+.dl-left{{text-align:right}}
+.dl-right{{text-align:left}}
+.dl-title{{font-size:12.5px;color:var(--fg);font-weight:600;margin-bottom:5px}}
+.dl-chips{{display:flex;flex-direction:column;gap:3px}}
+.dl-chip{{display:flex;align-items:center;gap:6px;font-size:11px;color:var(--fg2);white-space:nowrap}}
+.dl-left .dl-chip{{flex-direction:row-reverse}}
+.dl-chip i{{width:13px;height:13px;border-radius:3px;flex:0 0 auto}}
+.dl-sample{{position:relative;width:70px;height:56px;flex:0 0 auto;display:flex;align-items:center;justify-content:center}}
+.dl-ball{{width:46px;height:46px;border-radius:50%;background:linear-gradient(to bottom,rgb(50,160,50) 0 50%,rgb(255,40,20) 50% 100%);box-shadow:inset 0 0 0 1px rgba(255,255,255,.22),0 2px 6px rgba(0,0,0,.3)}}
+.dl-arrow{{position:absolute;font-size:17px;font-weight:700;line-height:1}}
+.dl-arr-top{{left:-2px;top:7px;color:rgb(60,180,75)}}
+.dl-arr-bot{{right:-2px;bottom:7px;color:rgb(240,70,40)}}
+#bubbleTip{{position:fixed;z-index:50;pointer-events:none;opacity:0;transition:opacity .1s;background:#12121a;border:1px solid rgba(255,255,255,.14);border-radius:10px;padding:11px 13px;font-size:12.5px;line-height:1.5;box-shadow:0 8px 28px rgba(0,0,0,.5);max-width:240px}}
+#bubbleTip.on{{opacity:1}}
+#bubbleTip .bt-title{{display:flex;align-items:center;gap:7px;font-weight:600;font-size:13.5px;color:#fff;margin-bottom:7px}}
+#bubbleTip .bt-title svg{{width:20px;height:auto;border-radius:2px}}
+#bubbleTip .bt-row{{display:flex;justify-content:space-between;gap:16px}}
+#bubbleTip .bt-row .k{{color:var(--fg2)}}
+#bubbleTip .bt-row .v{{color:var(--fg);font-variant-numeric:tabular-nums}}
 </style>
 </head>
 <body>
@@ -918,8 +1028,38 @@ h1{{font-size:32px;line-height:1.2;letter-spacing:-.02em;margin:0 0 12px}}
 <b>AI risk</b> by its <b>exposure</b> to generative AI &mdash; how much of its day-to-day tasks AI can
 already do &mdash; on a 0&ndash;10 scale, computed from open ILO and OpenAI research and mapped onto
 each country's official statistics. Pick a country:</p>
+<div class="tabs" id="viewTabs">
+<button class="tab-btn active" data-tab="bubbles" type="button">Bubble view</button>
+<button class="tab-btn" data-tab="grid" type="button">Grid view</button>
+</div>
+<div class="tab-panel active" id="tab-bubbles">
+<div class="bubble-legend">
+<span><i class="lg lg-sal"></i>Top = avg pay (by USD, greener = higher)</span>
+<span><i class="lg lg-exp"></i>Bottom = avg AI exposure (redder = higher)</span>
+<span>Circle area &prop; workforce</span>
+</div>
+<div id="bubbleChart"></div>
+<div class="dual-legend">
+<div class="dl-side dl-left">
+<div class="dl-title">Average pay (USD)</div>
+<div class="dl-chips">{pay_chips}</div>
+</div>
+<div class="dl-sample" title="Top half = pay · Bottom half = AI exposure">
+<span class="dl-arrow dl-arr-top">&larr;</span>
+<span class="dl-ball"></span>
+<span class="dl-arrow dl-arr-bot">&rarr;</span>
+</div>
+<div class="dl-side dl-right">
+<div class="dl-title">AI exposure (risk)</div>
+<div class="dl-chips">{risk_chips}</div>
+</div>
+</div>
+</div>
+<div id="bubbleTip"></div>
+<div class="tab-panel" id="tab-grid">
 <div class="grid">
 {''.join(cards)}
+</div>
 </div>
 {longform_html}
 </div>
@@ -931,6 +1071,100 @@ document.querySelectorAll(".lf-toggle").forEach(function(b){{
     b.textContent=open?"Show less":"Read more";
   }});
 }});
+// ── Country bubble chart (tab 1) ──────────────────────────────
+var BUBBLES={bubble_json};
+(function(){{
+  function expColor(score){{
+    if(score==null) return [128,128,128];
+    var t=Math.max(0,Math.min(10,score))/10,r,g,b;
+    if(t<0.5){{var s=t/0.5;r=Math.round(50+s*180);g=Math.round(160-s*10);b=Math.round(50-s*20);}}
+    else{{var s=(t-0.5)/0.5;r=Math.round(230+s*25);g=Math.round(150-s*110);b=Math.round(30-s*10);}}
+    return [r,g,b];
+  }}
+  function rgb(a){{return "rgb("+a[0]+","+a[1]+","+a[2]+")";}}
+  var SAL_LO=8000,SAL_HI=80000;                       // 与 Python sal_rgb / 图例同口径
+  function salColor(usd){{
+    if(usd==null) return [128,128,128];
+    var t=Math.max(0,Math.min(1,(usd-SAL_LO)/(SAL_HI-SAL_LO)));
+    return expColor(10*(1-t));                        // 高薪→绿
+  }}
+  // 直径 ∝ sqrt(workforce)（圆面积正比于就业人数，标准比例气泡）；最大径 211（原 132 的 160%）
+  var ws=BUBBLES.map(function(d){{return d.workers||0;}}).filter(function(v){{return v>0;}});
+  var smin=Math.sqrt(Math.min.apply(null,ws)),smax=Math.sqrt(Math.max.apply(null,ws)),DMIN=38,DMAX=211;
+  function diam(w){{if(!w||w<=0)return DMIN;var t=(Math.sqrt(w)-smin)/((smax-smin)||1);return Math.round(DMIN+t*(DMAX-DMIN));}}
+  function fmtInt(n){{return n==null?"—":n.toLocaleString();}}
+  var host=document.getElementById("bubbleChart");
+  // 多行悬浮弹层：avg exposure 用与 grid view 一致的分级色
+  var tip=document.getElementById("bubbleTip");
+  function tipHTML(d){{
+    var ec=rgb(expColor(d.exp));
+    return '<div class="bt-title">'+d.flag+'<span>'+d.name+'</span></div>'
+      +'<div class="bt-row"><span class="k">Workforce</span><span class="v">'+fmtInt(d.workers)+'</span></div>'
+      +'<div class="bt-row"><span class="k">Avg annual pay</span><span class="v">'+(d.usd!=null?"$"+fmtInt(d.usd)+" USD":"n/a")+'</span></div>'
+      +(d.medianUsd!=null?'<div class="bt-row"><span class="k">Median pay</span><span class="v">$'+fmtInt(d.medianUsd)+' USD</span></div>':"")
+      +'<div class="bt-row"><span class="k">Avg AI exposure</span><span class="v" style="color:'+ec+';font-weight:600">'+d.exp+'<span style="color:var(--fg2);font-weight:400">/10</span></span></div>';
+  }}
+  function moveTip(e){{
+    var x=e.clientX+16,y=e.clientY+16;
+    if(x+250>window.innerWidth)x=e.clientX-250;
+    if(y+130>window.innerHeight)y=e.clientY-130;
+    tip.style.left=x+"px";tip.style.top=y+"px";
+  }}
+  // 按人数降序（最大的 CN/IN 在最中间），中心向外无重叠圆填充（贪心切向放置，取离中心最近的合法位）
+  var items=BUBBLES.map(function(d,i){{return {{i:i,d:d,r:diam(d.workers)/2}};}}).sort(function(a,b){{return b.r-a.r;}});
+  var PAD=2.5;
+  (function pack(){{
+    var placed=[];
+    for(var n=0;n<items.length;n++){{
+      var it=items[n],r=it.r+PAD;
+      if(n===0){{it.x=0;it.y=0;it._r=r;placed.push(it);continue;}}
+      var best=null,bestD=Infinity;
+      for(var j=0;j<placed.length;j++){{
+        var pj=placed[j],dist=pj._r+r;
+        for(var a=0;a<360;a+=5){{
+          var ang=a*Math.PI/180,x=pj.x+dist*Math.cos(ang),y=pj.y+dist*Math.sin(ang),ok=true;
+          for(var k=0;k<placed.length;k++){{
+            var pk=placed[k],dx=x-pk.x,dy=y-pk.y,rr=pk._r+r-0.5;
+            if(dx*dx+dy*dy<rr*rr){{ok=false;break;}}
+          }}
+          if(ok){{var dc=x*x+y*y;if(dc<bestD){{bestD=dc;best={{x:x,y:y}};}}}}
+        }}
+      }}
+      if(!best)best={{x:0,y:0}};
+      it.x=best.x;it.y=best.y;it._r=r;placed.push(it);
+    }}
+  }})();
+  var minX=1e9,maxX=-1e9,minY=1e9,maxY=-1e9;
+  items.forEach(function(it){{minX=Math.min(minX,it.x-it.r);maxX=Math.max(maxX,it.x+it.r);minY=Math.min(minY,it.y-it.r);maxY=Math.max(maxY,it.y+it.r);}});
+  var W=maxX-minX,H=maxY-minY;
+  function renderPacked(){{
+    var avail=host.clientWidth||900,scale=W>0?avail/W:1,offX=(avail-W*scale)/2;  // 始终按容器宽度缩放（可放大撑满，非仅缩小）
+    host.style.height=Math.ceil(H*scale)+"px";
+    host.innerHTML=items.map(function(it){{
+      var d=it.d,dd=it.r*2*scale;
+      var left=(it.x-it.r-minX)*scale+offX,top=(it.y-it.r-minY)*scale;
+      var bg="linear-gradient(to bottom,"+rgb(salColor(d.usd))+" 0 50%,"+rgb(expColor(d.exp))+" 50% 100%)";
+      var fl=dd>=42?'<span class="bflag">'+d.flag+'</span>':"";
+      return '<a class="bubble" href="/country/'+d.slug+'/" data-i="'+it.i+'" aria-label="'+d.name+'" style="left:'+left+'px;top:'+top+'px;width:'+dd+'px;height:'+dd+'px;background:'+bg+'">'+fl+'</a>';
+    }}).join("");
+    host.querySelectorAll(".bubble").forEach(function(el){{
+      var d=BUBBLES[+el.dataset.i];
+      el.addEventListener("mouseenter",function(e){{tip.innerHTML=tipHTML(d);tip.classList.add("on");moveTip(e);}});
+      el.addEventListener("mousemove",moveTip);
+      el.addEventListener("mouseleave",function(){{tip.classList.remove("on");}});
+    }});
+  }}
+  renderPacked();
+  window.addEventListener("resize",renderPacked);
+  document.querySelectorAll("#viewTabs .tab-btn").forEach(function(b){{
+    b.addEventListener("click",function(){{
+      var t=b.dataset.tab;
+      document.querySelectorAll("#viewTabs .tab-btn").forEach(function(x){{x.classList.toggle("active",x===b);}});
+      document.getElementById("tab-bubbles").classList.toggle("active",t==="bubbles");
+      document.getElementById("tab-grid").classList.toggle("active",t==="grid");
+    }});
+  }});
+}})();
 </script>
 </body>
 </html>"""
@@ -1377,6 +1611,12 @@ def main():
     # English country name.
     present = sorted((cc for cc in ORDER if cc in by_country),
                      key=lambda c: COUNTRY_META[c][0])
+    # 可选：命令行传国家码（如 `python build.py US`）只重建这些国家，便于单国预览。
+    # 传参时跳过下方清理旧目录的步骤，避免误删其他国家已生成的页面。
+    only = [a.upper() for a in sys.argv[1:] if a.upper() in present]
+    partial = bool(only)
+    if only:
+        present = only
     os.makedirs(DIST, exist_ok=True)
 
     # Remove legacy output from older layouts so rebuilds don't leave stale,
@@ -1384,13 +1624,14 @@ def main():
     # dirs at the root (previous /slug/ layout) and the old overview data/ copies.
     # NB: static/ is preserved — the Playwright-shot PNG maps live there.
     import shutil
-    for cc in COUNTRY_META:
-        for legacy in (os.path.join(DIST, cc), os.path.join(DIST, SLUG.get(cc, cc))):
-            if os.path.isdir(legacy):
-                shutil.rmtree(legacy, ignore_errors=True)
-    shutil.rmtree(os.path.join(DIST, "data"), ignore_errors=True)
-    shutil.rmtree(os.path.join(DIST, "country"), ignore_errors=True)
-    shutil.rmtree(os.path.join(DIST, "embed"), ignore_errors=True)
+    if not partial:
+        for cc in COUNTRY_META:
+            for legacy in (os.path.join(DIST, cc), os.path.join(DIST, SLUG.get(cc, cc))):
+                if os.path.isdir(legacy):
+                    shutil.rmtree(legacy, ignore_errors=True)
+        shutil.rmtree(os.path.join(DIST, "data"), ignore_errors=True)
+        shutil.rmtree(os.path.join(DIST, "country"), ignore_errors=True)
+        shutil.rmtree(os.path.join(DIST, "embed"), ignore_errors=True)
 
     # First pass: rows + stats per country (stats reused by pages + landing).
     rows_by_cc, stats_by_cc = {}, {}
@@ -1501,6 +1742,12 @@ def main():
 
         print(f"  {cc} -> /country/{slug}/ (+ /embed/{slug}): {len(rows)} occupations"
               + ("" if st["has_pay"] else " (no salary data — pay hidden)"))
+
+    if partial:
+        # 单国预览模式：只重建 /country/{slug}/ 与 /embed/{slug}，不碰全站页
+        # （landing/methodology/embed hub/CSV 仍用整站数据，须走完整构建刷新）。
+        print(f"  [partial] 仅重建 {','.join(present)}，跳过全站页")
+        return
 
     # ── Landing hub at root ───────────────────────────────────────
     with open(os.path.join(DIST, "index.html"), "w", encoding="utf-8") as f:

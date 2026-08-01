@@ -150,6 +150,12 @@ body {
 
 .gradient-legend { display: flex; align-items: center; gap: 6px; font-size: 10px; color: var(--fg2); }
 .gradient-legend canvas { border-radius: 2px; }
+.color-mode { display: flex; align-items: center; gap: 8px; margin: 4px 0 10px; }
+.color-mode .cm-label { font-size: 11px; color: var(--fg2); }
+.cm-seg { display: inline-flex; border: 1px solid rgba(255,255,255,0.12); border-radius: 6px; overflow: hidden; }
+.cm-btn { background: none; border: none; padding: 4px 12px; font-size: 12px; color: var(--fg2); cursor: pointer; font-family: inherit; }
+.cm-btn:hover { color: var(--fg); }
+.cm-btn.active { background: var(--accent, #e6961e); color: #0a0a0f; font-weight: 600; }
 
 .source-info {
   font-size: 9px; color: var(--fg2); line-height: 1.4;
@@ -381,10 +387,18 @@ body.embed .site-footer { display: none; }
     <div class="stat-label">annual wages in high-exposure jobs (7+)</div>
   </div>
 
+  <div class="color-mode" id="colorMode">
+    <span class="cm-label">Color by</span>
+    <div class="cm-seg">
+      <button type="button" class="cm-btn active" data-mode="risk">Risk</button>
+      <button type="button" class="cm-btn" data-mode="salary">Salary</button>
+    </div>
+  </div>
+
   <div class="gradient-legend">
-    <span>Low</span>
+    <span id="legendLow">Low</span>
     <canvas id="gradientLegend" width="80" height="8"></canvas>
-    <span>High</span>
+    <span id="legendHigh">High</span>
   </div>
 
   <div class="source-info" id="sourceInfo"></div>
@@ -445,6 +459,23 @@ function exposureColor(score) {
   return [r, g, b];
 }
 function exposureColorCSS(score, alpha) { const [r,g,b] = exposureColor(score); return `rgba(${r},${g},${b},${alpha})`; }
+
+// ── Color mode: 'risk' (AI exposure) or 'salary' (median pay). ───────────
+// Salary reuses the exposure palette inverted: higher pay → lower score → greener.
+let colorMode = 'risk';
+let salarySorted = [];   // ascending medians of the current country (percentile basis)
+function computeSalaryRank() { salarySorted = data.filter(d => d.median != null).map(d => d.median).sort((a, b) => a - b); }
+function salaryScore(median) {
+  if (median == null || salarySorted.length < 2) return null;
+  let lo = 0, hi = salarySorted.length;                 // count of medians strictly below → percentile
+  while (lo < hi) { const mid = (lo + hi) >> 1; if (salarySorted[mid] < median) lo = mid + 1; else hi = mid; }
+  const p = Math.max(0, Math.min(1, lo / (salarySorted.length - 1)));
+  return 10 * (1 - p);                                  // high pay → 0 → green
+}
+function cellColorCSS(r, alpha) {
+  if (colorMode === 'salary') { const s = salaryScore(r.median); return s == null ? `rgba(128,128,128,${alpha})` : exposureColorCSS(s, alpha); }
+  return exposureColorCSS(r.exposure, alpha);
+}
 function formatNumber(n) {
   if (n == null) return "—";
   if (n >= 1000000) return (n / 1000000).toFixed(1) + "M";
@@ -549,7 +580,7 @@ function draw() {
     const rx = r.rx + g, ry = r.ry + g, rw = r.rw - g * 2, rh = r.rh - g * 2;
     if (rw <= 0 || rh <= 0) continue;
     let fillAlpha = isHovered || isHighlighted ? 0.85 : isDimmed ? 0.2 : 0.5;
-    ctx.fillStyle = exposureColorCSS(r.exposure, fillAlpha);
+    ctx.fillStyle = cellColorCSS(r, fillAlpha);
     ctx.fillRect(rx, ry, rw, rh);
     if (isHovered || isHighlighted) {
       ctx.strokeStyle = isHighlighted ? "#ffd700" : "#fff";
@@ -566,8 +597,9 @@ function draw() {
       ctx.textBaseline = "top";
       ctx.fillText(r.title, rx + 5, ry + 4);
       if (rh > 34 && rw > 60) {
-        const info = (r.exposure != null ? r.exposure + "/10" : "") +
-                     (r.jobs ? " · " + formatNumber(r.jobs) + " jobs" : "");
+        const info = colorMode === 'salary'
+          ? ((r.median != null ? formatPay(r.median) : "—") + (r.jobs ? " · " + formatNumber(r.jobs) + " jobs" : ""))
+          : ((r.exposure != null ? r.exposure + "/10" : "") + (r.jobs ? " · " + formatNumber(r.jobs) + " jobs" : ""));
         ctx.font = `400 ${Math.max(8, fontSize - 2)}px -apple-system, system-ui, sans-serif`;
         ctx.fillStyle = "rgba(255,255,255,0.5)";
         ctx.fillText(info, rx + 5, ry + 4 + fontSize + 2);
@@ -797,10 +829,16 @@ function computeStats() {
   const wagesSec = document.getElementById("wagesSection");
   if (paySec) paySec.style.display = hasPay ? "" : "none";
   if (wagesSec) wagesSec.style.display = hasPay ? "" : "none";
+  // 薪资配色需中位数数据；无则隐藏切换控件并回退到风险配色
+  computeSalaryRank();
+  const cmCtl = document.getElementById("colorMode");
+  const hasSalary = salarySorted.length >= 2;
+  if (cmCtl) cmCtl.style.display = hasSalary ? "" : "none";
+  if (!hasSalary && colorMode === "salary") colorMode = "risk";
   const totalJobs = data.reduce((s, d) => s + (d.jobs || 0), 0);
   const scoredCount = data.filter(d => d.exposure != null).length;
   document.getElementById("subtitleInfo").innerHTML =
-    `${data.length} occupations &middot; area = employment &middot; color = AI exposure<br>${scoredCount} occupations scored`;
+    `${data.length} occupations &middot; area = employment &middot; color = ${colorMode === 'salary' ? 'median pay' : 'AI exposure'}<br>${scoredCount} occupations scored`;
   let weightedSum = 0, weightedCount = 0;
   for (const d of data) { if (d.exposure != null && d.jobs) { weightedSum += d.exposure * d.jobs; weightedCount += d.jobs; } }
   const weightedAvg = weightedCount > 0 ? weightedSum / weightedCount : 0;
@@ -858,7 +896,13 @@ function computeStats() {
 function drawGradientLegend() {
   const c = document.getElementById("gradientLegend");
   const gctx = c.getContext("2d");
-  for (let x = 0; x < 80; x++) { gctx.fillStyle = exposureColorCSS((x / 79) * 10, 1); gctx.fillRect(x, 0, 1, 8); }
+  // salary: left=low pay (red) → right=high pay (green); risk: left=low exposure (green) → right=high (red)
+  for (let x = 0; x < 80; x++) {
+    const score = colorMode === 'salary' ? 10 - (x / 79) * 10 : (x / 79) * 10;
+    gctx.fillStyle = exposureColorCSS(score, 1); gctx.fillRect(x, 0, 1, 8);
+  }
+  const lo = document.getElementById("legendLow"), hi = document.getElementById("legendHigh");
+  if (lo && hi) { lo.textContent = colorMode === 'salary' ? "Low pay" : "Low"; hi.textContent = colorMode === 'salary' ? "High pay" : "High"; }
 }
 
 function applyCountryChrome() {
@@ -882,6 +926,14 @@ function loadCountry() {
 
 // ── Init ────────────────────────────────────────────────────────
 drawGradientLegend();
+// 配色模式切换：风险 ↔ 薪资中位数
+document.getElementById("colorMode").addEventListener("click", (e) => {
+  const b = e.target.closest(".cm-btn"); if (!b) return;
+  const m = b.dataset.mode; if (m === colorMode) return;
+  colorMode = m;
+  document.querySelectorAll("#colorMode .cm-btn").forEach(x => x.classList.toggle("active", x.dataset.mode === m));
+  drawGradientLegend(); computeStats(); draw();
+});
 // Country switcher navigates to each country's own URL (/slug/) — no client-side swap.
 // Custom dropdown (not native <select>) so each option renders its SVG flag.
 if (CONFIG.countries && CONFIG.countries.length) {
