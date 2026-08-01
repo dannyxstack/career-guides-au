@@ -177,7 +177,7 @@ FLAG = {
     "JP": '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60"><rect width="120" height="60" fill="#fff"/><circle cx="60" cy="30" r="18" fill="#BC002D"/></svg>',
     "KR": '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60"><rect width="120" height="60" fill="#fff"/><g transform="translate(60,30)"><clipPath id="krt"><circle r="12"/></clipPath><circle r="12" fill="#CD2E3A"/><path d="M-12,0 a6,6 0 0,1 12,0 a6,6 0 0,0 12,0 L12,12 L-12,12 Z" fill="#0047A0" clip-path="url(#krt)"/></g><g fill="#000"><g transform="translate(60,30) rotate(56.31)"><g transform="translate(-24.5,0)"><rect x="-4" y="-3.4" width="8" height="1.6"/><rect x="-4" y="-0.8" width="8" height="1.6"/><rect x="-4" y="1.8" width="8" height="1.6"/></g><g transform="translate(24.5,0)"><rect x="-4" y="-3.4" width="3.2" height="1.6"/><rect x="0.8" y="-3.4" width="3.2" height="1.6"/><rect x="-4" y="-0.8" width="3.2" height="1.6"/><rect x="0.8" y="-0.8" width="3.2" height="1.6"/><rect x="-4" y="1.8" width="3.2" height="1.6"/><rect x="0.8" y="1.8" width="3.2" height="1.6"/></g></g><g transform="translate(60,30) rotate(-56.31)"><g transform="translate(-24.5,0)"><rect x="-4" y="-3.4" width="8" height="1.6"/><rect x="-4" y="-0.8" width="3.2" height="1.6"/><rect x="0.8" y="-0.8" width="3.2" height="1.6"/><rect x="-4" y="1.8" width="8" height="1.6"/></g><g transform="translate(24.5,0)"><rect x="-4" y="-3.4" width="3.2" height="1.6"/><rect x="0.8" y="-3.4" width="3.2" height="1.6"/><rect x="-4" y="-0.8" width="8" height="1.6"/><rect x="-4" y="1.8" width="3.2" height="1.6"/><rect x="0.8" y="1.8" width="3.2" height="1.6"/></g></g></g></svg>',
     "BR": '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60"><rect width="120" height="60" fill="#009B3A"/><path d="M60,6 L114,30 L60,54 L6,30 Z" fill="#FEDF00"/><circle cx="60" cy="30" r="13" fill="#002776"/></svg>',
-    "MX": '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60"><rect width="40" height="60" fill="#006847"/><rect x="40" width="40" height="60" fill="#fff"/><rect x="80" width="40" height="60" fill="#CE1126"/></svg>',
+    "MX": '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60"><rect width="40" height="60" fill="#006847"/><rect x="40" width="40" height="60" fill="#fff"/><rect x="80" width="40" height="60" fill="#CE1126"/><ellipse cx="60" cy="35" rx="8" ry="2.2" fill="#3f7d34"/><path d="M60,23 C63,26 66,26 68,29 C64,27 62,28 61,30 L62,36 58,36 59,30 C58,28 56,27 52,29 C54,26 57,26 60,23 Z" fill="#6b4423"/></svg>',
     "IN": '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60"><rect width="120" height="20" fill="#FF9933"/><rect y="20" width="120" height="20" fill="#fff"/><rect y="40" width="120" height="20" fill="#138808"/><circle cx="60" cy="30" r="8" fill="none" stroke="#000080" stroke-width="1.4"/><circle cx="60" cy="30" r="1.6" fill="#000080"/></svg>',
     "CN": '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60"><rect width="120" height="60" fill="#DE2910"/><polygon points="18,8 19.6,12.9 24.6,12.9 20.5,15.9 22.1,20.8 18,17.8 13.9,20.8 15.5,15.9 11.4,12.9 16.4,12.9" fill="#FFDE00"/><circle cx="30" cy="6" r="1.7" fill="#FFDE00"/><circle cx="36" cy="11" r="1.7" fill="#FFDE00"/><circle cx="36" cy="18" r="1.7" fill="#FFDE00"/><circle cx="30" cy="23" r="1.7" fill="#FFDE00"/></svg>',
     "NO": '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60"><rect width="120" height="60" fill="#EF2B2D"/><rect x="36" width="12" height="60" fill="#fff"/><rect y="24" width="120" height="12" fill="#fff"/><rect x="39" width="6" height="60" fill="#002868"/><rect y="27" width="120" height="6" fill="#002868"/></svg>',
@@ -617,6 +617,13 @@ def sal_rgb(usd):
     return exp_rgb(10 * (1 - t))
 
 
+# 首页气泡的风险配色压缩到 3..7 展示区间（各国平均 risk 分布很窄，铺满色阶更易区分）：
+# <=3 全绿，>=7 全红。与气泡 JS 的 expColorHome 同口径。
+def exp_rgb_home(score):
+    t = max(0.0, min(1.0, (score - 3) / 4.0))
+    return exp_rgb(t * 10)
+
+
 def exp_chip(score):
     r, g, b = exp_rgb(score)
     val = "&mdash;" if score is None else f"{score}/10"
@@ -914,6 +921,7 @@ def build_landing(present, stats_by_cc):
         "cc": cc, "name": COUNTRY_META[cc][0], "slug": SLUG[cc], "flag": FLAG.get(cc, ""),
         "workers": stats_by_cc[cc]["total_jobs"], "exp": round(stats_by_cc[cc]["weighted_avg"], 1),
         "usd": NATIONAL_WAGE_USD.get(cc), "medianUsd": median_usd(cc, stats_by_cc[cc]),
+        "occ": stats_by_cc[cc]["total"],
     } for cc in present]
     bubble_json = json.dumps(bubbles, ensure_ascii=False, separators=(",", ":"))
     # 图例分段色块：不同颜色对应不同取值范围（薪资按 USD 档，风险按 0-10 档）
@@ -922,9 +930,9 @@ def build_landing(present, stats_by_cc):
     pay_chips = "".join(_chip(sal_rgb(u), lab) for lab, u in
                         [("&lt; $15k", 12000), ("$15–30k", 22000), ("$30–50k", 40000),
                          ("$50–70k", 60000), ("&gt; $70k", 78000)])
-    risk_chips = "".join(_chip(exp_rgb(s), lab) for lab, s in
-                         [("0–1 minimal", 0.5), ("2–3 low", 2.5), ("4–5 moderate", 4.5),
-                          ("6–7 high", 6.5), ("8–10 very high", 9)])
+    risk_chips = "".join(_chip(exp_rgb_home(s), lab) for lab, s in
+                         [("&le; 3 low", 3), ("4", 4), ("5 moderate", 5),
+                          ("6", 6), ("&ge; 7 high", 7)])
     title = "AI Job Risk Map — how exposed is every job to AI, across 46 countries"
     desc = ("An interactive map of how exposed jobs are to generative AI in 46 countries. "
             "Every occupation scored 0–10 using ILO and OpenAI research on each country's official data.")
@@ -943,9 +951,9 @@ def build_landing(present, stats_by_cc):
 <meta property="og:title" content="{esc(title)}">
 <meta property="og:description" content="{esc(desc)}">
 <meta property="og:url" content="{DOMAIN}/">
-<meta property="og:image" content="{DOMAIN}/og-image.png">
+<meta property="og:image" content="{DOMAIN}/og-home.png">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="{DOMAIN}/og-image.png">
+<meta name="twitter:image" content="{DOMAIN}/og-home.png">
 {ld_script(dataset_ld_global(present))}
 <style>
 :root{{--bg:#0a0a0f;--bg2:#12121a;--fg:#e0e0e8;--fg2:#9a9aa6;--accent:#e6961e;--line:rgba(255,255,255,.09)}}
@@ -1082,6 +1090,8 @@ var BUBBLES={bubble_json};
     return [r,g,b];
   }}
   function rgb(a){{return "rgb("+a[0]+","+a[1]+","+a[2]+")";}}
+  // 风险配色压缩到 3..7 展示区间（<=3 全绿、>=7 全红），与 Python exp_rgb_home / 风险图例同口径
+  function expColorHome(score){{if(score==null)return[128,128,128];var t=Math.max(0,Math.min(1,(score-3)/4));return expColor(t*10);}}
   var SAL_LO=8000,SAL_HI=80000;                       // 与 Python sal_rgb / 图例同口径
   function salColor(usd){{
     if(usd==null) return [128,128,128];
@@ -1097,8 +1107,9 @@ var BUBBLES={bubble_json};
   // 多行悬浮弹层：avg exposure 用与 grid view 一致的分级色
   var tip=document.getElementById("bubbleTip");
   function tipHTML(d){{
-    var ec=rgb(expColor(d.exp));
+    var ec=rgb(expColorHome(d.exp));
     return '<div class="bt-title">'+d.flag+'<span>'+d.name+'</span></div>'
+      +'<div class="bt-row"><span class="k">Occupations</span><span class="v">'+fmtInt(d.occ)+'</span></div>'
       +'<div class="bt-row"><span class="k">Workforce</span><span class="v">'+fmtInt(d.workers)+'</span></div>'
       +'<div class="bt-row"><span class="k">Avg annual pay</span><span class="v">'+(d.usd!=null?"$"+fmtInt(d.usd)+" USD":"n/a")+'</span></div>'
       +(d.medianUsd!=null?'<div class="bt-row"><span class="k">Median pay</span><span class="v">$'+fmtInt(d.medianUsd)+' USD</span></div>':"")
@@ -1115,9 +1126,14 @@ var BUBBLES={bubble_json};
   var PAD=2.5;
   (function pack(){{
     var placed=[];
-    for(var n=0;n<items.length;n++){{
+    // 最大的两个(CN/IN)并列在中央，并上下错位（更自然），其余从周边向外贪心填充
+    if(items.length>=2){{
+      var r0=items[0].r+PAD,r1=items[1].r+PAD,D=r0+r1,dy=Math.min(26,D*0.2),dx=Math.sqrt(Math.max(1,D*D-dy*dy));
+      items[0].x=-dx/2;items[0].y=-dy/2;items[0]._r=r0;placed.push(items[0]);
+      items[1].x= dx/2;items[1].y= dy/2;items[1]._r=r1;placed.push(items[1]);
+    }}
+    for(var n=placed.length;n<items.length;n++){{
       var it=items[n],r=it.r+PAD;
-      if(n===0){{it.x=0;it.y=0;it._r=r;placed.push(it);continue;}}
       var best=null,bestD=Infinity;
       for(var j=0;j<placed.length;j++){{
         var pj=placed[j],dist=pj._r+r;
@@ -1143,7 +1159,7 @@ var BUBBLES={bubble_json};
     host.innerHTML=items.map(function(it){{
       var d=it.d,dd=it.r*2*scale;
       var left=(it.x-it.r-minX)*scale+offX,top=(it.y-it.r-minY)*scale;
-      var bg="linear-gradient(to bottom,"+rgb(salColor(d.usd))+" 0 50%,"+rgb(expColor(d.exp))+" 50% 100%)";
+      var bg="linear-gradient(to bottom,"+rgb(salColor(d.usd))+" 0 50%,"+rgb(expColorHome(d.exp))+" 50% 100%)";
       var fl=dd>=42?'<span class="bflag">'+d.flag+'</span>':"";
       return '<a class="bubble" href="/country/'+d.slug+'/" data-i="'+it.i+'" aria-label="'+d.name+'" style="left:'+left+'px;top:'+top+'px;width:'+dd+'px;height:'+dd+'px;background:'+bg+'">'+fl+'</a>';
     }}).join("");
