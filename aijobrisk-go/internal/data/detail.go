@@ -14,6 +14,8 @@ type detail struct {
 	Suitability    *model.Suitability    `json:"suitability"`
 	Faqs           []model.FAQItem       `json:"faqs"`
 	GrowthAreas    []string              `json:"growth_areas"`
+	Outlook        *model.Outlook        `json:"outlook"`
+	SalaryHistory  *model.SalaryHistory  `json:"salary_history"`
 	AI             *model.AI             `json:"ai"`
 }
 
@@ -54,6 +56,8 @@ func OccFull(o *model.Occ) *model.Occ {
 	merged.Suitability = d.Suitability
 	merged.Faqs = d.Faqs
 	merged.GrowthAreas = d.GrowthAreas
+	merged.Outlook = d.Outlook
+	merged.SalaryHistory = d.SalaryHistory
 	if d.AI != nil {
 		var ai model.AI
 		if o.AI != nil {

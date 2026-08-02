@@ -3,7 +3,7 @@
 i18n 母本=英文；其余语言前端经 tr(英文) 解析（键为英文源串）。
 运行：python -m scripts.export_site_data_v2
 """
-import sys, os, json, re, hashlib, glob
+import sys, os, json, re, hashlib, glob, collections
 from datetime import date
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
 from db.connection import get_cursor
@@ -84,6 +84,91 @@ def overall_score(ratings):
     return round(sum(vals) / len(vals), 1) if vals else None
 
 
+# 按 ISCO 2位大组共享曲线的来源（绝对人数是整个大组的总量，非本职业单独测算）。
+_OUTLOOK_GROUP_SOURCES = {"CEDEFOP Skills Forecast"}
+
+# 薪资序列按 ISCO 1位大组键控；本地非 ISCO 编码国需映射到 ISCO 大组数字。
+_ROOT = os.path.join(os.path.dirname(__file__), "..")
+_SALARY_JSON = os.path.join(_ROOT, "downloads", "salary", "_derived", "salary_series_by_group.json")
+_FR_ROME_XW = os.path.join(_ROOT, "downloads", "outlook", "EU", "crosswalk", "FR_rome_isco2_llm.json")
+# US SOC 大类(前2位) -> ISCO 1位大组（近似）。55 军职 -> 跳过。
+_SOC_MAJOR_ISCO1 = {
+    "11": "1", "13": "2", "15": "2", "17": "2", "19": "2", "21": "2", "23": "2",
+    "25": "2", "27": "2", "29": "2", "31": "5", "33": "5", "35": "5", "37": "9",
+    "39": "5", "41": "5", "43": "4", "45": "6", "47": "7", "49": "7", "51": "8", "53": "8",
+}
+
+
+def _occ_isco1(o, fr_xw):
+    """把一条职业的本地编码解析为 ISCO 1位大组数字字符串（1..9）；无法解析返回 None。"""
+    cc, code = o["country"], str(o["occ_code"])
+    t = o.get("occ_code_type")
+    if cc == "FR":  # ROME -> ISCO2(crosswalk) -> 取首位
+        i2 = fr_xw.get(code)
+        return i2[0] if i2 else None
+    if cc == "US" or t == "SOC" and "-" in code:  # SOC 大类前2位映射
+        return _SOC_MAJOR_ISCO1.get(code.split("-")[0])
+    d = code[0]  # ISCO08 / CNO / NCO / UK-SOC 首位均与 ISCO 大组对齐
+    return d if d.isdigit() and d != "0" else None
+
+
+def _attach_salary_history(out):
+    """按 ISCO 1位大组把历史+预测薪资序列挂到 o['salary_history']（大组共享曲线）。"""
+    if not os.path.exists(_SALARY_JSON):
+        print("[export_v2] 警告：无 salary_series_by_group.json，跳过薪资历史")
+        return
+    series = json.load(open(_SALARY_JSON, encoding="utf-8"))
+    fr_xw = json.load(open(_FR_ROME_XW, encoding="utf-8")) if os.path.exists(_FR_ROME_XW) else {}
+    n = 0
+    for o in out:
+        grp = series.get(o["country"])
+        if not grp:
+            continue
+        i1 = _occ_isco1(o, fr_xw)
+        s = grp.get(i1) if i1 else None
+        if not s:
+            continue
+        o["salary_history"] = {
+            "source": s.get("source"), "currency": s.get("currency"),
+            "measure": s.get("measure"), "period": s.get("period"),
+            "granularity": "group", "g_pct": s.get("g_pct"), "points": s["points"],
+        }
+        n += 1
+    print(f"[export_v2] 薪资历史挂载 {n} 条职业（{len({o['country'] for o in out if o.get('salary_history')})} 国）")
+
+
+def _attach_outlook(cur, out):
+    """把 occupation_outlook 序列 + meta 挂到每条职业的 o['outlook']。"""
+    series = collections.defaultdict(list)
+    cur.execute("SELECT country, occ_code, year, employment, is_projected, source "
+                "FROM occupation_outlook ORDER BY country, occ_code, year")
+    for r in cur.fetchall():
+        series[(r["country"], str(r["occ_code"]))].append(
+            [int(r["year"]), float(r["employment"]), int(r["is_projected"]), r["source"]])
+    meta = {}
+    cur.execute("SELECT country, occ_code, source, source_edition, growth_pct, note "
+                "FROM occupation_outlook_meta")
+    for r in cur.fetchall():
+        meta[(r["country"], str(r["occ_code"]))] = r
+    n = 0
+    for o in out:
+        pts = series.get((o["country"], str(o["occ_code"])))
+        if not pts:
+            continue
+        src = pts[0][3]
+        m = meta.get((o["country"], str(o["occ_code"]))) or {}
+        o["outlook"] = {
+            "source": src,
+            "edition": m.get("source_edition"),
+            "granularity": "group" if src in _OUTLOOK_GROUP_SOURCES else "occupation",
+            "growth_pct": float(m["growth_pct"]) if m.get("growth_pct") is not None else None,
+            "note": m.get("note"),
+            "points": [[p[0], round(p[1], 1), p[2]] for p in pts],  # [year, employment, is_projected]
+        }
+        n += 1
+    print(f"[export_v2] outlook 挂载 {n} 条职业（{len({o['country'] for o in out if o.get('outlook')})} 国）")
+
+
 def build():
     with get_cursor() as cur:
         bundles = fetch_bundles(cur)
@@ -124,6 +209,12 @@ def build():
                 "faqs": [{"type": f["type"], "question": f["question"], "answer": f["answer"]} for f in b["faqs"]],
                 "ai": _ai_legacy(b.get("ai")),
             })
+
+        # 从业人数预估序列（occupation_outlook）→ 按 (country, occ_code) 挂到职业上。
+        # 导出全部年份点，时间窗/实线虚线拆分在渲染层处理。
+        _attach_outlook(cur, out)
+        # 历年薪资 + 5年预测（按 ISCO 1位大组共享曲线）。
+        _attach_salary_history(out)
 
         # 方案 C1：ISCO 跨国 canonical slug 去重（单数 URL；name_en 不动）。
         # 按 occ_code 归一（每条 ISCO 记录 slug := 该码 canonical），彻底消除
@@ -195,7 +286,7 @@ def build():
 
     os.makedirs(OUT, exist_ok=True)
     # lean/detail 拆分（同旧）
-    DETAIL_FIELDS = ["visa", "qualifications", "suitability", "faqs", "growth_areas"]
+    DETAIL_FIELDS = ["visa", "qualifications", "suitability", "faqs", "growth_areas", "outlook", "salary_history"]
     AI_DETAIL = ["entry_narrowing_zh", "replaced_zh", "augmented_zh", "moat_zh", "skills_zh",
                  "upgrade_path_zh", "adjacent", "disruptors"]
     detail_by_country = {}

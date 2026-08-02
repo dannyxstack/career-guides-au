@@ -162,11 +162,158 @@
     </div>
     {{ end }}
 
-    {{ if or .Trend .Forecast .GrowthAreas }}
+    {{ if or .Trend .Forecast .GrowthAreas .Outlook .SalaryChart }}
     <h3><i class="fas fa-arrow-trend-up"></i> {{ .Tr "Career outlook" }}</h3>
     {{ if .Trend }}<p>{{ .Trend }}</p>{{ end }}
     {{ if .Forecast }}<p class="muted">{{ .Forecast }}</p>{{ end }}
     {{ if .GrowthAreas }}<p class="growth-tags">{{ range .GrowthAreas }}<span class="risk-badge verylow gt">{{ . }}</span>{{ end }}</p>{{ end }}
+    {{ with .Outlook }}
+    <div class="outlook-chart" data-oc>
+      <div class="oc-top">
+        <div class="oc-title">{{ $.Tr "Projected employment" }} <span class="oc-range">{{ .YearFrom }}–{{ .YearTo }}</span>{{ if .GrowthLabel }} <span class="oc-growth">{{ .GrowthLabel }}</span>{{ end }}</div>
+        <div class="oc-toggle" role="group" aria-label="{{ $.Tr "Chart scale" }}">
+          <button type="button" class="oc-mode on" data-mode="idx">{{ $.Tr "Indexed" }}</button>
+          <button type="button" class="oc-mode" data-mode="abs">{{ $.Tr "Absolute" }}</button>
+        </div>
+      </div>
+      <svg class="oc-svg" viewBox="0 0 680 300" preserveAspectRatio="xMidYMid meet" role="img"
+           aria-label="{{ $.Tr "Projected employment" }}"></svg>
+      <div class="oc-legend">
+        <span class="oc-lg"><span class="oc-swatch solid"></span>{{ $.Tr "Historical" }}</span>
+        <span class="oc-lg"><span class="oc-swatch dashed"></span>{{ $.Tr "Projected" }}</span>
+      </div>
+      <p class="oc-note muted">{{ $.Tr "Source" }}: {{ .SourceLabel }}.{{ if .IsGroup }} {{ $.Tr "Trend shown for the ISCO 2-digit occupational group (shared by all occupations in the group), not measured for this occupation alone." }}{{ end }} {{ $.Tr "Indexed view sets the base year to 100." }}</p>
+      <script>
+        (function () {
+          var root = document.currentScript.closest('[data-oc]');
+          if (!root) return;
+          var D = {{ .DataJSON }}, svg = root.querySelector('.oc-svg');
+          var pts = D.pts.map(function (p) { return { y: p[0], v: p[1], proj: p[2] === 1 }; });
+          var baseY = D.base;
+          var basePt = pts.filter(function (p) { return p.y === baseY; })[0] || pts[0];
+          var W = 680, H = 300, L = 52, R = 14, T = 16, B = 34;
+          var mode = 'idx';
+          function val(p) { return mode === 'abs' ? p.v : (basePt.v ? p.v / basePt.v * 100 : 0); }
+          function fmt(x) {
+            if (mode === 'abs') return Number(x).toLocaleString('en', { maximumFractionDigits: 0 });
+            return Number(x).toFixed(1);
+          }
+          var years = pts.map(function (p) { return p.y; });
+          var yMin = Math.min.apply(null, years), yMax = Math.max.apply(null, years);
+          function sx(y) { return L + (yMax === yMin ? 0.5 : (y - yMin) / (yMax - yMin)) * (W - L - R); }
+          function draw() {
+            var vals = pts.map(val);
+            var vMax = Math.max.apply(null, vals), vMin = Math.min.apply(null, vals);
+            var pad = (vMax - vMin) * 0.12 || vMax * 0.1 || 1;
+            var hi = vMax + pad, lo = Math.max(0, vMin - pad);
+            function sy(v) { return T + (hi === lo ? 0.5 : (1 - (v - lo) / (hi - lo))) * (H - T - B); }
+            var s = [], i, p;
+            // y 轴网格 + 刻度（4 段）
+            for (i = 0; i <= 4; i++) {
+              var vv = lo + (hi - lo) * i / 4, yy = sy(vv);
+              s.push('<line x1="' + L + '" y1="' + yy + '" x2="' + (W - R) + '" y2="' + yy + '" class="oc-grid"/>');
+              s.push('<text x="' + (L - 8) + '" y="' + (yy + 4) + '" class="oc-ytick">' + fmt(vv) + '</text>');
+            }
+            // 基准年竖线（"现在"）
+            s.push('<line x1="' + sx(baseY) + '" y1="' + T + '" x2="' + sx(baseY) + '" y2="' + (H - B) + '" class="oc-baseline"/>');
+            // x 轴年份（点少全标，点多隔一标）
+            var step = pts.length > 8 ? 2 : 1;
+            for (i = 0; i < pts.length; i++) {
+              if (i % step !== 0 && i !== pts.length - 1) continue;
+              s.push('<text x="' + sx(pts[i].y) + '" y="' + (H - B + 20) + '" class="oc-xtick">' + pts[i].y + '</text>');
+            }
+            // 历史实线
+            var hist = pts.filter(function (p) { return !p.proj; });
+            if (hist.length > 1) {
+              s.push('<polyline class="oc-line solid" points="' + hist.map(function (p) { return sx(p.y) + ',' + sy(val(p)); }).join(' ') + '"/>');
+            }
+            // 预测虚线（含从最后一个历史点起的桥接段）
+            var lastHist = hist.length ? hist[hist.length - 1] : null;
+            var proj = pts.filter(function (p) { return p.proj; });
+            var chain = lastHist ? [lastHist].concat(proj) : proj;
+            if (chain.length > 1) {
+              s.push('<polyline class="oc-line dashed" points="' + chain.map(function (p) { return sx(p.y) + ',' + sy(val(p)); }).join(' ') + '"/>');
+            }
+            // 数据点
+            for (i = 0; i < pts.length; i++) {
+              p = pts[i];
+              s.push('<circle cx="' + sx(p.y) + '" cy="' + sy(val(p)) + '" r="3.5" class="oc-dot ' + (p.proj ? 'proj' : 'hist') + '"><title>' + p.y + ': ' + fmt(val(p)) + (mode === 'abs' ? '' : ' (base=100)') + '</title></circle>');
+            }
+            svg.innerHTML = s.join('');
+          }
+          root.querySelectorAll('.oc-mode').forEach(function (btn) {
+            btn.addEventListener('click', function () {
+              mode = btn.getAttribute('data-mode');
+              root.querySelectorAll('.oc-mode').forEach(function (b) { b.classList.toggle('on', b === btn); });
+              draw();
+            });
+          });
+          draw();
+        })();
+      </script>
+    </div>
+    {{ end }}
+    {{ with .SalaryChart }}
+    <div class="outlook-chart" data-sc>
+      <div class="oc-top">
+        <div class="oc-title">{{ $.Tr "Salary trend & forecast" }} <span class="oc-range">{{ .YearFrom }}–{{ .YearTo }}</span>{{ if .GrowthLabel }} <span class="oc-growth">{{ .GrowthLabel }}</span>{{ end }}</div>
+      </div>
+      <svg class="oc-svg" viewBox="0 0 680 300" preserveAspectRatio="xMidYMid meet" role="img"
+           aria-label="{{ $.Tr "Salary trend & forecast" }}"></svg>
+      <div class="oc-legend">
+        <span class="oc-lg"><span class="oc-swatch solid"></span>{{ $.Tr "Historical" }}</span>
+        <span class="oc-lg"><span class="oc-swatch dashed"></span>{{ $.Tr "Forecast (estimate)" }}</span>
+      </div>
+      <p class="oc-note muted">{{ $.Tr "Source" }}: ILOSTAT ({{ $.Tr "monthly" }}, {{ .Currency }}). {{ $.Tr "Trend shown for the ISCO 1-digit occupational major group (shared by all occupations in the group), not measured for this occupation alone." }} {{ $.Tr "Future years are an estimate: IMF WEO inflation outlook plus the group's observed real-wage trend." }}</p>
+      <script>
+        (function () {
+          var root = document.currentScript.closest('[data-sc]');
+          if (!root) return;
+          var D = {{ .DataJSON }}, cur = "{{ .Currency }}", svg = root.querySelector('.oc-svg');
+          var pts = D.pts.map(function (p) { return { y: p[0], v: p[1], proj: p[2] === 1 }; });
+          var W = 680, H = 300, L = 64, R = 14, T = 16, B = 34;
+          function money(x) {
+            try { return new Intl.NumberFormat('en', { style: 'currency', currency: cur, maximumFractionDigits: 1, notation: 'compact' }).format(x); }
+            catch (e) { return Math.round(x).toLocaleString('en'); }
+          }
+          var years = pts.map(function (p) { return p.y; });
+          var yMin = Math.min.apply(null, years), yMax = Math.max.apply(null, years);
+          function sx(y) { return L + (yMax === yMin ? 0.5 : (y - yMin) / (yMax - yMin)) * (W - L - R); }
+          var vals = pts.map(function (p) { return p.v; });
+          var vMax = Math.max.apply(null, vals), vMin = Math.min.apply(null, vals);
+          var pad = (vMax - vMin) * 0.12 || vMax * 0.1 || 1;
+          var hi = vMax + pad, lo = Math.max(0, vMin - pad);
+          function sy(v) { return T + (hi === lo ? 0.5 : (1 - (v - lo) / (hi - lo))) * (H - T - B); }
+          var s = [], i, p;
+          for (i = 0; i <= 4; i++) {
+            var vv = lo + (hi - lo) * i / 4, yy = sy(vv);
+            s.push('<line x1="' + L + '" y1="' + yy + '" x2="' + (W - R) + '" y2="' + yy + '" class="oc-grid"/>');
+            s.push('<text x="' + (L - 8) + '" y="' + (yy + 4) + '" class="oc-ytick">' + money(vv) + '</text>');
+          }
+          var step = pts.length > 8 ? 2 : 1;
+          for (i = 0; i < pts.length; i++) {
+            if (i % step !== 0 && i !== pts.length - 1) continue;
+            s.push('<text x="' + sx(pts[i].y) + '" y="' + (H - B + 20) + '" class="oc-xtick">' + pts[i].y + '</text>');
+          }
+          var hist = pts.filter(function (p) { return !p.proj; });
+          if (hist.length > 1) {
+            s.push('<polyline class="oc-line solid" points="' + hist.map(function (p) { return sx(p.y) + ',' + sy(p.v); }).join(' ') + '"/>');
+          }
+          var lastHist = hist.length ? hist[hist.length - 1] : null;
+          var pr = pts.filter(function (p) { return p.proj; });
+          var chain = lastHist ? [lastHist].concat(pr) : pr;
+          if (chain.length > 1) {
+            s.push('<polyline class="oc-line dashed" points="' + chain.map(function (p) { return sx(p.y) + ',' + sy(p.v); }).join(' ') + '"/>');
+          }
+          for (i = 0; i < pts.length; i++) {
+            p = pts[i];
+            s.push('<circle cx="' + sx(p.y) + '" cy="' + sy(p.v) + '" r="3.5" class="oc-dot ' + (p.proj ? 'proj' : 'hist') + '"><title>' + p.y + ': ' + money(p.v) + '</title></circle>');
+          }
+          svg.innerHTML = s.join('');
+        })();
+      </script>
+    </div>
+    {{ end }}
     {{ end }}
 
     <h3><i class="fas fa-circle-question"></i> {{ .Tr "FAQ" }} · {{ .DispName }}</h3>
@@ -372,6 +519,29 @@
   .note { font-size: 0.82rem; line-height: 1.6; }
   .growth-tags { display: flex; flex-wrap: wrap; gap: 6px; }
   .gt { font-weight: 500; }
+  /* Career outlook 折线图 */
+  .outlook-chart { border: 1px solid var(--line); border-radius: 14px; padding: 16px 16px 12px; margin: 14px 0 4px; background: var(--surface); }
+  .oc-top { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; margin-bottom: 6px; }
+  .oc-title { font-weight: 600; color: var(--text-strong); font-size: 0.95rem; }
+  .oc-range { color: var(--text-muted); font-weight: 500; }
+  .oc-growth { color: var(--brand); font-weight: 700; margin-left: 4px; }
+  .oc-toggle { display: inline-flex; border: 1px solid var(--line); border-radius: 999px; overflow: hidden; }
+  .oc-mode { border: none; background: transparent; color: var(--text-muted); font: inherit; font-size: 0.78rem; font-weight: 600; padding: 4px 12px; cursor: pointer; }
+  .oc-mode.on { background: var(--brand); color: #fff; }
+  .oc-svg { width: 100%; height: auto; display: block; }
+  .oc-grid { stroke: var(--line); stroke-width: 1; }
+  .oc-baseline { stroke: var(--text-muted); stroke-width: 1; stroke-dasharray: 2 3; opacity: .5; }
+  .oc-ytick { fill: var(--text-muted); font-size: 11px; text-anchor: end; }
+  .oc-xtick { fill: var(--text-muted); font-size: 11px; text-anchor: middle; }
+  .oc-line { fill: none; stroke: var(--brand); stroke-width: 2.4; stroke-linejoin: round; stroke-linecap: round; }
+  .oc-line.dashed { stroke-dasharray: 5 4; opacity: .85; }
+  .oc-dot { fill: var(--brand); stroke: var(--surface); stroke-width: 1.5; }
+  .oc-dot.proj { fill: var(--surface); stroke: var(--brand); stroke-width: 2; }
+  .oc-legend { display: flex; gap: 16px; margin-top: 8px; font-size: 0.8rem; color: var(--text-muted); }
+  .oc-lg { display: inline-flex; align-items: center; gap: 6px; }
+  .oc-swatch { width: 20px; height: 0; border-top: 2.4px solid var(--brand); display: inline-block; }
+  .oc-swatch.dashed { border-top-style: dashed; }
+  .oc-note { font-size: 0.78rem; line-height: 1.6; margin: 8px 0 0; }
   .faq-item { border-bottom: 1px solid var(--line); }
   .faq-item summary { list-style: none; cursor: pointer; padding: 14px 0; font-weight: 600; color: var(--text); display: flex; justify-content: space-between; gap: 12px; align-items: center; }
   .faq-item summary::-webkit-details-marker { display: none; }

@@ -1,6 +1,7 @@
 package web
 
 import (
+	"encoding/json"
 	"fmt"
 	"html/template"
 	"net/http"
@@ -98,6 +99,8 @@ type JobVM struct {
 	SuitFit, SuitUnfit []string
 	Trend, Forecast    string
 	GrowthAreas        []string
+	Outlook            *outlookChartVM
+	SalaryChart        *salaryChartVM
 	FAQ                []faqRow
 	SourcesBody        string
 	Poll               PollWidget
@@ -390,6 +393,8 @@ func Job(w http.ResponseWriter, ctx *Ctx, slug, country string) {
 	vm.Trend = data.Tr(z.TrendSummary, CL)
 	vm.Forecast = data.Tr(z.ForecastNote, CL)
 	vm.GrowthAreas = active.GrowthAreas
+	vm.Outlook = buildOutlookChart(active.Outlook, ctx)
+	vm.SalaryChart = buildSalaryChart(active.SalaryHistory, active.Country)
 
 	// FAQ（2030 + active.faqs）
 	q2030, a2030 := data.Build2030(ctx.Loc, dispName, band.Cls, band.Label, aioe, exposure, moat)
@@ -409,6 +414,140 @@ func Job(w http.ResponseWriter, ctx *Ctx, slug, country string) {
 	ctx.Title = data.Tr("Will AI replace", CL) + " " + dispName + "? — " + data.Tr("AI risk, salary & outlook", CL) + " | AI Job Risk"
 	ctx.Description = data.Tr("AI replacement risk, task exposure and the human moat for this occupation, plus local salary, licensing and outlook.", CL) + " — " + dispName
 	renderPage(w, "job.html", vm)
+}
+
+// outlookChartVM 从业人数预估折线图视图模型（历史实线 + 预测虚线，JS 端可切换绝对/指数）。
+type outlookChartVM struct {
+	SourceLabel string        // 数据来源（专有名词，不翻译）
+	IsGroup     bool          // ISCO 2位大组共享曲线（需注明非本职业单独测算）
+	GrowthLabel string        // 头条增长率，如 "+5.5%"
+	YearFrom    int           // 展示窗起始年
+	YearTo      int           // 展示窗结束年
+	DataJSON    template.JS   // {"pts":[[year,value,isProjected],...],"base":基准年}
+}
+
+// buildOutlookChart 依"过去5+未来5"目标窗裁剪序列；窗内无未来点则前扩纳入最近的未来锚点。
+func buildOutlookChart(o *model.Outlook, ctx *Ctx) *outlookChartVM {
+	if o == nil || len(o.Points) < 2 {
+		return nil
+	}
+	// 基准年 = 最后一个历史点（is_projected==0）；若全为预测则取首点。
+	base := int(o.Points[0][0])
+	hasHist := false
+	for _, p := range o.Points {
+		if p[2] == 0 {
+			base = int(p[0])
+			hasHist = true
+		}
+	}
+	if !hasHist {
+		base = int(o.Points[0][0])
+	}
+	lo, hi := base-5, base+5
+	var win []model.OutlookPoint
+	for _, p := range o.Points {
+		if y := int(p[0]); y >= lo && y <= hi {
+			win = append(win, p)
+		}
+	}
+	// 窗内无未来点但序列更远处仍有（如 US 两锚点 2024/2034）→ 前扩纳入最近的未来点。
+	hasFuture := false
+	for _, p := range win {
+		if int(p[0]) > base {
+			hasFuture = true
+			break
+		}
+	}
+	if !hasFuture {
+		for _, p := range o.Points {
+			if int(p[0]) > base {
+				win = append(win, p)
+				break
+			}
+		}
+	}
+	if len(win) < 2 {
+		return nil
+	}
+	pts := make([][3]float64, 0, len(win))
+	for _, p := range win {
+		pts = append(pts, [3]float64{p[0], p[1], p[2]})
+	}
+	b, _ := json.Marshal(map[string]any{"pts": pts, "base": base})
+	label := o.Source
+	if o.Edition != "" {
+		label += " " + o.Edition
+	}
+	vm := &outlookChartVM{
+		SourceLabel: label,
+		IsGroup:     o.Granularity == "group",
+		YearFrom:    int(win[0][0]),
+		YearTo:      int(win[len(win)-1][0]),
+		DataJSON:    template.JS(b),
+	}
+	if o.GrowthPct != nil {
+		sign := "+"
+		if *o.GrowthPct < 0 {
+			sign = ""
+		}
+		vm.GrowthLabel = fmt.Sprintf("%s%.1f%%", sign, *o.GrowthPct)
+	}
+	return vm
+}
+
+// salaryChartVM 历年薪资 + 5年预测折线图（历史实线 + 预测虚线；名义本币）。
+type salaryChartVM struct {
+	Currency    string      // ISO 币种码（用于前端 Intl 货币格式化）
+	Measure     string      // median / average（英文母本，模板 .Tr）
+	Period      string      // monthly
+	GrowthLabel string      // 预测名义年增速，如 "+2.7%/yr"
+	YearFrom    int
+	YearTo      int
+	DataJSON    template.JS  // {"pts":[[year,value,isProjected],...]}
+}
+
+// buildSalaryChart 历史取最近 5 年 + 预测点全保留。
+func buildSalaryChart(s *model.SalaryHistory, country string) *salaryChartVM {
+	if s == nil || len(s.Points) < 2 {
+		return nil
+	}
+	var hist, proj []model.OutlookPoint
+	for _, p := range s.Points {
+		if p[2] == 1 {
+			proj = append(proj, p)
+		} else {
+			hist = append(hist, p)
+		}
+	}
+	if len(hist) > 5 { // 只保留最近 5 年历史
+		hist = hist[len(hist)-5:]
+	}
+	win := append(hist, proj...)
+	if len(win) < 2 {
+		return nil
+	}
+	pts := make([][3]float64, 0, len(win))
+	for _, p := range win {
+		pts = append(pts, [3]float64{p[0], p[1], p[2]})
+	}
+	b, _ := json.Marshal(map[string]any{"pts": pts})
+	cur := data.CURRENCY[country]
+	if cur == "" {
+		cur = "USD"
+	}
+	vm := &salaryChartVM{
+		Currency: cur, Measure: s.Measure, Period: s.Period,
+		YearFrom: int(win[0][0]), YearTo: int(win[len(win)-1][0]),
+		DataJSON: template.JS(b),
+	}
+	if s.GPct != nil {
+		sign := "+"
+		if *s.GPct < 0 {
+			sign = ""
+		}
+		vm.GrowthLabel = fmt.Sprintf("%s%.1f%%/yr", sign, *s.GPct)
+	}
+	return vm
 }
 
 // isMigrationFAQ 判定一条 FAQ 是否为签证/移民诱导问答（按英文母本关键词）。

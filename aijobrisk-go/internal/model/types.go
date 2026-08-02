@@ -143,6 +143,29 @@ type FAQItem struct {
 	Answer   string `json:"answer"`
 }
 
+// OutlookPoint 就业预估序列的一个点：[year, employment, is_projected]（is_projected 1=预测）。
+type OutlookPoint [3]float64
+
+// Outlook 从业人数预估序列（occupation_outlook；懒加载详情）。
+type Outlook struct {
+	Source      string         `json:"source"`
+	Edition     string         `json:"edition"`
+	Granularity string         `json:"granularity"` // "occupation" | "group"（ISCO 2位大组共享曲线）
+	GrowthPct   *float64       `json:"growth_pct"`
+	Note        string         `json:"note"`
+	Points      []OutlookPoint `json:"points"`
+}
+
+// SalaryHistory 历年薪资 + 5年预测（按 ISCO 1位大组共享曲线；名义本币月薪）。
+type SalaryHistory struct {
+	Source      string         `json:"source"`
+	Measure     string         `json:"measure"` // median / average
+	Period      string         `json:"period"`  // monthly
+	Granularity string         `json:"granularity"`
+	GPct        *float64       `json:"g_pct"` // 预测名义年增速（%）
+	Points      []OutlookPoint `json:"points"`
+}
+
 // BakedPoll 构建期烘焙的投票聚合（occupations_v2.json 的 o.polls，可能缺省）。
 type BakedPoll struct {
 	Total  int            `json:"total"`
@@ -175,6 +198,8 @@ type Occ struct {
 	Suitability    *Suitability         `json:"suitability"`
 	Faqs           []FAQItem            `json:"faqs"`
 	GrowthAreas    []string             `json:"growth_areas"`
+	Outlook        *Outlook             `json:"outlook"`
+	SalaryHistory  *SalaryHistory       `json:"salary_history"`
 	Polls          map[string]BakedPoll `json:"polls"`
 }
 

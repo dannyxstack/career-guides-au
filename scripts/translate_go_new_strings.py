@@ -13,9 +13,9 @@ from video_pipeline import azure_translate as az
 GO = os.path.join(os.path.dirname(__file__), "..", "aijobrisk-go", "data")
 TR_DIR = os.path.join(GO, "translations-v2")
 N_SHARDS = 8
-LOCALES = ["es", "pt", "ja", "fr", "zh-CN"]
-# 站点 locale -> Azure 目标语言码（补 fr / zh-CN，不动共享模块）
-AZ_TO = {"es": "es", "pt": "pt", "ja": "ja", "fr": "fr", "zh-CN": "zh-Hans"}
+LOCALES = ["es", "pt", "ja", "fr", "zh-CN", "de"]
+# 站点 locale -> Azure 目标语言码（补 fr / zh-CN / de，不动共享模块）
+AZ_TO = {"es": "es", "pt": "pt", "ja": "ja", "fr": "fr", "zh-CN": "zh-Hans", "de": "de"}
 
 # ---- EU Blue Card 模板 + 18 国（对齐 migration.go） ----
 BLUE_TMPL = ("As an EU member state, {C} admits skilled foreign professionals mainly through "
@@ -59,6 +59,14 @@ FLAT = [
     "Immigration pathways",
     # 新增国国名（es/pt/ja/fr 的 TM 缺，导致国名标题/标签回退英文；zh-CN 走 ZhCN 字段不受影响）
     "Estonia", "Latvia", "Lithuania", "Switzerland",
+    # —— Career outlook 图表（从业人数 + 薪资）——
+    "Projected employment", "Chart scale", "Indexed", "Absolute",
+    "Historical", "Projected", "Source",
+    "Trend shown for the ISCO 2-digit occupational group (shared by all occupations in the group), not measured for this occupation alone.",
+    "Indexed view sets the base year to 100.",
+    "Salary trend & forecast", "Forecast (estimate)", "monthly",
+    "Trend shown for the ISCO 1-digit occupational major group (shared by all occupations in the group), not measured for this occupation alone.",
+    "Future years are an estimate: IMF WEO inflation outlook plus the group's observed real-wage trend.",
 ]
 
 
