@@ -11,10 +11,18 @@
 """
 import sys, os, json, math
 
-# ADM0_A3 -> 站点国家码
+# ADM0_A3 -> 站点国家码（全 42 国，对齐 aijobrisk-go data.COUNTRIES）
 A3 = {"AUS": "AU", "NZL": "NZ", "CAN": "CA", "USA": "US",
       "GBR": "UK", "DEU": "DE", "FRA": "FR", "ESP": "ES",
-      "ITA": "IT", "NLD": "NL", "IRL": "IE", "JPN": "JP", "KOR": "KR"}
+      "ITA": "IT", "NLD": "NL", "IRL": "IE", "JPN": "JP", "KOR": "KR",
+      "BRA": "BR", "MEX": "MX", "IND": "IN", "CHN": "CN",
+      "NOR": "NO", "SWE": "SE", "FIN": "FI", "DNK": "DK", "ISL": "IS",
+      "BEL": "BE", "AUT": "AT", "POL": "PL", "PRT": "PT", "GRC": "GR",
+      "HUN": "HU", "CZE": "CZ", "ROU": "RO", "LUX": "LU", "SVK": "SK",
+      "SVN": "SI", "HRV": "HR", "TUR": "TR",
+      "ARG": "AR", "CHL": "CL", "MYS": "MY", "IDN": "ID", "THA": "TH",
+      "VNM": "VN", "SGP": "SG",
+      "CHE": "CH", "EST": "EE", "LVA": "LV", "LTU": "LT"}
 MAX_DEG = 30.0      # 多边形中心距主陆块中心超过此度数则视为远洋领地，剔除
 DP_TOL = 0.05       # Douglas–Peucker 简化容差（度）
 OUT = os.path.join(os.path.dirname(__file__), "..", "site", "src", "data", "country-outline.json")

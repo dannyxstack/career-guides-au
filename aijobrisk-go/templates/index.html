@@ -6,10 +6,14 @@
     <p class="sub">{{ .Tr "See which tasks AI compresses, which work it augments, and where physical responsibility, complex judgement and human trust still form a moat." }}</p>
     <div class="stat-badge"><i class="fas fa-robot"></i> {{ .PctHigh }}% {{ .Tr "of occupations already have high AI exposure" }}</div>
 
-    <form class="search-box" action="{{ .HrefSearch }}" method="get" role="search">
-      <input type="text" name="q" placeholder="{{ .Tr "Search a job, e.g. \"Software Engineer\"…" }}" aria-label="{{ .Tr "Search occupations" }}" />
-      <button type="submit"><i class="fas fa-search"></i> {{ .Tr "Analyse" }}</button>
-    </form>
+    <div class="search-wrap">
+      <form class="search-box" action="{{ .HrefSearch }}" method="get" role="search" autocomplete="off">
+        <input type="text" name="q" id="hero-q" placeholder="{{ .Tr "Search a job, e.g. \"Software Engineer\"…" }}" aria-label="{{ .Tr "Search occupations" }}"
+          role="combobox" aria-autocomplete="list" aria-expanded="false" aria-controls="ac-list" />
+        <button type="submit"><i class="fas fa-search"></i> {{ .Tr "Analyse" }}</button>
+      </form>
+      <ul class="ac-dropdown" id="ac-list" role="listbox" hidden></ul>
+    </div>
 
     <div class="hot-tags">
       {{ range .HotTags }}<a class="tag" href="{{ .Href }}" style="border-color: {{ .BorderColor }}"><i class="fas {{ .Icon }}"></i> {{ .Name }}{{ if .HasPct }} <span class="tag-pct" style="color: {{ .BorderColor }}">{{ .Pct }}%</span>{{ end }}</a>
@@ -122,6 +126,15 @@
   .search-box input { flex: 1; border: none; padding: 17px 26px; font-size: 1.05rem; background: transparent; outline: none; color: var(--text); }
   .search-box button { background: var(--brand); border: none; color: #fff; padding: 0 34px; font-weight: 600; font-size: 1.02rem; cursor: pointer; white-space: nowrap; }
   .search-box button:hover { background: var(--brand-hover); }
+  .search-wrap { position: relative; max-width: 680px; margin: 0 auto; }
+  .ac-dropdown { position: absolute; left: 0; right: 0; top: calc(100% + 6px); z-index: 40; margin: 0; padding: 6px; list-style: none;
+    background: var(--surface); border: 1px solid var(--line); border-radius: 16px; box-shadow: 0 12px 30px rgba(11,26,46,.16); max-height: 60vh; overflow-y: auto; }
+  .ac-item { display: flex; align-items: center; gap: 10px; padding: 10px 14px; border-radius: 10px; cursor: pointer; text-align: left; }
+  .ac-item:hover, .ac-item.active { background: var(--brand-tint, rgba(37,99,235,.08)); }
+  .ac-name { flex: 1; font-weight: 600; color: var(--text); font-size: 0.98rem; }
+  .ac-cat { color: var(--text-muted); font-size: 0.8rem; white-space: nowrap; }
+  .ac-pct { font-weight: 700; font-size: 0.82rem; min-width: 34px; text-align: right; }
+  .ac-empty { padding: 12px 14px; color: var(--text-muted); font-size: 0.9rem; }
   .hot-tags { margin-top: 26px; display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; }
   .hot-tags .tag { background: var(--surface); padding: 8px 18px; border-radius: 40px; font-size: 0.85rem; font-weight: 500;
     color: var(--text-strong); border: 1px solid var(--line); }
@@ -151,6 +164,9 @@
   .explore-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; }
   .explore-card { background: var(--surface); border: 1px solid var(--line); border-radius: 18px; padding: 26px; text-align: center;
     box-shadow: var(--shadow); color: var(--text); transition: .15s; }
+  .explore-card:nth-child(1) { background: color-mix(in srgb, #10b981 8%, var(--surface)); }
+  .explore-card:nth-child(2) { background: color-mix(in srgb, #3b82f6 8%, var(--surface)); }
+  .explore-card:nth-child(3) { background: color-mix(in srgb, #f59e0b 9%, var(--surface)); }
   .explore-card:hover { border-color: var(--brand); transform: translateY(-3px); }
   .explore-card i { font-size: 1.9rem; color: var(--brand); margin-bottom: 10px; }
   .explore-card h4 { font-size: 1.12rem; margin: 0 0 4px; }
@@ -195,4 +211,65 @@
     .hero { padding: 36px 16px 30px; }
   }
 </style>
+
+<script>
+  (function () {
+    var input = document.getElementById('hero-q');
+    var list = document.getElementById('ac-list');
+    var form = input && input.closest('form');
+    if (!input || !list || !form) return;
+    var base = (form.getAttribute('action') || '/search').replace(/\/search$/, '/suggest');
+    var items = [], active = -1, timer = null, lastQ = '';
+
+    function pctColor(r) {
+      if (r == null) return 'var(--text-muted)';
+      if (r >= 70) return 'var(--risk-high, #dc2626)';
+      if (r >= 40) return 'var(--risk-mid-fg, #d97706)';
+      return 'var(--risk-low, #059669)';
+    }
+    function close() { list.hidden = true; list.innerHTML = ''; items = []; active = -1; input.setAttribute('aria-expanded', 'false'); }
+    function go(i) { if (items[i]) location.href = items[i].h; }
+    function render(data) {
+      items = data || [];
+      if (!items.length) { close(); return; }
+      list.innerHTML = '';
+      items.forEach(function (it, i) {
+        var li = document.createElement('li');
+        li.className = 'ac-item'; li.setAttribute('role', 'option'); li.dataset.i = i;
+        var pct = it.r != null ? '<span class="ac-pct" style="color:' + pctColor(it.r) + '">' + it.r + '</span>' : '';
+        li.innerHTML = '<span class="ac-name"></span><span class="ac-cat"></span>' + pct;
+        li.querySelector('.ac-name').textContent = it.n;
+        li.querySelector('.ac-cat').textContent = it.c || '';
+        li.addEventListener('mousedown', function (e) { e.preventDefault(); go(i); });
+        list.appendChild(li);
+      });
+      active = -1; list.hidden = false; input.setAttribute('aria-expanded', 'true');
+    }
+    function highlight() {
+      [].forEach.call(list.children, function (el, i) { el.classList.toggle('active', i === active); });
+    }
+    function fetchSuggest(q) {
+      fetch(base + '?q=' + encodeURIComponent(q), { headers: { 'Accept': 'application/json' } })
+        .then(function (r) { return r.ok ? r.json() : []; })
+        .then(function (d) { if (input.value.trim() === q) render(d); })
+        .catch(function () { });
+    }
+    input.addEventListener('input', function () {
+      var q = input.value.trim();
+      if (q === lastQ) return; lastQ = q;
+      if (q.length < 2) { close(); return; }
+      clearTimeout(timer);
+      timer = setTimeout(function () { fetchSuggest(q); }, 180);
+    });
+    input.addEventListener('keydown', function (e) {
+      if (list.hidden) return;
+      if (e.key === 'ArrowDown') { e.preventDefault(); active = Math.min(active + 1, items.length - 1); highlight(); }
+      else if (e.key === 'ArrowUp') { e.preventDefault(); active = Math.max(active - 1, 0); highlight(); }
+      else if (e.key === 'Enter') { if (active >= 0) { e.preventDefault(); go(active); } }
+      else if (e.key === 'Escape') { close(); }
+    });
+    input.addEventListener('blur', function () { setTimeout(close, 150); });
+    document.addEventListener('click', function (e) { if (!form.contains(e.target) && !list.contains(e.target)) close(); });
+  })();
+</script>
 {{- end }}

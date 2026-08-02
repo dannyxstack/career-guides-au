@@ -1,6 +1,7 @@
 package web
 
 import (
+	"encoding/json"
 	"html/template"
 	"net/http"
 	"sort"
@@ -16,6 +17,74 @@ type resCard struct {
 	Aioe                         int
 	BandCls, BandLabel           string
 	Flags                        []template.HTML
+}
+
+// suggestItem 自动补全条目（短键，减小体积）。
+type suggestItem struct {
+	N string `json:"n"` // 职业名（本地化）
+	C string `json:"c"` // 分类名
+	H string `json:"h"` // 职业链接
+	R *int   `json:"r"` // AI 暴露分（0-100，可空）
+}
+
+// Suggest /suggest?q= 返回 JSON 自动补全（前缀/包含匹配，最多 8 条）。
+func Suggest(w http.ResponseWriter, ctx *Ctx, q string) {
+	CL := ctx.CL
+	ql := strings.ToLower(strings.TrimSpace(q))
+	w.Header().Set("Content-Type", "application/json; charset=utf-8")
+	out := []suggestItem{}
+	if len([]rune(ql)) < 2 {
+		_ = json.NewEncoder(w).Encode(out)
+		return
+	}
+	type hit struct {
+		item    suggestItem
+		name    string
+		starts  bool
+		work    float64
+	}
+	var hits []hit
+	for _, slug := range data.JobSlugs {
+		grp := data.JobBySlug(slug)
+		if grp == nil {
+			continue
+		}
+		name := data.Name(grp.Rep, CL)
+		nl := strings.ToLower(name)
+		if !strings.Contains(nl, ql) {
+			continue
+		}
+		var r *int
+		if grp.Rep.AI != nil && grp.Rep.AI.AioePct.Set {
+			v := int(grp.Rep.AI.AioePct.V + 0.5)
+			r = &v
+		}
+		work := 0.0
+		for _, o := range grp.Countries {
+			work += o.WorkforceSize.V
+		}
+		hits = append(hits, hit{
+			item: suggestItem{N: name, C: data.Tr(grp.Rep.Category, CL), H: ctx.HrefJob(slug), R: r},
+			name: name, starts: strings.HasPrefix(nl, ql), work: work,
+		})
+	}
+	// 前缀命中优先，其次按全球人数降序，再按名称短优先
+	sort.SliceStable(hits, func(i, j int) bool {
+		if hits[i].starts != hits[j].starts {
+			return hits[i].starts
+		}
+		if hits[i].work != hits[j].work {
+			return hits[i].work > hits[j].work
+		}
+		return len(hits[i].name) < len(hits[j].name)
+	})
+	for i, h := range hits {
+		if i >= 8 {
+			break
+		}
+		out = append(out, h.item)
+	}
+	_ = json.NewEncoder(w).Encode(out)
 }
 
 // SearchVM 搜索页。

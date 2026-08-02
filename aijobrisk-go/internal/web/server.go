@@ -78,6 +78,11 @@ func Router(site string) http.Handler {
 				Search(w, ctx, r.URL.Query().Get("q"))
 				return
 			}
+		case "suggest":
+			if len(seg) == 1 {
+				Suggest(w, ctx, r.URL.Query().Get("q"))
+				return
+			}
 		case "about":
 			if len(seg) == 1 {
 				About(w, ctx)

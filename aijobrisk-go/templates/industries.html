@@ -17,7 +17,7 @@
         <span class="ic-icon"><i class="fas {{ .Icon }}"></i></span>
         <span class="ic-title">{{ .Name }}</span>
       </div>
-      <div class="ic-count">{{ .Count }} {{ $.Tr "occupations" }}</div>
+      <div class="ic-count">{{ .Count }} {{ $.Tr "occupations" }}{{ if .HasWorkforce }} · {{ .Workforce }} {{ $.Tr "workers" }}{{ end }}</div>
       {{ if .HasExtremes }}<div class="ic-extremes">
         {{ if .Riskiest.Has }}<div class="ic-ex"><span class="ie-label"><i class="fas fa-triangle-exclamation" style="color:{{ safeCSS .Riskiest.Color }}"></i> {{ $.Tr "Riskiest" }}</span>
           <span class="ie-occ" style="color:{{ safeCSS .Riskiest.Color }}">{{ .Riskiest.Name }}</span></div>{{ end }}

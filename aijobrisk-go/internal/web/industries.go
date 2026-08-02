@@ -27,6 +27,8 @@ type indExtreme struct {
 type indCard struct {
 	ID, Name, Icon string
 	Count          string
+	Workforce      string // 该行业从业人口合计
+	HasWorkforce   bool
 	Riskiest       indExtreme
 	Safest         indExtreme
 	HasExtremes    bool
@@ -80,6 +82,14 @@ func Industries(w http.ResponseWriter, ctx *Ctx, country string) {
 				withExp = append(withExp, o)
 			}
 		}
+		wfTotal := 0.0
+		wfHas := false
+		for _, o := range occs {
+			if o.Workforce != nil {
+				wfTotal += *o.Workforce
+				wfHas = true
+			}
+		}
 		byRisk := make([]data.SectorOcc, len(withExp))
 		copy(byRisk, withExp)
 		sort.SliceStable(byRisk, func(i, j int) bool { return *byRisk[i].Aioe > *byRisk[j].Aioe })
@@ -118,9 +128,14 @@ func Industries(w http.ResponseWriter, ctx *Ctx, country string) {
 			}
 		}
 
+		wfStr := ""
+		if wfHas {
+			wfStr = data.Comma(int(wfTotal + 0.5))
+		}
 		cards = append(cards, indCard{
 			ID: x.s.ID, Name: data.Tr(x.s.Name, CL), Icon: data.SectorIcon(x.s.ID),
-			Count: data.Comma(x.count), Riskiest: riskiest, Safest: safest,
+			Count: data.Comma(x.count), Workforce: wfStr, HasWorkforce: wfHas,
+			Riskiest: riskiest, Safest: safest,
 			HasExtremes: riskiest.Has || safest.Has, Href: i18n.HrefIndustry(ctx.Loc, x.s.ID, cc),
 		})
 	}

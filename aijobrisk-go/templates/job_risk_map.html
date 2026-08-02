@@ -1,13 +1,13 @@
 {{ define "content" -}}
 <div class="container map-wrap">
   <header class="map-head">
-    <h1>{{ if .Global }}{{ .Tr "AI Job Risk Map — Global" }}{{ else }}{{ .Tr "AI Job Risk Map" }} — {{ .CountryName }}{{ end }}</h1>
+    <h1>{{ if .Global }}{{ .Tr "AI Job Risk Map — Global" }}{{ else }}{{ .Tr "AI Job Risk Map" }} — <span class="h1-flag" aria-hidden="true">{{ .CountryFlag }}</span> {{ .CountryName }}{{ end }}</h1>
     <p class="subhead">{{ .HeadingSub }}</p>
   </header>
 
   <nav class="rm-nav" aria-label="{{ .Tr "Risk maps by region" }}">
     <span class="rm-nav-lbl">{{ .Tr "Risk map" }}:</span>
-    {{ range .Chips }}<a class="rm-chip{{ if .IsCC }} rm-flagchip{{ end }}{{ if .On }} on{{ end }}" href="{{ .Href }}">{{ if .IsCC }}<span class="flag" aria-hidden="true">{{ .Flag }}</span>{{ end }}{{ .Label }}</a>
+    {{ range .Chips }}<a class="rm-chip{{ if .IsCC }} rm-flagchip{{ end }}{{ if .On }} on{{ end }}" href="{{ .Href }}"{{ if .IsCC }} title="{{ .Name }}"{{ end }}>{{ if .IsCC }}<span class="flag" aria-hidden="true">{{ .Flag }}</span>{{ end }}{{ .Label }}</a>
     {{ end }}
   </nav>
 
@@ -89,6 +89,8 @@
   .map-wrap { padding-top: 20px; }
   .map-head { margin-bottom: 16px; }
   .map-head h1 { font-size: 2rem; margin: 0 0 8px; }
+  .h1-flag { display: inline-block; vertical-align: -2px; }
+  .h1-flag svg { width: 30px; height: 21px; border-radius: 3px; box-shadow: 0 0 0 1px var(--line); vertical-align: middle; }
   .subhead { color: var(--text-muted); max-width: 760px; margin: 0; }
   .rm-nav { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; margin-bottom: 10px; }
   .rm-nav-lbl { font-size: 12px; color: var(--muted); margin-right: 2px; }
@@ -97,7 +99,8 @@
   .rm-chip:hover { color: var(--white); border-color: var(--green); }
   .rm-chip.on { color: var(--green); border-color: var(--green); font-weight: 700; }
   .rm-flagchip { padding: 2px 8px 2px 6px; }
-  .rm-chip .flag :global(svg), .rm-chip .flag svg { width: 16px; height: 11px; border-radius: 2px; display: block;
+  .rm-chip .flag { display: inline-flex; align-items: center; }
+  .rm-chip .flag svg { height: 1em; width: auto; border-radius: 2px; display: block;
     box-shadow: 0 0 0 1px var(--line); }
   .rm-legend { display: flex; align-items: center; gap: 10px; flex-wrap: wrap;
     font-size: 13px; color: var(--muted); margin-bottom: 10px; }

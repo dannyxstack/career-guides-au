@@ -12,8 +12,8 @@ import (
 )
 
 // COUNTRIES 路由支持的国家（对齐 data.ts）。
-var COUNTRIES = []string{"AU", "NZ", "CA", "US", "UK", "DE", "FR", "ES", "IT", "NL", "IE", "JP", "KR", "BR", "MX", "IN", "CN",
-	"NO", "SE", "FI", "DK", "IS",
+var COUNTRIES = []string{"AU", "NZ", "CA", "US", "UK", "DE", "FR", "ES", "IT", "NL", "IE", "CH", "JP", "KR", "BR", "MX", "IN", "CN",
+	"NO", "SE", "FI", "DK", "IS", "EE", "LV", "LT",
 	"BE", "AT", "PL", "PT", "GR", "HU", "CZ", "RO", "LU", "SK", "SI", "HR", "TR",
 	"AR", "CL", "MY", "ID", "TH", "VN", "SG"}
 

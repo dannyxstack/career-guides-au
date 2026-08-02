@@ -3,6 +3,9 @@ package web
 import (
 	"fmt"
 	"net/http"
+	"net/url"
+	"strconv"
+	"strings"
 
 	"aijobrisk/internal/data"
 	"aijobrisk/internal/i18n"
@@ -55,6 +58,19 @@ type RankingsVM struct {
 	FAQ                              []qaVM
 	HrefRankingsCC                   string
 	DataUpdated                      string
+	// 分页
+	Page, TotalPages         int
+	HasPrev, HasNext         bool
+	PrevHref, NextHref       string
+	RangeFrom, RangeTo       int
+	PageLinks                []rkPageLink
+}
+
+type rkPageLink struct {
+	Num  int
+	Href string
+	On   bool
+	Gap  bool // 省略号占位
 }
 
 func rkTag(aioe *float64, CL string) (cls, label string) {
@@ -170,12 +186,34 @@ func Rankings(w http.ResponseWriter, ctx *Ctx, segs []string) {
 		return
 	}
 
-	// board 模式
-	b := data.BoardByID(cc, board, 50, CL)
+	// board 模式（全量取回后分页，每页 50）
+	const pageSize = 50
+	b := data.BoardByID(cc, board, 1<<30, CL)
 	if b == nil {
 		notFound(w, ctx)
 		return
 	}
+	allItems := b.Items
+	totalItems := len(allItems)
+	totalPages := (totalItems + pageSize - 1) / pageSize
+	if totalPages < 1 {
+		totalPages = 1
+	}
+	page := 1
+	if q, err := url.ParseQuery(strings.TrimPrefix(ctx.Query, "?")); err == nil {
+		if p, e := strconv.Atoi(q.Get("page")); e == nil && p > 1 {
+			page = p
+		}
+	}
+	if page > totalPages {
+		page = totalPages
+	}
+	offset := (page - 1) * pageSize
+	end := offset + pageSize
+	if end > totalItems {
+		end = totalItems
+	}
+	b.Items = allItems[offset:end]
 	// 分布统计
 	high, mid, low, total := 0, 0, 0, 0
 	for _, o := range data.OccByCountry(cc) {
@@ -206,7 +244,7 @@ func Rankings(w http.ResponseWriter, ctx *Ctx, segs []string) {
 	if vm.BoardIcon == "" {
 		vm.BoardIcon = "fa-list-ol"
 	}
-	vm.ItemsLen = len(b.Items)
+	vm.ItemsLen = totalItems
 
 	// metric 列
 	switch b.Metric {
@@ -220,7 +258,7 @@ func Rankings(w http.ResponseWriter, ctx *Ctx, segs []string) {
 	for i, it := range b.Items {
 		tagCls, tagLabel := rkTag(it.Aioe, CL)
 		moatCls, moatLabel := rkMoat(it.Moat, CL)
-		rank := i + 1
+		rank := offset + i + 1
 		var metric string
 		switch b.Metric {
 		case "workforce":
@@ -250,6 +288,48 @@ func Rankings(w http.ResponseWriter, ctx *Ctx, segs []string) {
 		row.DataName = lower(it.Name)
 		vm.Rows = append(vm.Rows, row)
 	}
+	// 分页控件
+	boardBase := i18n.HrefBoard(ctx.Loc, board, cc)
+	pageHref := func(n int) string {
+		if n <= 1 {
+			return boardBase
+		}
+		return boardBase + "?page=" + strconv.Itoa(n)
+	}
+	vm.Page, vm.TotalPages = page, totalPages
+	vm.RangeFrom, vm.RangeTo = offset+1, end
+	if totalItems == 0 {
+		vm.RangeFrom = 0
+	}
+	vm.HasPrev, vm.HasNext = page > 1, page < totalPages
+	vm.PrevHref, vm.NextHref = pageHref(page-1), pageHref(page+1)
+	if totalPages > 1 {
+		add := func(n int) { vm.PageLinks = append(vm.PageLinks, rkPageLink{Num: n, Href: pageHref(n), On: n == page}) }
+		gap := func() { vm.PageLinks = append(vm.PageLinks, rkPageLink{Gap: true}) }
+		lo, hi := page-2, page+2
+		if lo < 1 {
+			lo = 1
+		}
+		if hi > totalPages {
+			hi = totalPages
+		}
+		if lo > 1 {
+			add(1)
+			if lo > 2 {
+				gap()
+			}
+		}
+		for n := lo; n <= hi; n++ {
+			add(n)
+		}
+		if hi < totalPages {
+			if hi < totalPages-1 {
+				gap()
+			}
+			add(totalPages)
+		}
+	}
+
 	vm.FAQ = []qaVM{
 		{data.Tr("How is the AI exposure percentile calculated?", CL), data.Tr(`It comes from two open studies — the ILO Working Paper 140 and Eloundou et al. "GPTs are GPTs" (OpenAI) — mapped onto official occupation classifications. It is a percentile (0–100): higher means more exposed to generative AI.`, CL)},
 		{data.Tr("Does high exposure mean the job disappears?", CL), data.Tr("No. High exposure means a larger share of the tasks can be done or assisted by AI — the task mix is reshaped, entry-level roles may shrink, and AI-fluent workers gain leverage. It is not a prediction of unemployment.", CL)},

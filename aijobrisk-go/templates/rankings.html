@@ -111,8 +111,15 @@
         </tr>{{ end }}
       </tbody>
     </table>
+    {{ if gt .TotalPages 1 }}
+    <nav class="rk-pager" aria-label="{{ .Tr "Pagination" }}">
+      {{ if .HasPrev }}<a class="rk-pg rk-pg-nav" href="{{ .PrevHref }}" rel="prev">← {{ .Tr "Prev" }}</a>{{ else }}<span class="rk-pg rk-pg-nav disabled">← {{ .Tr "Prev" }}</span>{{ end }}
+      {{ range .PageLinks }}{{ if .Gap }}<span class="rk-pg-gap">…</span>{{ else }}<a class="rk-pg{{ if .On }} on{{ end }}" href="{{ .Href }}"{{ if .On }} aria-current="page"{{ end }}>{{ .Num }}</a>{{ end }}{{ end }}
+      {{ if .HasNext }}<a class="rk-pg rk-pg-nav" href="{{ .NextHref }}" rel="next">{{ .Tr "Next" }} →</a>{{ else }}<span class="rk-pg rk-pg-nav disabled">{{ .Tr "Next" }} →</span>{{ end }}
+    </nav>
+    {{ end }}
     <div class="rank-footer">
-      <span id="ri-count">{{ .Tr "Showing top" }} {{ .ItemsLen }} / {{ .DistTotal }} {{ .Tr "occupations" }}</span>
+      <span id="ri-count">{{ .Tr "Showing" }} {{ .RangeFrom }}–{{ .RangeTo }} / {{ .DistTotal }} {{ .Tr "occupations" }}</span>
       <a class="action-link" href="{{ .HrefRankingsCC }}">← {{ .Tr "All rankings" }}</a>
     </div>
   </div>
@@ -265,6 +272,13 @@
   .action-link { color: var(--brand); font-weight: 500; font-size: 0.86rem; }
   .action-link:hover { text-decoration: underline; }
   .rank-footer { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; font-size: 0.86rem; color: var(--text-muted); padding: 14px 20px; border-top: 1px solid var(--line); }
+  .rk-pager { display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 6px; padding: 16px 20px 4px; }
+  .rk-pg { min-width: 34px; text-align: center; padding: 6px 10px; border: 1px solid var(--line); border-radius: 8px; font-size: 0.86rem; font-weight: 600; color: var(--text-body); background: var(--surface); }
+  .rk-pg:hover { border-color: var(--brand); color: var(--brand); }
+  .rk-pg.on { background: var(--brand); border-color: var(--brand); color: #fff; }
+  .rk-pg-nav { font-weight: 500; }
+  .rk-pg.disabled { color: var(--text-muted); opacity: .5; pointer-events: none; }
+  .rk-pg-gap { padding: 6px 4px; color: var(--text-muted); }
   .faq-block { background: var(--surface); border: 1px solid var(--line); border-radius: 22px; padding: 26px 32px; margin: 24px 0 28px; box-shadow: var(--shadow); }
   .faq-block h3 { font-size: 1.3rem; margin: 0 0 16px; display: flex; align-items: center; gap: 10px; }
   .faq-block h3 i { color: var(--brand); }

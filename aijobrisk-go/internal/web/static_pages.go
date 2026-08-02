@@ -48,7 +48,6 @@ func About(w http.ResponseWriter, ctx *Ctx) {
 			{t["abS3h"], []string{t["abS3a"], t["abS3b"]}},
 			{t["abS4h"], []string{t["abS4a"], t["abS4b"]}},
 			{t["abS5h"], []string{t["abS5"]}},
-			{t["abS6h"], []string{t["abS6"]}},
 		},
 	}
 	// 各国数据来源与权威性（全 43 国来源表 + A/B/C 权威分层）

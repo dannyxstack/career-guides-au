@@ -6,6 +6,7 @@ import (
 	"html"
 	"html/template"
 	"net/http"
+	"sort"
 	"strings"
 
 	"aijobrisk/internal/data"
@@ -85,6 +86,7 @@ func riskMapSVG(layout *data.RiskLayout, meta []RiskMeta, outlineKey, cl string)
 // RiskChip 区域切换 chip。
 type RiskChip struct {
 	Label string
+	Name  string // 国家全名（hover title）
 	Href  string
 	Flag  template.HTML
 	On    bool
@@ -96,6 +98,7 @@ type RiskMapVM struct {
 	*Ctx
 	Global       bool
 	CountryName  string
+	CountryFlag  template.HTML
 	SVG          template.HTML
 	MetaJSON     template.JS
 	TJSON        template.JS
@@ -137,16 +140,22 @@ func RiskMap(w http.ResponseWriter, ctx *Ctx, country string) {
 		"clickOpen": data.Tr("Click to open", cl),
 	})
 
+	var cflag template.HTML
+	if !global {
+		cflag = data.CountryFlag(country)
+	}
 	vm := &RiskMapVM{
-		Ctx: ctx, Global: global, CountryName: cn, SVG: svg,
+		Ctx: ctx, Global: global, CountryName: cn, CountryFlag: cflag, SVG: svg,
 		MetaJSON: template.JS(metaJSON), TJSON: template.JS(tJSON),
 		Total: layout.Total, TotalWorkers: data.Comma(int(totalWorkers + 0.5)),
 		HasData: layout.HasData,
 	}
 	// chips：World + 各国
 	vm.Chips = append(vm.Chips, RiskChip{Label: data.Tr("World", cl), Href: i18n.HrefMap(ctx.Loc, ""), On: global})
-	for _, cc := range data.COUNTRIES {
-		vm.Chips = append(vm.Chips, RiskChip{Label: cc, Href: i18n.HrefMap(ctx.Loc, cc),
+	sortedCC := append([]string{}, data.COUNTRIES...)
+	sort.Strings(sortedCC)
+	for _, cc := range sortedCC {
+		vm.Chips = append(vm.Chips, RiskChip{Label: cc, Name: data.CountryName(cc, cl), Href: i18n.HrefMap(ctx.Loc, cc),
 			Flag: data.CountryFlag(cc), On: !global && cc == country, IsCC: true})
 	}
 
