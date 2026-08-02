@@ -204,8 +204,8 @@
           function draw() {
             var vals = pts.map(val);
             var vMax = Math.max.apply(null, vals), vMin = Math.min.apply(null, vals);
-            var pad = (vMax - vMin) * 0.12 || vMax * 0.1 || 1;
-            var hi = vMax + pad, lo = Math.max(0, vMin - pad);
+            // 零基线：Y 轴从 0 起步，避免把小幅波动放大成"从0冲顶再暴跌"的错觉。
+            var lo = 0, hi = vMax > 0 ? vMax * 1.08 : 1;
             function sy(v) { return T + (hi === lo ? 0.5 : (1 - (v - lo) / (hi - lo))) * (H - T - B); }
             var s = [], i, p;
             // y 轴网格 + 刻度（4 段）
@@ -281,8 +281,8 @@
           function sx(y) { return L + (yMax === yMin ? 0.5 : (y - yMin) / (yMax - yMin)) * (W - L - R); }
           var vals = pts.map(function (p) { return p.v; });
           var vMax = Math.max.apply(null, vals), vMin = Math.min.apply(null, vals);
-          var pad = (vMax - vMin) * 0.12 || vMax * 0.1 || 1;
-          var hi = vMax + pad, lo = Math.max(0, vMin - pad);
+          // 零基线：Y 轴从 0 起步，避免把小幅波动放大成"从0冲顶再暴跌"的错觉。
+          var lo = 0, hi = vMax > 0 ? vMax * 1.08 : 1;
           function sy(v) { return T + (hi === lo ? 0.5 : (1 - (v - lo) / (hi - lo))) * (H - T - B); }
           var s = [], i, p;
           for (i = 0; i <= 4; i++) {
