@@ -1026,6 +1026,7 @@ h1{{font-size:32px;line-height:1.2;letter-spacing:-.02em;margin:0 0 12px}}
 #bubbleTip .bt-row{{display:flex;justify-content:space-between;gap:16px}}
 #bubbleTip .bt-row .k{{color:var(--fg2)}}
 #bubbleTip .bt-row .v{{color:var(--fg);font-variant-numeric:tabular-nums}}
+#bubbleTip .bt-hint{{margin-top:8px;padding-top:7px;border-top:1px solid rgba(255,255,255,.1);color:#6fd08c;font-weight:600;font-size:12px}}
 </style>
 </head>
 <body>
@@ -1113,7 +1114,8 @@ var BUBBLES={bubble_json};
       +'<div class="bt-row"><span class="k">Workforce</span><span class="v">'+fmtInt(d.workers)+'</span></div>'
       +'<div class="bt-row"><span class="k">Avg annual pay</span><span class="v">'+(d.usd!=null?"$"+fmtInt(d.usd)+" USD":"n/a")+'</span></div>'
       +(d.medianUsd!=null?'<div class="bt-row"><span class="k">Median pay</span><span class="v">$'+fmtInt(d.medianUsd)+' USD</span></div>':"")
-      +'<div class="bt-row"><span class="k">Avg AI exposure</span><span class="v" style="color:'+ec+';font-weight:600">'+d.exp+'<span style="color:var(--fg2);font-weight:400">/10</span></span></div>';
+      +'<div class="bt-row"><span class="k">Avg AI exposure</span><span class="v" style="color:'+ec+';font-weight:600">'+d.exp+'<span style="color:var(--fg2);font-weight:400">/10</span></span></div>'
+      +'<div class="bt-hint">Click to explore '+d.name+' →</div>';
   }}
   function moveTip(e){{
     var x=e.clientX+16,y=e.clientY+16;
