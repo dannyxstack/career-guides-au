@@ -555,6 +555,71 @@ def median_salary(o):
     return None
 
 
+# ── AI job loss by 2030 (A1 情景带模型) ───────────────────────────
+# 透明可复现：职业流失率 = aioe_score × 自动化占比 × 情景系数 r。
+#   aioe_score           = ILO WP140 / Eloundou 任务暴露占比（0–0.86）。
+#   自动化占比 auto       = automation_exposure /(automation_exposure + ai_upside)
+#                          —— 暴露中"替代"而非"增强"的份额。
+#   情景系数 r(低/中/高)  = 到 2030 年可替代暴露实际转化为流失的比例，全站标定：
+#                          中档使全站合计流失 ≈ LOSS_MID_TARGET（锚 Goldman ~2.5% 美 /
+#                          WEF 9200 万全球 ≈ 2.7%）。绝非单一预言，只作情景估算。
+# 覆盖率参照分母（About 页用）：全球劳动力 ILO ~3.6B；高收入国家劳动力 World Bank 2025。
+WORLD_LABOUR_FORCE = 3.6e9
+HIGH_INCOME_LABOUR_FORCE = 733_623_052
+# 本站 46 国中属 World Bank 高收入分类者（32 IMF 先进经济体 + CL/PL/HU/RO）。
+HIGH_INCOME_CC = {"AU", "AT", "BE", "CA", "HR", "CZ", "DK", "EE", "FI", "FR", "DE", "GR",
+                  "IS", "IE", "IT", "JP", "KR", "LV", "LT", "LU", "NL", "NZ", "NO", "PT",
+                  "SG", "SK", "SI", "ES", "SE", "CH", "UK", "US", "CL", "PL", "HU", "RO"}
+
+LOSS_MID_TARGET = 0.03                               # 标定旋钮：中档≈覆盖工作人口的 3%
+LOSS_SPREAD = {"low": 0.5, "mid": 1.0, "high": 2.2}  # 情景相对中档的倍数
+LOSS_CAP = 0.9                                        # 单职业流失率上限 90%
+_LOSS_R = {}                                          # calibrate_loss() 填充：{low,mid,high}
+
+
+def _loss_base_frac(o):
+    """单职业的自动化加权 GenAI 暴露占比（r=1 时的流失率）。无 aioe_score 返回 None。"""
+    ai = o.get("ai") or {}
+    sc = ai.get("aioe_score")
+    if not isinstance(sc, (int, float)):
+        return None
+    ae = ai.get("automation_exposure") or 0
+    up = ai.get("ai_upside") or 0
+    auto = ae / (ae + up) if (ae + up) > 0 else 0.0
+    return sc * auto
+
+
+def calibrate_loss(occ):
+    """标定情景系数：使中档全站合计流失 ≈ LOSS_MID_TARGET。返回 {low,mid,high}。"""
+    tot_wf = tot_w = 0.0
+    for o in occ:
+        wf = to_int(o.get("workforce_size")) or 0
+        bf = _loss_base_frac(o)
+        if bf is None or not wf:
+            continue
+        tot_wf += wf
+        tot_w += wf * bf
+    base = (tot_w / tot_wf) if tot_wf else 0.0
+    mid = (LOSS_MID_TARGET / base) if base else 0.0
+    _LOSS_R.clear()
+    _LOSS_R.update({k: mid * m for k, m in LOSS_SPREAD.items()})
+    return dict(_LOSS_R)
+
+
+def occ_loss(o):
+    """单职业 2030 AI 岗位流失估算（低/中/高）。须先 calibrate_loss()。无暴露返回 None。"""
+    wf = to_int(o.get("workforce_size")) or 0
+    bf = _loss_base_frac(o)
+    if bf is None:
+        return None
+    out = {"jobs": wf}
+    for k in ("low", "mid", "high"):
+        rate = min(LOSS_CAP, bf * _LOSS_R.get(k, 0.0))
+        out[f"rate_{k}"] = rate
+        out[f"count_{k}"] = int(round(wf * rate))
+    return out
+
+
 def build_record(o, cat_slug, outlook):
     ai = o.get("ai") or {}
     # AI exposure 首选权威 GenAI 指数 aioe_pct（0-100，ILO WP140 + Eloundou，见
@@ -586,6 +651,7 @@ def build_record(o, cat_slug, outlook):
         "exposure_rationale": ai.get("verdict_zh") or None,
         "aioe_pct": ai.get("aioe_pct"),
         "outlook": outlook.get((o.get("country"), str(o.get("occ_code")))),
+        "loss": occ_loss(o),
         "url": None,
     }
 
@@ -677,6 +743,11 @@ def country_stats(rows):
     industries.sort(key=lambda x: (-(x["avg"] if x["avg"] is not None else -1), -x["jobs"]))
     meds = sorted(r["median"] for r in rows if r.get("median") is not None)
     median_local = meds[len(meds) // 2] if meds else None
+    # AI job loss by 2030 聚合（低/中/高）：总人数、占比、Top 受冲击职业。
+    loss_rows = [r for r in rows if r.get("loss")]
+    loss_counts = {k: sum(r["loss"][f"count_{k}"] for r in loss_rows) for k in ("low", "mid", "high")}
+    loss_rates = {k: (loss_counts[k] / total_jobs if total_jobs else 0.0) for k in ("low", "mid", "high")}
+    top_loss = sorted(loss_rows, key=lambda r: -r["loss"]["count_mid"])[:15]
     return {
         "total_jobs": total_jobs, "scored": len(scored), "total": len(rows),
         "weighted_avg": (wsum / wcnt) if wcnt else 0.0,
@@ -685,6 +756,7 @@ def country_stats(rows):
         "top": sorted(scored, key=lambda d: (-d["exposure"], -(d["jobs"] or 0)))[:20],
         "bottom": sorted(scored, key=lambda d: (d["exposure"], -(d["jobs"] or 0)))[:20],
         "industries": industries,
+        "loss_counts": loss_counts, "loss_rates": loss_rates, "top_loss": top_loss,
     }
 
 
@@ -792,6 +864,75 @@ def faq_accordion(faqs):
             f'<div class="faq">{items}</div>')
 
 
+def _loss_num_span(count, rate, big=False):
+    """双值 span：JS 在 流失人数 ↔ 流失率% 间切换（data-count/data-rate）。"""
+    cls = "jl-num big" if big else "jl-num"
+    return (f'<span class="{cls}" data-count="{count:,}" data-rate="{rate*100:.1f}%">'
+            f'{count:,}</span>')
+
+
+def job_loss_section(cc, name, st):
+    """国家页 'AI job loss by 2030' 区块：三档情景卡 + Top 受冲击职业 + 指标切换。"""
+    lc, lr = st["loss_counts"], st["loss_rates"]
+    cards = "".join(
+        f'<div class="jl-card {k}"><div class="jl-lab">{lab}</div>'
+        f'{_loss_num_span(lc[k], lr[k], big=True)}'
+        f'<div class="jl-sub">{lr[k]*100:.1f}% of workforce &middot; {lc[k]:,} jobs</div></div>'
+        for k, lab in (("low", "Low"), ("mid", "Mid"), ("high", "High")))
+    rows = "".join(
+        f'<tr><td>{esc(r["title"])}</td><td class="num">{fmt_int(r["jobs"])}</td>'
+        f'<td class="num">{_loss_num_span(r["loss"]["count_mid"], r["loss"]["rate_mid"])}</td>'
+        f'<td class="num jl-range">{r["loss"]["count_low"]:,}&ndash;{r["loss"]["count_high"]:,}</td></tr>'
+        for r in st["top_loss"])
+    return f"""<h2 id="job-loss-2030">AI job loss in {esc(name)} by 2030</h2>
+<p class="jl-intro">A scenario estimate: each occupation&rsquo;s GenAI exposure (ILO Working Paper 140) is
+weighted by its automation share and three published-anchored realisation rates. This is a
+<strong>range, not a prediction</strong> &mdash; see the
+<a href="/ai-job-loss-2030.html">global picture &amp; full method &rarr;</a></p>
+<div class="jl-toggle" role="group" aria-label="metric">
+  <button type="button" data-m="count" class="on">Number of jobs</button>
+  <button type="button" data-m="rate">Loss rate %</button>
+</div>
+<div class="jl-cards">{cards}</div>
+<h3 id="jl-top">Jobs most exposed to AI displacement in {esc(name)} by 2030 (mid scenario)</h3>
+<table class="jl-table"><thead><tr><th>Occupation</th><th class="num">Employed</th>
+<th class="num">Est. jobs lost (mid)</th><th class="num">Low&ndash;High</th></tr></thead>
+<tbody>{rows}</tbody></table>
+<p class="meta-line">Absolute counts scale with employment; the loss <em>rate</em> reflects AI exposure. Toggle above to compare.</p>
+{JL_STYLE}{JL_SCRIPT}"""
+
+
+# ── AI job loss 区块的样式与切换脚本（自包含，注入 __STATIC_CONTENT__）──
+JL_STYLE = """<style>
+.jl-toggle{display:inline-flex;gap:0;border:1px solid #444;border-radius:8px;overflow:hidden;margin:6px 0 14px}
+.jl-toggle button{background:transparent;color:#bbb;border:0;padding:7px 14px;font-weight:600;cursor:pointer;font-size:14px}
+.jl-toggle button.on{background:#e6961e;color:#1a1a1a}
+.jl-cards{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin:10px 0 20px}
+.jl-card{border:1px solid #333;border-radius:12px;padding:16px;text-align:center;background:rgba(255,255,255,.02)}
+.jl-card.mid{border-color:#e6961e;background:rgba(230,150,30,.07)}
+.jl-lab{font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:#999;font-weight:700}
+.jl-num.big{display:block;font-size:30px;font-weight:800;margin:6px 0;color:#f2f2f2}
+.jl-card.mid .jl-num.big{color:#e6961e}
+.jl-sub{font-size:12px;color:#999}
+.jl-table .jl-range{color:#999;font-size:13px}
+.jl-intro{color:#bbb}
+@media(max-width:560px){.jl-cards{grid-template-columns:1fr}}
+</style>"""
+
+JL_SCRIPT = """<script>
+(function(){
+ function apply(m){
+  document.querySelectorAll('.jl-num').forEach(function(s){
+   s.textContent = m==='rate' ? s.dataset.rate : s.dataset.count;});
+  document.querySelectorAll('.jl-toggle button').forEach(function(b){
+   b.classList.toggle('on', b.dataset.m===m);});
+ }
+ document.querySelectorAll('.jl-toggle button').forEach(function(b){
+  b.addEventListener('click', function(){apply(b.dataset.m);});});
+})();
+</script>"""
+
+
 def static_content(cc, name, st, summary_html, present, faqs):
     updated = datetime.now().strftime("%d %B %Y").lstrip("0")
     top_tbl = occ_table(st["top"], st["has_pay"], COUNTRY_META[cc][2])
@@ -834,6 +975,8 @@ def static_content(cc, name, st, summary_html, present, faqs):
     return f"""<h2>AI job risk in {esc(name)}</h2>
 {summary_html}
 <p class="meta-line">Data coverage: {st['scored']} of {st['total']} occupations scored &middot; Last updated {updated}</p>
+
+{job_loss_section(cc, name, st)}
 
 {top_block}
 {bot_block}
@@ -916,6 +1059,8 @@ def build_landing(present, stats_by_cc):
             f'<span class="cc-meta">{fmt_int(st["total_jobs"])} workers &middot; {st["total"]} occupations</span>'
             f'<span class="cc-exp">Avg exposure '
             f'<b style="color:rgb({r},{g},{b})">{st["weighted_avg"]:.1f}</b><span class="cc-scale">/10</span></span>'
+            f'<span class="cc-loss">AI job loss by 2030 &middot; '
+            f'<b>{st["loss_rates"]["mid"]*100:.1f}%</b> &middot; {fmt_big_jobs(st["loss_counts"]["mid"])} jobs</span>'
             f'</a>')
     bubbles = [{
         "cc": cc, "name": COUNTRY_META[cc][0], "slug": SLUG[cc], "flag": FLAG.get(cc, ""),
@@ -974,6 +1119,8 @@ h1{{font-size:32px;line-height:1.2;letter-spacing:-.02em;margin:0 0 12px}}
 .cc-meta{{font-size:12.5px;color:var(--fg2)}}
 .cc-exp{{font-size:13px;margin-top:2px}}
 .cc-scale{{color:var(--fg2)}}
+.cc-loss{{font-size:12.5px;color:var(--fg2);margin-top:4px;padding-top:6px;border-top:1px solid var(--line)}}
+.cc-loss b{{color:#e6961e}}
 .longform{{max-width:760px;margin:56px auto 0}}
 .lf{{margin:0 0 26px;padding-bottom:22px;border-bottom:1px solid var(--line)}}
 .lf:last-child{{border-bottom:none}}
@@ -1220,6 +1367,39 @@ def build_og_image(path):
     print("  og-image.png written")
 
 
+def build_job_loss_og(path, present, stats_by_cc):
+    """/ai-job-loss-2030 专属分享图：大字 'AI JOB LOSS BY 2030' + 全球中档总量。"""
+    try:
+        from PIL import Image, ImageDraw, ImageFont
+    except Exception as e:
+        print("  [og] Pillow unavailable, skipping og-job-loss.png:", e)
+        return
+    mid = sum(stats_by_cc[cc]["loss_counts"]["mid"] for cc in present)
+    W, H = 1200, 630
+    img = Image.new("RGB", (W, H), (10, 10, 15))
+    d = ImageDraw.Draw(img)
+    # logo mark
+    d.rounded_rectangle([90, 70, 168, 192], radius=10, fill=(230, 150, 30))
+    d.rounded_rectangle([182, 70, 260, 126], radius=10, fill=(50, 160, 50))
+    d.rounded_rectangle([182, 136, 260, 192], radius=10, fill=(255, 80, 20))
+    try:
+        big_f = ImageFont.truetype("C:/Windows/Fonts/arialbd.ttf", 118)
+        sub_f = ImageFont.truetype("C:/Windows/Fonts/arial.ttf", 33)
+        dom_f = ImageFont.truetype("C:/Windows/Fonts/arial.ttf", 28)
+    except Exception:
+        big_f = sub_f = dom_f = ImageFont.load_default()
+    d.text((88, 236), "AI JOB LOSS", font=big_f, fill=(242, 242, 245))
+    d.text((88, 358), "BY 2030", font=big_f, fill=(230, 150, 30))
+    d.text((90, 500), f"~{mid/1e6:.0f} million jobs across {len(present)} countries · mid-scenario estimate",
+           font=sub_f, fill=(154, 154, 166))
+    # exposure gradient strip + domain
+    for i in range(1020):
+        d.line([(90 + i, 566), (90 + i, 580)], fill=exp_rgb(i / 1019 * 10))
+    d.text((90, 592), "aijobriskmap.com/ai-job-loss-2030", font=dom_f, fill=(230, 150, 30))
+    img.save(path, "PNG")
+    print("  og-job-loss.png written")
+
+
 # ── Shared document-page shell (about / embed hub) ───────────────
 
 DOC_CSS = """<style>
@@ -1255,8 +1435,8 @@ select option{background:var(--bg2)}
 </style>"""
 
 
-def doc_head(title, desc, canonical_path, robots="index,follow"):
-    og = f"{DOMAIN}/og-image.png"
+def doc_head(title, desc, canonical_path, robots="index,follow", og_image=None):
+    og = og_image or f"{DOMAIN}/og-image.png"
     return (f'<!doctype html><html lang="en"><head>'
             f'<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">'
             f'<title>{esc(title)}</title>'
@@ -1285,6 +1465,7 @@ def build_footer():
 <footer class="site-footer">
 <nav>
 <a href="/">Home</a>
+<a href="/ai-job-loss-2030.html">AI job loss by 2030</a>
 <a href="/embed">Download &amp; embed</a>
 <a href="/methodology.html">Methodology</a>
 <a href="/about.html">About</a>
@@ -1307,15 +1488,26 @@ def map_card(cc, st):
             f'<a href="{png}" download>Download PNG</a></figcaption></figure>')
 
 
-def build_about():
+def build_about(cov_all=None, cov_hi=None):
     title = "About — AI Job Risk Map"
     desc = ("AI Job Risk Map is a free, independent atlas of how exposed 5,000+ jobs in 42 "
             "countries are to generative AI, on one comparable 0–10 scale.")
+    coverage = ""
+    if cov_all:
+        g_pct = cov_all / WORLD_LABOUR_FORCE * 100
+        coverage = (f" Together they cover about <strong>{cov_all/1e9:.2f} billion workers</strong> &mdash; "
+                    f"roughly <strong>{g_pct:.0f}% of the global labour force</strong> "
+                    f"(ILO, ~3.6&nbsp;billion)")
+        if cov_hi:
+            h_pct = cov_hi / HIGH_INCOME_LABOUR_FORCE * 100
+            coverage += (f" and <strong>{h_pct:.0f}% of the labour force of the world&rsquo;s high-income "
+                         f"economies</strong> (World Bank)")
+        coverage += "."
     body = f"""<body><div class="wrap">
 <a class="back" href="/">&larr; Back to the map</a>
 <h1>About AI Job Risk Map</h1>
 <p class="lead">A free, independent atlas of how exposed the world&rsquo;s jobs are to generative AI &mdash;
-5,000+ occupations across 46 countries, on one comparable 0&ndash;10 scale.</p>
+5,000+ occupations across 46 countries, on one comparable 0&ndash;10 scale.{coverage}</p>
 
 <h2>What it is</h2>
 <p>AI Job Risk Map turns two open, generative-AI-era research datasets into an interactive picture of the
@@ -1352,6 +1544,89 @@ aijobriskmap.com.</p>
 {build_footer()}
 </body></html>"""
     return doc_head(title, desc, "/about.html") + body
+
+
+def build_job_loss_hub(present, stats_by_cc, rows_by_cc):
+    """/ai-job-loss-2030.html：全球三档总量 + 国家排行榜(指标切换) + 全球 Top 职业 + A2 权威锚点。"""
+    g = {k: sum(stats_by_cc[cc]["loss_counts"][k] for cc in present) for k in ("low", "mid", "high")}
+    g_jobs = sum(stats_by_cc[cc]["total_jobs"] for cc in present)
+    g_rate = {k: (g[k] / g_jobs if g_jobs else 0.0) for k in ("low", "mid", "high")}
+    cards = "".join(
+        f'<div class="jl-card {k}"><div class="jl-lab">{lab} scenario</div>'
+        f'{_loss_num_span(g[k], g_rate[k], big=True)}'
+        f'<div class="jl-sub">{g_rate[k]*100:.1f}% of {g_jobs/1e6:.0f}M workers</div></div>'
+        for k, lab in (("low", "Low"), ("mid", "Mid"), ("high", "High")))
+
+    # 国家排行（按中档流失人数降序）
+    order = sorted(present, key=lambda c: -stats_by_cc[c]["loss_counts"]["mid"])
+    crows = "".join(
+        f'<tr><td><a href="/country/{SLUG[c]}/#job-loss-2030">{esc(COUNTRY_META[c][0])}</a></td>'
+        f'<td class="num">{fmt_int(stats_by_cc[c]["total_jobs"])}</td>'
+        f'<td class="num">{_loss_num_span(stats_by_cc[c]["loss_counts"]["mid"], stats_by_cc[c]["loss_rates"]["mid"])}</td>'
+        f'<td class="num jl-range">{stats_by_cc[c]["loss_counts"]["low"]:,}&ndash;{stats_by_cc[c]["loss_counts"]["high"]:,}</td></tr>'
+        for c in order)
+
+    # 全球 Top 受冲击职业（按职业名汇总各国中档流失人数）
+    agg = {}
+    for c in present:
+        for r in rows_by_cc[c]:
+            if r.get("loss"):
+                agg[r["title"]] = agg.get(r["title"], 0) + r["loss"]["count_mid"]
+    top_occ = sorted(agg.items(), key=lambda x: -x[1])[:20]
+    orows = "".join(f'<tr><td>{esc(t)}</td><td class="num">{n:,}</td></tr>' for t, n in top_occ)
+
+    title = "How many jobs will AI replace by 2030? — Country estimates"
+    desc = (f"A scenario estimate of AI-driven job loss by 2030 across {len(present)} countries: "
+            f"low/mid/high ranges by country and occupation, built on ILO GenAI exposure research.")
+    body = f"""<body><div class="wrap">
+<a class="back" href="/">&larr; Back to the map</a>
+<h1>How many jobs will AI replace by 2030?</h1>
+<p class="lead">A transparent, reproducible <strong>scenario estimate</strong> across {len(present)} countries &mdash;
+not a single prediction. We weight each occupation&rsquo;s generative-AI exposure (ILO Working Paper&nbsp;140) by
+its automation share and three realisation rates calibrated to published research.</p>
+
+<div class="jl-cards">{cards}</div>
+<p class="meta-line">Global total across {len(present)} countries &middot; ~{g_jobs/1e6:.0f}M workers covered.
+Mid scenario is calibrated to ~{LOSS_MID_TARGET*100:.0f}% of the workforce, in line with Goldman Sachs and WEF estimates (below).</p>
+
+<div class="jl-toggle" role="group" aria-label="metric">
+  <button type="button" data-m="count" class="on">Number of jobs</button>
+  <button type="button" data-m="rate">Loss rate %</button>
+</div>
+<h2>AI job loss by 2030, by country (mid scenario)</h2>
+<table class="jl-table"><thead><tr><th>Country</th><th class="num">Workforce</th>
+<th class="num">Est. jobs lost (mid)</th><th class="num">Low&ndash;High</th></tr></thead>
+<tbody>{crows}</tbody></table>
+
+<h2>Occupations most exposed to AI displacement by 2030 (all countries)</h2>
+<table class="jl-table"><thead><tr><th>Occupation</th><th class="num">Est. jobs lost (mid, all countries)</th></tr></thead>
+<tbody>{orows}</tbody></table>
+
+<h2>How this compares to published estimates</h2>
+<p>These are not directly comparable &mdash; each measures something different. We anchor our
+<em>mid</em> scenario to the same order of magnitude, and keep the full method open.</p>
+<table class="jl-table"><thead><tr><th>Source</th><th>Headline</th><th>What it measures</th></tr></thead><tbody>
+<tr><td>Goldman Sachs (2023)</td><td>~300M jobs exposed; ~2.5% of US at risk of elimination</td><td>Task exposure / degradation, not net loss</td></tr>
+<tr><td>WEF Future of Jobs 2025</td><td>92M displaced, 170M created (net +78M) by 2030</td><td>Employer-surveyed gross displacement &amp; creation</td></tr>
+<tr><td>McKinsey</td><td>60&ndash;70% of activities automatable</td><td>Work-activity automation potential under adoption scenarios</td></tr>
+<tr><td>ILO WP140 (2023/25)</td><td>4 exposure gradients; no job-loss number</td><td>Occupational GenAI exposure (our input)</td></tr>
+<tr><td><strong>This site (mid)</strong></td><td><strong>{g['mid']:,} ({g_rate['mid']*100:.1f}%) across {len(present)} countries</strong></td><td>Exposure &times; automation share &times; realisation rate</td></tr>
+</tbody></table>
+
+<h2>Method in one line</h2>
+<p><code>jobs lost = workforce &times; GenAI&nbsp;exposure(aioe_score) &times; automation&nbsp;share &times; realisation&nbsp;rate</code>.
+Realisation rates (low/mid/high) reflect how much of the theoretically-automatable exposure actually converts to job
+loss by 2030 &mdash; adoption is partial. Full detail on the <a href="/methodology.html#job-loss">methodology page</a>.
+Download every number in the <a href="/dataset.csv" download>dataset (CSV)</a>.</p>
+
+<p class="meta-line"><strong>Not a prediction.</strong> A scenario range for orientation; real outcomes depend on adoption,
+policy, and job creation that this figure does not net out.</p>
+</div>
+{JL_STYLE}{JL_SCRIPT}
+{build_footer()}
+</body></html>"""
+    return doc_head(title, desc, "/ai-job-loss-2030.html",
+                    og_image=f"{DOMAIN}/og-job-loss.png") + body
 
 
 def build_embed_hub(present, stats_by_cc):
@@ -1456,11 +1731,40 @@ document.getElementById("leadForm").addEventListener("submit", e => {{
     return doc_head(title, desc, "/embed") + body
 
 
+def job_loss_method_html():
+    """methodology.html 的 'AI job loss by 2030' 方法白盒 + 权威对照（锚 #job-loss）。"""
+    return f"""<h2 id="job-loss">AI job loss by 2030 &mdash; how the estimate works</h2>
+<p>The <a href="/ai-job-loss-2030.html">job-loss estimate</a> is a <strong>scenario range, not a prediction</strong>.
+It converts each occupation&rsquo;s generative-AI exposure into an illustrative number of jobs, using one transparent formula:</p>
+<p class="src"><code>jobs&nbsp;lost = workforce &times; exposure(aioe_score) &times; automation&nbsp;share &times; realisation&nbsp;rate</code></p>
+<ul>
+<li><strong>exposure</strong> &mdash; the occupation&rsquo;s GenAI task-exposure score (ILO Working Paper&nbsp;140 / Eloundou et&nbsp;al.), 0&ndash;0.86.</li>
+<li><strong>automation share</strong> &mdash; the part of that exposure that <em>displaces</em> rather than <em>augments</em>,
+from each occupation&rsquo;s automation-vs-upside scores.</li>
+<li><strong>realisation rate (low / mid / high)</strong> &mdash; how much of the theoretically-automatable exposure actually
+converts to job loss by 2030 (adoption is partial). One global set of rates, calibrated so the <em>mid</em> scenario totals
+≈&nbsp;{LOSS_MID_TARGET*100:.0f}% of the covered workforce &mdash; the same order of magnitude as Goldman Sachs and WEF.</li>
+</ul>
+<p>Because the rates are global and the exposure is per-occupation, a country&rsquo;s loss rate reflects its occupational mix.
+Every number is in the <a href="/dataset.csv" download>dataset (CSV)</a>.</p>
+<h3>How it compares to published work</h3>
+<table><thead><tr><th>Source</th><th>Headline figure</th><th>What it actually measures</th></tr></thead><tbody>
+<tr><td>Goldman Sachs (2023)</td><td>~300M jobs exposed; ~2.5% of US at risk of elimination</td><td>Task exposure / degradation</td></tr>
+<tr><td>WEF Future of Jobs 2025</td><td>92M displaced / 170M created (net +78M) by 2030</td><td>Employer survey, gross flows both ways</td></tr>
+<tr><td>McKinsey</td><td>60&ndash;70% of work activities automatable</td><td>Activity automation potential under adoption scenarios</td></tr>
+<tr><td>ILO WP140</td><td>4 exposure gradients (no loss number)</td><td>Occupational GenAI exposure &mdash; our input</td></tr>
+</tbody></table>
+<p><em>None publish a single &ldquo;net jobs lost by 2030&rdquo; number, because it depends on adoption, policy and job creation.
+Our figure is deliberately a scenario range anchored to that body of work.</em></p>
+"""
+
+
 def build_sitemap(present):
     # /embed/{slug} pages are intentionally omitted (noindex iframe targets).
     date = datetime.now().strftime("%Y-%m-%d")
     urls = ([f"{DOMAIN}/", f"{DOMAIN}/about.html", f"{DOMAIN}/methodology.html",
-             f"{DOMAIN}/embed"] + [country_url(cc) for cc in present])
+             f"{DOMAIN}/ai-job-loss-2030.html", f"{DOMAIN}/embed"]
+            + [country_url(cc) for cc in present])
     items = "".join(f"<url><loc>{u}</loc><lastmod>{date}</lastmod></url>" for u in urls)
     return ('<?xml version="1.0" encoding="UTF-8"?>\n'
             '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
@@ -1576,15 +1880,20 @@ def write_dataset_csv(path, rows_by_cc, present):
     with open(path, "w", encoding="utf-8", newline="") as f:
         w = csv.writer(f)
         w.writerow(["country", "country_code", "occupation", "occupation_code", "category",
-                    "ai_exposure_0_10", "ai_exposure_percentile", "avg_annual_pay", "workforce"])
+                    "ai_exposure_0_10", "ai_exposure_percentile", "avg_annual_pay", "workforce",
+                    "ai_job_loss_2030_low", "ai_job_loss_2030_mid", "ai_job_loss_2030_high",
+                    "ai_job_loss_rate_mid"])
         for cc in present:
             name = COUNTRY_META[cc][0]
             for r in rows_by_cc[cc]:
+                lo = r.get("loss") or {}
                 w.writerow([name, cc, r["title"], r["anzsco"], r["category_name"],
                             r["exposure"] if r["exposure"] is not None else "",
                             r["aioe_pct"] if r["aioe_pct"] is not None else "",
                             r["pay"] if r["pay"] is not None else "",
-                            r["jobs"] if r["jobs"] is not None else ""])
+                            r["jobs"] if r["jobs"] is not None else "",
+                            lo.get("count_low", ""), lo.get("count_mid", ""), lo.get("count_high", ""),
+                            f"{lo['rate_mid']:.4f}" if lo else ""])
 
 
 def load_summaries():
@@ -1616,6 +1925,8 @@ def main():
     template = open(TEMPLATE, encoding="utf-8").read()
     outlook = load_outlook_map()
     summaries = load_summaries()
+    r = calibrate_loss(occ)  # 全站标定 AI job loss 情景系数（须在 build_record 前）
+    print(f"  [loss] 情景系数 low={r['low']:.3f} mid={r['mid']:.3f} high={r['high']:.3f}")
 
     by_country = {}
     for o in occ:
@@ -1776,11 +2087,15 @@ def main():
     # ── Methodology + About pages (distinct: how it's computed vs what it is) ──
     with open(os.path.join(DIST, "methodology.html"), "w", encoding="utf-8") as f:
         f.write(METHODOLOGY_HTML.replace("__DOMAIN__", DOMAIN)
-                .replace("__SOURCES_SECTION__", methodology_sources_section(present))
+                .replace("__SOURCES_SECTION__", job_loss_method_html() + methodology_sources_section(present))
                 .replace("__FOOTER__", build_footer()))
+    cov_all = sum(stats_by_cc[c]["total_jobs"] for c in present)
+    cov_hi = sum(stats_by_cc[c]["total_jobs"] for c in present if c in HIGH_INCOME_CC)
     with open(os.path.join(DIST, "about.html"), "w", encoding="utf-8") as f:
-        f.write(build_about())
-    print("  methodology.html, about.html written")
+        f.write(build_about(cov_all, cov_hi))
+    with open(os.path.join(DIST, "ai-job-loss-2030.html"), "w", encoding="utf-8") as f:
+        f.write(build_job_loss_hub(present, stats_by_cc, rows_by_cc))
+    print("  methodology.html, about.html, ai-job-loss-2030.html written")
 
     # ── Embed / press-kit hub ─────────────────────────────────────
     os.makedirs(os.path.join(DIST, "embed"), exist_ok=True)
@@ -1802,6 +2117,7 @@ def main():
     with open(os.path.join(DIST, "llms.txt"), "w", encoding="utf-8") as f:
         f.write(build_llms(present, stats_by_cc))
     build_og_image(os.path.join(DIST, "og-image.png"))
+    build_job_loss_og(os.path.join(DIST, "og-job-loss.png"), present, stats_by_cc)
     print("  robots.txt, sitemap.xml, llms.txt written")
 
     print(f"\nBuilt landing + {len(present)} country sites -> {DIST}")
