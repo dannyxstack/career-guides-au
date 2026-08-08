@@ -79,6 +79,7 @@ func Load(dir string) error {
 	for _, k := range order {
 		Occupations = append(Occupations, best[k])
 	}
+	CalibrateLoss(Occupations) // AI job loss by 2030 情景系数全站标定
 
 	// jobGroups + JOB_SLUGS（按 COUNTRIES 顺序排组）。
 	jobGroups = map[string][]*model.Occ{}

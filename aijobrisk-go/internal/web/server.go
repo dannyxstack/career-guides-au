@@ -111,6 +111,15 @@ func Router(site string) http.Handler {
 				RiskMap(w, ctx, seg[1])
 				return
 			}
+		case "ai-job-loss-2030":
+			if len(seg) == 1 {
+				JobLossHub(w, ctx)
+				return
+			}
+			if len(seg) == 2 {
+				JobLossCountry(w, ctx, seg[1])
+				return
+			}
 		}
 		notFound(w, ctx)
 	})

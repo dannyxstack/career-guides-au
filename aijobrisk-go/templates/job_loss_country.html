@@ -1,0 +1,76 @@
+{{ define "content" -}}
+<div class="container jl-wrap">
+  <p class="muted"><a href="{{ .HubHref }}">&larr; AI job loss by 2030 — all countries</a></p>
+  <h1>AI job loss in {{ .Name }} by 2030</h1>
+  <p class="jl-lead">A scenario estimate: each occupation&rsquo;s generative-AI exposure (ILO Working Paper&nbsp;140)
+  is weighted by its automation share and three published-anchored realisation rates. This is a
+  <strong>range, not a prediction</strong>.</p>
+
+  <div class="jl-toggle" role="group" aria-label="metric">
+    <button type="button" data-m="count" class="on">Number of jobs</button>
+    <button type="button" data-m="rate">Loss rate %</button>
+  </div>
+  <div class="jl-cards">
+    <div class="jl-card low"><div class="jl-lab">Low</div>
+      <span class="jl-num big" data-count="{{ comma .Agg.CountLow }}" data-rate="{{ pct .Agg.RateLow }}">{{ comma .Agg.CountLow }}</span>
+      <div class="jl-sub">{{ pct .Agg.RateLow }} of workforce</div></div>
+    <div class="jl-card mid"><div class="jl-lab">Mid</div>
+      <span class="jl-num big" data-count="{{ comma .Agg.CountMid }}" data-rate="{{ pct .Agg.RateMid }}">{{ comma .Agg.CountMid }}</span>
+      <div class="jl-sub">{{ pct .Agg.RateMid }} of workforce</div></div>
+    <div class="jl-card high"><div class="jl-lab">High</div>
+      <span class="jl-num big" data-count="{{ comma .Agg.CountHigh }}" data-rate="{{ pct .Agg.RateHigh }}">{{ comma .Agg.CountHigh }}</span>
+      <div class="jl-sub">{{ pct .Agg.RateHigh }} of workforce</div></div>
+  </div>
+  <p class="muted note">Across ~{{ comma .Agg.Jobs }} workers in {{ .Name }}. Mid scenario shown in the table below.</p>
+
+  <h2>Jobs most exposed to AI displacement in {{ .Name }} by 2030 (mid scenario)</h2>
+  <div class="jl-scroll"><table class="jl-table">
+    <thead><tr><th>Occupation</th><th class="num">Employed</th><th class="num">Est. jobs lost (mid)</th><th class="num">Low&ndash;High</th></tr></thead>
+    <tbody>
+      {{ range .TopOccs }}<tr>
+        <td>{{ .Title }}</td>
+        <td class="num">{{ comma .Jobs }}</td>
+        <td class="num"><span class="jl-num" data-count="{{ comma .CountMid }}" data-rate="{{ printf "%.1f%%" .RatePct }}">{{ comma .CountMid }}</span></td>
+        <td class="num muted">{{ comma .CountLow }}&ndash;{{ comma .CountHigh }}</td>
+      </tr>{{ end }}
+    </tbody>
+  </table></div>
+
+  <p class="muted note">Absolute counts scale with employment; the loss <em>rate</em> reflects AI exposure. Toggle above to compare.
+  See the <a href="{{ .HubHref }}">global picture &amp; method</a> and the <a href="{{ .HrefMethodology }}">methodology</a>.</p>
+</div>
+
+<style>
+  .jl-wrap { max-width: 920px; padding: 24px 0 40px; }
+  .jl-wrap h1 { font-size: 1.9rem; margin: 4px 0 12px; }
+  .jl-wrap h2 { font-size: 1.2rem; margin: 30px 0 10px; }
+  .jl-lead { font-size: 1.05rem; color: var(--text-body); line-height: 1.7; margin: 0 0 18px; }
+  .note { font-size: 0.85rem; color: var(--text-muted,#6b7280); }
+  .jl-cards { display: grid; grid-template-columns: repeat(3,1fr); gap: 12px; margin: 8px 0 10px; }
+  .jl-card { border: 1px solid var(--line); border-radius: 12px; padding: 16px; text-align: center; }
+  .jl-card.mid { border-color: var(--accent, #e6961e); background: rgba(230,150,30,.06); }
+  .jl-lab { font-size: 0.72rem; letter-spacing: .08em; text-transform: uppercase; color: var(--text-muted,#6b7280); font-weight: 700; }
+  .jl-num.big { display: block; font-size: 1.9rem; font-weight: 800; margin: 6px 0; }
+  .jl-card.mid .jl-num.big { color: var(--accent, #e6961e); }
+  .jl-sub { font-size: 0.8rem; color: var(--text-muted,#6b7280); }
+  .jl-toggle { display: inline-flex; border: 1px solid var(--line); border-radius: 8px; overflow: hidden; margin: 6px 0 16px; }
+  .jl-toggle button { background: transparent; color: var(--text-body); border: 0; padding: 7px 14px; font-weight: 600; font-size: 0.9rem; cursor: pointer; }
+  .jl-toggle button.on { background: var(--accent, #e6961e); color: #1a1a1a; }
+  .jl-scroll { overflow-x: auto; }
+  .jl-table { width: 100%; border-collapse: collapse; font-size: 0.92rem; }
+  .jl-table th, .jl-table td { text-align: left; padding: 8px 10px; border-bottom: 1px solid var(--line); }
+  .jl-table th.num, .jl-table td.num { text-align: right; }
+  .jl-table th { font-weight: 600; color: var(--text-muted,#6b7280); }
+  .jl-table .muted { color: var(--text-muted,#6b7280); }
+  @media(max-width:560px){ .jl-cards{ grid-template-columns:1fr; } }
+</style>
+<script>
+(function(){
+ function apply(m){
+  document.querySelectorAll('.jl-num').forEach(function(s){ s.textContent = m==='rate' ? s.dataset.rate : s.dataset.count; });
+  document.querySelectorAll('.jl-toggle button').forEach(function(b){ b.classList.toggle('on', b.dataset.m===m); });
+ }
+ document.querySelectorAll('.jl-toggle button').forEach(function(b){ b.addEventListener('click', function(){ apply(b.dataset.m); }); });
+})();
+</script>
+{{- end }}

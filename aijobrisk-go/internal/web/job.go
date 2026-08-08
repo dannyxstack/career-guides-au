@@ -101,6 +101,7 @@ type JobVM struct {
 	GrowthAreas        []string
 	Outlook            *outlookChartVM
 	SalaryChart        *salaryChartVM
+	Loss               *jobLossOccVM
 	FAQ                []faqRow
 	SourcesBody        string
 	Poll               PollWidget
@@ -395,6 +396,7 @@ func Job(w http.ResponseWriter, ctx *Ctx, slug, country string) {
 	vm.GrowthAreas = active.GrowthAreas
 	vm.Outlook = buildOutlookChart(active.Outlook, ctx)
 	vm.SalaryChart = buildSalaryChart(active.SalaryHistory, active.Country)
+	vm.Loss = buildJobLossOcc(active, ctx)
 
 	// FAQ（2030 + active.faqs）
 	q2030, a2030 := data.Build2030(ctx.Loc, dispName, band.Cls, band.Label, aioe, exposure, moat)

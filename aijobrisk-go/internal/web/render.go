@@ -13,6 +13,7 @@ var funcMap = template.FuncMap{
 	"safeCSS":  func(s string) template.CSS { return template.CSS(s) },
 	"attr":     func(s string) template.HTMLAttr { return template.HTMLAttr(s) },
 	"add":      func(a, b int) int { return a + b },
+	"pct":      func(f float64) string { return fmt.Sprintf("%.1f%%", f*100) },
 }
 
 func commaAny(v any) string {

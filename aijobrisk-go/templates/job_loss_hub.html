@@ -1,0 +1,104 @@
+{{ define "content" -}}
+<div class="container jl-wrap">
+  <h1>How many jobs will AI replace by 2030?</h1>
+  <p class="jl-lead">A transparent, reproducible <strong>scenario estimate</strong> across {{ .NCountries }} countries
+  &mdash; not a single prediction. Each occupation&rsquo;s generative-AI exposure (ILO Working Paper&nbsp;140) is
+  weighted by its automation share and three realisation rates calibrated to published research.</p>
+
+  <div class="jl-cards">
+    <div class="jl-card low"><div class="jl-lab">Low scenario</div>
+      <span class="jl-num big" data-count="{{ comma .Agg.CountLow }}" data-rate="{{ pct .Agg.RateLow }}">{{ comma .Agg.CountLow }}</span>
+      <div class="jl-sub">{{ pct .Agg.RateLow }} of workforce</div></div>
+    <div class="jl-card mid"><div class="jl-lab">Mid scenario</div>
+      <span class="jl-num big" data-count="{{ comma .Agg.CountMid }}" data-rate="{{ pct .Agg.RateMid }}">{{ comma .Agg.CountMid }}</span>
+      <div class="jl-sub">{{ pct .Agg.RateMid }} of workforce</div></div>
+    <div class="jl-card high"><div class="jl-lab">High scenario</div>
+      <span class="jl-num big" data-count="{{ comma .Agg.CountHigh }}" data-rate="{{ pct .Agg.RateHigh }}">{{ comma .Agg.CountHigh }}</span>
+      <div class="jl-sub">{{ pct .Agg.RateHigh }} of workforce</div></div>
+  </div>
+  <p class="muted note">Global total across {{ .NCountries }} countries &middot; ~{{ comma .Agg.Jobs }} workers covered.
+  The mid scenario is calibrated to ~{{ .MidTargetPct }}% of the workforce, in line with Goldman Sachs and WEF estimates (below).</p>
+
+  <div class="jl-toggle" role="group" aria-label="metric">
+    <button type="button" data-m="count" class="on">Number of jobs</button>
+    <button type="button" data-m="rate">Loss rate %</button>
+  </div>
+
+  <h2>AI job loss by 2030, by country (mid scenario)</h2>
+  <div class="jl-scroll"><table class="jl-table">
+    <thead><tr><th>Country</th><th class="num">Workforce</th><th class="num">Est. jobs lost (mid)</th><th class="num">Low&ndash;High</th></tr></thead>
+    <tbody>
+      {{ range .Countries }}<tr>
+        <td><a href="{{ .Href }}">{{ .Name }}</a></td>
+        <td class="num">{{ comma .Jobs }}</td>
+        <td class="num"><span class="jl-num" data-count="{{ comma .CountMid }}" data-rate="{{ printf "%.1f%%" .RatePct }}">{{ comma .CountMid }}</span></td>
+        <td class="num muted">{{ comma .CountLow }}&ndash;{{ comma .CountHigh }}</td>
+      </tr>{{ end }}
+    </tbody>
+  </table></div>
+
+  <h2>Occupations most exposed to AI displacement by 2030 (all countries)</h2>
+  <div class="jl-scroll"><table class="jl-table">
+    <thead><tr><th>Occupation</th><th class="num">Est. jobs lost (mid, all countries)</th></tr></thead>
+    <tbody>
+      {{ range .TopOccs }}<tr><td>{{ .Title }}</td><td class="num">{{ comma .CountMid }}</td></tr>{{ end }}
+    </tbody>
+  </table></div>
+
+  <h2>How this compares to published estimates</h2>
+  <p>These are not directly comparable &mdash; each measures something different. We anchor our <em>mid</em>
+  scenario to the same order of magnitude, and keep the full method open.</p>
+  <div class="jl-scroll"><table class="jl-table">
+    <thead><tr><th>Source</th><th>Headline</th><th>What it measures</th></tr></thead>
+    <tbody>
+      <tr><td>Goldman Sachs (2023)</td><td>~300M jobs exposed; ~2.5% of US at risk of elimination</td><td>Task exposure / degradation, not net loss</td></tr>
+      <tr><td>WEF Future of Jobs 2025</td><td>92M displaced, 170M created (net +78M) by 2030</td><td>Employer-surveyed gross displacement &amp; creation</td></tr>
+      <tr><td>McKinsey</td><td>60&ndash;70% of activities automatable</td><td>Work-activity automation potential under adoption scenarios</td></tr>
+      <tr><td>ILO WP140 (2023/25)</td><td>4 exposure gradients; no job-loss number</td><td>Occupational GenAI exposure (our input)</td></tr>
+      <tr><td><strong>This site (mid)</strong></td><td><strong>{{ comma .Agg.CountMid }} ({{ pct .Agg.RateMid }}) across {{ .NCountries }} countries</strong></td><td>Exposure &times; automation share &times; realisation rate</td></tr>
+    </tbody>
+  </table></div>
+
+  <h2>Method in one line</h2>
+  <p><code>jobs lost = workforce &times; GenAI exposure &times; automation share &times; realisation rate</code>.
+  Realisation rates (low/mid/high) reflect how much of the theoretically-automatable exposure actually converts to
+  job loss by 2030 &mdash; adoption is partial. Full detail on the <a href="{{ .HrefMethodology }}">methodology page</a>.</p>
+
+  <p class="muted note"><strong>Not a prediction.</strong> A scenario range for orientation; real outcomes depend on
+  adoption, policy, and job creation that this figure does not net out.</p>
+</div>
+
+<style>
+  .jl-wrap { max-width: 920px; padding: 32px 0 40px; }
+  .jl-wrap h1 { font-size: 2.1rem; margin: 0 0 12px; }
+  .jl-wrap h2 { font-size: 1.25rem; margin: 34px 0 10px; }
+  .jl-lead { font-size: 1.08rem; color: var(--text-body); line-height: 1.7; margin: 0 0 20px; }
+  .note { font-size: 0.85rem; color: var(--text-muted, #6b7280); }
+  .jl-cards { display: grid; grid-template-columns: repeat(3,1fr); gap: 12px; margin: 8px 0 10px; }
+  .jl-card { border: 1px solid var(--line); border-radius: 12px; padding: 16px; text-align: center; }
+  .jl-card.mid { border-color: var(--accent, #e6961e); background: rgba(230,150,30,.06); }
+  .jl-lab { font-size: 0.72rem; letter-spacing: .08em; text-transform: uppercase; color: var(--text-muted,#6b7280); font-weight: 700; }
+  .jl-num.big { display: block; font-size: 1.9rem; font-weight: 800; margin: 6px 0; }
+  .jl-card.mid .jl-num.big { color: var(--accent, #e6961e); }
+  .jl-sub { font-size: 0.8rem; color: var(--text-muted,#6b7280); }
+  .jl-toggle { display: inline-flex; border: 1px solid var(--line); border-radius: 8px; overflow: hidden; margin: 6px 0 16px; }
+  .jl-toggle button { background: transparent; color: var(--text-body); border: 0; padding: 7px 14px; font-weight: 600; font-size: 0.9rem; cursor: pointer; }
+  .jl-toggle button.on { background: var(--accent, #e6961e); color: #1a1a1a; }
+  .jl-scroll { overflow-x: auto; }
+  .jl-table { width: 100%; border-collapse: collapse; font-size: 0.92rem; }
+  .jl-table th, .jl-table td { text-align: left; padding: 8px 10px; border-bottom: 1px solid var(--line); }
+  .jl-table th.num, .jl-table td.num { text-align: right; }
+  .jl-table th { font-weight: 600; color: var(--text-muted,#6b7280); }
+  .jl-table .muted { color: var(--text-muted,#6b7280); }
+  @media(max-width:560px){ .jl-cards{ grid-template-columns:1fr; } }
+</style>
+<script>
+(function(){
+ function apply(m){
+  document.querySelectorAll('.jl-num').forEach(function(s){ s.textContent = m==='rate' ? s.dataset.rate : s.dataset.count; });
+  document.querySelectorAll('.jl-toggle button').forEach(function(b){ b.classList.toggle('on', b.dataset.m===m); });
+ }
+ document.querySelectorAll('.jl-toggle button').forEach(function(b){ b.addEventListener('click', function(){ apply(b.dataset.m); }); });
+})();
+</script>
+{{- end }}
