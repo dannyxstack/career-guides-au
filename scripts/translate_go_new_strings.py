@@ -67,6 +67,27 @@ FLAT = [
     "Salary trend & forecast", "Forecast (estimate)", "monthly",
     "Trend shown for the ISCO 1-digit occupational major group (shared by all occupations in the group), not measured for this occupation alone.",
     "Future years are an estimate: IMF WEO inflation outlook plus the group's observed real-wage trend.",
+    # —— SEO/GEO 批次：职业页答案优先 + Human Moat + /data 开放数据集 ——
+    "AI risk score",
+    "How we score the human moat",
+    "Last updated",
+    "Data",
+    # methodology #human-moat
+    "The Human Moat",
+    "The human moat is the part of a job that stays hard for AI to do — the tasks that depend on physical presence, accountability, human trust, judgement under ambiguity, or tacit skill. The wider the moat, the more resilient the occupation, even when parts of it are automatable.",
+    "We score every occupation on four dimensions that together shape its moat:",
+    "How much of the day-to-day work generative AI can already do.",
+    "How much of the role rests on skills AI cannot easily replicate.",
+    "Whether AI is narrowing the entry-level and junior pathways.",
+    "How much AI can augment the role and lift productivity rather than replace it.",
+    "A wide human moat with low task exposure signals a resilient career; a narrow moat with high exposure signals a role to reshape early. Every occupation page reuses this same framework so scores are comparable across jobs and countries.",
+    # /data page
+    "AI Job Risk data",
+    "An open ranking of occupations by generative-AI task exposure. Below are the 100 most-exposed and 100 safest jobs across all countries we cover; the full dataset is available as JSON.",
+    "Covering", "occupations",
+    "Top 100 most exposed to AI", "Top 100 safest from AI",
+    "AI exposure",
+    "Exposure is the generative-AI task-exposure percentile (ILO Working Paper 140, calibrated with Eloundou et al.). Figures are indicative estimates. Data is licensed CC BY 4.0.",
 ]
 
 
