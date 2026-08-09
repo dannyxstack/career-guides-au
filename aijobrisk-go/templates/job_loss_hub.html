@@ -76,14 +76,18 @@
   .note { font-size: 0.85rem; color: var(--text-muted, #6b7280); }
   .jl-cards { display: grid; grid-template-columns: repeat(3,1fr); gap: 12px; margin: 8px 0 10px; }
   .jl-card { border: 1px solid var(--line); border-radius: 12px; padding: 16px; text-align: center; }
-  .jl-card.mid { border-color: var(--accent, #e6961e); background: rgba(230,150,30,.06); }
+  .jl-card.low { border-color: color-mix(in srgb, var(--risk-low) 40%, var(--line)); background: var(--risk-low-bg); }
+  .jl-card.mid { border-color: color-mix(in srgb, var(--risk-mid) 45%, var(--line)); background: var(--risk-mid-bg); }
+  .jl-card.high { border-color: color-mix(in srgb, var(--risk-high) 40%, var(--line)); background: var(--risk-high-bg); }
   .jl-lab { font-size: 0.72rem; letter-spacing: .08em; text-transform: uppercase; color: var(--text-muted,#6b7280); font-weight: 700; }
   .jl-num.big { display: block; font-size: 1.9rem; font-weight: 800; margin: 6px 0; }
-  .jl-card.mid .jl-num.big { color: var(--accent, #e6961e); }
+  .jl-card.low .jl-num.big { color: var(--risk-low); }
+  .jl-card.mid .jl-num.big { color: var(--risk-mid-fg); }
+  .jl-card.high .jl-num.big { color: var(--risk-high); }
   .jl-sub { font-size: 0.8rem; color: var(--text-muted,#6b7280); }
   .jl-toggle { display: inline-flex; border: 1px solid var(--line); border-radius: 8px; overflow: hidden; margin: 6px 0 16px; }
   .jl-toggle button { background: transparent; color: var(--text-body); border: 0; padding: 7px 14px; font-weight: 600; font-size: 0.9rem; cursor: pointer; }
-  .jl-toggle button.on { background: var(--accent, #e6961e); color: #1a1a1a; }
+  .jl-toggle button.on { background: var(--brand); color: #fff; }
   .jl-scroll { overflow-x: auto; }
   .jl-table { width: 100%; border-collapse: collapse; font-size: 0.92rem; }
   .jl-table th, .jl-table td { text-align: left; padding: 8px 10px; border-bottom: 1px solid var(--line); }

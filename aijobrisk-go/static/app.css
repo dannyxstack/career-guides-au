@@ -1,14 +1,15 @@
-/* ===== 设计 token（源自 aijobrisk-design/theme.css：index.html/job-detail.html 蓝系） ===== */
+/* ===== 设计 token（配色候选 1c 石墨紫·青蓝双色，采样自 aijobrisk-design/aijobrisk-home-design-1c.png） ===== */
 :root {
-  --brand: #2563eb; --brand-hover: #1e4fc4; --brand-tint: #eef2ff;
-  --text: #0b1a2e; --text-strong: #1e3a5f; --text-body: #2c3e5a; --text-muted: #4b5e7a;
-  --bg: #f6f9fc; --bg-soft: #f8faff; --surface: #ffffff; --surface-tint: #eaf0f6;
-  --surface-tint-2: #f0f5fe; --surface-accent: #ecf3fa; --line: #dce7f5;
-  --risk-low: #059669; --risk-low-bg: #d1fae5;
-  --risk-mid: #f59e0b; --risk-mid-bg: #fef3c7;
-  --risk-high: #dc2626; --risk-high-bg: #fee2e2;
-  --risk-low-fg: #166534; --risk-mid-fg: #92400e; --risk-high-fg: #991b1b;
-  --accent-purple: #7c3aed; --accent-purple-bg: #eee8f4;
+  --brand: #6647c0; --brand-hover: #4f3797; --brand-tint: #e9e7fd; --brand-fg: #4f3797;
+  --teal: #00b4bc; --teal-hover: #00959c; --teal-tint: #d9f1f2; --teal-fg: #005c62;
+  --text: #171d26; --text-strong: #1c1f24; --text-body: #52555b; --text-muted: #616367;
+  --bg: #f7f8fb; --bg-soft: #fbfcfd; --surface: #fbfcfd; --surface-tint: #eeeef6;
+  --surface-tint-2: #f2f1fb; --surface-accent: #efeefa; --line: #dcdee2;
+  --risk-low: #00734b; --risk-low-bg: #e5f9ef;
+  --risk-mid: #d98b09; --risk-mid-bg: #f7ede0;
+  --risk-high: #b32228; --risk-high-bg: #ffefed;
+  --risk-low-fg: #00583a; --risk-mid-fg: #7e4600; --risk-high-fg: #a5292b;
+  --accent-purple: #6647c0; --accent-purple-bg: #e9e7fd;
   --gold-fg: #ae7d2e; --gold-bg: #faefdc; --slate-fg: #4d626d; --slate-bg: #eaeff3;
   --radius: 12px; --radius-sm: 8px;
   --shadow: 0 1px 3px rgba(11,26,46,.06), 0 4px 12px rgba(11,26,46,.05);
@@ -20,7 +21,8 @@
   --bg:#0b1120; --bg-soft:#0e1526; --surface:#151c2c; --surface-tint:#111a2e;
   --surface-tint-2:#131d33; --surface-accent:#16223a; --line:#26304a;
   --text:#e6ebf5; --text-strong:#d3dcf0; --text-body:#c2cbe0; --text-muted:#8b97b0;
-  --brand:#4f8cff; --brand-hover:#6ea1ff; --brand-tint:#16223a;
+  --brand:#9d8cec; --brand-hover:#b7abf2; --brand-tint:#241d3a; --brand-fg:#b7abf2;
+  --teal:#22c7cf; --teal-hover:#4bd6dc; --teal-tint:#0e2e30; --teal-fg:#4bd6dc;
   --risk-low:#10b981; --risk-mid:#f59e0b; --risk-high:#ef4444;
   --risk-low-bg:#0f2e26; --risk-mid-bg:#33270c; --risk-high-bg:#3a1418;
   --risk-low-fg:#6ee7b7; --risk-mid-fg:#fcd34d; --risk-high-fg:#fca5a5;
@@ -33,7 +35,8 @@
     --bg:#0b1120; --bg-soft:#0e1526; --surface:#151c2c; --surface-tint:#111a2e;
     --surface-tint-2:#131d33; --surface-accent:#16223a; --line:#26304a;
     --text:#e6ebf5; --text-strong:#d3dcf0; --text-body:#c2cbe0; --text-muted:#8b97b0;
-    --brand:#4f8cff; --brand-hover:#6ea1ff; --brand-tint:#16223a;
+    --brand:#9d8cec; --brand-hover:#b7abf2; --brand-tint:#241d3a; --brand-fg:#b7abf2;
+  --teal:#22c7cf; --teal-hover:#4bd6dc; --teal-tint:#0e2e30; --teal-fg:#4bd6dc;
     --risk-low:#10b981; --risk-mid:#f59e0b; --risk-high:#ef4444;
     --risk-low-bg:#0f2e26; --risk-mid-bg:#33270c; --risk-high-bg:#3a1418;
     --risk-low-fg:#6ee7b7; --risk-mid-fg:#fcd34d; --risk-high-fg:#fca5a5;
