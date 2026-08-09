@@ -134,6 +134,15 @@ func Router(site string) http.Handler {
 				Insights(w, ctx)
 				return
 			}
+		case "data":
+			if len(seg) == 1 {
+				DataPage(w, ctx)
+				return
+			}
+			if len(seg) == 2 && seg[1] == "occupations.json" {
+				DataJSON(w, ctx)
+				return
+			}
 		}
 		notFound(w, ctx)
 	})

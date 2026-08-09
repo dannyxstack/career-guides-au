@@ -1,0 +1,64 @@
+{{ define "content" -}}
+<div class="container dp-wrap">
+  <h1>{{ .Tr "AI Job Risk data" }}</h1>
+  <p class="dp-lead">{{ .Tr "An open ranking of occupations by generative-AI task exposure. Below are the 100 most-exposed and 100 safest jobs across all countries we cover; the full dataset is available as JSON." }}</p>
+  <p class="muted dp-meta">{{ .Tr "Covering" }} {{ comma .Total }} {{ .Tr "occupations" }} · {{ .Tr "Last updated" }}: {{ .Updated }} ·
+    <a href="{{ .WithL "/data/occupations.json" }}">occupations.json</a> ·
+    <a href="{{ .HrefMethodology }}#human-moat">{{ .Tr "Methodology" }}</a></p>
+
+  <div class="dp-cols">
+    <section>
+      <h2 class="dp-h high">{{ .Tr "Top 100 most exposed to AI" }}</h2>
+      <div class="dp-scroll"><table class="dp-table">
+        <thead><tr><th>#</th><th>{{ .Tr "Occupation" }}</th><th class="num">{{ .Tr "AI exposure" }}</th></tr></thead>
+        <tbody>
+          {{ range $i, $r := .Risky }}<tr>
+            <td class="muted">{{ add $i 1 }}</td>
+            <td><a href="{{ $.HrefJob $r.Slug }}">{{ $r.Name }}</a></td>
+            <td class="num dp-{{ $r.Band }}">{{ $r.Pct }}%</td>
+          </tr>{{ end }}
+        </tbody>
+      </table></div>
+    </section>
+    <section>
+      <h2 class="dp-h low">{{ .Tr "Top 100 safest from AI" }}</h2>
+      <div class="dp-scroll"><table class="dp-table">
+        <thead><tr><th>#</th><th>{{ .Tr "Occupation" }}</th><th class="num">{{ .Tr "AI exposure" }}</th></tr></thead>
+        <tbody>
+          {{ range $i, $r := .Safe }}<tr>
+            <td class="muted">{{ add $i 1 }}</td>
+            <td><a href="{{ $.HrefJob $r.Slug }}">{{ $r.Name }}</a></td>
+            <td class="num dp-{{ $r.Band }}">{{ $r.Pct }}%</td>
+          </tr>{{ end }}
+        </tbody>
+      </table></div>
+    </section>
+  </div>
+
+  <p class="muted dp-foot">{{ .Tr "Exposure is the generative-AI task-exposure percentile (ILO Working Paper 140, calibrated with Eloundou et al.). Figures are indicative estimates. Data is licensed CC BY 4.0." }}</p>
+</div>
+
+<style>
+  .dp-wrap { max-width: 1100px; padding: 28px 0 44px; }
+  .dp-wrap h1 { font-size: 2rem; margin: 0 0 10px; }
+  .dp-lead { font-size: 1.05rem; color: var(--text-body); line-height: 1.7; margin: 0 0 6px; }
+  .dp-meta { font-size: 0.88rem; margin: 0 0 22px; }
+  .dp-cols { display: grid; grid-template-columns: 1fr 1fr; gap: 24px 30px; }
+  .dp-h { font-size: 1.15rem; margin: 0 0 10px; }
+  .dp-h.high { color: var(--risk-high-fg); }
+  .dp-h.low { color: var(--risk-low-fg); }
+  .dp-scroll { overflow-x: auto; }
+  .dp-table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
+  .dp-table th, .dp-table td { text-align: left; padding: 7px 10px; border-bottom: 1px solid var(--line); }
+  .dp-table th.num, .dp-table td.num { text-align: right; }
+  .dp-table th { font-weight: 600; color: var(--text-muted); }
+  .dp-table a { color: var(--text-strong); font-weight: 500; }
+  .dp-table a:hover { color: var(--brand); }
+  .dp-table td.num { font-variant-numeric: tabular-nums; font-weight: 700; }
+  .dp-critical, .dp-high { color: var(--risk-high); }
+  .dp-moderate { color: var(--risk-mid-fg); }
+  .dp-low, .dp-verylow { color: var(--risk-low); }
+  .dp-foot { font-size: 12px; margin-top: 22px; }
+  @media (max-width: 720px) { .dp-cols { grid-template-columns: 1fr; } }
+</style>
+{{- end }}

@@ -15,6 +15,18 @@
     <h2>{{ .AbS7h }}</h2>
     <p>{{ .AbS7lead }}</p>
   </section>
+  <section id="human-moat">
+    <h2>{{ .Tr "The Human Moat" }}</h2>
+    <p>{{ .Tr "The human moat is the part of a job that stays hard for AI to do — the tasks that depend on physical presence, accountability, human trust, judgement under ambiguity, or tacit skill. The wider the moat, the more resilient the occupation, even when parts of it are automatable." }}</p>
+    <p>{{ .Tr "We score every occupation on four dimensions that together shape its moat:" }}</p>
+    <div class="moat-grid">
+      <div class="moat-f"><i class="fas fa-robot"></i><b>{{ .Tr "Task exposure" }}</b><span>{{ .Tr "How much of the day-to-day work generative AI can already do." }}</span></div>
+      <div class="moat-f"><i class="fas fa-chess-king"></i><b>{{ .Tr "Human moat" }}</b><span>{{ .Tr "How much of the role rests on skills AI cannot easily replicate." }}</span></div>
+      <div class="moat-f"><i class="fas fa-door-open"></i><b>{{ .Tr "Entry pressure" }}</b><span>{{ .Tr "Whether AI is narrowing the entry-level and junior pathways." }}</span></div>
+      <div class="moat-f"><i class="fas fa-arrow-trend-up"></i><b>{{ .Tr "AI upside" }}</b><span>{{ .Tr "How much AI can augment the role and lift productivity rather than replace it." }}</span></div>
+    </div>
+    <p>{{ .Tr "A wide human moat with low task exposure signals a resilient career; a narrow moat with high exposure signals a role to reshape early. Every occupation page reuses this same framework so scores are comparable across jobs and countries." }}</p>
+  </section>
   <section>
     <h2>Occupation ↔ industry mapping</h2>
     <p>An occupation can belong to several industries — a many-to-many relationship. Membership comes from the BLS National Employment Matrix (threshold ≥1% of the occupation's employment), bridged for non-US countries via the O*NET ESCO/ISCO→SOC crosswalk. Exposure scores reflect the occupation overall, not any single industry.</p>
@@ -31,5 +43,11 @@
   .prose h2 { font-size: 1.25rem; margin: 28px 0 8px; }
   .prose p { color: var(--text-body); margin: 0 0 10px; line-height: 1.7; }
   .note { font-size: 0.85rem; margin-top: 24px; }
+  .moat-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; margin: 12px 0 14px; }
+  .moat-f { border: 1px solid var(--line); border-radius: 10px; padding: 14px 16px; background: var(--surface-tint-2); }
+  .moat-f i { color: var(--accent-purple); font-size: 1.05rem; }
+  .moat-f b { display: block; margin: 6px 0 4px; color: var(--text-strong); }
+  .moat-f span { color: var(--text-body); font-size: 0.9rem; line-height: 1.55; }
+  @media (max-width: 560px) { .moat-grid { grid-template-columns: 1fr; } }
 </style>
 {{- end }}
