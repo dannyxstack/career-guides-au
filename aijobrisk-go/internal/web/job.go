@@ -413,8 +413,26 @@ func Job(w http.ResponseWriter, ctx *Ctx, slug, country string) {
 	vm.Poll = buildPollWidget(slug, dispName, CL, rep)
 
 	ctx.Active = "occupations"
-	ctx.Title = data.Tr("Will AI replace", CL) + " " + dispName + "? — " + data.Tr("AI risk, salary & outlook", CL) + " | AI Job Risk"
-	ctx.Description = data.Tr("AI replacement risk, task exposure and the human moat for this occupation, plus local salary, licensing and outlook.", CL) + " — " + dispName
+	// 答案优先（GEO）：标题/描述前置结论 + 风险分，便于被 AI 搜索直接引用。
+	descCore := data.Tr("AI replacement risk, task exposure and the human moat for this occupation, plus local salary, licensing and outlook.", CL)
+	if hasHeadline {
+		ctx.Title = data.Tr("Will AI replace", CL) + " " + dispName + "? " + fmt.Sprintf("%d%% ", headlinePct) + data.Tr("AI risk score", CL) + " (2030) | AI Job Risk"
+		ctx.Description = fmt.Sprintf("%s — %s AI exposure (%d%%). ", dispName, data.Tr(band.Label, CL), headlinePct) + descCore
+	} else {
+		ctx.Title = data.Tr("Will AI replace", CL) + " " + dispName + "? — " + data.Tr("AI risk, salary & outlook", CL) + " | AI Job Risk"
+		ctx.Description = descCore + " — " + dispName
+	}
+	// 结构化数据：Occupation + FAQPage + BreadcrumbList（合成一个 JSON-LD 数组，单 <script> 内合法）。
+	var salLD *float64
+	if active.AvgSalary.Set {
+		v := active.AvgSalary.V
+		salLD = &v
+	}
+	ctx.JSONLD = jsonLD(
+		occupationLD(ctx, dispName, ctx.Description, rep.Category, cc, cur, salLD),
+		faqPageLD(vm.FAQ),
+		breadcrumbLD(ctx, cc, dispName),
+	)
 	renderPage(w, "job.html", vm)
 }
 
@@ -550,6 +568,64 @@ func buildSalaryChart(s *model.SalaryHistory, country string) *salaryChartVM {
 		vm.GrowthLabel = fmt.Sprintf("%s%.1f%%/yr", sign, *s.GPct)
 	}
 	return vm
+}
+
+// jsonLD 将多个 schema.org 对象合成一个 JSON-LD 数组（单 <script> 内合法，Google 推荐）。
+func jsonLD(items ...any) template.JS {
+	b, _ := json.Marshal(items)
+	return template.JS(b)
+}
+
+// occupationLD schema.org Occupation：GEO 核心，让 AI/搜索把职业页当结构化答案。
+func occupationLD(ctx *Ctx, name, desc, category, cc, cur string, avgSalary *float64) map[string]any {
+	ld := map[string]any{
+		"@context":             "https://schema.org",
+		"@type":                "Occupation",
+		"name":                 name,
+		"description":          desc,
+		"url":                  ctx.CanonicalURL(),
+		"occupationalCategory": category,
+	}
+	if cc != "" {
+		ld["occupationLocation"] = map[string]any{"@type": "Country", "name": data.CountryName(cc, ctx.CL)}
+	}
+	if avgSalary != nil {
+		ld["estimatedSalary"] = map[string]any{
+			"@type":    "MonetaryAmountDistribution",
+			"name":     "base",
+			"currency": cur,
+			"duration": "P1Y",
+			"median":   int(*avgSalary + 0.5),
+		}
+	}
+	return ld
+}
+
+// faqPageLD schema.org FAQPage：直接复用页面 FAQ 问答。
+func faqPageLD(faqs []faqRow) map[string]any {
+	ents := make([]map[string]any, 0, len(faqs))
+	for _, f := range faqs {
+		ents = append(ents, map[string]any{
+			"@type": "Question", "name": f.Q,
+			"acceptedAnswer": map[string]any{"@type": "Answer", "text": f.A},
+		})
+	}
+	return map[string]any{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": ents}
+}
+
+// breadcrumbLD schema.org BreadcrumbList：Home › Country › Occupation。
+func breadcrumbLD(ctx *Ctx, cc, occName string) map[string]any {
+	items := []map[string]any{
+		{"@type": "ListItem", "position": 1, "name": ctx.Tr("Home"), "item": ctx.Site + ctx.HrefHome()},
+	}
+	pos := 2
+	if cc != "" {
+		items = append(items, map[string]any{"@type": "ListItem", "position": pos,
+			"name": data.CountryName(cc, ctx.CL), "item": ctx.Site + i18n.HrefMap(ctx.Loc, cc)})
+		pos++
+	}
+	items = append(items, map[string]any{"@type": "ListItem", "position": pos, "name": occName, "item": ctx.CanonicalURL()})
+	return map[string]any{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": items}
 }
 
 // isMigrationFAQ 判定一条 FAQ 是否为签证/移民诱导问答（按英文母本关键词）。
