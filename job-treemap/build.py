@@ -965,7 +965,8 @@ def static_content(cc, name, st, summary_html, present, faqs):
         f'<figcaption>AI Job Risk Map for {esc(name)}: average AI exposure {avg:.1f}/10 across '
         f'{st["total"]} occupations. Free to reuse with attribution to aijobriskmap.com.</figcaption>'
         f'<div class="md-actions">'
-        f'<a class="md-btn" href="/static/maps/{map_filename(cc)}" download>Download PNG</a>'
+        f'<a class="md-btn" href="/reports/{SLUG[cc]}/">Full PDF report</a>'
+        f'<a class="md-btn sec" href="/static/maps/{map_filename(cc)}" download>Download PNG</a>'
         f'<button type="button" class="md-btn sec" id="embedBtn">Embed this map</button></div>'
         f'</figure>')
     top_block = collapsible_table(
@@ -1764,7 +1765,9 @@ def build_sitemap(present):
     date = datetime.now().strftime("%Y-%m-%d")
     urls = ([f"{DOMAIN}/", f"{DOMAIN}/about.html", f"{DOMAIN}/methodology.html",
              f"{DOMAIN}/ai-job-loss-2030.html", f"{DOMAIN}/embed"]
-            + [country_url(cc) for cc in present])
+            + [country_url(cc) for cc in present]
+            + [f"{DOMAIN}/reports/{SLUG[cc]}/" for cc in present]
+            + [f"{DOMAIN}/reports/{SLUG[cc]}/{SLUG[cc]}-ai-job-risk-{YEAR}.pdf" for cc in present])
     items = "".join(f"<url><loc>{u}</loc><lastmod>{date}</lastmod></url>" for u in urls)
     return ('<?xml version="1.0" encoding="UTF-8"?>\n'
             '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'

@@ -85,6 +85,16 @@ def main():
             print("[build_all] maps skipped — dist/ from pass 1 is complete "
                   "(og falls back to og-image.png where a PNG is missing).", flush=True)
 
+    # 6 — country PDF reports. build_reports.py is deterministic (assembles HTML
+    #     + landing, embedding the maps from step 4); shoot_reports.mjs prints
+    #     them to real-text PDFs via Playwright (best-effort, like the maps).
+    if not args.fast:
+        if run([PY, os.path.join("job-treemap", "build_reports.py")],
+               "country reports (HTML + landing)"):
+            if not args.no_maps:
+                run(["node", os.path.join("scripts", "shoot_reports.mjs")],
+                    "country reports (PDF, Playwright)")
+
     print("\n===== done =====", flush=True)
 
 
