@@ -1,0 +1,335 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>{{ m.country }} AI Job Risk Report {{ m.year }} — {{ m.site_name }}</title>
+<meta name="author" content="{{ m.site_name }}">
+<meta name="subject" content="AI job displacement risk across {{ m.n_occ }} occupations in {{ m.country }}, {{ m.year }}.">
+<meta name="keywords" content="{{ m.country }}, AI job risk, AI exposure, automation, {{ m.year }}, occupations, workforce">
+<style>
+  @page { size: A4; margin: 16mm 14mm 18mm; }
+  * { box-sizing: border-box; }
+  html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  body { font: 10.5pt/1.5 "Segoe UI", Arial, sans-serif; color: #1c2430; margin: 0; }
+  h1,h2,h3 { color: #171d26; line-height: 1.2; margin: 0 0 8px; }
+  h2 { font-size: 16pt; border-bottom: 2px solid #6647c0; padding-bottom: 5px; margin: 0 0 12px; }
+  h3 { font-size: 11.5pt; margin: 14px 0 6px; }
+  p { margin: 0 0 8px; }
+  a { color: #4f3797; text-decoration: none; }
+  small, .muted { color: #616367; }
+  .section { page-break-before: always; padding-top: 2mm; }
+  .nobreak { page-break-inside: avoid; }
+  table { width: 100%; border-collapse: collapse; font-size: 9pt; }
+  th, td { text-align: left; padding: 5px 7px; border-bottom: 1px solid #dcdee2; vertical-align: top; }
+  th { color: #52555b; font-weight: 700; background: #f2f1fb; }
+  td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+  .pill { display: inline-block; font-weight: 700; padding: 1px 8px; border-radius: 999px; font-size: 8.5pt; color: #fff; }
+  .lead { font-size: 11.5pt; color: #52555b; }
+  /* Cover */
+  .cover { height: 251mm; display: flex; flex-direction: column; justify-content: space-between; page-break-after: always; }
+  .cover-top { border-top: 6px solid #6647c0; padding-top: 14px; }
+  .cover .flag { width: 74px; height: 37px; border: 1px solid #dcdee2; }
+  .cover h1 { font-size: 30pt; margin: 18px 0 6px; }
+  .cover .sub { font-size: 13pt; color: #52555b; }
+  .cover .hero { background: #f2f1fb; border-left: 5px solid #6647c0; padding: 16px 18px; font-size: 14pt; color: #2a2140; border-radius: 6px; }
+  .cover .meta { font-size: 9.5pt; color: #616367; }
+  .cover .meta b { color: #1c2430; }
+  .brand { color: #6647c0; font-weight: 800; letter-spacing: .3px; }
+  /* Stats grid */
+  .grid { display: grid; grid-template-columns: repeat(3,1fr); gap: 10px; margin: 10px 0; }
+  .stat { border: 1px solid #dcdee2; border-radius: 8px; padding: 10px 12px; }
+  .stat .n { font-size: 17pt; font-weight: 800; color: #171d26; }
+  .stat .l { font-size: 8.5pt; color: #616367; text-transform: uppercase; letter-spacing: .04em; }
+  .callout { background: #eef7f2; border-left: 4px solid #00734b; padding: 10px 12px; border-radius: 5px; }
+  .two { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+  .map-img { width: 100%; border: 1px solid #dcdee2; border-radius: 6px; }
+  .legend span { display: inline-block; font-size: 8.5pt; margin-right: 12px; }
+  .dot { display: inline-block; width: 10px; height: 10px; border-radius: 2px; vertical-align: middle; margin-right: 4px; }
+  ul.tight { margin: 4px 0 8px; padding-left: 18px; }
+  ul.tight li { margin: 2px 0; }
+  .obs { background: #f7f8fb; border: 1px solid #e5e6ea; border-radius: 6px; padding: 9px 12px; font-size: 9.5pt; }
+  /* Quadrant */
+  .plot { position: relative; width: 100%; height: 118mm; border: 1px solid #dcdee2; border-radius: 6px; background:
+    linear-gradient(#fff,#fff) padding-box; margin: 6px 0 4px; }
+  .plot .axl { position: absolute; font-size: 8pt; color: #616367; }
+  .plot .qx { position: absolute; top: 0; bottom: 0; left: 50%; border-left: 1px dashed #cfd2d8; }
+  .plot .qy { position: absolute; left: 0; right: 0; top: 50%; border-top: 1px dashed #cfd2d8; }
+  .plot .bub { position: absolute; border-radius: 50%; opacity: .62; transform: translate(-50%,50%); }
+  .qtag { position: absolute; font-size: 8pt; font-weight: 700; color: #8a8d93; }
+  .foot { margin-top: 10px; font-size: 8pt; color: #8a8d93; }
+</style>
+</head>
+<body>
+
+<!-- 1. COVER -->
+<section class="cover">
+  <div class="cover-top">
+    <div style="display:flex;justify-content:space-between;align-items:center">
+      <span class="brand">{{ m.site_name }}</span>
+      <span class="muted">{{ m.year }} Edition</span>
+    </div>
+    <div style="margin-top:26px">{{ m.flag_svg|safe }}</div>
+    <h1>AI Job Risk Report<br>{{ m.country }}</h1>
+    <div class="sub">Which occupations AI is reshaping — and which stay human</div>
+  </div>
+  <div class="hero">{{ m.hero_conclusion }}</div>
+  <div class="cover-bottom">
+    <div class="grid" style="grid-template-columns:repeat(4,1fr)">
+      <div class="stat"><div class="n">{{ m.n_occ }}</div><div class="l">Occupations</div></div>
+      <div class="stat"><div class="n">{{ m.workforce_h }}</div><div class="l">Workforce covered</div></div>
+      <div class="stat"><div class="n">{{ m.risk_median }}/100</div><div class="l">Median AI exposure</div></div>
+      <div class="stat"><div class="n">{{ m.high_occ_pct }}%</div><div class="l">High-risk occupations</div></div>
+    </div>
+    <p class="meta"><b>Published:</b> {{ m.published }} &nbsp;·&nbsp; <b>Data cutoff:</b> {{ m.data_cutoff }}
+       &nbsp;·&nbsp; <b>Web:</b> {{ m.report_url }}</p>
+  </div>
+</section>
+
+<!-- 2. EXECUTIVE SUMMARY -->
+<section class="section">
+  <h2>Executive summary</h2>
+  <p class="lead">{{ m.exec_lead }}</p>
+  <div class="grid">
+    <div class="stat"><div class="n">{{ m.high_occ_pct }}%</div><div class="l">of occupations are high-risk</div></div>
+    <div class="stat"><div class="n">{{ m.high_wf_pct }}%</div><div class="l">of workers in high-risk jobs</div></div>
+    <div class="stat"><div class="n">{{ m.risk_median }}/100</div><div class="l">median AI exposure</div></div>
+  </div>
+  <div class="two">
+    <div><h3>Most exposed areas</h3><ul class="tight">{% for a in m.top_risk_areas %}<li>{{ a }}</li>{% endfor %}</ul></div>
+    <div><h3>Most resilient areas</h3><ul class="tight">{% for a in m.top_resilient_areas %}<li>{{ a }}</li>{% endfor %}</ul></div>
+  </div>
+  <p><strong>Risk &amp; pay:</strong> {{ m.salary_relation }}</p>
+  <p><strong>What to watch:</strong> {{ m.key_change }}</p>
+</section>
+
+<!-- 3. HOW TO READ -->
+<section class="section">
+  <h2>How to read this report</h2>
+  <p>Every occupation is scored on how much of its work generative AI can touch, and how much of it stays hard for AI to do. Four ideas run through the report:</p>
+  <ul class="tight">
+    <li><strong>AI exposure</strong> — how much of the day-to-day tasks AI can already perform.</li>
+    <li><strong>Automation pressure</strong> — how likely those tasks are to be automated in practice.</li>
+    <li><strong>AI augmentation</strong> — where AI makes the worker faster rather than redundant.</li>
+    <li><strong>Job displacement risk</strong> — the combined pressure on the <em>number</em> of jobs.</li>
+  </ul>
+  <div class="callout"><strong>A risk score is not a probability that a job disappears.</strong> It is a composite of the occupation's task structure, how automatable those tasks are, workforce demand, and the human moat. High exposure often means AI <em>augments</em> the role, not that it vanishes.</div>
+</section>
+
+<!-- 4. SNAPSHOT -->
+<section class="section">
+  <h2>{{ m.country }} labour-market snapshot</h2>
+  <table class="nobreak">
+    <tbody>
+    {% for label, val in m.snapshot_rows %}<tr><td>{{ label }}</td><td class="num">{{ val }}</td></tr>{% endfor %}
+    </tbody>
+  </table>
+  <p class="obs" style="margin-top:12px">{{ m.snapshot_note }}</p>
+</section>
+
+<!-- 5. MAP -->
+<section class="section">
+  <h2>National AI job risk map</h2>
+  <p class="muted">Each tile is an occupation; tile area is proportional to the number of people employed, colour is AI task exposure.</p>
+  {% if m.map_data_uri %}<img class="map-img" src="{{ m.map_data_uri }}" alt="AI job risk treemap for {{ m.country }}">{% endif %}
+  <p class="legend" style="margin-top:8px">
+    <span><i class="dot" style="background:#00734b"></i>Low exposure (&lt;40)</span>
+    <span><i class="dot" style="background:#d98b09"></i>Medium (40–69)</span>
+    <span><i class="dot" style="background:#b32228"></i>High (70+)</span>
+  </p>
+  <h3>Three things this map shows</h3>
+  <ul class="tight">{% for o in m.map_observations %}<li>{{ o }}</li>{% endfor %}</ul>
+  <p class="muted">Explore the interactive version at <a href="{{ m.country_url }}">{{ m.country_url }}</a>.</p>
+</section>
+
+<!-- 6. RISK DISTRIBUTION -->
+<section class="section">
+  <h2>Risk distribution</h2>
+  <p>Two views tell different stories: how risk spreads across <em>occupations</em>, and across <em>people employed</em>.</p>
+  <div class="two">
+    <div><h3>By occupation count</h3><table>
+      <tr><td><span class="pill" style="background:#b32228">High</span></td><td class="num">{{ m.dist.occ_high }}%</td></tr>
+      <tr><td><span class="pill" style="background:#d98b09">Medium</span></td><td class="num">{{ m.dist.occ_mid }}%</td></tr>
+      <tr><td><span class="pill" style="background:#00734b">Low</span></td><td class="num">{{ m.dist.occ_low }}%</td></tr>
+    </table></div>
+    <div><h3>By workforce</h3><table>
+      <tr><td><span class="pill" style="background:#b32228">High</span></td><td class="num">{{ m.dist.wf_high }}%</td></tr>
+      <tr><td><span class="pill" style="background:#d98b09">Medium</span></td><td class="num">{{ m.dist.wf_mid }}%</td></tr>
+      <tr><td><span class="pill" style="background:#00734b">Low</span></td><td class="num">{{ m.dist.wf_low }}%</td></tr>
+    </table></div>
+  </div>
+  <p class="obs">Median exposure {{ m.risk_median }}/100 · quartiles Q1 {{ m.dist.q1 }} / Q3 {{ m.dist.q3 }}.
+     Occupation-count and workforce shares differ because high-employment jobs are not evenly spread across risk bands.</p>
+</section>
+
+<!-- 7. HIGHEST-RISK -->
+<section class="section">
+  <h2>Highest-risk occupations</h2>
+  <p class="muted">Ranked by AI task exposure. The right column shows tasks AI is most likely to take over.</p>
+  <table>
+    <thead><tr><th>#</th><th>Occupation</th><th class="num">Risk</th><th class="num">Workforce</th>{% if m.has_pay %}<th class="num">Pay</th>{% endif %}<th>Main exposed tasks</th></tr></thead>
+    <tbody>
+    {% for r in m.top_risk %}<tr>
+      <td class="muted">{{ loop.index }}</td>
+      <td><a href="{{ r.url }}">{{ r.title }}</a></td>
+      <td class="num"><span class="pill" style="background:{{ r.color }}">{{ r.risk }}</span></td>
+      <td class="num">{{ r.workforce }}</td>
+      {% if m.has_pay %}<td class="num">{{ r.pay }}</td>{% endif %}
+      <td>{{ r.tasks }}</td>
+    </tr>{% endfor %}
+    </tbody>
+  </table>
+</section>
+
+<!-- 8. RESILIENT -->
+<section class="section">
+  <h2>Most AI-resilient occupations</h2>
+  <p class="muted">Lower task exposure and a stronger human moat. Resilient, not "AI-proof".</p>
+  <table>
+    <thead><tr><th>Occupation</th><th class="num">Risk</th><th class="num">Workforce</th>{% if m.has_pay %}<th class="num">Pay</th>{% endif %}<th>Human moat</th></tr></thead>
+    <tbody>
+    {% for r in m.resilient %}<tr>
+      <td><a href="{{ r.url }}">{{ r.title }}</a></td>
+      <td class="num"><span class="pill" style="background:{{ r.color }}">{{ r.risk }}</span></td>
+      <td class="num">{{ r.workforce }}</td>
+      {% if m.has_pay %}<td class="num">{{ r.pay }}</td>{% endif %}
+      <td>{{ r.moat }}</td>
+    </tr>{% endfor %}
+    </tbody>
+  </table>
+</section>
+
+<!-- 9. BY GROUP -->
+<section class="section">
+  <h2>Risk by occupational group</h2>
+  <table>
+    <thead><tr><th>Group</th><th class="num">Median risk</th><th class="num">High-risk %</th><th class="num">Workforce</th>{% if m.has_pay %}<th class="num">Median pay</th>{% endif %}</tr></thead>
+    <tbody>
+    {% for g in m.by_group %}<tr>
+      <td>{{ g.name }}</td>
+      <td class="num"><span class="pill" style="background:{{ g.color }}">{{ g.risk_median }}</span></td>
+      <td class="num">{{ g.high_pct }}%</td>
+      <td class="num">{{ g.workforce }}</td>
+      {% if m.has_pay %}<td class="num">{{ g.pay_median }}</td>{% endif %}
+    </tr>{% endfor %}
+    </tbody>
+  </table>
+</section>
+
+{% if m.has_pay %}
+<!-- 10. SALARY vs RISK -->
+<section class="section">
+  <h2>Salary vs AI risk</h2>
+  <p>Each bubble is an occupation: horizontal = pay, vertical = AI exposure, area = workforce.</p>
+  <div class="plot">
+    <div class="qx"></div><div class="qy"></div>
+    <span class="qtag" style="left:6px;top:6px">High risk · lower pay</span>
+    <span class="qtag" style="right:6px;top:6px">High risk · higher pay</span>
+    <span class="qtag" style="left:6px;bottom:6px">Low risk · lower pay</span>
+    <span class="qtag" style="right:6px;bottom:6px">Low risk · higher pay</span>
+    {% for b in m.quadrant.points %}<span class="bub" style="left:{{ b.x }}%;bottom:{{ b.y }}%;width:{{ b.r }}px;height:{{ b.r }}px;background:{{ b.color }}"></span>{% endfor %}
+    <span class="axl" style="left:50%;bottom:2px;transform:translateX(-50%)">Pay →</span>
+    <span class="axl" style="left:2px;top:50%;transform:rotate(-90deg) translateX(50%);transform-origin:left">AI exposure →</span>
+  </div>
+  <div class="two" style="margin-top:8px">
+    <div><h3>Priority now: high pay · high risk</h3><ul class="tight">{% for x in m.quadrant.hi_hi %}<li>{{ x }}</li>{% endfor %}</ul></div>
+    <div><h3>Most exposed: lower pay · high risk</h3><ul class="tight">{% for x in m.quadrant.lo_hi %}<li>{{ x }}</li>{% endfor %}</ul></div>
+  </div>
+</section>
+{% endif %}
+
+<!-- 11. TASKS AI AUTOMATES -->
+<section class="section">
+  <h2>Tasks AI is likely to automate</h2>
+  <p class="muted">Representative automatable tasks drawn from the most-exposed occupations. Tasks are an occupation-level characteristic, shared across countries.</p>
+  {% for t in m.tasks %}<div class="nobreak" style="margin-bottom:8px">
+    <h3 style="margin:6px 0 2px"><a href="{{ t.url }}">{{ t.occ }}</a></h3>
+    <ul class="tight">{% for i in t.lines %}<li>{{ i }}</li>{% endfor %}</ul>
+  </div>{% endfor %}
+</section>
+
+<!-- 12. HUMAN ADVANTAGES -->
+<section class="section">
+  <h2>Human advantages</h2>
+  <p class="muted">What still needs people, even in the most-exposed occupations — the balance to the risk numbers above.</p>
+  {% for t in m.moats %}<div class="nobreak" style="margin-bottom:8px">
+    <h3 style="margin:6px 0 2px"><a href="{{ t.url }}">{{ t.occ }}</a></h3>
+    <ul class="tight">{% for i in t.lines %}<li>{{ i }}</li>{% endfor %}</ul>
+  </div>{% endfor %}
+</section>
+
+<!-- 13. TRANSITIONS -->
+<section class="section">
+  <h2>Career transition opportunities</h2>
+  <p class="muted">Adjacent, more-resilient roles for people in exposed occupations. Detailed transition plans live on the occupation pages.</p>
+  {% if m.transitions %}<table>
+    <thead><tr><th>Exposed occupation</th><th>Adjacent, more-resilient roles</th></tr></thead>
+    <tbody>
+    {% for t in m.transitions %}<tr>
+      <td><a href="{{ t.url }}">{{ t.occ }}</a></td>
+      <td>{% for a in t.adj %}<a href="{{ a.url }}">{{ a.name }}</a>{% if not loop.last %} · {% endif %}{% endfor %}</td>
+    </tr>{% endfor %}
+    </tbody>
+  </table>{% else %}<p class="obs">Adjacent-role transition mapping is not yet available for {{ m.country }}. See each occupation page for individual guidance.</p>{% endif %}
+</section>
+
+<!-- 14. WHAT WORKERS CAN DO -->
+<section class="section">
+  <h2>What workers can do</h2>
+  <h3>Next 30 days</h3>
+  <ul class="tight"><li>Map which of your weekly tasks are most exposed to AI.</li><li>Start using an AI assistant on one recurring task and measure the time saved.</li></ul>
+  <h3>Next 6 months</h3>
+  <ul class="tight"><li>Shift effort toward client-facing, judgement and accountability work.</li><li>Earn a recognised credential in your field or an adjacent one.</li></ul>
+  <h3>Next 2 years</h3>
+  <ul class="tight"><li>Move toward an adjacent, more-resilient role (see chapter 13).</li><li>Build a verifiable portfolio of outcomes AI cannot claim on its own.</li></ul>
+</section>
+
+<!-- 15. SCENARIOS -->
+<section class="section">
+  <h2>Outlook &amp; scenarios</h2>
+  <p>Rather than a single prediction, we model three AI-adoption scenarios for job displacement by 2030 across {{ m.country }}'s covered workforce.</p>
+  <div class="grid">
+    <div class="stat"><div class="l">Conservative</div><div class="n" style="color:#00734b">{{ m.scenarios.low }}</div><div class="muted">{{ m.scenarios.low_rate }} of workforce</div></div>
+    <div class="stat"><div class="l">Baseline</div><div class="n" style="color:#7e4600">{{ m.scenarios.mid }}</div><div class="muted">{{ m.scenarios.mid_rate }} of workforce</div></div>
+    <div class="stat"><div class="l">Accelerated</div><div class="n" style="color:#b32228">{{ m.scenarios.high }}</div><div class="muted">{{ m.scenarios.high_rate }} of workforce</div></div>
+  </div>
+  <p class="obs">Scenario estimates, not forecasts. They express how much of the theoretically-automatable exposure converts to job loss under slow, central and fast adoption — the true path depends on policy, investment and job creation this figure does not net out.</p>
+</section>
+
+<!-- 16. METHODOLOGY -->
+<section class="section">
+  <h2>Methodology</h2>
+  <ul class="tight">
+    <li><strong>AI exposure</strong> — generative-AI task-exposure percentile (ILO Working Paper 140, calibrated with Eloundou et al.), mapped to occupations.</li>
+    <li><strong>Occupation classification</strong> — {{ m.classification }}.</li>
+    <li><strong>Workforce &amp; pay</strong> — {{ m.source_short }}; {% if m.has_pay %}{{ m.pay_measure }} annual pay, {{ m.data_cutoff }} basis (the more granular of the source's average/median measures is used){% else %}official pay not published at this granularity for {{ m.country }} — pay-based sections are omitted{% endif %}.</li>
+    <li><strong>Displacement scenarios</strong> — workforce × exposure × automation share × realisation rate (low/mid/high).</li>
+    <li><strong>Tasks, human moat &amp; adjacent roles</strong> — occupation-level AI analysis, shared across countries by occupation code.</li>
+    <li><strong>Cross-country comparability</strong> — classification and pay years differ by country; compare within a country first.</li>
+  </ul>
+  <p class="muted">Version {{ m.year }}.1 · missing values are left blank rather than imputed.</p>
+</section>
+
+<!-- 17. SOURCES -->
+<section class="section">
+  <h2>Sources &amp; citation</h2>
+  <ul class="tight">
+    <li>{{ m.source_full }}</li>
+    <li>ILO Working Paper 140 — Generative AI and Jobs: A Refined Global Index of Occupational Exposure.</li>
+    <li>Eloundou et al. (2023) — GPTs are GPTs: labor-market impact potential of LLMs. arxiv.org/abs/2303.10130</li>
+  </ul>
+  <h3>Suggested citation</h3>
+  <p class="obs">{{ m.site_name }} ({{ m.year }}). AI Job Risk Report: {{ m.country }} {{ m.year }}. {{ m.report_url }}</p>
+</section>
+
+<!-- 18. APPENDIX -->
+<section class="section">
+  <h2>Appendix</h2>
+  <p>The full occupation-level dataset for all countries — one row per occupation with exposure, pay, workforce and displacement scenarios — is available for download:</p>
+  <p><strong><a href="{{ m.dataset_url }}">{{ m.dataset_url }}</a></strong> (CSV, CC BY 4.0)</p>
+  <h3>Risk bands</h3>
+  <ul class="tight"><li>High: exposure 70–100</li><li>Medium: 40–69</li><li>Low: 0–39</li></ul>
+  <p class="foot">© {{ m.year }} {{ m.site_name }}. Estimates only; always check official sources. Generated {{ m.published }}.</p>
+</section>
+
+</body>
+</html>
