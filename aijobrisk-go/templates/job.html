@@ -59,7 +59,8 @@
       <div class="card ai-tint-green"><h4 class="green"><i class="fas fa-plus-circle"></i> {{ (index .AICards 1).Title }}</h4>
         <ul class="dash">{{ range (index .AICards 1).Items }}<li>{{ . }}</li>{{ end }}</ul></div>
       <div class="card moat"><h4 class="moat-h"><i class="fas fa-chess-king"></i> {{ (index .AICards 2).Title }}</h4>
-        <ul class="dash">{{ range (index .AICards 2).Items }}<li>{{ . }}</li>{{ end }}</ul></div>
+        <ul class="dash">{{ range (index .AICards 2).Items }}<li>{{ . }}</li>{{ end }}</ul>
+        <a class="moat-link" href="{{ .HrefMethodology }}#human-moat">{{ .Tr "How we score the human moat" }} →</a></div>
       <div class="card ai-tint-blue"><h4><i class="fas fa-graduation-cap"></i> {{ (index .AICards 3).Title }}</h4>
         <ul class="dash">{{ range (index .AICards 3).Items }}<li>{{ . }}</li>{{ end }}</ul></div>
     </div>
@@ -340,7 +341,7 @@
     {{ end }}
 
     <h3><i class="fas fa-database"></i> {{ .Tr "Data sources" }}</h3>
-    <p class="card muted note">{{ .SourcesBody }}</p>
+    <p class="card muted note">{{ .SourcesBody }} · {{ .Tr "Last updated" }}: {{ .DataUpdated }}</p>
   </section>
 
   {{ if .Poll.Has }}
@@ -502,6 +503,7 @@
   .ai-zone .amber { color: var(--risk-mid-fg); } .ai-zone .green { color: var(--risk-low); }
   .ai-zone .moat-h { color: var(--accent-purple); }
   .card.moat { background: var(--surface-tint-2); border-color: var(--line); }
+  .card.moat .moat-link { display: inline-block; margin-top: 8px; font-size: 0.85rem; font-weight: 600; color: var(--accent-purple); }
   .ai-zone .ai-tint-red   { background: color-mix(in srgb, var(--risk-high) 7%, var(--surface)); }
   .ai-zone .ai-tint-green { background: color-mix(in srgb, var(--risk-low) 8%, var(--surface)); }
   .ai-zone .ai-tint-blue  { background: color-mix(in srgb, var(--brand) 7%, var(--surface)); }

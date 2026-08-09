@@ -107,6 +107,14 @@ func datasetLD(site, url, name, desc string) template.JS {
 		"creator":     map[string]any{"@type": "Organization", "name": SiteName, "url": site},
 		"license":     "https://creativecommons.org/licenses/by/4.0/",
 		"isBasedOn":   "https://www.ilo.org/publications/generative-ai-and-jobs-refined-global-index-occupational-exposure",
+		"citation": []any{
+			map[string]any{"@type": "CreativeWork",
+				"name": "Generative AI and Jobs: A Refined Global Index of Occupational Exposure (ILO Working Paper 140)",
+				"url":  "https://www.ilo.org/publications/generative-ai-and-jobs-refined-global-index-occupational-exposure"},
+			map[string]any{"@type": "CreativeWork",
+				"name": "GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models (Eloundou et al., 2023)",
+				"url":  "https://arxiv.org/abs/2303.10130"},
+		},
 	}
 	b, _ := json.Marshal(ld)
 	return template.JS(b)

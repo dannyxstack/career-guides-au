@@ -21,10 +21,10 @@
     </div>
 
     <div class="stats-grid">
-      <div class="item"><div class="number">{{ comma .GlobalJobs }}</div><div class="label">{{ .Tr "Occupations" }}</div></div>
-      <div class="item"><div class="number">{{ .CountryCount }}</div><div class="label">{{ .Tr "Countries" }}</div></div>
-      <div class="item"><div class="number">{{ .PctHigh }}%</div><div class="label">{{ .Tr "High AI exposure" }}</div></div>
-      <div class="item"><div class="number">20</div><div class="label">{{ .Tr "Industry sectors" }}</div></div>
+      <div class="item"><div class="number"><a href="{{ .HrefRankings }}">{{ comma .GlobalJobs }}</a></div><div class="label">{{ .Tr "Occupations" }}</div></div>
+      <div class="item"><div class="number"><a href="{{ .WithL "/job-risk-map" }}">{{ .CountryCount }}</a></div><div class="label">{{ .Tr "Countries" }}</div></div>
+      <div class="item"><div class="number"><a href="{{ .WithL "/rankings/most-exposed" }}">{{ .PctHigh }}%</a></div><div class="label">{{ .Tr "High AI exposure" }}</div></div>
+      <div class="item"><div class="number"><a href="{{ .HrefIndustries }}">20</a></div><div class="label">{{ .Tr "Industry sectors" }}</div></div>
     </div>
   </section>
 
@@ -144,6 +144,8 @@
   .stats-grid { display: flex; flex-wrap: wrap; justify-content: center; gap: 32px 72px; margin: 38px auto 0; padding: 22px 0 4px;
     border-top: 1px solid var(--line); max-width: 820px; }
   .stats-grid .number { font-size: 2rem; font-weight: 700; color: var(--text); }
+  .stats-grid .number a { color: inherit; text-decoration: none; }
+  .stats-grid .number a:hover { text-decoration: underline; }
   .stats-grid .item:nth-child(3) .number { color: var(--brand); }
   .stats-grid .item:nth-child(4) .number { color: var(--teal); }
   .stats-grid .label { color: var(--text-muted); font-size: 0.92rem; }
