@@ -12,10 +12,21 @@
   </nav>
 
   {{ if .HasData }}
+  {{ if or .HasAvg .HasMed .HasOut }}
+  <div class="rm-metrics" role="group" aria-label="{{ .Tr "Colour tiles by" }}">
+    <span class="rm-metrics-lbl">{{ .Tr "Colour by" }}:</span>
+    <button type="button" class="rm-mbtn on" data-m="risk">{{ .Tr "AI risk" }}</button>
+    {{ if .HasAvg }}<button type="button" class="rm-mbtn" data-m="avg">{{ .Tr "Avg salary" }}</button>{{ end }}
+    {{ if .HasMed }}<button type="button" class="rm-mbtn" data-m="med">{{ .Tr "Median salary" }}</button>{{ end }}
+    {{ if .HasOut }}<button type="button" class="rm-mbtn" data-m="out">{{ .Tr "Career outlook" }}</button>{{ end }}
+  </div>
+  {{ end }}
+
   <div class="rm-legend">
-    <span class="lg-label">{{ .Tr "Lower AI risk" }}</span>
+    <span class="lg-metric" id="lg-metric">{{ .Tr "AI risk" }}</span>
+    <span class="lg-label" id="lg-lo">{{ .Tr "Lower AI risk" }}</span>
     <span class="lg-bar"></span>
-    <span class="lg-label">{{ .Tr "Higher AI risk" }}</span>
+    <span class="lg-label" id="lg-hi">{{ .Tr "Higher AI risk" }}</span>
     <span class="lg-sep">·</span>
     <span class="muted">{{ .Total }} {{ .Tr "occupations" }} · {{ .TotalWorkers }} {{ .Tr "workers" }}</span>
   </div>
@@ -25,8 +36,46 @@
     {{ .SVG }}
   </div>
   <p class="muted rm-foot">{{ .FootText }}</p>
+
+  <section class="rm-howto card">
+    <h2>{{ .Tr "How to read this map" }}</h2>
+    <ul class="rm-howto-list">
+      <li><span class="ht-key">{{ .Tr "Each tile" }}</span> {{ .Tr "is one occupation." }}</li>
+      <li><span class="ht-key">{{ .Tr "Tile size" }}</span> {{ .Tr "is proportional to how many people are employed in that occupation." }}</li>
+      <li><span class="ht-key">{{ .Tr "Tile colour" }}</span> {{ .Tr "shows the metric selected above — by default AI automation exposure." }}</li>
+      <li><span class="ht-key">{{ .Tr "Grouping" }}</span> {{ .Tr "tiles are clustered by occupation category; labels mark each cluster." }}</li>
+      <li><span class="ht-key">{{ .Tr "Interaction" }}</span> {{ .Tr "hover a tile for details; click to open the full occupation page." }}</li>
+    </ul>
+    <div class="rm-scales">
+      <div class="rm-scale">
+        <div class="rm-scale-h">{{ .Tr "AI risk" }}</div>
+        <div class="rm-scale-bar risk"></div>
+        <div class="rm-scale-ends"><span>{{ .Tr "Lower AI risk" }}</span><span>{{ .Tr "Higher AI risk" }}</span></div>
+      </div>
+      {{ if or .HasAvg .HasMed .HasOut }}
+      <div class="rm-scale">
+        <div class="rm-scale-h">{{ .Tr "Salary & outlook" }}</div>
+        <div class="rm-scale-bar fav"></div>
+        <div class="rm-scale-ends"><span>{{ .Tr "Higher (better)" }}</span><span>{{ .Tr "Lower" }}</span></div>
+      </div>
+      {{ end }}
+    </div>
+    <p class="muted rm-howto-note">{{ .Tr "Colours are ranked within the country you are viewing, so pay and outlook are only comparable inside a single map. Grey tiles have no data for the selected metric." }}</p>
+  </section>
   {{ else }}
   <p class="card muted rm-nodata">{{ .Tr "No workforce / exposure data available to render a map." }} · {{ .CountryName }}</p>
+  {{ end }}
+
+  {{ if .HasData }}
+  <section class="rm-faq">
+    <h2>{{ .Tr "Frequently asked questions" }}</h2>
+    {{ range .FAQ }}
+    <details class="rm-faq-item">
+      <summary>{{ .Q }}</summary>
+      <p>{{ .A }}</p>
+    </details>
+    {{ end }}
+  </section>
   {{ end }}
 </div>
 
@@ -38,29 +87,70 @@
     var svg = wrap.querySelector('.rm-svg');
     var tip = wrap.querySelector('.rm-tip');
     var curr = -1, hi = [];
+    var GREY = '#6b7280';
+    var metric = 'risk';
+    var COLKEY = { risk: 'col', avg: 'colS', med: 'colM', out: 'colO' };
     function clearHi() { hi.forEach(function (n) { n.classList.remove('on'); }); hi = []; }
     function fmt(n) { return Number(n).toLocaleString('en'); }
+    function pctStr(v) { return (v >= 0 ? '+' : '') + Number(v).toFixed(1) + '%'; }
     function salary(v, cur) {
       var n = Number(v);
       try { return new Intl.NumberFormat('en', { style: 'currency', currency: cur || 'USD', maximumFractionDigits: 0 }).format(n); }
       catch (e) { return fmt(Math.round(n)) + ' ' + (cur || ''); }
     }
-    function show(i, evt) {
+    // 按当前指标给方块上色
+    function recolor() {
+      if (!svg) return;
+      var key = COLKEY[metric];
+      svg.querySelectorAll('.rm-tiles rect[data-i]').forEach(function (r) {
+        var m = M[+r.getAttribute('data-i')];
+        r.setAttribute('fill', (m && m[key]) ? m[key] : GREY);
+      });
+    }
+    // 更新图例文字
+    function relegend() {
+      var mn = document.getElementById('lg-metric');
+      var lo = document.getElementById('lg-lo'), hiL = document.getElementById('lg-hi');
+      if (!mn) return;
+      var names = { risk: T.aiRisk, avg: T.avgSalary, med: T.medSalary, out: T.outlook };
+      mn.textContent = names[metric] || '';
+      if (metric === 'risk') { lo.textContent = T.lgRiskLo; hiL.textContent = T.lgRiskHi; }
+      else { lo.textContent = T.lgHi; hiL.textContent = T.lgLo; }
+    }
+    function setMetric(m) {
+      metric = m;
+      document.querySelectorAll('.rm-mbtn').forEach(function (b) { b.classList.toggle('on', b.dataset.m === m); });
+      recolor(); relegend();
+      if (curr >= 0) { var c = curr; curr = -1; showRow(c); }
+    }
+    document.querySelectorAll('.rm-mbtn').forEach(function (b) {
+      b.addEventListener('click', function () { setMetric(b.dataset.m); });
+    });
+
+    function rowHTML(active, label, val) {
+      return '<div class="rt-row' + (active ? ' rt-active' : '') + '"><span>' + label + '</span><b>' + val + '</b></div>';
+    }
+    function showRow(i) {
       var m = M[i]; if (!m) return;
       if (i !== curr) {
         clearHi();
         hi = Array.prototype.slice.call(svg.querySelectorAll('rect[data-i="' + i + '"]'));
         hi.forEach(function (n) { n.classList.add('on'); });
-        tip.innerHTML =
-          '<div class="rt-name">' + m.n + '</div>' +
-          '<div class="rt-row"><span>' + T.category + '</span><b>' + m.c + '</b></div>' +
-          '<div class="rt-row"><span>' + T.workforce + '</span><b>' + fmt(m.w) + '</b></div>' +
-          '<div class="rt-row"><span>' + T.aiRisk + '</span><b style="color:' + m.col + '">' + m.r + ' / 10</b></div>' +
-          (m.a != null ? '<div class="rt-row"><span>' + T.avgSalary + '</span><b>' + salary(m.a, m.cur) + '</b></div>' : '') +
-          '<div class="rt-hint">' + T.clickOpen + ' →</div>';
+        var h = '<div class="rt-name">' + m.n + '</div>';
+        h += rowHTML(false, T.category, m.c);
+        h += rowHTML(false, T.workforce, fmt(m.w));
+        h += '<div class="rt-row' + (metric === 'risk' ? ' rt-active' : '') + '"><span>' + T.aiRisk +
+             '</span><b style="color:' + m.col + '">' + m.r + ' / 10</b></div>';
+        if (m.a != null) h += rowHTML(metric === 'avg', T.avgSalary, salary(m.a, m.cur));
+        if (m.med != null) h += rowHTML(metric === 'med', T.medSalary, salary(m.med, m.cur));
+        if (m.out != null) h += rowHTML(metric === 'out', T.outlook, pctStr(m.out));
+        h += '<div class="rt-hint">' + T.clickOpen + ' →</div>';
+        tip.innerHTML = h;
         tip.hidden = false;
         curr = i;
       }
+    }
+    function place(evt) {
       var wr = wrap.getBoundingClientRect();
       var x = evt.clientX - wr.left, y = evt.clientY - wr.top;
       var tw = tip.offsetWidth, th = tip.offsetHeight;
@@ -68,6 +158,7 @@
       y = Math.max(6, y - th - 12);
       tip.style.left = x + 'px'; tip.style.top = y + 'px';
     }
+    function show(i, evt) { showRow(i); place(evt); }
     function hide() { tip.hidden = true; clearHi(); curr = -1; }
     if (!svg) return;
     svg.addEventListener('mousemove', function (e) {
@@ -86,7 +177,7 @@
 </script>
 
 <style>
-  .map-wrap { padding-top: 20px; }
+  .map-wrap { padding-top: 20px; max-width: none; }
   .map-head { margin-bottom: 16px; }
   .map-head h1 { font-size: 2rem; margin: 0 0 8px; }
   .h1-flag { display: inline-block; vertical-align: -2px; }
@@ -102,8 +193,15 @@
   .rm-chip .flag { display: inline-flex; align-items: center; }
   .rm-chip .flag svg { height: 1em; width: auto; border-radius: 2px; display: block;
     box-shadow: 0 0 0 1px var(--line); }
+  .rm-metrics { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; margin-bottom: 10px; }
+  .rm-metrics-lbl { font-size: 12px; color: var(--muted); margin-right: 2px; }
+  .rm-mbtn { font-size: 12px; font-weight: 600; color: var(--muted); background: transparent;
+    padding: 4px 12px; border: 1px solid var(--line); border-radius: 999px; cursor: pointer; }
+  .rm-mbtn:hover { color: var(--white); border-color: var(--green); }
+  .rm-mbtn.on { color: #1a1a1a; background: var(--green); border-color: var(--green); font-weight: 700; }
   .rm-legend { display: flex; align-items: center; gap: 10px; flex-wrap: wrap;
     font-size: 13px; color: var(--muted); margin-bottom: 10px; }
+  .rm-legend .lg-metric { font-weight: 700; color: var(--white); }
   .rm-legend .lg-bar { width: 180px; height: 12px; border-radius: 999px;
     background: linear-gradient(90deg, rgb(16,185,129), rgb(245,158,11), rgb(239,68,68)); }
   .rm-legend .lg-label { font-weight: 600; color: var(--white); }
@@ -124,11 +222,31 @@
     background: var(--card); border: 1px solid var(--line); border-radius: 10px;
     padding: 9px 11px; box-shadow: 0 8px 24px rgba(0,0,0,.3); font-size: 13px; }
   .rm-tip .rt-name { font-weight: 700; margin-bottom: 5px; color: var(--white); }
-  .rm-tip .rt-row { display: flex; justify-content: space-between; gap: 16px; color: var(--muted); }
+  .rm-tip .rt-row { display: flex; justify-content: space-between; gap: 16px; color: var(--muted);
+    padding: 1px 4px; border-radius: 4px; }
+  .rm-tip .rt-row.rt-active { background: rgba(37,99,235,.14); }
   .rm-tip .rt-row span { margin-right: 12px; }
   .rm-tip .rt-row b { color: var(--white); font-weight: 600; }
   .rm-tip .rt-hint { margin-top: 6px; color: var(--green); font-size: 12px; }
   .rm-foot { font-size: 12px; margin-top: 10px; color: var(--muted); }
   .rm-nodata { padding: 20px; }
+  .rm-howto { margin-top: 20px; padding: 18px 20px; }
+  .rm-howto h2 { font-size: 1.15rem; margin: 0 0 12px; }
+  .rm-howto-list { margin: 0 0 14px; padding: 0; list-style: none; display: grid; gap: 7px; font-size: 14px; }
+  .rm-howto-list .ht-key { font-weight: 700; color: var(--white); margin-right: 4px; }
+  .rm-scales { display: flex; gap: 26px; flex-wrap: wrap; margin: 4px 0 12px; }
+  .rm-scale { min-width: 220px; }
+  .rm-scale-h { font-size: 12px; font-weight: 700; color: var(--white); margin-bottom: 4px; }
+  .rm-scale-bar { height: 12px; border-radius: 999px; }
+  .rm-scale-bar.risk { background: linear-gradient(90deg, rgb(16,185,129), rgb(245,158,11), rgb(239,68,68)); }
+  .rm-scale-bar.fav { background: linear-gradient(90deg, rgb(16,185,129), rgb(245,158,11), rgb(239,68,68)); }
+  .rm-scale-ends { display: flex; justify-content: space-between; font-size: 11px; color: var(--muted); margin-top: 3px; }
+  .rm-howto-note { font-size: 12px; margin: 0; }
+  .rm-faq { margin-top: 24px; }
+  .rm-faq h2 { font-size: 1.25rem; margin: 0 0 12px; }
+  .rm-faq-item { border: 1px solid var(--line); border-radius: 10px; padding: 12px 16px; margin-bottom: 8px;
+    background: var(--card); }
+  .rm-faq-item summary { cursor: pointer; font-weight: 600; color: var(--white); }
+  .rm-faq-item p { margin: 10px 0 2px; color: var(--text-muted); line-height: 1.6; font-size: 14px; }
 </style>
 {{- end }}

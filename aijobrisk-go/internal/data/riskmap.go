@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"math"
 	"sort"
+	"strings"
 	"sync"
 
 	"aijobrisk/internal/model"
@@ -28,6 +29,8 @@ type OccMeta struct {
 	Workforce float64
 	Score     *float64
 	AvgSalary *float64
+	MedSalary *float64 // 薪资中位数（salaries 里 Median 档，可空）
+	Growth    *float64 // outlook growth_pct（该国 detail，可空）
 	Currency  string
 }
 
@@ -175,6 +178,25 @@ const (
 	rmPad   = 5.0
 )
 
+// medianSalary 从 salaries 取 label 含 "median" 的档，值为 min/max 中点（缺 max 取 min）。
+func medianSalary(o *model.Occ) *float64 {
+	for _, s := range o.Salaries {
+		if !strings.Contains(strings.ToLower(s.Label), "median") {
+			continue
+		}
+		switch {
+		case s.Min.Set && s.Max.Set:
+			v := (s.Min.V + s.Max.V) / 2
+			return &v
+		case s.Min.Set:
+			return s.Min.Ptr()
+		case s.Max.Set:
+			return s.Max.Ptr()
+		}
+	}
+	return nil
+}
+
 func metaFromOcc(o *model.Occ, workforce float64, slug string) OccMeta {
 	var score, avg *float64
 	if o.OverallScore.Set {
@@ -187,10 +209,14 @@ func metaFromOcc(o *model.Occ, workforce float64, slug string) OccMeta {
 	if cur == "" {
 		cur = "AUD"
 	}
+	var growth *float64
+	if o.Outlook != nil && o.Outlook.GrowthPct != nil {
+		growth = o.Outlook.GrowthPct
+	}
 	return OccMeta{
 		Name: Name(o, "en"), Cat: o.Category, CatSlug: CatSlug(o.Category), Slug: slug,
 		Country: o.Country, Risk: o.AI.AutomationExposure.V, Workforce: workforce,
-		Score: score, AvgSalary: avg, Currency: cur,
+		Score: score, AvgSalary: avg, MedSalary: medianSalary(o), Growth: growth, Currency: cur,
 	}
 }
 
@@ -201,7 +227,7 @@ func BuildRiskMap(cc string) RiskLayout {
 		if !o.WorkforceSize.Set || o.WorkforceSize.V <= 0 || o.AI == nil || !o.AI.AutomationExposure.Set {
 			continue
 		}
-		occs = append(occs, metaFromOcc(o, o.WorkforceSize.V, o.Slug))
+		occs = append(occs, metaFromOcc(OccFull(o), o.WorkforceSize.V, o.Slug)) // 合并该国 detail 取 outlook
 	}
 	return layoutFromOccs(occs)
 }
