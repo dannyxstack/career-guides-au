@@ -1,0 +1,37 @@
+{{ define "content" -}}
+<div class="container ins-wrap">
+  <h1>{{ .Tr "Insights" }}</h1>
+  <p class="ins-lead">{{ .Tr "Data-driven views on the future of work — pick a theme." }}</p>
+
+  <div class="ins-cards">
+    {{ range .Cards }}
+    <a class="ins-card {{ .Accent }}" href="{{ .Href }}">
+      <span class="ins-ic"><i class="fas {{ .Icon }}"></i></span>
+      <h2>{{ .Title }}</h2>
+      <p>{{ .Desc }}</p>
+      <span class="ins-go">{{ $.Tr "Explore" }} &rarr;</span>
+    </a>
+    {{ end }}
+  </div>
+</div>
+
+<style>
+  .ins-wrap { max-width: 900px; padding: 28px 0 44px; }
+  .ins-wrap h1 { font-size: 2rem; margin: 0 0 8px; }
+  .ins-lead { color: var(--text-muted); font-size: 1.05rem; margin: 0 0 24px; }
+  .ins-cards { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; }
+  .ins-card { display: block; border: 1px solid var(--line); border-radius: 18px; padding: 26px 24px;
+    background: var(--surface); box-shadow: var(--shadow); transition: transform .15s, border-color .15s; }
+  .ins-card:hover { transform: translateY(-3px); border-color: var(--brand); }
+  .ins-card h2 { font-size: 1.3rem; margin: 14px 0 8px; color: var(--text); }
+  .ins-card p { color: var(--text-muted); font-size: 0.95rem; line-height: 1.6; margin: 0 0 14px; }
+  .ins-ic { display: inline-flex; align-items: center; justify-content: center; width: 52px; height: 52px;
+    border-radius: 14px; font-size: 1.5rem; }
+  .ins-go { font-weight: 700; font-size: 0.95rem; }
+  .ins-card.high .ins-ic { background: var(--risk-high-bg); color: var(--risk-high); }
+  .ins-card.high .ins-go { color: var(--risk-high); }
+  .ins-card.low .ins-ic { background: var(--risk-low-bg); color: var(--risk-low); }
+  .ins-card.low .ins-go { color: var(--risk-low); }
+  @media (max-width: 640px) { .ins-cards { grid-template-columns: 1fr; } }
+</style>
+{{- end }}

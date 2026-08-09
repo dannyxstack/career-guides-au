@@ -1,0 +1,48 @@
+{{ define "content" -}}
+<div class="container ol-wrap">
+  <p class="muted"><a href="{{ .HubHref }}">&larr; {{ .Tr "Career outlook" }} — {{ .Tr "all countries" }}</a></p>
+  <h1>{{ .Tr "Career outlook in" }} {{ .Name }}</h1>
+  <p class="ol-lead">{{ .Tr "Occupations projected to grow or shrink over the next decade, from official employment projections." }}</p>
+  <p class="muted ol-cov">{{ .Tr "Source" }}: {{ .Source }}{{ if .GroupNote }} · {{ .Tr "some figures are group-level (shared across an ISCO major group)." }}{{ end }}</p>
+
+  <div class="ol-cols">
+    <section>
+      <h2 class="ol-h grow">{{ .Tr "Fastest-growing occupations" }}</h2>
+      <ul class="ol-list">
+        {{ range .TopGrow }}<li><a href="{{ .Href }}">{{ .Title }}</a><span class="ol-g grow">{{ .GrowthStr }}</span></li>{{ end }}
+      </ul>
+    </section>
+    <section>
+      <h2 class="ol-h decl">{{ .Tr "Fastest-declining occupations" }}</h2>
+      <ul class="ol-list">
+        {{ range .TopDecline }}<li><a href="{{ .Href }}">{{ .Title }}</a><span class="ol-g decl">{{ .GrowthStr }}</span></li>{{ end }}
+      </ul>
+    </section>
+  </div>
+
+  <p class="muted ol-foot">{{ .Tr "Growth is the projected change in employment over the source's forecast window. See each occupation page for its full projection chart. Figures are indicative, not guarantees." }}
+  &middot; <a href="{{ .HubHref }}">{{ .Tr "Global picture & method" }}</a></p>
+</div>
+
+<style>
+  .ol-wrap { max-width: 940px; padding: 24px 0 44px; }
+  .ol-wrap h1 { font-size: 1.9rem; margin: 4px 0 10px; }
+  .ol-lead { font-size: 1.05rem; color: var(--text-body); line-height: 1.7; margin: 0 0 6px; }
+  .ol-cov { font-size: 0.86rem; margin: 0 0 22px; }
+  .ol-cols { display: grid; grid-template-columns: 1fr 1fr; gap: 24px 30px; }
+  .ol-h { font-size: 1.15rem; margin: 0 0 10px; }
+  .ol-h.grow { color: var(--risk-low-fg); }
+  .ol-h.decl { color: var(--risk-high-fg); }
+  .ol-list { list-style: none; margin: 0; padding: 0; }
+  .ol-list li { display: flex; justify-content: space-between; gap: 12px; align-items: baseline;
+    padding: 8px 0; border-bottom: 1px solid var(--line); }
+  .ol-list li:last-child { border-bottom: none; }
+  .ol-list a { color: var(--text-strong); font-weight: 500; }
+  .ol-list a:hover { color: var(--brand); }
+  .ol-g { font-weight: 700; font-variant-numeric: tabular-nums; white-space: nowrap; }
+  .ol-g.grow { color: var(--risk-low); }
+  .ol-g.decl { color: var(--risk-high); }
+  .ol-foot { font-size: 12px; margin-top: 22px; }
+  @media (max-width: 640px) { .ol-cols { grid-template-columns: 1fr; } }
+</style>
+{{- end }}

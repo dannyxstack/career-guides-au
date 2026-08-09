@@ -1,0 +1,75 @@
+{{ define "content" -}}
+<div class="container ol-wrap">
+  <p class="muted"><a href="{{ .WithL "/insights" }}">&larr; {{ .Tr "Insights" }}</a></p>
+  <h1>{{ .Tr "Career outlook" }}</h1>
+  <p class="ol-lead">{{ .Tr "Which occupations are officially projected to grow or shrink over the next decade — and which high-AI-exposure jobs still keep growing. Official employment projections, not our model." }}</p>
+  <p class="muted ol-cov">{{ .Tr "Covering" }} {{ .NCountries }} {{ .Tr "countries" }} · {{ range $i, $s := .Sources }}{{ if $i }}, {{ end }}{{ $s }}{{ end }}</p>
+
+  <div class="ol-cols">
+    <section>
+      <h2 class="ol-h grow">{{ .Tr "Fastest-growing occupations" }}</h2>
+      <ul class="ol-list">
+        {{ range .TopGrow }}<li><a href="{{ .Href }}">{{ .Title }}</a><span class="ol-g grow">{{ .GrowthStr }}</span></li>{{ end }}
+      </ul>
+    </section>
+    <section>
+      <h2 class="ol-h decl">{{ .Tr "Fastest-declining occupations" }}</h2>
+      <ul class="ol-list">
+        {{ range .TopDecline }}<li><a href="{{ .Href }}">{{ .Title }}</a><span class="ol-g decl">{{ .GrowthStr }}</span></li>{{ end }}
+      </ul>
+    </section>
+  </div>
+
+  <h2 class="ol-section">{{ .Tr "AI exposure vs. real demand" }}</h2>
+  <p class="muted ol-note">{{ .Tr "High AI exposure does not mean a shrinking job. These occupations score high on AI task exposure yet are still projected to grow — evidence that AI more often augments than replaces." }}</p>
+  <div class="ol-cols">
+    <section>
+      <h3 class="ol-h grow">{{ .Tr "High AI exposure — still growing" }}</h3>
+      <ul class="ol-list">
+        {{ range .HighExpGrow }}<li><a href="{{ .Href }}">{{ .Title }}</a><span class="ol-g grow">{{ .GrowthStr }}</span></li>{{ end }}
+      </ul>
+    </section>
+    <section>
+      <h3 class="ol-h decl">{{ .Tr "Low AI exposure — yet declining" }}</h3>
+      <ul class="ol-list">
+        {{ range .LowExpDecline }}<li><a href="{{ .Href }}">{{ .Title }}</a><span class="ol-g decl">{{ .GrowthStr }}</span></li>{{ end }}
+      </ul>
+    </section>
+  </div>
+
+  <h2 class="ol-section">{{ .Tr "Browse by country" }}</h2>
+  <div class="ol-chips">
+    {{ range .Countries }}<a class="ol-chip" href="{{ .Href }}">{{ .Name }}</a>{{ end }}
+  </div>
+
+  <p class="muted ol-foot">{{ .Tr "Projections come from official sources with differing horizon years and methods; some are group-level (occupations in the same ISCO major group share a curve). Growth is the projected change in employment over each source's forecast window. Figures are indicative, not guarantees." }}</p>
+</div>
+
+<style>
+  .ol-wrap { max-width: 940px; padding: 24px 0 44px; }
+  .ol-wrap h1 { font-size: 1.95rem; margin: 4px 0 10px; }
+  .ol-lead { font-size: 1.06rem; color: var(--text-body); line-height: 1.7; margin: 0 0 8px; }
+  .ol-cov { font-size: 0.86rem; margin: 0 0 22px; }
+  .ol-cols { display: grid; grid-template-columns: 1fr 1fr; gap: 24px 30px; }
+  .ol-section { font-size: 1.25rem; margin: 34px 0 6px; }
+  .ol-note { font-size: 0.9rem; margin: 0 0 14px; }
+  .ol-h { font-size: 1.1rem; margin: 0 0 10px; }
+  .ol-h.grow { color: var(--risk-low-fg); }
+  .ol-h.decl { color: var(--risk-high-fg); }
+  .ol-list { list-style: none; margin: 0; padding: 0; }
+  .ol-list li { display: flex; justify-content: space-between; gap: 12px; align-items: baseline;
+    padding: 8px 0; border-bottom: 1px solid var(--line); }
+  .ol-list li:last-child { border-bottom: none; }
+  .ol-list a { color: var(--text-strong); font-weight: 500; }
+  .ol-list a:hover { color: var(--brand); }
+  .ol-g { font-weight: 700; font-variant-numeric: tabular-nums; white-space: nowrap; }
+  .ol-g.grow { color: var(--risk-low); }
+  .ol-g.decl { color: var(--risk-high); }
+  .ol-chips { display: flex; flex-wrap: wrap; gap: 8px; margin: 6px 0 4px; }
+  .ol-chip { font-size: 12px; font-weight: 600; color: var(--muted); padding: 4px 12px;
+    border: 1px solid var(--line); border-radius: 999px; }
+  .ol-chip:hover { color: var(--brand); border-color: var(--brand); }
+  .ol-foot { font-size: 12px; margin-top: 22px; }
+  @media (max-width: 640px) { .ol-cols { grid-template-columns: 1fr; } }
+</style>
+{{- end }}

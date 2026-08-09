@@ -63,7 +63,7 @@ func (c *Ctx) Nav() []NavItem {
 		{"rankings", "Rankings", "/rankings"},
 		{"industries", "Industries", "/industries"},
 		{"map", "Risk map", "/job-risk-map"},
-		{"jobloss", "AI job loss 2030", "/ai-job-loss-2030"},
+		{"insights", "Insights", "/insights"},
 		{"compare", "Compare", "/compare"},
 		{"about", "About", "/about"},
 	}

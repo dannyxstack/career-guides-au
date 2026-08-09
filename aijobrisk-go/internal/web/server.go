@@ -120,6 +120,20 @@ func Router(site string) http.Handler {
 				JobLossCountry(w, ctx, seg[1])
 				return
 			}
+		case "career-outlook":
+			if len(seg) == 1 {
+				OutlookHub(w, ctx)
+				return
+			}
+			if len(seg) == 2 {
+				OutlookCountry(w, ctx, seg[1])
+				return
+			}
+		case "insights":
+			if len(seg) == 1 {
+				Insights(w, ctx)
+				return
+			}
 		}
 		notFound(w, ctx)
 	})

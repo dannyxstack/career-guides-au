@@ -14,9 +14,12 @@ const DataUpdated = "2026-07-16"
 var boardIDs = []string{"most-exposed", "least-exposed", "highest-paying", "largest-workforce", "strongest-demand", "deepest-moat"}
 
 func pagePaths() []string {
-	p := []string{"/", "/about", "/methodology", "/search", "/compare", "/industries", "/rankings", "/job-risk-map", "/ai-job-loss-2030"}
+	p := []string{"/", "/about", "/methodology", "/search", "/compare", "/industries", "/rankings", "/job-risk-map", "/insights", "/ai-job-loss-2030", "/career-outlook"}
 	for _, cc := range data.COUNTRIES {
 		p = append(p, "/industries/"+cc, "/rankings/"+cc, "/job-risk-map/"+cc, "/ai-job-loss-2030/"+cc)
+		if data.HasOutlook(cc) {
+			p = append(p, "/career-outlook/"+cc)
+		}
 	}
 	for _, s := range data.Sectors {
 		p = append(p, "/industry/"+s.ID)
